@@ -1,0 +1,882 @@
+[
+  {
+    "id": "daisy::Fairy of the Past",
+    "character_id": "daisy",
+    "name": "Fairy of the Past",
+    "effect_title": null,
+    "effect": null,
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/daisy"
+  },
+  {
+    "id": "daisy::Small Explorer",
+    "character_id": "daisy",
+    "name": "Small Explorer",
+    "effect_title": "Primed and Ready",
+    "effect": "Using the Tag Skill restores the Magic Gauge by 500/650/800.",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/daisy"
+  },
+  {
+    "id": "daisy::Autumn Scent",
+    "character_id": "daisy",
+    "name": "Autumn Scent",
+    "effect_title": "Inner Surge",
+    "effect": "Hitting an enemy with an Earth attack while the hero has 2 or fewer Magic Points restores the Magic Gauge by 700/850/1000 and decreases the cooldown of the Normal Skill by 60/80/100%. (Cooldown: 20 sec)",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/daisy"
+  },
+  {
+    "id": "diane::Giant Girl in Love",
+    "character_id": "diane",
+    "name": "Giant Girl in Love",
+    "effect_title": null,
+    "effect": null,
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/diane"
+  },
+  {
+    "id": "diane::Tavern Hostess",
+    "character_id": "diane",
+    "name": "Tavern Hostess",
+    "effect_title": "Fortitude Shift",
+    "effect": "Hitting an Incapacitated enemy restores the Magic Gauge by 400/450/500 and increases the hero's Defense by 20/25/30% for 15 sec. (Cooldown: 20 sec)",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/diane"
+  },
+  {
+    "id": "diane::<The Serpent Sin of Envy>",
+    "character_id": "diane",
+    "name": "<The Serpent Sin of Envy>",
+    "effect_title": "Seismic Chain",
+    "effect": "Landing the Special Attack decreases the cooldown of the Normal Skill by 17/20/23% for 10 sec. (Max: 68/80/92%)",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/diane"
+  },
+  {
+    "id": "diane::Cheerful Girl",
+    "character_id": "diane",
+    "name": "Cheerful Girl",
+    "effect_title": "Earthbound Chain",
+    "effect": "If the hero has 5 Shatter Resistance boost(s), the cooldown of the Special Attack decreases by 30/35/40% for 15 sec when hit. (Cooldown: 30 sec)",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/diane"
+  },
+  {
+    "id": "drake::Dragon Descendent",
+    "character_id": "drake",
+    "name": "Dragon Descendent",
+    "effect_title": null,
+    "effect": null,
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/drake"
+  },
+  {
+    "id": "drake::Oath of the Throne",
+    "character_id": "drake",
+    "name": "Oath of the Throne",
+    "effect_title": "Crackling Thunder",
+    "effect": "Using the Ultimate Move increases Debuff durations by 30/40/50% and Lightning Burst Efficiency by 20/25/30% for 15 sec.",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/drake"
+  },
+  {
+    "id": "drake::Glory of the Past",
+    "character_id": "drake",
+    "name": "Glory of the Past",
+    "effect_title": "Everlasting Vitality",
+    "effect": "Using the Normal Skill restores 1000/1250/1500 Stamina and increases the duration of the hero's Cooldown Reduction effect by 1.4/1.7/2 sec.",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/drake"
+  },
+  {
+    "id": "drake::Shadow Lord",
+    "character_id": "drake",
+    "name": "Shadow Lord",
+    "effect_title": "Voltage Overload",
+    "effect": "Hitting an enemy with 5 or more Crit Defense reductions decreases the DoT Trigger Interval by 20/25/30% for 10 sec. (Cooldown: 15 sec)",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/drake"
+  },
+  {
+    "id": "elaine::Guardian Saint of the Fountain of Youth",
+    "character_id": "elaine",
+    "name": "Guardian Saint of the Fountain of Youth",
+    "effect_title": null,
+    "effect": null,
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/elaine"
+  },
+  {
+    "id": "elaine::Temp Employee",
+    "character_id": "elaine",
+    "name": "Temp Employee",
+    "effect_title": "Rapid Wingbeat",
+    "effect": "Using the Tag Skill has a(n) 50% chance to restore the Tag Gauge by 400/450/500 and 50% chance to increase the enemy's Burst Gauge by 150/175/200. (Cooldown: 20 sec)",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/elaine"
+  },
+  {
+    "id": "elaine::Guiding Light",
+    "character_id": "elaine",
+    "name": "Guiding Light",
+    "effect_title": "Lethal Toll",
+    "effect": "If the hero has 3 or more Crit Damage boost effects when hitting an enemy, the Crit Chance of the Normal Skill is increased by 10/12.5/15% for 8 sec. (Max: 30/37.5/45%)",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/elaine"
+  },
+  {
+    "id": "elaine::Cheerful Outing",
+    "character_id": "elaine",
+    "name": "Cheerful Outing",
+    "effect_title": "Blessing Wave",
+    "effect": "Using the Special Attack restores the Tag Gauge by 800/900/1000 and increases all allied heroes' Tag Skill damage by 200/250/300% for 10 sec. (Cooldown: 20 sec)",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/elaine"
+  },
+  {
+    "id": "elaine::Saintess's Dignity",
+    "character_id": "elaine",
+    "name": "Saintess's Dignity",
+    "effect_title": "Nature's Curse",
+    "effect": "Increases Debuff durations by 50/65/80% while the hero has a barrier.",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/elaine"
+  },
+  {
+    "id": "guila::One and Only Holy Knight",
+    "character_id": "guila",
+    "name": "One and Only Holy Knight",
+    "effect_title": null,
+    "effect": null,
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/guila"
+  },
+  {
+    "id": "guila::Family Time",
+    "character_id": "guila",
+    "name": "Family Time",
+    "effect_title": "Heart of Fire",
+    "effect": "Increases the duration of the Ultimate Move's buff by 30/40/50%.",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/guila"
+  },
+  {
+    "id": "guila::Holy Knight of Explosions",
+    "character_id": "guila",
+    "name": "Holy Knight of Explosions",
+    "effect_title": null,
+    "effect": "Ultimate All-Out Attack",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/guila"
+  },
+  {
+    "id": "guila::If the hero has 10 or more Crit Chance boosts when using the Ultimate Move, the cooldown of the Special Attack decreases by 30/40/50% for 20 sec.",
+    "character_id": "guila",
+    "name": "If the hero has 10 or more Crit Chance boosts when using the Ultimate Move, the cooldown of the Special Attack decreases by 30/40/50% for 20 sec.",
+    "effect_title": null,
+    "effect": null,
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/guila"
+  },
+  {
+    "id": "guila::Light Footsteps",
+    "character_id": "guila",
+    "name": "Light Footsteps",
+    "effect_title": "Gift of Patience",
+    "effect": "Restores the Tag Gauge by 150/175/200 when hit by a Taunted enemy. Using the Tag Skill decreases the cooldown of the Normal Skill by 60/80/100%. (Cooldown: 5 sec)",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/guila"
+  },
+  {
+    "id": "guila::Crimson Flame's Trail",
+    "character_id": "guila",
+    "name": "Crimson Flame's Trail",
+    "effect_title": "Everlasting Fire",
+    "effect": "Hitting an enemy taking DoT increases the effect's duration by 1/1.2/1.4 sec and decreases the cooldown of the Special Attack by 1/1.3/1.6 sec. Landing the Special Attack decreases the Magic Gauge by 300/250/200.",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/guila"
+  },
+  {
+    "id": "jericho::Runaway Holy Knight",
+    "character_id": "jericho",
+    "name": "Runaway Holy Knight",
+    "effect_title": null,
+    "effect": null,
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/jericho"
+  },
+  {
+    "id": "jericho::Leisurely Moment",
+    "character_id": "jericho",
+    "name": "Leisurely Moment",
+    "effect_title": "Cold's Embrace",
+    "effect": "Critical Hits decrease Cold Burst Resistance by 1.5/2/2.5% for 10 sec. (Max: 15/20/25%)",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/jericho"
+  },
+  {
+    "id": "jericho::Holy Knight With the Star-Shaped Visor",
+    "character_id": "jericho",
+    "name": "Holy Knight With the Star-Shaped Visor",
+    "effect_title": "Ice Sculptor",
+    "effect": "Hitting an enemy affected by Freeze decreases the cooldown of the Normal Skill by 80/90/100% and increases Normal Attack damage by 15/20/25% for 20 sec. (Cooldown: 40 sec)",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/jericho"
+  },
+  {
+    "id": "jericho::Secretive Traveler",
+    "character_id": "jericho",
+    "name": "Secretive Traveler",
+    "effect_title": "Cold Armor",
+    "effect": "If the hero has 20 Defense boost(s), Barrier Efficiency is increased by 50/65/80% for 10 sec. (Cooldown: 30 sec)",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/jericho"
+  },
+  {
+    "id": "jericho::Trace of Memories",
+    "character_id": "jericho",
+    "name": "Trace of Memories",
+    "effect_title": "Endless Cold",
+    "effect": "Landing a skill on a Frozen enemy inflicts 2/3/4 Chill effect(s) for 15 sec. (Cooldown: 30 sec)",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/jericho"
+  },
+  {
+    "id": "king::Inexperienced Fairy King",
+    "character_id": "king",
+    "name": "Inexperienced Fairy King",
+    "effect_title": null,
+    "effect": null,
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/king"
+  },
+  {
+    "id": "king::Forest's Footsteps",
+    "character_id": "king",
+    "name": "Forest's Footsteps",
+    "effect_title": "Enhanced Resilience",
+    "effect": "If Magic Points are greater than 5 when using the Special Attack, Buff durations increase by 30/35/40% for 15 sec. (Cooldown: 25 sec)",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/king"
+  },
+  {
+    "id": "king::<The Grizzly Sin of Sloth>",
+    "character_id": "king",
+    "name": "<The Grizzly Sin of Sloth>",
+    "effect_title": "Greedy King",
+    "effect": "Increases Buff durations by 30/40/50%. Landing a Critical Hit restores the Tag Gauge by 150/175/200. (Cooldown: 3 sec)",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/king"
+  },
+  {
+    "id": "king::Shadow of the Deep Forest",
+    "character_id": "king",
+    "name": "Shadow of the Deep Forest",
+    "effect_title": "Forest's Support",
+    "effect": "Gaining a Healing Efficiency boost increases Barrier Efficiency by 10/13/16% for 10 sec. (Max: 50/65/80%)",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/king"
+  },
+  {
+    "id": "manny::Exalted Priestess",
+    "character_id": "manny",
+    "name": "Exalted Priestess",
+    "effect_title": null,
+    "effect": null,
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/manny"
+  },
+  {
+    "id": "manny::Heart of Prayer",
+    "character_id": "manny",
+    "name": "Heart of Prayer",
+    "effect_title": "Ultimate Strength",
+    "effect": "Using the Tag Skill increases Buff and Debuff durations proportional to Magic Points, up to 30/35/40%, for 20 sec. (Cooldown: 30 sec)",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/manny"
+  },
+  {
+    "id": "manny::Arch Priestess's Prestige",
+    "character_id": "manny",
+    "name": "Arch Priestess's Prestige",
+    "effect_title": "Everlasting Light",
+    "effect": "Hitting an enemy taking DoT with a Holy attack increases Debuff durations by 50/65/80% for 10 sec. (Cooldown: 20 sec)",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/manny"
+  },
+  {
+    "id": "manny::Exploration of the Unknown",
+    "character_id": "manny",
+    "name": "Exploration of the Unknown",
+    "effect_title": "Cryo Acceleration",
+    "effect": "Hitting an enemy with 3 or more Movement Speed reductions decreases the cooldown of the Normal Skill by 60/80/100% and decreases DoT Trigger Interval by 20/25/30% for 10 sec. (Cooldown: 15 sec)",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/manny"
+  },
+  {
+    "id": "meliodas::Ordinary Tavern Owner",
+    "character_id": "meliodas",
+    "name": "Ordinary Tavern Owner",
+    "effect_title": null,
+    "effect": null,
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/meliodas"
+  },
+  {
+    "id": "meliodas::A New Adventure",
+    "character_id": "meliodas",
+    "name": "A New Adventure",
+    "effect_title": "Shadowstrike",
+    "effect": "Using the Tag Skill increases the enemy's Darkness Burst duration by 10/13/16 sec. (Cooldown: 50 sec)",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/meliodas"
+  },
+  {
+    "id": "meliodas::<The Dragon Sin of Wrath>",
+    "character_id": "meliodas",
+    "name": "<The Dragon Sin of Wrath>",
+    "effect_title": "Endless Drive",
+    "effect": "Using the Ultimate Move while the hero has a Darkness Attack boost decreases the cooldown of the Normal Skill proportional to the number of Tag Points, up to 80/85/90%, for 10 sec.",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/meliodas"
+  },
+  {
+    "id": "slader::Veteran Holy Knight",
+    "character_id": "slader",
+    "name": "Veteran Holy Knight",
+    "effect_title": null,
+    "effect": null,
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/slader"
+  },
+  {
+    "id": "slader::Loyal Friend",
+    "character_id": "slader",
+    "name": "Loyal Friend",
+    "effect_title": "Endless Disruption",
+    "effect": "Increases Debuff durations by 30/35/40%.",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/slader"
+  },
+  {
+    "id": "slader::Sword of the Old King",
+    "character_id": "slader",
+    "name": "Sword of the Old King",
+    "effect_title": "Skull Smash",
+    "effect": "Increases damage dealt to Stunned enemies by 16/18/20%. Landing the Special Attack increases the Stun duration by 3/4/5 sec. (Cooldown: 20 sec)",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/slader"
+  },
+  {
+    "id": "slader::Secret Mission",
+    "character_id": "slader",
+    "name": "Secret Mission",
+    "effect_title": "Tomato Festival",
+    "effect": "If an attack on an enemy taking DoT results in a Critical Hit, the DoT Trigger Interval decreases by 20/25/30%. (Cooldown: 30 sec, does not stack)",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/slader"
+  },
+  {
+    "id": "slader::Total Readiness",
+    "character_id": "slader",
+    "name": "Total Readiness",
+    "effect_title": "Gift of Opportunity",
+    "effect": "Critical Hits increase the enemies' Burst Gauge by 30/35/40 if Tag Points are less than 1. (Cooldown: 3 sec)",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/slader"
+  },
+  {
+    "id": "bug::Shy Demon",
+    "character_id": "bug",
+    "name": "Shy Demon",
+    "effect_title": null,
+    "effect": null,
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/bug"
+  },
+  {
+    "id": "bug::Demon's Outing",
+    "character_id": "bug",
+    "name": "Demon's Outing",
+    "effect_title": "Veiled Darkness",
+    "effect": "Back Attacks increase Crit Damage by 15/20/25% and DoT by 15/20/25% for 10 sec. (Cooldown: 20 sec)",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/bug"
+  },
+  {
+    "id": "bug::Shadow Walk",
+    "character_id": "bug",
+    "name": "Shadow Walk",
+    "effect_title": "Hour of Darkness",
+    "effect": "Landing a Critical Hit inflicts additional damage equal to 10/15/20% of Attack. Landing a Critical Hit on an enemy with a Burst active increases their Burst duration by 4/5/6 sec. (Cooldown: 12 sec)",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/bug"
+  },
+  {
+    "id": "bug::Demon's Stealth",
+    "character_id": "bug",
+    "name": "Demon's Stealth",
+    "effect_title": "Successive Ambush",
+    "effect": "10/12.5/15% chance to decrease the cooldown of the Normal Skill by 60/70/80% when landing a Back Attack. (Cooldown: 3 sec)",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/bug"
+  },
+  {
+    "id": "bug::Keen Instinct",
+    "character_id": "bug",
+    "name": "Keen Instinct",
+    "effect_title": "Mind's Dominion",
+    "effect": "Hitting a Stunned enemy increases Debuff durations by 40/50/60% and DoT by 14/17/20% for 10 sec. (Cooldown: 20 sec)",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/bug"
+  },
+  {
+    "id": "dreydrin::Friendly Apprentice Holy Knight",
+    "character_id": "dreydrin",
+    "name": "Friendly Apprentice Holy Knight",
+    "effect_title": null,
+    "effect": null,
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/dreydrin"
+  },
+  {
+    "id": "dreydrin::A Nice Day Off",
+    "character_id": "dreydrin",
+    "name": "A Nice Day Off",
+    "effect_title": "Jack of All Trades",
+    "effect": "Increases Barrier Efficiency by 30/35/40%, Healing Efficiency by 30/35/40%, and Magic Charging Efficiency by 10/12.5/15%.",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/dreydrin"
+  },
+  {
+    "id": "dreydrin::Descendant of Royalty",
+    "character_id": "dreydrin",
+    "name": "Descendant of Royalty",
+    "effect_title": "Ultimate Defense",
+    "effect": "Using the Tag Skill increases Defense by 20/25/30% and Healing Efficiency by 40/45/50% for 20 sec.",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/dreydrin"
+  },
+  {
+    "id": "dreydrin::Thorough Preparation",
+    "character_id": "dreydrin",
+    "name": "Thorough Preparation",
+    "effect_title": "Blinding Switch",
+    "effect": "Hitting an Incapacitated enemy decreases the cooldown of the Normal Skill by 70/85/100% and restores the Tag Gauge by 800/1000/1200. (Cooldown: 30 sec)",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/dreydrin"
+  },
+  {
+    "id": "dreydrin::Solid Defense",
+    "character_id": "dreydrin",
+    "name": "Solid Defense",
+    "effect_title": "Speed of Light",
+    "effect": "Using the Tag Skill decreases the cooldown of the Normal Skill by 30/40/50% and increases Magic Charging Efficiency by 20/25/30% for 20 sec.",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/dreydrin"
+  },
+  {
+    "id": "dreyfus::Kingdom Sword Art Instructor",
+    "character_id": "dreyfus",
+    "name": "Kingdom Sword Art Instructor",
+    "effect_title": null,
+    "effect": null,
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/dreyfus"
+  },
+  {
+    "id": "dreyfus::Royal Butler",
+    "character_id": "dreyfus",
+    "name": "Royal Butler",
+    "effect_title": "Fallback Path",
+    "effect": "Hitting an Incapacitated enemy restores the Tag Gauge by 600/700/800. (Cooldown: 10 sec)",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/dreyfus"
+  },
+  {
+    "id": "dreyfus::Old Soldier's Honor",
+    "character_id": "dreyfus",
+    "name": "Old Soldier's Honor",
+    "effect_title": "Gouge",
+    "effect": "Landing the Special Attack on an enemy taking DoT increases the DoT duration by 6/8/10 sec and decreases the cooldown of the Special Attack by 50/75/100%. (Cooldown: 30 sec)",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/dreyfus"
+  },
+  {
+    "id": "dreyfus::Simple Attire",
+    "character_id": "dreyfus",
+    "name": "Simple Attire",
+    "effect_title": "Steadfast Guard",
+    "effect": "Hitting a Petrified enemy increases the duration of Petrify by 3/4/5 sec and restores the Magic Gauge by 700/850/1000. (Cooldown: 20 sec)",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/dreyfus"
+  },
+  {
+    "id": "dreyfus::Honorable Knight",
+    "character_id": "dreyfus",
+    "name": "Honorable Knight",
+    "effect_title": "Deadly Flash",
+    "effect": "Hitting a Stunned enemy increases Crit Chance by 12/15/18% for 15 sec. (Cooldown: 20 sec)",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/dreyfus"
+  },
+  {
+    "id": "gilthunder::Young Holy Knight",
+    "character_id": "gilthunder",
+    "name": "Young Holy Knight",
+    "effect_title": null,
+    "effect": null,
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/gilthunder"
+  },
+  {
+    "id": "gilthunder::Exemplary Holy Knight",
+    "character_id": "gilthunder",
+    "name": "Exemplary Holy Knight",
+    "effect_title": "Penetrating Bolt",
+    "effect": "Hitting an enemy increases the hero's Lightning Attack by 0.4/0.5/0.6% for 10 sec. (Max: 20/25/30%)",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/gilthunder"
+  },
+  {
+    "id": "gilthunder::Holy Knight of Lightning",
+    "character_id": "gilthunder",
+    "name": "Holy Knight of Lightning",
+    "effect_title": "Bursting Shock",
+    "effect": "Increases the enemy's Shock duration by 5/6/7 sec and restores their Tag Gauge by 400/450/500 when a Burst is activated.",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/gilthunder"
+  },
+  {
+    "id": "gilthunder::Exemplary Adventure",
+    "character_id": "gilthunder",
+    "name": "Exemplary Adventure",
+    "effect_title": "Lightning Rod's Protection",
+    "effect": "20% chance to gain a barrier equal to 20/25/30% of Max HP for 20 sec and decrease the cooldown of the Normal Skill by 60/80/100% when hit by a Taunted enemy. (Cooldown: 30 sec)",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/gilthunder"
+  },
+  {
+    "id": "gilthunder::Promising Holy Knight",
+    "character_id": "gilthunder",
+    "name": "Promising Holy Knight",
+    "effect_title": "Power Drain",
+    "effect": "Hitting an Incapacitated enemy restores the Magic Gauge by 1000/1250/1500. (Cooldown: 20 sec)",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/gilthunder"
+  },
+  {
+    "id": "griamore::Princess's Guardian Knight",
+    "character_id": "griamore",
+    "name": "Princess's Guardian Knight",
+    "effect_title": null,
+    "effect": null,
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/griamore"
+  },
+  {
+    "id": "griamore::Casual Outing",
+    "character_id": "griamore",
+    "name": "Casual Outing",
+    "effect_title": "Resilient Form",
+    "effect": "Increases Defense by 16/18/20% and Barrier Efficiency by 30/35/40%.",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/griamore"
+  },
+  {
+    "id": "griamore::Holy Knight of the Iron Wall",
+    "character_id": "griamore",
+    "name": "Holy Knight of the Iron Wall",
+    "effect_title": "Reliable Shield",
+    "effect": "20% chance to increase Defense by 40/50/60% for 4/5/6 sec and gain a barrier equal to 20/25/30% of Max HP when hit. (Cooldown: 10 sec)",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/griamore"
+  },
+  {
+    "id": "griamore::Makeshift Barricade",
+    "character_id": "griamore",
+    "name": "Makeshift Barricade",
+    "effect_title": null,
+    "effect": "Barrier's Other Side",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/griamore"
+  },
+  {
+    "id": "griamore::Increases Attack by 15/20/25% or gains a barrier equal to 6/8/10% of Max HP every 15 sec when in combat. (Does not stack)",
+    "character_id": "griamore",
+    "name": "Increases Attack by 15/20/25% or gains a barrier equal to 6/8/10% of Max HP every 15 sec when in combat. (Does not stack)",
+    "effect_title": null,
+    "effect": null,
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/griamore"
+  },
+  {
+    "id": "griamore::Impregnable Iron Fortress",
+    "character_id": "griamore",
+    "name": "Impregnable Iron Fortress",
+    "effect_title": "Seized Opening",
+    "effect": "Hitting a Stunned enemy increases Burst Gauge by 20/25/30 and decreases Burst Resistance by 2/2.5/3% for 10 sec. (Max: 20/25/30%)",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/griamore"
+  },
+  {
+    "id": "hendrickson::Liones Apothecary",
+    "character_id": "hendrickson",
+    "name": "Liones Apothecary",
+    "effect_title": null,
+    "effect": null,
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/hendrickson"
+  },
+  {
+    "id": "hendrickson::Romantic Gray",
+    "character_id": "hendrickson",
+    "name": "Romantic Gray",
+    "effect_title": null,
+    "effect": null,
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/hendrickson"
+  },
+  {
+    "id": "hendrickson::A Suit From Younger Days",
+    "character_id": "hendrickson",
+    "name": "A Suit From Younger Days",
+    "effect_title": "Druid Healing Arts",
+    "effect": "Using the Ultimate Move increases all allied heroes' Healing Received by 40/50/60% for 14 sec if the remaining HP is 30% or lower.",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/hendrickson"
+  },
+  {
+    "id": "hendrickson::Apothecary's Workwear",
+    "character_id": "hendrickson",
+    "name": "Apothecary's Workwear",
+    "effect_title": "Chain Tuning",
+    "effect": "Restores the Tag Gauge by 1200/1400/1600 when the Ultimate Move results in a Critical Hit. (Cooldown: 30 sec)",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/hendrickson"
+  },
+  {
+    "id": "hendrickson::Returned Holy Knight",
+    "character_id": "hendrickson",
+    "name": "Returned Holy Knight",
+    "effect_title": "Tainted Memories",
+    "effect": "Hitting an enemy taking DoT increases Buff durations by 16/18/20% for 10 sec. (Max: 64/72/80%)",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/hendrickson"
+  },
+  {
+    "id": "howzer::Trusted Grandmaster",
+    "character_id": "howzer",
+    "name": "Trusted Grandmaster",
+    "effect_title": null,
+    "effect": null,
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/howzer"
+  },
+  {
+    "id": "howzer::End-of-Day Mug of Ale",
+    "character_id": "howzer",
+    "name": "End-of-Day Mug of Ale",
+    "effect_title": "Lethal Strike Induction",
+    "effect": "Increases Crit Chance by 8/10/12%.",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/howzer"
+  },
+  {
+    "id": "howzer::Holy Knight of Storms",
+    "character_id": "howzer",
+    "name": "Holy Knight of Storms",
+    "effect_title": "Stormblade Chain",
+    "effect": "Hitting a Bleeding enemy increases Crit Chance by 1.6/1.8/2% for 10 sec. (Max: 16/18/20%)",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/howzer"
+  },
+  {
+    "id": "howzer::Secure Adventure",
+    "character_id": "howzer",
+    "name": "Secure Adventure",
+    "effect_title": "Howling Crimson Gale",
+    "effect": "Landing the Special Attack decreases Crit Defense by 16/18/20% for 15 sec. 40/50/60% chance to inflict Bleed and additional damage equal to 60/70/80% of Attack for 10 sec.",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/howzer"
+  },
+  {
+    "id": "howzer::Grandmaster's Dignity",
+    "character_id": "howzer",
+    "name": "Grandmaster's Dignity",
+    "effect_title": "Tempest's Wrath",
+    "effect": "Hitting an Incapacitated enemy decreases their Crit Defense by 1/1.25/1.5% for 15 sec. (Max: 40/50/60%)",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/howzer"
+  },
+  {
+    "id": "tioreh::Adorable Fairy",
+    "character_id": "tioreh",
+    "name": "Adorable Fairy",
+    "effect_title": null,
+    "effect": null,
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/tioreh"
+  },
+  {
+    "id": "tioreh::Casual Outing",
+    "character_id": "tioreh",
+    "name": "Casual Outing",
+    "effect_title": "Sprouting Fairy",
+    "effect": "Increases Buff and Debuff durations by 15/20/25%.",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/tioreh"
+  },
+  {
+    "id": "tioreh::Daughter of the Forest and Earth",
+    "character_id": "tioreh",
+    "name": "Daughter of the Forest and Earth",
+    "effect_title": "Pre-heat",
+    "effect": "Hitting an enemy whose Fire Defense is reduced with a Normal Attack increases the effect's duration by 1/1.5/2 sec and decreases their Crit Resistance by 5/6/7% for 10 sec. (Max: 50/60/70%, Cooldown at Max Stacks: 20 sec)",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/tioreh"
+  },
+  {
+    "id": "tioreh::Adventure's Beginning",
+    "character_id": "tioreh",
+    "name": "Adventure's Beginning",
+    "effect_title": "Heat of Support",
+    "effect": "Increases Healing Efficiency by 40/50/60%. Using the Special Attack restores the Tag Gauge by 400/500/600. (Cooldown: 15 sec)",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/tioreh"
+  },
+  {
+    "id": "tristan::Little Prince",
+    "character_id": "tristan",
+    "name": "Little Prince",
+    "effect_title": null,
+    "effect": null,
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/tristan"
+  },
+  {
+    "id": "tristan::Prince's Training Outfit",
+    "character_id": "tristan",
+    "name": "Prince's Training Outfit",
+    "effect_title": null,
+    "effect": null,
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/tristan"
+  },
+  {
+    "id": "tristan::Formal Attire",
+    "character_id": "tristan",
+    "name": "Formal Attire",
+    "effect_title": "Fiery Gale",
+    "effect": "Hitting an enemy increases Fire Attack by 0.4/0.5/0.6% and Wind Attack by 0.4/0.5/0.6% for 10 sec. (Max: 20/25/30%)",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/tristan"
+  },
+  {
+    "id": "tristan::Royal Dignity",
+    "character_id": "tristan",
+    "name": "Royal Dignity",
+    "effect_title": "Burn Mark",
+    "effect": "Landing the Normal Skill on an enemy whose Fire Defense is reduced increases Fire Damage by 15/20/25% for 15 sec.",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/tristan"
+  },
+  {
+    "id": "tristan::Prince's Adventure",
+    "character_id": "tristan",
+    "name": "Prince's Adventure",
+    "effect_title": "Growing Ember",
+    "effect": "Hitting an enemy with a Fire attack increases Crit Damage by 3/3.5/4% for 10 sec. (Max: 30/35/40%)",
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/tristan"
+  }
+]

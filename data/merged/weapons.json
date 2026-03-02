@@ -1,0 +1,1892 @@
+[
+  {
+    "id": "Black Flame Wings Axe",
+    "name": "Black Flame Wings Axe",
+    "rarity": null,
+    "type": "Wings Axe",
+    "stats": {
+      "equipment_attack": 555,
+      "crit_damage": 6.3
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Black Flame Wings Dual Swords",
+    "name": "Black Flame Wings Dual Swords",
+    "rarity": null,
+    "type": "Dual Swords",
+    "stats": {
+      "equipment_attack": 555,
+      "crit_damage": 6.3
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Black Flame Wings Gauntlets",
+    "name": "Black Flame Wings Gauntlets",
+    "rarity": null,
+    "type": "Wings Gauntlets",
+    "stats": {
+      "equipment_attack": 555,
+      "crit_damage": 6.3
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Black Flame Wings Greatsword",
+    "name": "Black Flame Wings Greatsword",
+    "rarity": null,
+    "type": "Wings Greatsword",
+    "stats": {
+      "equipment_attack": 555,
+      "crit_damage": 6.3
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Black Flame Wings Grimoire",
+    "name": "Black Flame Wings Grimoire",
+    "rarity": null,
+    "type": "Wings Grimoire",
+    "stats": {
+      "equipment_attack": 555,
+      "crit_damage": 6.3
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Black Flame Wings Lance",
+    "name": "Black Flame Wings Lance",
+    "rarity": null,
+    "type": "Wings Lance",
+    "stats": {
+      "equipment_attack": 555,
+      "crit_damage": 6.3
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Black Flame Wings Longsword",
+    "name": "Black Flame Wings Longsword",
+    "rarity": null,
+    "type": "Wings Longsword",
+    "stats": {
+      "equipment_attack": 555,
+      "crit_damage": 6.3
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Black Flame Wings Rapier",
+    "name": "Black Flame Wings Rapier",
+    "rarity": null,
+    "type": "Wings Rapier",
+    "stats": {
+      "equipment_attack": 555,
+      "crit_damage": 6.3
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Black Flame Wings Staff",
+    "name": "Black Flame Wings Staff",
+    "rarity": null,
+    "type": "Wings Staff",
+    "stats": {
+      "equipment_attack": 555,
+      "crit_damage": 6.3
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Black Flame Wings Sword and Shield",
+    "name": "Black Flame Wings Sword and Shield",
+    "rarity": null,
+    "type": "and Shield",
+    "stats": {
+      "equipment_attack": 555,
+      "crit_damage": 6.3
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Black Flame Wings Wand",
+    "name": "Black Flame Wings Wand",
+    "rarity": null,
+    "type": "Wings Wand",
+    "stats": {
+      "equipment_attack": 555,
+      "crit_damage": 6.3
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Eternal Grace Axe",
+    "name": "Eternal Grace Axe",
+    "rarity": null,
+    "type": "Grace Axe",
+    "stats": {
+      "equipment_attack": 624,
+      "healing_efficiency": 4.64
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Eternal Grace Dual Swords",
+    "name": "Eternal Grace Dual Swords",
+    "rarity": null,
+    "type": "Dual Swords",
+    "stats": {
+      "equipment_attack": 624,
+      "healing_efficiency": 4.64
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Eternal Grace Gauntlets",
+    "name": "Eternal Grace Gauntlets",
+    "rarity": null,
+    "type": "Grace Gauntlets",
+    "stats": {
+      "equipment_attack": 624,
+      "healing_efficiency": 4.64
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Eternal Grace Greatsword",
+    "name": "Eternal Grace Greatsword",
+    "rarity": null,
+    "type": "Grace Greatsword",
+    "stats": {
+      "equipment_attack": 624,
+      "healing_efficiency": 4.64
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Eternal Grace Grimoire",
+    "name": "Eternal Grace Grimoire",
+    "rarity": null,
+    "type": "Grace Grimoire",
+    "stats": {
+      "equipment_attack": 624,
+      "healing_efficiency": 4.64
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Eternal Grace Lance",
+    "name": "Eternal Grace Lance",
+    "rarity": null,
+    "type": "Grace Lance",
+    "stats": {
+      "equipment_attack": 624,
+      "healing_efficiency": 4.64
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Eternal Grace Longsword",
+    "name": "Eternal Grace Longsword",
+    "rarity": null,
+    "type": "Grace Longsword",
+    "stats": {
+      "equipment_attack": 624,
+      "healing_efficiency": 4.64
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Eternal Grace Rapier",
+    "name": "Eternal Grace Rapier",
+    "rarity": null,
+    "type": "Grace Rapier",
+    "stats": {
+      "equipment_attack": 624,
+      "healing_efficiency": 4.64
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Eternal Grace Staff",
+    "name": "Eternal Grace Staff",
+    "rarity": null,
+    "type": "Grace Staff",
+    "stats": {
+      "equipment_attack": 624,
+      "healing_efficiency": 4.64
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Eternal Grace Sword and Shield",
+    "name": "Eternal Grace Sword and Shield",
+    "rarity": null,
+    "type": "and Shield",
+    "stats": {
+      "equipment_attack": 624,
+      "healing_efficiency": 4.64
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Eternal Grace Wand",
+    "name": "Eternal Grace Wand",
+    "rarity": null,
+    "type": "Grace Wand",
+    "stats": {
+      "equipment_attack": 624,
+      "healing_efficiency": 4.64
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Indomitable Guard Axe",
+    "name": "Indomitable Guard Axe",
+    "rarity": null,
+    "type": "Guard Axe",
+    "stats": {
+      "equipment_attack": 607,
+      "attack_increase": 6.98
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Indomitable Guard Dual Swords",
+    "name": "Indomitable Guard Dual Swords",
+    "rarity": null,
+    "type": "Dual Swords",
+    "stats": {
+      "equipment_attack": 607,
+      "attack_increase": 6.98
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Indomitable Guard Gauntlets",
+    "name": "Indomitable Guard Gauntlets",
+    "rarity": null,
+    "type": "Guard Gauntlets",
+    "stats": {
+      "equipment_attack": 607,
+      "attack_increase": 6.98
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Indomitable Guard Greatsword",
+    "name": "Indomitable Guard Greatsword",
+    "rarity": null,
+    "type": "Guard Greatsword",
+    "stats": {
+      "equipment_attack": 607,
+      "attack_increase": 6.98
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Indomitable Guard Grimoire",
+    "name": "Indomitable Guard Grimoire",
+    "rarity": null,
+    "type": "Guard Grimoire",
+    "stats": {
+      "equipment_attack": 607,
+      "attack_increase": 6.98
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Indomitable Guard Lance",
+    "name": "Indomitable Guard Lance",
+    "rarity": null,
+    "type": "Guard Lance",
+    "stats": {
+      "equipment_attack": 607,
+      "attack_increase": 6.98
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Indomitable Guard Longsword",
+    "name": "Indomitable Guard Longsword",
+    "rarity": null,
+    "type": "Guard Longsword",
+    "stats": {
+      "equipment_attack": 607,
+      "attack_increase": 6.98
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Indomitable Guard Rapier",
+    "name": "Indomitable Guard Rapier",
+    "rarity": null,
+    "type": "Guard Rapier",
+    "stats": {
+      "equipment_attack": 607,
+      "attack_increase": 6.98
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Indomitable Guard Staff",
+    "name": "Indomitable Guard Staff",
+    "rarity": null,
+    "type": "Guard Staff",
+    "stats": {
+      "equipment_attack": 607,
+      "attack_increase": 6.98
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Indomitable Guard Sword and Shield",
+    "name": "Indomitable Guard Sword and Shield",
+    "rarity": null,
+    "type": "and Shield",
+    "stats": {
+      "equipment_attack": 607,
+      "attack_increase": 6.98
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Indomitable Guard Wand",
+    "name": "Indomitable Guard Wand",
+    "rarity": null,
+    "type": "Guard Wand",
+    "stats": {
+      "equipment_attack": 607,
+      "attack_increase": 6.98
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Shadow of Rupture Axe",
+    "name": "Shadow of Rupture Axe",
+    "rarity": null,
+    "type": "Rupture Axe",
+    "stats": {
+      "equipment_attack": 613,
+      "crit_rate": 3.48
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Shadow of Rupture Dual Swords",
+    "name": "Shadow of Rupture Dual Swords",
+    "rarity": null,
+    "type": "Dual Swords",
+    "stats": {
+      "equipment_attack": 613,
+      "crit_rate": 3.48
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Shadow of Rupture Gauntlets",
+    "name": "Shadow of Rupture Gauntlets",
+    "rarity": null,
+    "type": "Rupture Gauntlets",
+    "stats": {
+      "equipment_attack": 613,
+      "crit_rate": 3.48
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Shadow of Rupture Greatsword",
+    "name": "Shadow of Rupture Greatsword",
+    "rarity": null,
+    "type": "Rupture Greatsword",
+    "stats": {
+      "equipment_attack": 613,
+      "crit_rate": 3.48
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Shadow of Rupture Grimoire",
+    "name": "Shadow of Rupture Grimoire",
+    "rarity": null,
+    "type": "Rupture Grimoire",
+    "stats": {
+      "equipment_attack": 613,
+      "crit_rate": 3.48
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Shadow of Rupture Lance",
+    "name": "Shadow of Rupture Lance",
+    "rarity": null,
+    "type": "Rupture Lance",
+    "stats": {
+      "equipment_attack": 613,
+      "crit_rate": 3.48
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Shadow of Rupture Longsword",
+    "name": "Shadow of Rupture Longsword",
+    "rarity": null,
+    "type": "Rupture Longsword",
+    "stats": {
+      "equipment_attack": 613,
+      "crit_rate": 3.48
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Shadow of Rupture Rapier",
+    "name": "Shadow of Rupture Rapier",
+    "rarity": null,
+    "type": "Rupture Rapier",
+    "stats": {
+      "equipment_attack": 613,
+      "crit_rate": 3.48
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Shadow of Rupture Staff",
+    "name": "Shadow of Rupture Staff",
+    "rarity": null,
+    "type": "Rupture Staff",
+    "stats": {
+      "equipment_attack": 613,
+      "crit_rate": 3.48
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Shadow of Rupture Sword and Shield",
+    "name": "Shadow of Rupture Sword and Shield",
+    "rarity": null,
+    "type": "and Shield",
+    "stats": {
+      "equipment_attack": 613,
+      "crit_rate": 3.48
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Shadow of Rupture Wand",
+    "name": "Shadow of Rupture Wand",
+    "rarity": null,
+    "type": "Rupture Wand",
+    "stats": {
+      "equipment_attack": 613,
+      "crit_rate": 3.48
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Black Shadow Greatsword",
+    "name": "Black Shadow Greatsword",
+    "rarity": null,
+    "type": "Shadow Greatsword",
+    "stats": {
+      "equipment_attack": 315,
+      "accuracy": 21
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Blazing Axe",
+    "name": "Blazing Axe",
+    "rarity": null,
+    "type": "Axe",
+    "stats": {
+      "equipment_attack": 426,
+      "crit_rate": 2.47
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Blazing Dual Swords",
+    "name": "Blazing Dual Swords",
+    "rarity": null,
+    "type": "Dual Swords",
+    "stats": {
+      "equipment_attack": 426,
+      "crit_rate": 2.47
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Blazing Gauntlets",
+    "name": "Blazing Gauntlets",
+    "rarity": null,
+    "type": "Gauntlets",
+    "stats": {
+      "equipment_attack": 426,
+      "crit_rate": 2.47
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Blazing Greatsword",
+    "name": "Blazing Greatsword",
+    "rarity": null,
+    "type": "Greatsword",
+    "stats": {
+      "equipment_attack": 426,
+      "crit_rate": 2.47
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Blazing Grimoire",
+    "name": "Blazing Grimoire",
+    "rarity": null,
+    "type": "Book",
+    "stats": {
+      "equipment_attack": 426,
+      "crit_rate": 2.47
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Blazing Lance",
+    "name": "Blazing Lance",
+    "rarity": null,
+    "type": "Lance",
+    "stats": {
+      "equipment_attack": 426,
+      "crit_rate": 2.47
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Blazing Longsword",
+    "name": "Blazing Longsword",
+    "rarity": null,
+    "type": "Longsword",
+    "stats": {
+      "equipment_attack": 426,
+      "crit_rate": 2.47
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Blazing Rapier",
+    "name": "Blazing Rapier",
+    "rarity": null,
+    "type": "Rapier",
+    "stats": {
+      "equipment_attack": 426,
+      "crit_rate": 2.47
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Blazing Staff",
+    "name": "Blazing Staff",
+    "rarity": null,
+    "type": "Staff",
+    "stats": {
+      "equipment_attack": 426,
+      "crit_rate": 2.47
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Blazing Sword and Shield",
+    "name": "Blazing Sword and Shield",
+    "rarity": null,
+    "type": "and Shield",
+    "stats": {
+      "equipment_attack": 426,
+      "crit_rate": 2.47
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Blazing Wand",
+    "name": "Blazing Wand",
+    "rarity": null,
+    "type": "Wand",
+    "stats": {
+      "equipment_attack": 426,
+      "crit_rate": 2.47
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Chaos Song Rapier",
+    "name": "Chaos Song Rapier",
+    "rarity": null,
+    "type": "Song Rapier",
+    "stats": {
+      "equipment_attack": 393,
+      "crit_damage": 4.31
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Corrupted Conviction Longsword",
+    "name": "Corrupted Conviction Longsword",
+    "rarity": null,
+    "type": "Conviction Longsword",
+    "stats": {
+      "equipment_attack": 358,
+      "crit_damage": 4.42
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Corrupted Will Gauntlets",
+    "name": "Corrupted Will Gauntlets",
+    "rarity": null,
+    "type": "Will Gauntlets",
+    "stats": {
+      "equipment_attack": 327
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Crimson Flame Dual Swords",
+    "name": "Crimson Flame Dual Swords",
+    "rarity": null,
+    "type": "Dual Swords",
+    "stats": {
+      "equipment_attack": 364,
+      "crit_damage": 4.41
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Crimson Flame Gauntlets",
+    "name": "Crimson Flame Gauntlets",
+    "rarity": null,
+    "type": "Flame Gauntlets",
+    "stats": {
+      "equipment_attack": 364,
+      "crit_damage": 4.41
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Crimson Flame Greatsword",
+    "name": "Crimson Flame Greatsword",
+    "rarity": null,
+    "type": "Flame Greatsword",
+    "stats": {
+      "equipment_attack": 364,
+      "crit_damage": 4.41
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Crimson Flame Grimoire",
+    "name": "Crimson Flame Grimoire",
+    "rarity": null,
+    "type": "Flame Grimoire",
+    "stats": {
+      "equipment_attack": 364,
+      "crit_damage": 4.41
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Crimson Flame Lance",
+    "name": "Crimson Flame Lance",
+    "rarity": null,
+    "type": "Flame Lance",
+    "stats": {
+      "equipment_attack": 364,
+      "crit_damage": 4.41
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Crimson Flame Longsword",
+    "name": "Crimson Flame Longsword",
+    "rarity": null,
+    "type": "Flame Longsword",
+    "stats": {
+      "equipment_attack": 364,
+      "crit_damage": 4.41
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Crimson Flame Rapier",
+    "name": "Crimson Flame Rapier",
+    "rarity": null,
+    "type": "Flame Rapier",
+    "stats": {
+      "equipment_attack": 364,
+      "crit_damage": 4.41
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Crimson Flame Staff",
+    "name": "Crimson Flame Staff",
+    "rarity": null,
+    "type": "Flame Staff",
+    "stats": {
+      "equipment_attack": 364,
+      "crit_damage": 4.41
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Crimson Flame Sword and Shield",
+    "name": "Crimson Flame Sword and Shield",
+    "rarity": null,
+    "type": "and Shield",
+    "stats": {
+      "equipment_attack": 364,
+      "crit_damage": 4.41
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Crimson Flame Wand",
+    "name": "Crimson Flame Wand",
+    "rarity": null,
+    "type": "Flame Wand",
+    "stats": {
+      "equipment_attack": 364,
+      "crit_damage": 4.41
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Dark Clouds Enhancement Staff",
+    "name": "Dark Clouds Enhancement Staff",
+    "rarity": null,
+    "type": "Enhancement Staff",
+    "stats": {
+      "equipment_attack": 354,
+      "crit_rate": 2.45
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Jet-black Axe",
+    "name": "Jet-black Axe",
+    "rarity": null,
+    "type": "Axe",
+    "stats": {
+      "equipment_attack": 424,
+      "crit_damage": 4.4
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Jet-black Dual Swords",
+    "name": "Jet-black Dual Swords",
+    "rarity": null,
+    "type": "Dual Swords",
+    "stats": {
+      "equipment_attack": 424,
+      "crit_damage": 4.4
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Jet-black Gauntlets",
+    "name": "Jet-black Gauntlets",
+    "rarity": null,
+    "type": "Gauntlets",
+    "stats": {
+      "equipment_attack": 424,
+      "crit_damage": 4.4
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Jet-black Greatsword",
+    "name": "Jet-black Greatsword",
+    "rarity": null,
+    "type": "Greatsword",
+    "stats": {
+      "equipment_attack": 424,
+      "crit_damage": 4.4
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Jet-black Grimoire",
+    "name": "Jet-black Grimoire",
+    "rarity": null,
+    "type": "Book",
+    "stats": {
+      "equipment_attack": 424,
+      "crit_damage": 4.4
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Jet-black Lance",
+    "name": "Jet-black Lance",
+    "rarity": null,
+    "type": "Lance",
+    "stats": {
+      "equipment_attack": 424,
+      "crit_damage": 4.4
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Jet-black Longsword",
+    "name": "Jet-black Longsword",
+    "rarity": null,
+    "type": "Longsword",
+    "stats": {
+      "equipment_attack": 424,
+      "crit_damage": 4.4
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Jet-black Rapier",
+    "name": "Jet-black Rapier",
+    "rarity": null,
+    "type": "Rapier",
+    "stats": {
+      "equipment_attack": 424,
+      "crit_damage": 4.4
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Jet-black Staff",
+    "name": "Jet-black Staff",
+    "rarity": null,
+    "type": "Staff",
+    "stats": {
+      "equipment_attack": 424,
+      "crit_damage": 4.4
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Jet-black Sword and Shield",
+    "name": "Jet-black Sword and Shield",
+    "rarity": null,
+    "type": "and Shield",
+    "stats": {
+      "equipment_attack": 424,
+      "crit_damage": 4.4
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Jet-black Wand",
+    "name": "Jet-black Wand",
+    "rarity": null,
+    "type": "Wand",
+    "stats": {
+      "equipment_attack": 424,
+      "crit_damage": 4.4
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Melody of Temptation Grimoire",
+    "name": "Melody of Temptation Grimoire",
+    "rarity": null,
+    "type": "Temptation Grimoire",
+    "stats": {
+      "equipment_attack": 328,
+      "healing_efficiency": 3.41
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Razorwind Wand",
+    "name": "Razorwind Wand",
+    "rarity": null,
+    "type": "Wand",
+    "stats": {
+      "equipment_attack": 381
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Skyborne Gale Dual Swords",
+    "name": "Skyborne Gale Dual Swords",
+    "rarity": null,
+    "type": "Dual Swords",
+    "stats": {
+      "equipment_attack": 321,
+      "crit_rate": 2.49
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Thorn of Greed Lance",
+    "name": "Thorn of Greed Lance",
+    "rarity": null,
+    "type": "Greed Lance",
+    "stats": {
+      "equipment_attack": 339,
+      "attack_increase": 4.89
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  },
+  {
+    "id": "Unyielding Spirit Sword and Shield",
+    "name": "Unyielding Spirit Sword and Shield",
+    "rarity": null,
+    "type": "and Shield",
+    "stats": {
+      "equipment_attack": 348,
+      "accuracy": 20
+    },
+    "effect": null,
+    "images": {
+      "icon": null
+    },
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/weapons/",
+    "sources": [
+      {
+        "source": "genshin",
+        "url": "https://genshin.gg/7dso/weapons/"
+      }
+    ]
+  }
+]

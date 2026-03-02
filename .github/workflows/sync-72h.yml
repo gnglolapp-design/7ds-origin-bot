@@ -1,0 +1,37 @@
+name: Sync 7DSO data (72h)
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 */3 * *"  # approx every 72h
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-7dso
+  cancel-in-progress: true
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Install
+        run: npm ci
+
+      - name: Scrape + normalize + merge + compile
+        run: npm run sync
+
+      - name: Commit data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data
+          git commit -m "Sync data (72h)" || echo "No changes"
+          git push

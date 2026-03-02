@@ -1,0 +1,3024 @@
+[
+  {
+    "id": "escanor::Axe",
+    "character_id": "escanor",
+    "name": "Axe",
+    "type": null,
+    "rarity": null,
+    "skills": [],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/escanor"
+  },
+  {
+    "id": "escanor::Greatsword",
+    "character_id": "escanor",
+    "name": "Greatsword",
+    "type": null,
+    "rarity": null,
+    "skills": [],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/escanor"
+  },
+  {
+    "id": "escanor::Shield",
+    "character_id": "escanor",
+    "name": "Shield",
+    "type": null,
+    "rarity": null,
+    "skills": [],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/escanor"
+  },
+  {
+    "id": "elizabeth::Wand",
+    "character_id": "elizabeth",
+    "name": "Wand",
+    "type": null,
+    "rarity": null,
+    "skills": [],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/elizabeth"
+  },
+  {
+    "id": "elizabeth::Staff",
+    "character_id": "elizabeth",
+    "name": "Staff",
+    "type": null,
+    "rarity": null,
+    "skills": [],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/elizabeth"
+  },
+  {
+    "id": "derieri::Gauntlets",
+    "character_id": "derieri",
+    "name": "Gauntlets",
+    "type": null,
+    "rarity": null,
+    "skills": [],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/derieri"
+  },
+  {
+    "id": "derieri::Axe",
+    "character_id": "derieri",
+    "name": "Axe",
+    "type": null,
+    "rarity": null,
+    "skills": [],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/derieri"
+  },
+  {
+    "id": "derieri::Greatsword",
+    "character_id": "derieri",
+    "name": "Greatsword",
+    "type": null,
+    "rarity": null,
+    "skills": [],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/derieri"
+  },
+  {
+    "id": "tristan::Dual Swords",
+    "character_id": "tristan",
+    "name": "Dual Swords",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "Aventurier Débutant",
+        "kind": "Adventure Skill",
+        "cooldown": null,
+        "description": ""
+      },
+      {
+        "name": "Sens de la Justice",
+        "kind": "Passive",
+        "cooldown": null,
+        "description": ""
+      },
+      {
+        "name": "Lorsque le héros active une Décharge de Vent, l'Attaque de Vent de tous les héros alliés augmente de 15% pendant 20 sec.",
+        "kind": "Normal Attack",
+        "cooldown": null,
+        "description": "Attaque Normale"
+      },
+      {
+        "name": "Inflige des dégâts égaux à 105% de l'Attaque. 1er coup : 16% 2ème coup : 17% 3ème coup : 27% 4ème coup : 45%",
+        "kind": "Special Attack",
+        "cooldown": null,
+        "description": "Spécial Inflige des dégâts égaux à 103% de l'Attaque, puis inflige Saignement pendant 20 sec. ※ Saignement : Inflige des dégâts de Vent égaux à 10% des dégâts infligés toutes les 1 sec. Diminue l'Efficacité de Guérison de 20%. Diminue en plus l'Efficacité de Guérison de 6% lors de l'atterrissage d'un Coup Critique. (Max : 10 fois)"
+      },
+      {
+        "name": "Poussée de Vent",
+        "kind": "Normal Skill",
+        "cooldown": null,
+        "description": "Inflige des dégâts égaux à 173% de l'Attaque. Augmente en plus la Jauge de Décharge de 200 si l'ennemi saigne."
+      },
+      {
+        "name": "Frappe de Vent",
+        "kind": "Tag Skill",
+        "cooldown": null,
+        "description": "Inflige des dégâts égaux à 88% de l'Attaque."
+      },
+      {
+        "name": "Tempête de Lames",
+        "kind": "Ultimate Move",
+        "cooldown": null,
+        "description": "Augmente l'Efficacité de Décharge Élémentaire de tous les héros de Vent alliés de 20% pendant 20 sec, puis inflige des dégâts égaux à 295% de l'Attaque."
+      }
+    ],
+    "potentials": [
+      {
+        "tier": 1,
+        "text": "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%.",
+        "items": [
+          "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%."
+        ]
+      },
+      {
+        "tier": 2,
+        "text": "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 22% 2ème coup: 24% 3ème coup: 38% 4ème coup: 63%",
+        "items": [
+          "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 22% 2ème coup: 24% 3ème coup: 38% 4ème coup: 63%"
+        ]
+      },
+      {
+        "tier": 3,
+        "text": "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%.",
+        "items": [
+          "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%."
+        ]
+      },
+      {
+        "tier": 4,
+        "text": "Augmente les dégâts infligés avec l'Attaque Spéciale de 50%.",
+        "items": [
+          "Augmente les dégâts infligés avec l'Attaque Spéciale de 50%."
+        ]
+      },
+      {
+        "tier": 5,
+        "text": "Atterrir l'Attaque Spéciale augmente en plus la Jauge de Décharge de 200.",
+        "items": [
+          "Atterrir l'Attaque Spéciale augmente en plus la Jauge de Décharge de 200."
+        ]
+      },
+      {
+        "tier": 6,
+        "text": "Augmente les dégâts infligés avec la Compétence Normale de 60%.",
+        "items": [
+          "Augmente les dégâts infligés avec la Compétence Normale de 60%."
+        ]
+      },
+      {
+        "tier": 7,
+        "text": "Change la Compétence Normale en une compétence qui peut être utilisée 2 fois. Activer une Décharge de Vent avec une Compétence Normale diminue la Résistance Critique de l'ennemi de 15% pendant 20 sec.",
+        "items": [
+          "Change la Compétence Normale en une compétence qui peut être utilisée 2 fois. Activer une Décharge de Vent avec une Compétence Normale diminue la Résistance Critique de l'ennemi de 15% pendant 20 sec."
+        ]
+      },
+      {
+        "tier": 8,
+        "text": "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%.",
+        "items": [
+          "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%."
+        ]
+      },
+      {
+        "tier": 9,
+        "text": "Augmente les dégâts infligés avec le Mouvement Ultime de 50%.",
+        "items": [
+          "Augmente les dégâts infligés avec le Mouvement Ultime de 50%."
+        ]
+      },
+      {
+        "tier": 10,
+        "text": "Améliore le Mouvement Ultime pour augmenter les dégâts infligés avec Rafale de 150%.",
+        "items": [
+          "Améliore le Mouvement Ultime pour augmenter les dégâts infligés avec Rafale de 150%."
+        ]
+      }
+    ],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/tristan"
+  },
+  {
+    "id": "tristan::Longsword",
+    "character_id": "tristan",
+    "name": "Longsword",
+    "type": null,
+    "rarity": null,
+    "skills": [],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/tristan"
+  },
+  {
+    "id": "tristan::Greatsword",
+    "character_id": "tristan",
+    "name": "Greatsword",
+    "type": null,
+    "rarity": null,
+    "skills": [],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/tristan"
+  },
+  {
+    "id": "tioreh::Wand",
+    "character_id": "tioreh",
+    "name": "Wand",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "Vignes de l'Arbre Sacré",
+        "kind": "Adventure Skill",
+        "cooldown": null,
+        "description": ""
+      },
+      {
+        "name": "Bénédiction des Esprits : Dragon",
+        "kind": "Passive",
+        "cooldown": null,
+        "description": ""
+      }
+    ],
+    "potentials": [
+      {
+        "tier": 1,
+        "text": "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%.",
+        "items": [
+          "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%."
+        ]
+      },
+      {
+        "tier": 2,
+        "text": "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 24% 2ème coup: 27% 3ème coup: 43% 4ème coup: 68% Augmente les dégâts infligés avec les Attaques Normales améliorées de 50%. 1er coup: 35% 2ème coup: 39% 3ème coup: 63% 4ème coup: 107%",
+        "items": [
+          "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 24% 2ème coup: 27% 3ème coup: 43% 4ème coup: 68% Augmente les dégâts infligés avec les Attaques Normales améliorées de 50%. 1er coup: 35% 2ème coup: 39% 3ème coup: 63% 4ème coup: 107%"
+        ]
+      },
+      {
+        "tier": 3,
+        "text": "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%.",
+        "items": [
+          "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%."
+        ]
+      },
+      {
+        "tier": 4,
+        "text": "Augmente la durée de l'amélioration d'Attaque Normale de l'Attaque Spéciale de 15 sec.",
+        "items": [
+          "Augmente la durée de l'amélioration d'Attaque Normale de l'Attaque Spéciale de 15 sec."
+        ]
+      },
+      {
+        "tier": 5,
+        "text": "Augmente légèrement la portée du Mouvement Ultime et augmente les dégâts infligés aux ennemis affectés par Combustion de 20%.",
+        "items": [
+          "Augmente légèrement la portée du Mouvement Ultime et augmente les dégâts infligés aux ennemis affectés par Combustion de 20%."
+        ]
+      },
+      {
+        "tier": 6,
+        "text": "Augmente les dégâts infligés avec la Compétence Normale de 60%.",
+        "items": [
+          "Augmente les dégâts infligés avec la Compétence Normale de 60%."
+        ]
+      },
+      {
+        "tier": 7,
+        "text": "Augmente la durée de Combustion de 5 sec et augmente les dégâts d'Attaque Normale et d'Attaque Normale améliorée infligés aux ennemis affectés par Combustion de 20%.",
+        "items": [
+          "Augmente la durée de Combustion de 5 sec et augmente les dégâts d'Attaque Normale et d'Attaque Normale améliorée infligés aux ennemis affectés par Combustion de 20%."
+        ]
+      },
+      {
+        "tier": 8,
+        "text": "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%.",
+        "items": [
+          "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%."
+        ]
+      },
+      {
+        "tier": 9,
+        "text": "Augmente les dégâts infligés avec le Mouvement Ultime de 50%.",
+        "items": [
+          "Augmente les dégâts infligés avec le Mouvement Ultime de 50%."
+        ]
+      },
+      {
+        "tier": 10,
+        "text": "Augmente la Vitesse de Déplacement de 50% et devient immunisé aux Réactions lors de l'utilisation de la Compétence Normale.",
+        "items": [
+          "Augmente la Vitesse de Déplacement de 50% et devient immunisé aux Réactions lors de l'utilisation de la Compétence Normale."
+        ]
+      }
+    ],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/tioreh"
+  },
+  {
+    "id": "tioreh::Staff",
+    "character_id": "tioreh",
+    "name": "Staff",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "Lorsqu'un héros allié attaque un ennemi avec une Défense de Feu réduite, la Chance Critique augmente de 8%.",
+        "kind": "Normal Attack",
+        "cooldown": null,
+        "description": "Attaque Normale Inflige des dégâts égaux à 115% de l'Attaque. 1er coup : 17% 2ème coup : 19% 3ème coup : 31% 4ème coup : 48% Les Attaques Normales améliorées infligent des dégâts égaux à 164% de l'Attaque. 1er coup : 24% 2ème coup : 26% 3ème coup : 42% 4ème coup : 72% Attaque Spéciale Spécial Les Attaques Normales sont améliorées pendant 10 sec, augmentant légèrement les dégâts. Atterrir une Attaque Normale améliorée inflige Combustion à l'ennemi pendant 10 sec. ※ Combustion : Diminue l'Attaque de 5%."
+      },
+      {
+        "name": "Éjection de Feu",
+        "kind": "Normal Skill",
+        "cooldown": null,
+        "description": "Inflige des dégâts égaux à 213% de l'Attaque. Diminue la Défense de Feu de l'ennemi de 15% pendant 10 sec. Augmente les dégâts infligés de 5% tous les 5 coups sur les ennemis affectés par Combustion. (Max : 75%)"
+      }
+    ],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/tioreh"
+  },
+  {
+    "id": "tioreh::Book",
+    "character_id": "tioreh",
+    "name": "Book",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "Frappe de Feu",
+        "kind": "Tag Skill",
+        "cooldown": null,
+        "description": "Inflige des dégâts égaux à 81% de l'Attaque."
+      },
+      {
+        "name": "Souffle du Dragon",
+        "kind": "Ultimate Move",
+        "cooldown": null,
+        "description": "Inflige des dégâts égaux à 273% de l'Attaque. Augmente les dégâts infligés aux ennemis affectés par Combustion de 20%."
+      }
+    ],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/tioreh"
+  },
+  {
+    "id": "howzer::Lance",
+    "character_id": "howzer",
+    "name": "Lance",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "Courant Ascendant",
+        "kind": "Adventure Skill",
+        "cooldown": null,
+        "description": ""
+      },
+      {
+        "name": "Œil de la Tempête",
+        "kind": "Passive",
+        "cooldown": null,
+        "description": ""
+      }
+    ],
+    "potentials": [
+      {
+        "tier": 1,
+        "text": "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%.",
+        "items": [
+          "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%."
+        ]
+      },
+      {
+        "tier": 2,
+        "text": "Augmente les dégâts infligés avec l'Attaque Spéciale de 40%.",
+        "items": [
+          "Augmente les dégâts infligés avec l'Attaque Spéciale de 40%."
+        ]
+      },
+      {
+        "tier": 3,
+        "text": "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%.",
+        "items": [
+          "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%."
+        ]
+      },
+      {
+        "tier": 4,
+        "text": "Augmente les dégâts infligés avec la Compétence d'Équipe de 60%.",
+        "items": [
+          "Augmente les dégâts infligés avec la Compétence d'Équipe de 60%."
+        ]
+      },
+      {
+        "tier": 5,
+        "text": "Utiliser le Mouvement Ultime crée un tourbillon qui inflige des dégâts égaux à 187% de l'Attaque.",
+        "items": [
+          "Utiliser le Mouvement Ultime crée un tourbillon qui inflige des dégâts égaux à 187% de l'Attaque."
+        ]
+      },
+      {
+        "tier": 6,
+        "text": "Augmente les dégâts infligés avec la Compétence Normale de 60%.",
+        "items": [
+          "Augmente les dégâts infligés avec la Compétence Normale de 60%."
+        ]
+      },
+      {
+        "tier": 7,
+        "text": "Augmente grandement la portée de l'Attaque Spéciale et augmente sa réduction de Résistance Critique de 100%.",
+        "items": [
+          "Augmente grandement la portée de l'Attaque Spéciale et augmente sa réduction de Résistance Critique de 100%."
+        ]
+      },
+      {
+        "tier": 8,
+        "text": "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%.",
+        "items": [
+          "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%."
+        ]
+      },
+      {
+        "tier": 9,
+        "text": "Augmente les dégâts infligés avec le Mouvement Ultime de 50%.",
+        "items": [
+          "Augmente les dégâts infligés avec le Mouvement Ultime de 50%."
+        ]
+      },
+      {
+        "tier": 10,
+        "text": "Inflige des dégâts supplémentaires égaux à 65% de l'Attaque par tourbillon lors de l'utilisation de la Compétence Normale.",
+        "items": [
+          "Inflige des dégâts supplémentaires égaux à 65% de l'Attaque par tourbillon lors de l'utilisation de la Compétence Normale."
+        ]
+      }
+    ],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/howzer"
+  },
+  {
+    "id": "howzer::Gauntlets",
+    "character_id": "howzer",
+    "name": "Gauntlets",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "Augmente les dégâts de Vent infligés par tous les héros alliés aux ennemis Saignants de 30%.",
+        "kind": "Normal Attack",
+        "cooldown": null,
+        "description": "Attaque Normale Inflige des dégâts égaux à 115% de l'Attaque. 50% de chances de réinitialiser le temps de recharge de l'Attaque Spéciale au dernier coup. 1er coup : 17% 2ème coup : 19% 3ème coup : 30% 4ème coup : 49% Attaque Spéciale Spécial Inflige des dégâts égaux à 84% de l'Attaque. Le deuxième coup diminue la Résistance Critique de 5% pendant 20 sec si l'ennemi saigne. (Max : 3 fois)"
+      },
+      {
+        "name": "Combo",
+        "kind": "Normal Skill",
+        "cooldown": null,
+        "description": "Inflige des dégâts égaux à 192% de l'Attaque. 50% de chances de réinitialiser le temps de recharge de l'Attaque Spéciale."
+      }
+    ],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/howzer"
+  },
+  {
+    "id": "howzer::Cudgel",
+    "character_id": "howzer",
+    "name": "Cudgel",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "Poing Ascendant",
+        "kind": "Tag Skill",
+        "cooldown": null,
+        "description": "Inflige des dégâts égaux à 95% de l'Attaque."
+      },
+      {
+        "name": "Choc Tourbillonnant",
+        "kind": "Ultimate Move",
+        "cooldown": null,
+        "description": "Augmente les Dégâts Critiques du héros de 30% pendant 20 sec, puis inflige des dégâts égaux à 322% de l'Attaque."
+      }
+    ],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/howzer"
+  },
+  {
+    "id": "hendrickson::Dual Swords",
+    "character_id": "hendrickson",
+    "name": "Dual Swords",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "Phytocommunication",
+        "kind": "Adventure Skill",
+        "cooldown": null,
+        "description": ""
+      },
+      {
+        "name": "Grand Maître Vétéran",
+        "kind": "Passive",
+        "cooldown": null,
+        "description": ""
+      },
+      {
+        "name": "Augmente la Défense de tous les héros alliés de 15%.",
+        "kind": "Normal Attack",
+        "cooldown": null,
+        "description": "Attaque Normale"
+      },
+      {
+        "name": "Inflige des dégâts égaux à 101% de l'Attaque. 1er coup : 15% 2ème coup : 16% 3ème coup : 26% 4ème coup : 44%",
+        "kind": "Special Attack",
+        "cooldown": null,
+        "description": "Spécial Inflige des dégâts égaux à 101% de l'Attaque. Augmente l'Efficacité de Guérison du héros de 15% pendant 20 sec."
+      },
+      {
+        "name": "Sort Défensif",
+        "kind": "Normal Skill",
+        "cooldown": null,
+        "description": "Augmente la Résistance de Fracassement de tous les héros alliés de 10% pendant 25 sec."
+      },
+      {
+        "name": "Tranche Perçante",
+        "kind": "Tag Skill",
+        "cooldown": null,
+        "description": "Inflige des dégâts égaux à 84% de l'Attaque."
+      },
+      {
+        "name": "Magie Libérée",
+        "kind": "Ultimate Move",
+        "cooldown": null,
+        "description": "Restaure les PV des alliés à portée de 268% de l'Attaque pendant 10 sec."
+      }
+    ],
+    "potentials": [
+      {
+        "tier": 1,
+        "text": "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%.",
+        "items": [
+          "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%."
+        ]
+      },
+      {
+        "tier": 2,
+        "text": "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 21% 2ème coup: 23% 3ème coup: 36% 4ème coup: 62%",
+        "items": [
+          "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 21% 2ème coup: 23% 3ème coup: 36% 4ème coup: 62%"
+        ]
+      },
+      {
+        "tier": 3,
+        "text": "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%.",
+        "items": [
+          "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%."
+        ]
+      },
+      {
+        "tier": 4,
+        "text": "Augmente les dégâts infligés avec l'Attaque Spéciale de 50%.",
+        "items": [
+          "Augmente les dégâts infligés avec l'Attaque Spéciale de 50%."
+        ]
+      },
+      {
+        "tier": 5,
+        "text": "Change l'Attaque Spéciale en une compétence qui peut être utilisée 2 fois et change l'effet d'augmentation d'Efficacité de Guérison pour être appliqué jusqu'à 3 fois.",
+        "items": [
+          "Change l'Attaque Spéciale en une compétence qui peut être utilisée 2 fois et change l'effet d'augmentation d'Efficacité de Guérison pour être appliqué jusqu'à 3 fois."
+        ]
+      },
+      {
+        "tier": 6,
+        "text": "Augmente l'augmentation de Résistance de Fracassement de la Compétence Normale de 50%.",
+        "items": [
+          "Augmente l'augmentation de Résistance de Fracassement de la Compétence Normale de 50%."
+        ]
+      },
+      {
+        "tier": 7,
+        "text": "L'effet d'augmentation de Résistance de Fracassement de la Compétence Normale s'applique également aux alliés proches.",
+        "items": [
+          "L'effet d'augmentation de Résistance de Fracassement de la Compétence Normale s'applique également aux alliés proches."
+        ]
+      },
+      {
+        "tier": 8,
+        "text": "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%.",
+        "items": [
+          "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%."
+        ]
+      },
+      {
+        "tier": 9,
+        "text": "Augmente la Récupération de PV du Mouvement Ultime de 20%.",
+        "items": [
+          "Augmente la Récupération de PV du Mouvement Ultime de 20%."
+        ]
+      },
+      {
+        "tier": 10,
+        "text": "Augmente légèrement la portée du Mouvement Ultime.",
+        "items": [
+          "Augmente légèrement la portée du Mouvement Ultime."
+        ]
+      }
+    ],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/hendrickson"
+  },
+  {
+    "id": "hendrickson::Longsword",
+    "character_id": "hendrickson",
+    "name": "Longsword",
+    "type": null,
+    "rarity": null,
+    "skills": [],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/hendrickson"
+  },
+  {
+    "id": "hendrickson::Lance",
+    "character_id": "hendrickson",
+    "name": "Lance",
+    "type": null,
+    "rarity": null,
+    "skills": [],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/hendrickson"
+  },
+  {
+    "id": "griamore::Shield",
+    "character_id": "griamore",
+    "name": "Shield",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "Étoile de Vitesse",
+        "kind": "Adventure Skill",
+        "cooldown": null,
+        "description": ""
+      },
+      {
+        "name": "Maître du Mur",
+        "kind": "Passive",
+        "cooldown": null,
+        "description": "Augmente l'Efficacité de Décharge de 20% lorsque tous les héros alliés ont des barrières. Restaure 2 Points de Magie lorsque le héros active une Décharge. (Temps de recharge : 60 sec) Attaque Normale Attaque Normale"
+      }
+    ],
+    "potentials": [
+      {
+        "tier": 1,
+        "text": "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%.",
+        "items": [
+          "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%."
+        ]
+      },
+      {
+        "tier": 2,
+        "text": "Inflige des dégâts égaux à 40% de l'Attaque. 1er coup: 22% 2ème coup: 23% 3ème coup: 37% 4ème coup: 61%",
+        "items": [
+          "Inflige des dégâts égaux à 40% de l'Attaque. 1er coup: 22% 2ème coup: 23% 3ème coup: 37% 4ème coup: 61%"
+        ]
+      },
+      {
+        "tier": 3,
+        "text": "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%.",
+        "items": [
+          "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%."
+        ]
+      },
+      {
+        "tier": 4,
+        "text": "Augmente les dégâts infligés avec l'Attaque Spéciale de 50%.",
+        "items": [
+          "Augmente les dégâts infligés avec l'Attaque Spéciale de 50%."
+        ]
+      },
+      {
+        "tier": 5,
+        "text": "Change l'Attaque Spéciale en une compétence qui peut être utilisée 2 fois.",
+        "items": [
+          "Change l'Attaque Spéciale en une compétence qui peut être utilisée 2 fois."
+        ]
+      },
+      {
+        "tier": 6,
+        "text": "Augmente les dégâts infligés avec la Compétence Normale de 60%.",
+        "items": [
+          "Augmente les dégâts infligés avec la Compétence Normale de 60%."
+        ]
+      },
+      {
+        "tier": 7,
+        "text": "Atterrir la Compétence d'Équipe inflige Étourdissement pendant 8 sec.",
+        "items": [
+          "Atterrir la Compétence d'Équipe inflige Étourdissement pendant 8 sec."
+        ]
+      },
+      {
+        "tier": 8,
+        "text": "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%.",
+        "items": [
+          "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%."
+        ]
+      },
+      {
+        "tier": 9,
+        "text": "Augmente les dégâts infligés avec le Mouvement Ultime de 50%.",
+        "items": [
+          "Augmente les dégâts infligés avec le Mouvement Ultime de 50%."
+        ]
+      },
+      {
+        "tier": 10,
+        "text": "Inflige en plus des dégâts égaux à 120% de l'Attaque lors de l'utilisation du Mouvement Ultime.",
+        "items": [
+          "Inflige en plus des dégâts égaux à 120% de l'Attaque lors de l'utilisation du Mouvement Ultime."
+        ]
+      }
+    ],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/griamore"
+  },
+  {
+    "id": "griamore::Cudgel",
+    "character_id": "griamore",
+    "name": "Cudgel",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "Inflige des dégâts égaux à 103% de l'Attaque. 1er coup : 15% 2ème coup : 17% 3ème coup : 27%",
+        "kind": "Special Attack",
+        "cooldown": null,
+        "description": "Spécial Inflige des dégâts égaux à 104% de l'Attaque et Étourdit pendant 5 sec."
+      },
+      {
+        "name": "Ruée de Bouclier",
+        "kind": "Normal Skill",
+        "cooldown": null,
+        "description": "Inflige des dégâts égaux à 164% de l'Attaque et augmente leur durée d'Étourdissement de 3 sec. Inflige des dégâts supplémentaires égaux à 55% de la Défense si le héros a une barrière."
+      }
+    ],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/griamore"
+  },
+  {
+    "id": "griamore::Gauntlets",
+    "character_id": "griamore",
+    "name": "Gauntlets",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "Poing de Bouclier",
+        "kind": "Tag Skill",
+        "cooldown": null,
+        "description": "Inflige des dégâts égaux à 84% de l'Attaque et accorde à tous les héros alliés des barrières égales à 10% des PV Max pendant 15 sec."
+      },
+      {
+        "name": "Bouclier d'Émission",
+        "kind": "Ultimate Move",
+        "cooldown": null,
+        "description": "Inflige des dégâts égaux à 254% de l'Attaque. Augmente en plus la Jauge de Décharge sur les ennemis Étourdis de 250"
+      }
+    ],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/griamore"
+  },
+  {
+    "id": "gilthunder::Longsword",
+    "character_id": "gilthunder",
+    "name": "Longsword",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "Coup de Foudre",
+        "kind": "Adventure Skill",
+        "cooldown": null,
+        "description": ""
+      },
+      {
+        "name": "Coup de Foudre",
+        "kind": "Passive",
+        "cooldown": null,
+        "description": "Augmente en plus la Jauge de Décharge de 20 lors de l'attaque d'un ennemi en Choc. Lorsque le héros active Décharge de Foudre, la Défense de Foudre de l'ennemi diminue de 15% pendant 20 sec. Attaque Normale Attaque Normale"
+      }
+    ],
+    "potentials": [
+      {
+        "tier": 1,
+        "text": "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%.",
+        "items": [
+          "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%."
+        ]
+      },
+      {
+        "tier": 2,
+        "text": "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 22% 2ème coup: 24% 3ème coup: 39% 4ème coup: 65%",
+        "items": [
+          "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 22% 2ème coup: 24% 3ème coup: 39% 4ème coup: 65%"
+        ]
+      },
+      {
+        "tier": 3,
+        "text": "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%.",
+        "items": [
+          "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%."
+        ]
+      },
+      {
+        "tier": 4,
+        "text": "Augmente les dégâts infligés avec l'Attaque Spéciale de 50%.",
+        "items": [
+          "Augmente les dégâts infligés avec l'Attaque Spéciale de 50%."
+        ]
+      },
+      {
+        "tier": 5,
+        "text": "Change la Compétence Normale en une compétence qui peut être utilisée 2 fois et augmente les dégâts infligés de 30%.",
+        "items": [
+          "Change la Compétence Normale en une compétence qui peut être utilisée 2 fois et augmente les dégâts infligés de 30%."
+        ]
+      },
+      {
+        "tier": 6,
+        "text": "Augmente les dégâts infligés avec la Compétence Normale de 60%.",
+        "items": [
+          "Augmente les dégâts infligés avec la Compétence Normale de 60%."
+        ]
+      },
+      {
+        "tier": 7,
+        "text": "Augmente la réduction de Résistance de Décharge de Tous les Éléments du Mouvement Ultime de 50%.",
+        "items": [
+          "Augmente la réduction de Résistance de Décharge de Tous les Éléments du Mouvement Ultime de 50%."
+        ]
+      },
+      {
+        "tier": 8,
+        "text": "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%.",
+        "items": [
+          "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%."
+        ]
+      },
+      {
+        "tier": 9,
+        "text": "Augmente les dégâts infligés avec le Mouvement Ultime de 50%.",
+        "items": [
+          "Augmente les dégâts infligés avec le Mouvement Ultime de 50%."
+        ]
+      },
+      {
+        "tier": 10,
+        "text": "Change l'Attaque Spéciale en une compétence qui peut être utilisée 2 fois.",
+        "items": [
+          "Change l'Attaque Spéciale en une compétence qui peut être utilisée 2 fois."
+        ]
+      }
+    ],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/gilthunder"
+  },
+  {
+    "id": "gilthunder::Shield",
+    "character_id": "gilthunder",
+    "name": "Shield",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "Inflige des dégâts égaux à 108% de l'Attaque. 1er coup : 16% 2ème coup : 17% 3ème coup : 28% 4ème coup : 47%",
+        "kind": "Special Attack",
+        "cooldown": null,
+        "description": "Spécial Inflige des dégâts égaux à 109% de l'Attaque. Augmente la durée de Choc de l'ennemi de 3 sec."
+      },
+      {
+        "name": "Épée de Foudre",
+        "kind": "Normal Skill",
+        "cooldown": null,
+        "description": "Inflige des dégâts égaux à 176% de l'Attaque et inflige Choc pendant 10 sec. ※ Choc : Inflige des dégâts de Foudre égaux à 15% de l'Attaque toutes les 2 sec. Inflige Choc aux ennemis proches pendant 10 sec lorsque touché."
+      }
+    ],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/gilthunder"
+  },
+  {
+    "id": "gilthunder::Lance",
+    "character_id": "gilthunder",
+    "name": "Lance",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "Frappe de Foudre",
+        "kind": "Tag Skill",
+        "cooldown": null,
+        "description": "Inflige des dégâts égaux à 86% de l'Attaque."
+      },
+      {
+        "name": "Éclair de Foudre",
+        "kind": "Ultimate Move",
+        "cooldown": null,
+        "description": "Inflige des dégâts égaux à 281% de l'Attaque. Diminue la Résistance de Décharge de Tous les Éléments des ennemis à portée de 20%."
+      }
+    ],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/gilthunder"
+  },
+  {
+    "id": "dreyfus::Rapier",
+    "character_id": "dreyfus",
+    "name": "Rapier",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "Briseur en Un Coup",
+        "kind": "Adventure Skill",
+        "cooldown": null,
+        "description": ""
+      },
+      {
+        "name": "Honneur du Grand Maître",
+        "kind": "Passive",
+        "cooldown": null,
+        "description": ""
+      },
+      {
+        "name": "Augmente les dégâts infligés aux ennemis avec Décharge de Terre activée de 30%.",
+        "kind": "Normal Attack",
+        "cooldown": null,
+        "description": "Attaque Normale"
+      },
+      {
+        "name": "Inflige des dégâts égaux à 98% de l'Attaque. 1er coup : 23% 2ème coup : 28% 3ème coup : 47%",
+        "kind": "Special Attack",
+        "cooldown": null,
+        "description": "Spécial Inflige des dégâts égaux à 143% de l'Attaque et inflige Orgueil pendant 20 sec. ※ Orgueil : Augmente les dégâts reçus du héros de 20%."
+      },
+      {
+        "name": "Lame de Terre",
+        "kind": "Normal Skill",
+        "cooldown": null,
+        "description": "Inflige des dégâts égaux à 249% de l'Attaque. Diminue le temps de recharge de la Compétence Normale de 50% lors de l'attaque d'un ennemi affecté par Orgueil."
+      },
+      {
+        "name": "Tranche de Terre Angulaire",
+        "kind": "Tag Skill",
+        "cooldown": null,
+        "description": "Inflige des dégâts égaux à 116% de l'Attaque."
+      },
+      {
+        "name": "Brisure de Terre",
+        "kind": "Ultimate Move",
+        "cooldown": null,
+        "description": "Inflige des dégâts égaux à 367% de l'Attaque. Augmente les dégâts infligés aux ennemis Pétrifiés de 50%."
+      }
+    ],
+    "potentials": [
+      {
+        "tier": 1,
+        "text": "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%.",
+        "items": [
+          "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%."
+        ]
+      },
+      {
+        "tier": 2,
+        "text": "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 32% 2ème coup: 39% 3ème coup: 66%",
+        "items": [
+          "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 32% 2ème coup: 39% 3ème coup: 66%"
+        ]
+      },
+      {
+        "tier": 3,
+        "text": "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%.",
+        "items": [
+          "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%."
+        ]
+      },
+      {
+        "tier": 4,
+        "text": "Augmente les dégâts infligés avec l'Attaque Spéciale de 50%.",
+        "items": [
+          "Augmente les dégâts infligés avec l'Attaque Spéciale de 50%."
+        ]
+      },
+      {
+        "tier": 5,
+        "text": "Atterrir la Compétence Normale diminue la Défense de Terre de l'ennemi de 20% pendant 20 sec.",
+        "items": [
+          "Atterrir la Compétence Normale diminue la Défense de Terre de l'ennemi de 20% pendant 20 sec."
+        ]
+      },
+      {
+        "tier": 6,
+        "text": "Augmente les dégâts infligés avec la Compétence Normale de 60%.",
+        "items": [
+          "Augmente les dégâts infligés avec la Compétence Normale de 60%."
+        ]
+      },
+      {
+        "tier": 7,
+        "text": "Augmente légèrement la portée du Mouvement Ultime et Étourdit l'ennemi pendant 4 sec lors de l'atterrissage de la dernière frappe du Mouvement Ultime.",
+        "items": [
+          "Augmente légèrement la portée du Mouvement Ultime et Étourdit l'ennemi pendant 4 sec lors de l'atterrissage de la dernière frappe du Mouvement Ultime."
+        ]
+      },
+      {
+        "tier": 8,
+        "text": "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%.",
+        "items": [
+          "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%."
+        ]
+      },
+      {
+        "tier": 9,
+        "text": "Augmente les dégâts infligés avec le Mouvement Ultime de 50%.",
+        "items": [
+          "Augmente les dégâts infligés avec le Mouvement Ultime de 50%."
+        ]
+      },
+      {
+        "tier": 10,
+        "text": "Augmente l'augmentation de dégâts du Passif de 80%.",
+        "items": [
+          "Augmente l'augmentation de dégâts du Passif de 80%."
+        ]
+      }
+    ],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/dreyfus"
+  },
+  {
+    "id": "dreyfus::Longsword",
+    "character_id": "dreyfus",
+    "name": "Longsword",
+    "type": null,
+    "rarity": null,
+    "skills": [],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/dreyfus"
+  },
+  {
+    "id": "dreyfus::Lance",
+    "character_id": "dreyfus",
+    "name": "Lance",
+    "type": null,
+    "rarity": null,
+    "skills": [],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/dreyfus"
+  },
+  {
+    "id": "dreydrin::Shield",
+    "character_id": "dreydrin",
+    "name": "Shield",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "Jardin de Vitalité",
+        "kind": "Adventure Skill",
+        "cooldown": null,
+        "description": ""
+      },
+      {
+        "name": "Détermination Forte",
+        "kind": "Passive",
+        "cooldown": null,
+        "description": ""
+      }
+    ],
+    "potentials": [
+      {
+        "tier": 1,
+        "text": "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%.",
+        "items": [
+          "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%."
+        ]
+      },
+      {
+        "tier": 2,
+        "text": "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 20% 2ème coup: 23% 3ème coup: 33% 4ème coup: 51% 5ème coup: 71%",
+        "items": [
+          "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 20% 2ème coup: 23% 3ème coup: 33% 4ème coup: 51% 5ème coup: 71%"
+        ]
+      },
+      {
+        "tier": 3,
+        "text": "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%.",
+        "items": [
+          "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%."
+        ]
+      },
+      {
+        "tier": 4,
+        "text": "Augmente les dégâts de l'Attaque Spéciale de 35% / 50% selon le niveau de charge.",
+        "items": [
+          "Augmente les dégâts de l'Attaque Spéciale de 35% / 50% selon le niveau de charge."
+        ]
+      },
+      {
+        "tier": 5,
+        "text": "Augmente légèrement la portée de la Compétence Normale.",
+        "items": [
+          "Augmente légèrement la portée de la Compétence Normale."
+        ]
+      },
+      {
+        "tier": 6,
+        "text": "Augmente la durée de l'Étourdissement de l'Attaque Spéciale de 3 sec.",
+        "items": [
+          "Augmente la durée de l'Étourdissement de l'Attaque Spéciale de 3 sec."
+        ]
+      },
+      {
+        "tier": 7,
+        "text": "Augmente la réduction de Défense du Passif de 100% et augmente sa durée de 5 sec.",
+        "items": [
+          "Augmente la réduction de Défense du Passif de 100% et augmente sa durée de 5 sec."
+        ]
+      },
+      {
+        "tier": 8,
+        "text": "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%.",
+        "items": [
+          "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%."
+        ]
+      },
+      {
+        "tier": 9,
+        "text": "Augmente les dégâts infligés avec le Mouvement Ultime de 50%.",
+        "items": [
+          "Augmente les dégâts infligés avec le Mouvement Ultime de 50%."
+        ]
+      },
+      {
+        "tier": 10,
+        "text": "Atterrir la Compétence d'Équipe inflige Étourdissement à l'ennemi pendant 6 sec.",
+        "items": [
+          "Atterrir la Compétence d'Équipe inflige Étourdissement à l'ennemi pendant 6 sec."
+        ]
+      }
+    ],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/dreydrin"
+  },
+  {
+    "id": "dreydrin::Axe",
+    "character_id": "dreydrin",
+    "name": "Axe",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "Attaquer un ennemi affecté par Pétrification, Gel, Étourdissement ou Paralysie diminue sa Défense de 10% pendant 5 sec.",
+        "kind": "Normal Attack",
+        "cooldown": null,
+        "description": "Attaque Normale Inflige des dégâts égaux à 142% de l'Attaque. 1er coup : 15% 2ème coup : 17% 3ème coup : 23% 4ème coup : 36% 5ème coup : 51% Attaque Spéciale Spécial Inflige des dégâts égaux à 108% / 154% de l'Attaque selon le niveau de charge. Atterrir une attaque chargée Étourdit l'ennemi pendant 5 sec."
+      },
+      {
+        "name": "Cri de Guerre",
+        "kind": "Normal Skill",
+        "cooldown": null,
+        "description": "Inflige des dégâts égaux à 163% de l'Attaque. Restaure la Jauge d'Équipe de 300 lors de l'attaque d'un ennemi affecté par Pétrification, Gel, Étourdissement ou Paralysie."
+      }
+    ],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/dreydrin"
+  },
+  {
+    "id": "dreydrin::Rapier",
+    "character_id": "dreydrin",
+    "name": "Rapier",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "Uppercut de Hache",
+        "kind": "Tag Skill",
+        "cooldown": null,
+        "description": "Inflige des dégâts égaux à 83% de l'Attaque."
+      },
+      {
+        "name": "Cri du Géant",
+        "kind": "Ultimate Move",
+        "cooldown": null,
+        "description": "Inflige des dégâts égaux à 282% de l'Attaque. Augmente les dégâts infligés à un ennemi affecté par Pétrification, Gel, Étourdissement ou Paralysie de 30%."
+      }
+    ],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/dreydrin"
+  },
+  {
+    "id": "bug::Dual Swords",
+    "character_id": "bug",
+    "name": "Dual Swords",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "Rapetissement",
+        "kind": "Adventure Skill",
+        "cooldown": null,
+        "description": ""
+      },
+      {
+        "name": "Fauteur de Troubles",
+        "kind": "Passive",
+        "cooldown": null,
+        "description": ""
+      },
+      {
+        "name": "Augmente les dégâts infligés aux ennemis avec Décharge des Ténèbres activée de 30%.",
+        "kind": "Normal Attack",
+        "cooldown": null,
+        "description": "Attaque Normale"
+      },
+      {
+        "name": "Inflige des dégâts égaux à 129% de l'Attaque. 1er coup : 19% 2ème coup : 21% 3ème coup : 33% 4ème coup : 56%",
+        "kind": "Special Attack",
+        "cooldown": null,
+        "description": "Spécial Inflige des dégâts égaux à 106% / 166% de l'Attaque selon le niveau de charge. Inflige des dégâts égaux à 60% de l'Attaque lorsque surchargé. Atterrir l'attaque au bon moment résulte en un Coup Critique."
+      },
+      {
+        "name": "Saccage Sombre",
+        "kind": "Normal Skill",
+        "cooldown": null,
+        "description": "Inflige des dégâts égaux à 219% de l'Attaque à l'ennemi et les tire vers le centre."
+      },
+      {
+        "name": "Tranche de Hache Sombre",
+        "kind": "Tag Skill",
+        "cooldown": null,
+        "description": "Inflige des dégâts égaux à 105% de l'Attaque."
+      },
+      {
+        "name": "Essaim de Mort",
+        "kind": "Ultimate Move",
+        "cooldown": null,
+        "description": "Augmente l'Attaque des Ténèbres du héros de 30% pendant 20 sec, puis inflige des dégâts égaux à 307% de l'Attaque."
+      }
+    ],
+    "potentials": [
+      {
+        "tier": 1,
+        "text": "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%.",
+        "items": [
+          "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%."
+        ]
+      },
+      {
+        "tier": 2,
+        "text": "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 27% 2ème coup: 29% 3ème coup: 46% 4ème coup: 78%",
+        "items": [
+          "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 27% 2ème coup: 29% 3ème coup: 46% 4ème coup: 78%"
+        ]
+      },
+      {
+        "tier": 3,
+        "text": "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%.",
+        "items": [
+          "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%."
+        ]
+      },
+      {
+        "tier": 4,
+        "text": "Augmente les dégâts infligés avec l'Attaque Spéciale de 50%.",
+        "items": [
+          "Augmente les dégâts infligés avec l'Attaque Spéciale de 50%."
+        ]
+      },
+      {
+        "tier": 5,
+        "text": "Augmente légèrement la portée de la Compétence Normale. Inflige en plus des dégâts égaux à 20% de l'Attaque chaque fois que l'attaque touche des cibles dans la zone centrale.",
+        "items": [
+          "Augmente légèrement la portée de la Compétence Normale. Inflige en plus des dégâts égaux à 20% de l'Attaque chaque fois que l'attaque touche des cibles dans la zone centrale."
+        ]
+      },
+      {
+        "tier": 6,
+        "text": "Augmente les dégâts infligés avec la Compétence Normale de 60%.",
+        "items": [
+          "Augmente les dégâts infligés avec la Compétence Normale de 60%."
+        ]
+      },
+      {
+        "tier": 7,
+        "text": "Augmente les dégâts infligés de 10% chaque fois que le Mouvement Ultime touche le même ennemi.",
+        "items": [
+          "Augmente les dégâts infligés de 10% chaque fois que le Mouvement Ultime touche le même ennemi."
+        ]
+      },
+      {
+        "tier": 8,
+        "text": "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%.",
+        "items": [
+          "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%."
+        ]
+      },
+      {
+        "tier": 9,
+        "text": "Augmente les dégâts infligés avec le Mouvement Ultime de 50%.",
+        "items": [
+          "Augmente les dégâts infligés avec le Mouvement Ultime de 50%."
+        ]
+      },
+      {
+        "tier": 10,
+        "text": "Gagne l'Immunité aux Réactions pendant le chargement de l'Attaque Spéciale. Atterrir l'attaque au bon moment augmente les dégâts infligés de 75%.",
+        "items": [
+          "Gagne l'Immunité aux Réactions pendant le chargement de l'Attaque Spéciale. Atterrir l'attaque au bon moment augmente les dégâts infligés de 75%."
+        ]
+      }
+    ],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/bug"
+  },
+  {
+    "id": "bug::Axe",
+    "character_id": "bug",
+    "name": "Axe",
+    "type": null,
+    "rarity": null,
+    "skills": [],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/bug"
+  },
+  {
+    "id": "bug::Book",
+    "character_id": "bug",
+    "name": "Book",
+    "type": null,
+    "rarity": null,
+    "skills": [],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/bug"
+  },
+  {
+    "id": "slader::Greatsword",
+    "character_id": "slader",
+    "name": "Greatsword",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "Effacer la Présence",
+        "kind": "Adventure Skill",
+        "cooldown": null,
+        "description": ""
+      },
+      {
+        "name": "Masque Rugissant",
+        "kind": "Passive",
+        "cooldown": null,
+        "description": "Augmente la Brisure de Défense du héros de 10% et a 15% de chances de réinitialiser le temps de recharge de l'Attaque Spéciale lors de l'attaque d'un ennemi qui Saigne. Attaque Normale Attaque Normale"
+      }
+    ],
+    "potentials": [
+      {
+        "tier": 1,
+        "text": "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%.",
+        "items": [
+          "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%."
+        ]
+      },
+      {
+        "tier": 2,
+        "text": "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 25% 2ème coup: 31% 3ème coup: 51%",
+        "items": [
+          "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 25% 2ème coup: 31% 3ème coup: 51%"
+        ]
+      },
+      {
+        "tier": 3,
+        "text": "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%.",
+        "items": [
+          "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%."
+        ]
+      },
+      {
+        "tier": 4,
+        "text": "Augmente les dégâts infligés avec l'Attaque Spéciale de 35% / 50%.",
+        "items": [
+          "Augmente les dégâts infligés avec l'Attaque Spéciale de 35% / 50%."
+        ]
+      },
+      {
+        "tier": 5,
+        "text": "Inflige en plus des dégâts égaux à 55% de l'Attaque lors de l'utilisation de la Compétence Normale.",
+        "items": [
+          "Inflige en plus des dégâts égaux à 55% de l'Attaque lors de l'utilisation de la Compétence Normale."
+        ]
+      },
+      {
+        "tier": 6,
+        "text": "Augmente les dégâts infligés avec la Compétence Normale de 60%.",
+        "items": [
+          "Augmente les dégâts infligés avec la Compétence Normale de 60%."
+        ]
+      },
+      {
+        "tier": 7,
+        "text": "Atterrir la Compétence d'Équipe inflige Saignement pendant 20 sec.",
+        "items": [
+          "Atterrir la Compétence d'Équipe inflige Saignement pendant 20 sec."
+        ]
+      },
+      {
+        "tier": 8,
+        "text": "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%.",
+        "items": [
+          "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%."
+        ]
+      },
+      {
+        "tier": 9,
+        "text": "Augmente les dégâts infligés avec le Mouvement Ultime de 50%.",
+        "items": [
+          "Augmente les dégâts infligés avec le Mouvement Ultime de 50%."
+        ]
+      },
+      {
+        "tier": 10,
+        "text": "Augmente les dégâts infligés avec la dernière frappe du Mouvement Ultime de 50%.",
+        "items": [
+          "Augmente les dégâts infligés avec la dernière frappe du Mouvement Ultime de 50%."
+        ]
+      }
+    ],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/slader"
+  },
+  {
+    "id": "slader::Axe",
+    "character_id": "slader",
+    "name": "Axe",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "Inflige des dégâts égaux à 76% de l'Attaque. 1er coup : 18% 2ème coup : 22% 3ème coup : 36%",
+        "kind": "Special Attack",
+        "cooldown": null,
+        "description": "Spécial Inflige des dégâts égaux à 77% / 141% de l'Attaque selon le niveau de charge. Augmente les dégâts infligés aux ennemis qui Saignent de 30%. Les attaques chargées infligent Saignement pendant 20 sec. ※ Saignement : Inflige des dégâts de Vent égaux à 10% des dégâts infligés toutes les 1 sec. Diminue l'Efficacité de Soin de 20%. Diminue en plus l'Efficacité de Soin de 6% lors d'un Coup Critique. (Max : 10 fois)"
+      },
+      {
+        "name": "Charge de Hache",
+        "kind": "Normal Skill",
+        "cooldown": null,
+        "description": "Inflige des dégâts égaux à 183% de l'Attaque et accorde au héros Saignement Amélioré pendant 20 sec. ※ Saignement Amélioré : Augmente les dégâts de Saignement infligés par le héros de 20%."
+      }
+    ],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/slader"
+  },
+  {
+    "id": "slader::Cudgel",
+    "character_id": "slader",
+    "name": "Cudgel",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "Tranche de Hache",
+        "kind": "Tag Skill",
+        "cooldown": null,
+        "description": "Inflige des dégâts égaux à 96% de l'Attaque."
+      },
+      {
+        "name": "Arc Sanglant",
+        "kind": "Ultimate Move",
+        "cooldown": null,
+        "description": "Inflige des dégâts égaux à 288% de l'Attaque. Résulte en un Coup Critique et inflige Blessure Profonde pendant 15 sec si l'ennemi Saigne. ※ Blessure Profonde : Augmente les dégâts reçus de 10%."
+      }
+    ],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/slader"
+  },
+  {
+    "id": "manny::Staff",
+    "character_id": "manny",
+    "name": "Staff",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "Résonance de la Lumière des Étoiles",
+        "kind": "Adventure Skill",
+        "cooldown": null,
+        "description": ""
+      },
+      {
+        "name": "Prière de la Prêtresse",
+        "kind": "Passive",
+        "cooldown": null,
+        "description": ""
+      },
+      {
+        "name": "Attaquer un ennemi avec Décharge de Froid activée augmente le Taux de Critique de 20% et les Dégâts Critiques de 50%.",
+        "kind": "Normal Attack",
+        "cooldown": null,
+        "description": "Attaque Normale"
+      },
+      {
+        "name": "Inflige des dégâts égaux à 126% de l'Attaque. 1er coup : 19% 2ème coup : 20% 3ème coup : 33% 4ème coup : 54%",
+        "kind": "Special Attack",
+        "cooldown": null,
+        "description": "Spécial Inflige des dégâts égaux à 128% de l'Attaque."
+      },
+      {
+        "name": "Libération du Givre",
+        "kind": "Normal Skill",
+        "cooldown": null,
+        "description": "Inflige des dégâts égaux à 199% de l'Attaque, puis gagne Givre pendant 20 sec. ※ Givre : Ajoute des explosions d'épée aux Attaques Normales, infligeant en plus des dégâts égaux à 30% de l'Attaque. Atterrir 4 Attaques Normales augmente les dégâts de Frappe Givrée de 100%. ※ Frappe Givrée : Améliore la Compétence Normale pour permettre l'utilisation de Frappe Givrée. L'utilisation de Frappe Givrée inflige des dégâts égaux à 200% de l'Attaque et retire l'effet Givre."
+      },
+      {
+        "name": "Lame Givrée",
+        "kind": "Tag Skill",
+        "cooldown": null,
+        "description": "Inflige des dégâts égaux à 104% de l'Attaque."
+      },
+      {
+        "name": "Barrière de la Prêtresse",
+        "kind": "Ultimate Move",
+        "cooldown": null,
+        "description": "Inflige des dégâts égaux à 331% de l'Attaque, puis Gèle les ennemis à portée pendant 6 sec. Si le héros est à portée, l'Attaque de Froid augmente de 15%. ※ Gel : Neutralisé. Lorsque touché par une compétence, inflige 20% des dégâts reçus et retire Gel."
+      }
+    ],
+    "potentials": [
+      {
+        "tier": 1,
+        "text": "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%.",
+        "items": [
+          "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%."
+        ]
+      },
+      {
+        "tier": 2,
+        "text": "Augmente les dégâts infligés avec l'Attaque Spéciale de 40%.",
+        "items": [
+          "Augmente les dégâts infligés avec l'Attaque Spéciale de 40%."
+        ]
+      },
+      {
+        "tier": 3,
+        "text": "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%.",
+        "items": [
+          "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%."
+        ]
+      },
+      {
+        "tier": 4,
+        "text": "Augmente les dégâts infligés avec la Compétence d'Équipe de 60%.",
+        "items": [
+          "Augmente les dégâts infligés avec la Compétence d'Équipe de 60%."
+        ]
+      },
+      {
+        "tier": 5,
+        "text": "Augmente légèrement la portée du Mouvement Ultime et augmente sa durée de 10 sec. Augmente les dégâts de Froid des alliés à portée de 15%.",
+        "items": [
+          "Augmente légèrement la portée du Mouvement Ultime et augmente sa durée de 10 sec. Augmente les dégâts de Froid des alliés à portée de 15%."
+        ]
+      },
+      {
+        "tier": 6,
+        "text": "Augmente les dégâts infligés avec les Attaques Normales de 110%. 1er coup: 40% 2ème coup: 42% 3ème coup: 69% 4ème coup: 113%",
+        "items": [
+          "Augmente les dégâts infligés avec les Attaques Normales de 110%. 1er coup: 40% 2ème coup: 42% 3ème coup: 69% 4ème coup: 113%"
+        ]
+      },
+      {
+        "tier": 7,
+        "text": "Les explosions d'épée de Frappe Givrée explosent en disparaissant, infligeant des dégâts supplémentaires égaux à 50% de l'Attaque.",
+        "items": [
+          "Les explosions d'épée de Frappe Givrée explosent en disparaissant, infligeant des dégâts supplémentaires égaux à 50% de l'Attaque."
+        ]
+      },
+      {
+        "tier": 8,
+        "text": "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%.",
+        "items": [
+          "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%."
+        ]
+      },
+      {
+        "tier": 9,
+        "text": "Augmente les dégâts infligés avec le Mouvement Ultime de 50%.",
+        "items": [
+          "Augmente les dégâts infligés avec le Mouvement Ultime de 50%."
+        ]
+      },
+      {
+        "tier": 10,
+        "text": "Augmente la durée de Givre de 10 sec. Utiliser une Attaque Normale pendant que Givre est actif inflige Refroidissement à l'ennemi et le héros gagne l'effet Cristallisation pendant 15 sec. Utiliser Frappe Givrée sur un ennemi Refroidi inflige Gel pendant 6 sec. ※ Cristallisation : Augmente l'Attaque de Froid de 3% (Max : 60%).",
+        "items": [
+          "Augmente la durée de Givre de 10 sec. Utiliser une Attaque Normale pendant que Givre est actif inflige Refroidissement à l'ennemi et le héros gagne l'effet Cristallisation pendant 15 sec. Utiliser Frappe Givrée sur un ennemi Refroidi inflige Gel pendant 6 sec. ※ Cristallisation : Augmente l'Attaque de Froid de 3% (Max : 60%)."
+        ]
+      }
+    ],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/manny"
+  },
+  {
+    "id": "manny::Dual Swords",
+    "character_id": "manny",
+    "name": "Dual Swords",
+    "type": null,
+    "rarity": null,
+    "skills": [],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/manny"
+  },
+  {
+    "id": "manny::Longsword",
+    "character_id": "manny",
+    "name": "Longsword",
+    "type": null,
+    "rarity": null,
+    "skills": [],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/manny"
+  },
+  {
+    "id": "jericho::Dual Swords",
+    "character_id": "jericho",
+    "name": "Dual Swords",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "Champ de Glace",
+        "kind": "Adventure Skill",
+        "cooldown": null,
+        "description": ""
+      },
+      {
+        "name": "Glacier",
+        "kind": "Passive",
+        "cooldown": null,
+        "description": "L'activation de Décharge de Froid inflige Gel à l'ennemi pendant 6 sec. ※ Gel : Neutralisé. Lorsque touché par une compétence, inflige 20% des dégâts reçus et retire Gel. Attaque Normale Attaque Normale"
+      }
+    ],
+    "potentials": [
+      {
+        "tier": 1,
+        "text": "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%.",
+        "items": [
+          "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%."
+        ]
+      },
+      {
+        "tier": 2,
+        "text": "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 22% 2ème coup: 24% 3ème coup: 39% 4ème coup: 65%",
+        "items": [
+          "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 22% 2ème coup: 24% 3ème coup: 39% 4ème coup: 65%"
+        ]
+      },
+      {
+        "tier": 3,
+        "text": "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%.",
+        "items": [
+          "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%."
+        ]
+      },
+      {
+        "tier": 4,
+        "text": "Augmente les dégâts infligés avec l'Attaque Spéciale de 50%.",
+        "items": [
+          "Augmente les dégâts infligés avec l'Attaque Spéciale de 50%."
+        ]
+      },
+      {
+        "tier": 5,
+        "text": "Augmente les dégâts supplémentaires des Attaques Normales améliorées par Sabre Gelé de 100%.",
+        "items": [
+          "Augmente les dégâts supplémentaires des Attaques Normales améliorées par Sabre Gelé de 100%."
+        ]
+      },
+      {
+        "tier": 6,
+        "text": "Augmente la durée de Sabre Gelé de 50% et l'augmentation de la Jauge de Décharge de 100%.",
+        "items": [
+          "Augmente la durée de Sabre Gelé de 50% et l'augmentation de la Jauge de Décharge de 100%."
+        ]
+      },
+      {
+        "tier": 7,
+        "text": "Le Mouvement Ultime crée des images résiduelles supplémentaires, chacune infligeant des dégâts égaux à 55% de l'Attaque et augmentant la Jauge de Décharge de 200.",
+        "items": [
+          "Le Mouvement Ultime crée des images résiduelles supplémentaires, chacune infligeant des dégâts égaux à 55% de l'Attaque et augmentant la Jauge de Décharge de 200."
+        ]
+      },
+      {
+        "tier": 8,
+        "text": "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%.",
+        "items": [
+          "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%."
+        ]
+      },
+      {
+        "tier": 9,
+        "text": "Augmente les dégâts infligés avec le Mouvement Ultime de 50%.",
+        "items": [
+          "Augmente les dégâts infligés avec le Mouvement Ultime de 50%."
+        ]
+      },
+      {
+        "tier": 10,
+        "text": "Ajoute 2 projectile(s) au Mouvement Ultime, infligeant des dégâts égaux à 320% de l'Attaque.",
+        "items": [
+          "Ajoute 2 projectile(s) au Mouvement Ultime, infligeant des dégâts égaux à 320% de l'Attaque."
+        ]
+      }
+    ],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/jericho"
+  },
+  {
+    "id": "jericho::Lance",
+    "character_id": "jericho",
+    "name": "Lance",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "Inflige des dégâts égaux à 107% de l'Attaque. 1er coup : 16% 2ème coup : 17% 3ème coup : 28% 4ème coup : 46%",
+        "kind": "Special Attack",
+        "cooldown": null,
+        "description": "Spécial Inflige des dégâts égaux à 111% de l'Attaque. Inflige Gel à la cible pendant 6 sec si le héros a un effet Sabre Gelé lors de la dernière frappe. ※ Gel : Neutralisé. Lorsque touché par une compétence, inflige 20% des dégâts reçus et retire Gel."
+      },
+      {
+        "name": "Enchantement d'Arme",
+        "kind": "Normal Skill",
+        "cooldown": null,
+        "description": "Gagne Sabre Gelé pendant 15 sec. ※ Sabre Gelé : Augmente le Taux de Critique de 30%. L'utilisation d'une Attaque Normale téléporte le héros derrière l'ennemi pour infliger des dégâts supplémentaires égaux à 50% de l'Attaque et augmenter sa Jauge de Décharge de 30."
+      }
+    ],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/jericho"
+  },
+  {
+    "id": "jericho::Rapier",
+    "character_id": "jericho",
+    "name": "Rapier",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "Tranche Gelée",
+        "kind": "Tag Skill",
+        "cooldown": null,
+        "description": "Inflige des dégâts égaux à 87% de l'Attaque. Inflige Gel à la cible pendant 6 sec si elle a Décharge de Froid activée. ※ Gel : Neutralisé. Lorsque touché par une compétence, inflige 20% des dégâts reçus et retire Gel."
+      },
+      {
+        "name": "Aiguille de Glace",
+        "kind": "Ultimate Move",
+        "cooldown": null,
+        "description": "Inflige des dégâts égaux à 262% de l'Attaque et diminue la Résistance au Froid de 20%. Si le héros a un effet Sabre Gelé, les Dégâts Critiques du Mouvement Ultime augmentent de 60%."
+      }
+    ],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/jericho"
+  },
+  {
+    "id": "guila::Lance",
+    "character_id": "guila",
+    "name": "Lance",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "Charge Flamboyante",
+        "kind": "Adventure Skill",
+        "cooldown": null,
+        "description": ""
+      },
+      {
+        "name": "Diable Ardent",
+        "kind": "Passive",
+        "cooldown": null,
+        "description": ""
+      },
+      {
+        "name": "Augmente l'Attaque de Feu de tous les héros alliés de 25% si une barrière que le héros s'est appliquée est active.",
+        "kind": "Normal Attack",
+        "cooldown": null,
+        "description": "Attaque Normale"
+      },
+      {
+        "name": "Inflige des dégâts égaux à 113% de l'Attaque. 1er coup : 17% 2ème coup : 18% 3ème coup : 29% 4ème coup : 49%",
+        "kind": "Special Attack",
+        "cooldown": null,
+        "description": "Spécial Devient immunisée aux Réactions et Provoque les ennemis proches tant que la posture est maintenue. Reflète 30% des dégâts reçus lorsque touché tant que la posture est maintenue. Maintient la posture jusqu'à 10 sec. Lorsque touché 5 fois tant que la posture est maintenue, la posture est retirée, infligeant des dégâts égaux à 102% de l'Attaque."
+      },
+      {
+        "name": "Mines Meurtrières",
+        "kind": "Normal Skill",
+        "cooldown": null,
+        "description": "Inflige des dégâts égaux à 174% de l'Attaque. Accorde à tous les héros alliés des barrières égales à 30% des PV Max pendant 20 sec lorsque l'attaque touche."
+      },
+      {
+        "name": "Chute de Bouclier",
+        "kind": "Tag Skill",
+        "cooldown": null,
+        "description": "Inflige des dégâts égaux à 93% de l'Attaque."
+      },
+      {
+        "name": "Détonation Brillante",
+        "kind": "Ultimate Move",
+        "cooldown": null,
+        "description": "Inflige des dégâts égaux à 287% de l'Attaque. Augmente les dégâts de Feu reçus par les ennemis à portée de 20%."
+      }
+    ],
+    "potentials": [
+      {
+        "tier": 1,
+        "text": "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%.",
+        "items": [
+          "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%."
+        ]
+      },
+      {
+        "tier": 2,
+        "text": "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 24% 2ème coup: 26% 3ème coup: 41% 4ème coup: 68%",
+        "items": [
+          "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 24% 2ème coup: 26% 3ème coup: 41% 4ème coup: 68%"
+        ]
+      },
+      {
+        "tier": 3,
+        "text": "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%.",
+        "items": [
+          "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%."
+        ]
+      },
+      {
+        "tier": 4,
+        "text": "Augmente les dégâts infligés avec l'Attaque Spéciale de 50%.",
+        "items": [
+          "Augmente les dégâts infligés avec l'Attaque Spéciale de 50%."
+        ]
+      },
+      {
+        "tier": 5,
+        "text": "Augmente légèrement la portée du Mouvement Ultime.",
+        "items": [
+          "Augmente légèrement la portée du Mouvement Ultime."
+        ]
+      },
+      {
+        "tier": 6,
+        "text": "Augmente la barrière de la Compétence Normale de 50% et augmente sa durée de 10 sec.",
+        "items": [
+          "Augmente la barrière de la Compétence Normale de 50% et augmente sa durée de 10 sec."
+        ]
+      },
+      {
+        "tier": 7,
+        "text": "Inflige des dégâts égaux à 35% de l'Attaque aux ennemis proches toutes les 1 sec lors de l'utilisation de l'Attaque Spéciale tant que la posture est maintenue.",
+        "items": [
+          "Inflige des dégâts égaux à 35% de l'Attaque aux ennemis proches toutes les 1 sec lors de l'utilisation de l'Attaque Spéciale tant que la posture est maintenue."
+        ]
+      },
+      {
+        "tier": 8,
+        "text": "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%.",
+        "items": [
+          "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%."
+        ]
+      },
+      {
+        "tier": 9,
+        "text": "Augmente les dégâts infligés avec le Mouvement Ultime de 50%.",
+        "items": [
+          "Augmente les dégâts infligés avec le Mouvement Ultime de 50%."
+        ]
+      },
+      {
+        "tier": 10,
+        "text": "Change les barrières de la Compétence Normale en Barrières de Feu. ※ Barrière de Feu : Inflige des dégâts égaux à 15% de l'Attaque aux ennemis proches toutes les 0,5 sec.",
+        "items": [
+          "Change les barrières de la Compétence Normale en Barrières de Feu. ※ Barrière de Feu : Inflige des dégâts égaux à 15% de l'Attaque aux ennemis proches toutes les 0,5 sec."
+        ]
+      }
+    ],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/guila"
+  },
+  {
+    "id": "guila::Shield",
+    "character_id": "guila",
+    "name": "Shield",
+    "type": null,
+    "rarity": null,
+    "skills": [],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/guila"
+  },
+  {
+    "id": "guila::Rapier",
+    "character_id": "guila",
+    "name": "Rapier",
+    "type": null,
+    "rarity": null,
+    "skills": [],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/guila"
+  },
+  {
+    "id": "elaine::Book",
+    "character_id": "elaine",
+    "name": "Book",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "Brise Douce",
+        "kind": "Adventure Skill",
+        "cooldown": null,
+        "description": ""
+      },
+      {
+        "name": "Protection de la Sainte",
+        "kind": "Passive",
+        "cooldown": null,
+        "description": "L'activation de Décharge de Terre inflige Pétrification à l'ennemi pendant 6 sec. Augmente les dégâts infligés aux ennemis Pétrifiés de tous les héros alliés de 100% lorsque le héros est dans l'équipe. ※ Pétrification : Neutralisé. Augmente les dégâts Physiques et de Terre reçus de 50% et diminue les dégâts reçus des éléments autres que Physique et Terre de 75%. Attaque Normale Attaque Normale"
+      }
+    ],
+    "potentials": [
+      {
+        "tier": 1,
+        "text": "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%.",
+        "items": [
+          "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%."
+        ]
+      },
+      {
+        "tier": 2,
+        "text": "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 24% 2ème coup: 26% 3ème coup: 42% 4ème coup: 68%",
+        "items": [
+          "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 24% 2ème coup: 26% 3ème coup: 42% 4ème coup: 68%"
+        ]
+      },
+      {
+        "tier": 3,
+        "text": "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%.",
+        "items": [
+          "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%."
+        ]
+      },
+      {
+        "tier": 4,
+        "text": "Augmente la durée de la Marque de la Sainte de l'Attaque Spéciale de 10 sec.",
+        "items": [
+          "Augmente la durée de la Marque de la Sainte de l'Attaque Spéciale de 10 sec."
+        ]
+      },
+      {
+        "tier": 5,
+        "text": "Augmente les dégâts de Terre des alliés avec la Marque de la Sainte de 50%.",
+        "items": [
+          "Augmente les dégâts de Terre des alliés avec la Marque de la Sainte de 50%."
+        ]
+      },
+      {
+        "tier": 6,
+        "text": "Augmente la barrière de la Compétence Normale de 66%.",
+        "items": [
+          "Augmente la barrière de la Compétence Normale de 66%."
+        ]
+      },
+      {
+        "tier": 7,
+        "text": "Change l'Attaque Spéciale en une compétence qui peut être utilisée 2 fois et augmente légèrement sa portée.",
+        "items": [
+          "Change l'Attaque Spéciale en une compétence qui peut être utilisée 2 fois et augmente légèrement sa portée."
+        ]
+      },
+      {
+        "tier": 8,
+        "text": "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%.",
+        "items": [
+          "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%."
+        ]
+      },
+      {
+        "tier": 9,
+        "text": "Augmente les dégâts infligés avec le Mouvement Ultime de 50%.",
+        "items": [
+          "Augmente les dégâts infligés avec le Mouvement Ultime de 50%."
+        ]
+      },
+      {
+        "tier": 10,
+        "text": "Atterrir le Mouvement Ultime inflige également Pétrification aux ennemis sans Marque de la Sainte pendant 6 sec. Inflige Pétrification aux ennemis avec la Marque de la Sainte pendant 12 sec.",
+        "items": [
+          "Atterrir le Mouvement Ultime inflige également Pétrification aux ennemis sans Marque de la Sainte pendant 6 sec. Inflige Pétrification aux ennemis avec la Marque de la Sainte pendant 12 sec."
+        ]
+      }
+    ],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/elaine"
+  },
+  {
+    "id": "elaine::Wand",
+    "character_id": "elaine",
+    "name": "Wand",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "Inflige des dégâts égaux à 116% de l'Attaque. 1er coup : 18% 2ème coup : 19% 3ème coup : 30% 4ème coup : 49%",
+        "kind": "Special Attack",
+        "cooldown": null,
+        "description": "Spécial Applique la Marque de la Sainte aux alliés et ennemis proches pendant 20 sec. ※ Marque de la Sainte : Les effets diffèrent selon la cible. Alliés : Diminue les dégâts reçus de 50% tant qu'ils ont une barrière. Ennemis : Diminue la Résistance à Décharge de Terre de 30%."
+      },
+      {
+        "name": "Floraison du Gardien",
+        "kind": "Normal Skill",
+        "cooldown": null,
+        "description": "Accorde à tous les héros alliés des barrières égales à 300% de la Défense pendant 20 sec. Les dégâts reçus par les alliés avec des barrières diminuent de 20%."
+      }
+    ],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/elaine"
+  },
+  {
+    "id": "elaine::Staff",
+    "character_id": "elaine",
+    "name": "Staff",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "Sauveur de la Forêt",
+        "kind": "Tag Skill",
+        "cooldown": null,
+        "description": "Inflige des dégâts égaux à 86% de l'Attaque. Augmente en plus la Jauge de Décharge de 200 lors d'un Coup Critique."
+      },
+      {
+        "name": "Sceau de Poussière",
+        "kind": "Ultimate Move",
+        "cooldown": null,
+        "description": "Inflige des dégâts égaux à 268% de l'Attaque et Lie pendant 3 sec. Inflige Pétrification pendant 6 sec lors de l'attaque d'un ennemi affecté par la Marque de la Sainte. ※ Pétrification : Neutralisé. Augmente les dégâts Physiques et de Terre reçus de 50% et diminue les dégâts reçus des éléments autres que Physique et Terre de 75%."
+      }
+    ],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/elaine"
+  },
+  {
+    "id": "drake::Greatsword",
+    "character_id": "drake",
+    "name": "Greatsword",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "Détection de Trésor",
+        "kind": "Adventure Skill",
+        "cooldown": null,
+        "description": ""
+      },
+      {
+        "name": "Roi Dragon",
+        "kind": "Passive",
+        "cooldown": null,
+        "description": ""
+      },
+      {
+        "name": "Augmente l'Efficacité de Décharge de Foudre du héros de 30% tant que Pulsation est active.",
+        "kind": "Normal Attack",
+        "cooldown": null,
+        "description": "Attaque Normale"
+      },
+      {
+        "name": "Inflige des dégâts égaux à 100% de l'Attaque. 1er coup: 15% 2ème coup: 16% 3ème coup: 26% 4ème coup: 43%",
+        "kind": "Special Attack",
+        "cooldown": null,
+        "description": "Spécial Inflige des dégâts égaux à 106% de l'Attaque. Augmente en plus la Jauge de Décharge de 20 chaque fois que l'Attaque Spéciale atterrit 3 fois pendant que Pulsation est active."
+      },
+      {
+        "name": "Pulsation",
+        "kind": "Normal Skill",
+        "cooldown": null,
+        "description": "Accorde Pulsation à tous les héros alliés pendant 20 sec. ※ Pulsation: Inflige des dégâts égaux à 3% de l'Attaque aux ennemis proches toutes les 0,3 sec. Augmente en plus la Jauge de Décharge de 30 après 5 coups."
+      },
+      {
+        "name": "Tranche de Tonnerre",
+        "kind": "Tag Skill",
+        "cooldown": null,
+        "description": "Inflige des dégâts égaux à 88% de l'Attaque."
+      },
+      {
+        "name": "Lame Fantôme",
+        "kind": "Ultimate Move",
+        "cooldown": null,
+        "description": "Inflige des dégâts égaux à 314% de l'Attaque, puis diminue la Résistance à la Décharge Élémentaire de 30% pendant 20 sec."
+      }
+    ],
+    "potentials": [
+      {
+        "tier": 1,
+        "text": "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%.",
+        "items": [
+          "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%."
+        ]
+      },
+      {
+        "tier": 2,
+        "text": "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 21% 2ème coup: 23% 3ème coup: 36% 4ème coup: 61%",
+        "items": [
+          "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 21% 2ème coup: 23% 3ème coup: 36% 4ème coup: 61%"
+        ]
+      },
+      {
+        "tier": 3,
+        "text": "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%.",
+        "items": [
+          "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%."
+        ]
+      },
+      {
+        "tier": 4,
+        "text": "Augmente les dégâts infligés avec l'Attaque Spéciale de 50%.",
+        "items": [
+          "Augmente les dégâts infligés avec l'Attaque Spéciale de 50%."
+        ]
+      },
+      {
+        "tier": 5,
+        "text": "Augmente le nombre d'attaques du Mouvement Ultime de 4 et les dégâts infligés avec le Mouvement Ultime de 40%.",
+        "items": [
+          "Augmente le nombre d'attaques du Mouvement Ultime de 4 et les dégâts infligés avec le Mouvement Ultime de 40%."
+        ]
+      },
+      {
+        "tier": 6,
+        "text": "Augmente les dégâts infligés avec la Compétence Normale de 60%.",
+        "items": [
+          "Augmente les dégâts infligés avec la Compétence Normale de 60%."
+        ]
+      },
+      {
+        "tier": 7,
+        "text": "Augmente les dégâts infligés par l'Attaque Spéciale de 110% et la Jauge de Décharge de 100%.",
+        "items": [
+          "Augmente les dégâts infligés par l'Attaque Spéciale de 110% et la Jauge de Décharge de 100%."
+        ]
+      },
+      {
+        "tier": 8,
+        "text": "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%.",
+        "items": [
+          "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%."
+        ]
+      },
+      {
+        "tier": 9,
+        "text": "Augmente les dégâts infligés avec le Mouvement Ultime de 50%.",
+        "items": [
+          "Augmente les dégâts infligés avec le Mouvement Ultime de 50%."
+        ]
+      },
+      {
+        "tier": 10,
+        "text": "Augmente légèrement la portée de Pulsation et augmente en plus la Jauge de Décharge de 100%.",
+        "items": [
+          "Augmente légèrement la portée de Pulsation et augmente en plus la Jauge de Décharge de 100%."
+        ]
+      }
+    ],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/drake"
+  },
+  {
+    "id": "drake::Staff",
+    "character_id": "drake",
+    "name": "Staff",
+    "type": null,
+    "rarity": null,
+    "skills": [],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/drake"
+  },
+  {
+    "id": "drake::Longsword",
+    "character_id": "drake",
+    "name": "Longsword",
+    "type": null,
+    "rarity": null,
+    "skills": [],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/drake"
+  },
+  {
+    "id": "daisy::Shield",
+    "character_id": "daisy",
+    "name": "Shield",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "Touche d'Artisan",
+        "kind": "Adventure Skill",
+        "cooldown": null,
+        "description": ""
+      },
+      {
+        "name": "Fille Excentrique",
+        "kind": "Passive",
+        "cooldown": null,
+        "description": "Augmente l'efficacité de chargement de magie de l'état par défaut de 50%, et le mouvement ultime ne consomme pas de magie. Attaque Normale Normal Inflige des dégâts égaux à 142% de l'Attaque. Augmente les dégâts infligés de 30% en chevauchant. 1er coup: 21% 2ème coup: 23% 3ème coup: 37% 4ème coup: 61% Attaque Spéciale Spécial [Par défaut] Diminue les dégâts reçus de 70% tant que la posture est maintenue. De plus, les ennemis proches sont Déséquilibrés et la jauge de magie est restaurée de 100 toutes les 1 sec. [En chevauchant] Inflige des dégâts égaux à 163% de l'Attaque. Consomme 100 de jauge de magie pour augmenter les dégâts de 10% toutes les 0,4 sec tant que la posture est maintenue. Restaure la magie de 300 lorsque la posture est maintenue pendant 2 sec."
+      },
+      {
+        "name": "Va-t'en / Explosion d'Énergie",
+        "kind": "Normal Skill",
+        "cooldown": null,
+        "description": "[Par défaut] Inflige des dégâts égaux à 174% de l'Attaque. La jauge de magie est restaurée de 300 si un ennemi est touché, et sa résistance à la Terre est diminuée de 20% pendant 20 sec. [En chevauchant] Inflige des dégâts égaux à 256% de l'Attaque. Chaque coup consomme 100 de la jauge de magie pour augmenter les dégâts de 10%. Restaure la jauge de magie de 100 lorsque la même cible est touchée 5 fois."
+      },
+      {
+        "name": "Voilà Daisy",
+        "kind": "Tag Skill",
+        "cooldown": null,
+        "description": "Inflige des dégâts égaux à 113% de l'Attaque."
+      },
+      {
+        "name": "Aide-moi, Domby",
+        "kind": "Ultimate Move",
+        "cooldown": null,
+        "description": "Le héros invoque et chevauche Domby pendant 20 sec. Le héros gagne l'immunité aux réactions en chevauchant."
+      }
+    ],
+    "potentials": [
+      {
+        "tier": 1,
+        "text": "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%.",
+        "items": [
+          "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%."
+        ]
+      },
+      {
+        "tier": 2,
+        "text": "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 29% 2ème coup: 32% 3ème coup: 52% 4ème coup: 85%",
+        "items": [
+          "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 29% 2ème coup: 32% 3ème coup: 52% 4ème coup: 85%"
+        ]
+      },
+      {
+        "tier": 3,
+        "text": "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%.",
+        "items": [
+          "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%."
+        ]
+      },
+      {
+        "tier": 4,
+        "text": "Augmente les dégâts infligés avec l'Attaque Spéciale de 50%.",
+        "items": [
+          "Augmente les dégâts infligés avec l'Attaque Spéciale de 50%."
+        ]
+      },
+      {
+        "tier": 5,
+        "text": "L'utilisation de l'Attaque Spéciale ne diminue pas la Vitesse de Déplacement, et sa portée est grandement augmentée. La récupération de jauge de magie en Déséquilibrant les ennemis proches augmente de 100%.",
+        "items": [
+          "L'utilisation de l'Attaque Spéciale ne diminue pas la Vitesse de Déplacement, et sa portée est grandement augmentée. La récupération de jauge de magie en Déséquilibrant les ennemis proches augmente de 100%."
+        ]
+      },
+      {
+        "tier": 6,
+        "text": "Diminue la consommation de magie de l'Attaque Spéciale et de la Compétence Normale en chevauchant de 50%.",
+        "items": [
+          "Diminue la consommation de magie de l'Attaque Spéciale et de la Compétence Normale en chevauchant de 50%."
+        ]
+      },
+      {
+        "tier": 7,
+        "text": "Augmente légèrement la portée de la Compétence Normale en chevauchant. Subir des dégâts d'une Compétence Normale augmente les dégâts subis par l'ennemi de 20%.",
+        "items": [
+          "Augmente légèrement la portée de la Compétence Normale en chevauchant. Subir des dégâts d'une Compétence Normale augmente les dégâts subis par l'ennemi de 20%."
+        ]
+      },
+      {
+        "tier": 8,
+        "text": "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%.",
+        "items": [
+          "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%."
+        ]
+      },
+      {
+        "tier": 9,
+        "text": "Augmente les dégâts infligés avec la Compétence Normale de 90% et augmente la durée de chevauchement de 10 sec.",
+        "items": [
+          "Augmente les dégâts infligés avec la Compétence Normale de 90% et augmente la durée de chevauchement de 10 sec."
+        ]
+      },
+      {
+        "tier": 10,
+        "text": "Change la Compétence Normale en une compétence qui peut être utilisée 2 fois en chevauchant. Les dégâts infligés par l'Attaque Spéciale augmentent de 100% lorsqu'elle est complètement chargée.",
+        "items": [
+          "Change la Compétence Normale en une compétence qui peut être utilisée 2 fois en chevauchant. Les dégâts infligés par l'Attaque Spéciale augmentent de 100% lorsqu'elle est complètement chargée."
+        ]
+      }
+    ],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/daisy"
+  },
+  {
+    "id": "daisy::Book",
+    "character_id": "daisy",
+    "name": "Book",
+    "type": null,
+    "rarity": null,
+    "skills": [],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/daisy"
+  },
+  {
+    "id": "daisy::Wand",
+    "character_id": "daisy",
+    "name": "Wand",
+    "type": null,
+    "rarity": null,
+    "skills": [],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/daisy"
+  },
+  {
+    "id": "gowther::Book",
+    "character_id": "gowther",
+    "name": "Book",
+    "type": null,
+    "rarity": null,
+    "skills": [],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/gowther"
+  },
+  {
+    "id": "gowther::Wand",
+    "character_id": "gowther",
+    "name": "Wand",
+    "type": null,
+    "rarity": null,
+    "skills": [],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/gowther"
+  },
+  {
+    "id": "gowther::Staff",
+    "character_id": "gowther",
+    "name": "Staff",
+    "type": null,
+    "rarity": null,
+    "skills": [],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/gowther"
+  },
+  {
+    "id": "merlin::Book",
+    "character_id": "merlin",
+    "name": "Book",
+    "type": null,
+    "rarity": null,
+    "skills": [],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/merlin"
+  },
+  {
+    "id": "merlin::Wand",
+    "character_id": "merlin",
+    "name": "Wand",
+    "type": null,
+    "rarity": null,
+    "skills": [],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/merlin"
+  },
+  {
+    "id": "merlin::Staff",
+    "character_id": "merlin",
+    "name": "Staff",
+    "type": null,
+    "rarity": null,
+    "skills": [],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/merlin"
+  },
+  {
+    "id": "diane::Gauntlets",
+    "character_id": "diane",
+    "name": "Gauntlets",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "Fille Géante",
+        "kind": "Passive",
+        "cooldown": null,
+        "description": "Augmente les dégâts infligés de 40% en attaquant un ennemi avec Éclatement de Terre activé, et inflige Briseur pendant 10 sec en attaquant cet ennemi 3 fois. ※ Briseur: Inflige Étourdissement pendant 4 sec lors de la première application de l'effet. Inflige des dégâts égaux à 150% de la Défense du lanceur. Augmente les dégâts subis du lanceur de 30%. Attaque Normale Normal"
+      },
+      {
+        "name": "Inflige des dégâts égaux à 88% de l'Attaque. 1er coup: 21% 2e coup: 25% 3e coup: 42%",
+        "kind": "Special Attack",
+        "cooldown": null,
+        "description": "Spécial Inflige des dégâts égaux à 114% / 167% de l'Attaque selon le niveau de charge. Diminue le temps de recharge de 50% en attaquant un ennemi affecté par Briseur. Attaque Spéciale Spécial Inflige des dégâts égaux à 114% / 167% de l'Attaque selon le niveau de charge. Diminue le temps de recharge de 50% en attaquant un ennemi affecté par Briseur. Attaque Spéciale Spécial Inflige des dégâts égaux à 114% / 167% de l'Attaque selon le niveau de charge. Diminue le temps de recharge de 50% en attaquant un ennemi affecté par Briseur."
+      },
+      {
+        "name": "Entaille Chargée",
+        "kind": "Normal Skill",
+        "cooldown": null,
+        "description": "Inflige des dégâts égaux à 215% de l'Attaque. Augmente les dégâts infligés aux ennemis affectés par Briseur de 100%."
+      },
+      {
+        "name": "Bas de Terre",
+        "kind": "Tag Skill",
+        "cooldown": null,
+        "description": "Inflige des dégâts égaux à 113% de l'Attaque, et inflige Briseur pendant 10 sec si l'ennemi est Pétrifié. ※ Briseur: Inflige Étourdissement pendant 4 sec lors de la première application de l'effet. Inflige des dégâts égaux à 150% de la Défense du lanceur. Augmente les dégâts subis du lanceur de 30%."
+      },
+      {
+        "name": "Explosion Rocheuse",
+        "kind": "Ultimate Move",
+        "cooldown": null,
+        "description": "Inflige des dégâts égaux à 283% de l'Attaque et inflige Briseur pendant 10 sec. ※ Briseur: Inflige Étourdissement pendant 4 sec lors de la première application de l'effet. Inflige des dégâts égaux à 150% de la Défense du lanceur. Augmente les dégâts subis du lanceur de 30%."
+      }
+    ],
+    "potentials": [
+      {
+        "tier": 1,
+        "text": "Increases Attack by 10%, Defense by 8%, and Max HP by 3%.",
+        "items": [
+          "Increases Attack by 10%, Defense by 8%, and Max HP by 3%."
+        ]
+      },
+      {
+        "tier": 2,
+        "text": "Increases damage dealt with Normal Attacks by 40%. 1st hit: 29% 2nd hit: 35% 3rd hit: 58%",
+        "items": [
+          "Increases damage dealt with Normal Attacks by 40%. 1st hit: 29% 2nd hit: 35% 3rd hit: 58%"
+        ]
+      },
+      {
+        "tier": 3,
+        "text": "Increases Attack by 15%, Defense by 12%, and Max HP by 5%.",
+        "items": [
+          "Increases Attack by 15%, Defense by 12%, and Max HP by 5%."
+        ]
+      },
+      {
+        "tier": 4,
+        "text": "Increases damage dealt with the Special Attack by 50%.",
+        "items": [
+          "Increases damage dealt with the Special Attack by 50%."
+        ]
+      },
+      {
+        "tier": 5,
+        "text": "Inflicts damage equal to 240% of Defense 3 sec after landing the Normal Skill on an enemy. Increases damage dealt by 100% if they are affected by Breaker.",
+        "items": [
+          "Inflicts damage equal to 240% of Defense 3 sec after landing the Normal Skill on an enemy. Increases damage dealt by 100% if they are affected by Breaker."
+        ]
+      },
+      {
+        "tier": 6,
+        "text": "Increases damage dealt with the Normal Skill by 60%.",
+        "items": [
+          "Increases damage dealt with the Normal Skill by 60%."
+        ]
+      },
+      {
+        "tier": 7,
+        "text": "Slightly increases the range of the Special Attack and increases damage dealt by 20%.",
+        "items": [
+          "Slightly increases the range of the Special Attack and increases damage dealt by 20%."
+        ]
+      },
+      {
+        "tier": 8,
+        "text": "Increases Attack by 25%, Defense by 20%, and Max HP by 8%.",
+        "items": [
+          "Increases Attack by 25%, Defense by 20%, and Max HP by 8%."
+        ]
+      },
+      {
+        "tier": 9,
+        "text": "Increases damage dealt with the Ultimate Move by 50%.",
+        "items": [
+          "Increases damage dealt with the Ultimate Move by 50%."
+        ]
+      },
+      {
+        "tier": 10,
+        "text": "Increases Breaker's damage dealt by 100% and the hero's damage dealt by 50%",
+        "items": [
+          "Increases Breaker's damage dealt by 100% and the hero's damage dealt by 50%"
+        ]
+      }
+    ],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/diane"
+  },
+  {
+    "id": "diane::Axe",
+    "character_id": "diane",
+    "name": "Axe",
+    "type": null,
+    "rarity": null,
+    "skills": [],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/diane"
+  },
+  {
+    "id": "diane::Nunchaku",
+    "character_id": "diane",
+    "name": "Nunchaku",
+    "type": null,
+    "rarity": null,
+    "skills": [],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/diane"
+  },
+  {
+    "id": "diane::Cudgel",
+    "character_id": "diane",
+    "name": "Cudgel",
+    "type": null,
+    "rarity": null,
+    "skills": [],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/diane"
+  },
+  {
+    "id": "king::Book",
+    "character_id": "king",
+    "name": "Book",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "Vol",
+        "kind": "Adventure Skill",
+        "cooldown": null,
+        "description": ""
+      },
+      {
+        "name": "Roi des Fées",
+        "kind": "Passive",
+        "cooldown": null,
+        "description": "Diminue les dégâts reçus de tous les héros alliés de 20% et augmente l'Efficacité de Soin du héros de 50% lorsque les PV sont à 30% ou moins. Attaque Normale Attaque Normale Inflige des dégâts égaux à 99% de l'Attaque. 20% de chances d'infliger Marque de la Forêt pendant 10 sec. (Max : 10 fois) 1er coup : 15% 2ème coup : 16% 3ème coup : 26% 4ème coup : 42% ※ Marque de la Forêt : Augmente les dégâts reçus de 1% et les dégâts de Terre reçus de 3%. Attaque Spéciale Spécial Diminue les dégâts reçus de 20% et augmente l'Efficacité de Soin de 3% toutes les 0,5 sec pendant 10 sec tant que la posture est maintenue. (Max : 15%) Lorsque touché, la posture est retirée, puis le héros inflige des dégâts égaux à 99% de l'Attaque et restaure les PV de 30% de l'Attaque. Augmente les dégâts infligés de 5% par Marque de la Forêt sur l'ennemi."
+      },
+      {
+        "name": "Protecteur de la Forêt",
+        "kind": "Normal Skill",
+        "cooldown": null,
+        "description": "Inflige des dégâts égaux à 166% de l'Attaque, puis inflige Marque de la Forêt pendant 10 sec. (Max : 10 fois) ※ Marque de la Forêt : Augmente les dégâts reçus de 8 et les dégâts de Terre reçus de 9."
+      },
+      {
+        "name": "Arc Supérieur",
+        "kind": "Tag Skill",
+        "cooldown": null,
+        "description": "Inflige des dégâts égaux à 82% de l'Attaque."
+      },
+      {
+        "name": "Protection de la Forêt",
+        "kind": "Ultimate Move",
+        "cooldown": null,
+        "description": "Accorde Protection de la Forêt à tous les héros alliés pendant 20 sec. ※ Protection de la Forêt : Accorde une barrière égale à 50% des PV Max. Restaure les PV de 35% de l'Attaque toutes les 2 sec."
+      }
+    ],
+    "potentials": [
+      {
+        "tier": 1,
+        "text": "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%.",
+        "items": [
+          "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%."
+        ]
+      },
+      {
+        "tier": 2,
+        "text": "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 20% 2ème coup: 22% 3ème coup: 36% 4ème coup: 59%",
+        "items": [
+          "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 20% 2ème coup: 22% 3ème coup: 36% 4ème coup: 59%"
+        ]
+      },
+      {
+        "tier": 3,
+        "text": "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%.",
+        "items": [
+          "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%."
+        ]
+      },
+      {
+        "tier": 4,
+        "text": "Augmente la Récupération de PV de l'Attaque Spéciale de 50%.",
+        "items": [
+          "Augmente la Récupération de PV de l'Attaque Spéciale de 50%."
+        ]
+      },
+      {
+        "tier": 5,
+        "text": "Devient immunisé aux Réactions et diminue les dégâts reçus de 30% lors de l'utilisation de l'Attaque Spéciale tant que la posture est maintenue.",
+        "items": [
+          "Devient immunisé aux Réactions et diminue les dégâts reçus de 30% lors de l'utilisation de l'Attaque Spéciale tant que la posture est maintenue."
+        ]
+      },
+      {
+        "tier": 6,
+        "text": "Augmente les dégâts infligés avec la Compétence Normale de 60%.",
+        "items": [
+          "Augmente les dégâts infligés avec la Compétence Normale de 60%."
+        ]
+      },
+      {
+        "tier": 7,
+        "text": "Augmente le nombre d'effets Marque de la Forêt appliqués par la Compétence Normale de 2 et restaure la Jauge de Magie de 75 pour chaque effet Marque de la Forêt sur l'ennemi.",
+        "items": [
+          "Augmente le nombre d'effets Marque de la Forêt appliqués par la Compétence Normale de 2 et restaure la Jauge de Magie de 75 pour chaque effet Marque de la Forêt sur l'ennemi."
+        ]
+      },
+      {
+        "tier": 8,
+        "text": "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%.",
+        "items": [
+          "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%."
+        ]
+      },
+      {
+        "tier": 9,
+        "text": "Augmente la Récupération de PV de Protection de la Forêt de 50%.",
+        "items": [
+          "Augmente la Récupération de PV de Protection de la Forêt de 50%."
+        ]
+      },
+      {
+        "tier": 10,
+        "text": "Augmente la durée de Protection de la Forêt de 10 sec et augmente la Défense de 20% tant qu'elle est active.",
+        "items": [
+          "Augmente la durée de Protection de la Forêt de 10 sec et augmente la Défense de 20% tant qu'elle est active."
+        ]
+      }
+    ],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/king"
+  },
+  {
+    "id": "king::Wand",
+    "character_id": "king",
+    "name": "Wand",
+    "type": null,
+    "rarity": null,
+    "skills": [],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/king"
+  },
+  {
+    "id": "king::Staff",
+    "character_id": "king",
+    "name": "Staff",
+    "type": null,
+    "rarity": null,
+    "skills": [],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/king"
+  },
+  {
+    "id": "klotho::Rapier",
+    "character_id": "klotho",
+    "name": "Rapier",
+    "type": null,
+    "rarity": null,
+    "skills": [],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/klotho"
+  },
+  {
+    "id": "klotho::Staff",
+    "character_id": "klotho",
+    "name": "Staff",
+    "type": null,
+    "rarity": null,
+    "skills": [],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/klotho"
+  },
+  {
+    "id": "klotho::Book",
+    "character_id": "klotho",
+    "name": "Book",
+    "type": null,
+    "rarity": null,
+    "skills": [],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/klotho"
+  },
+  {
+    "id": "ban::Nunchaku",
+    "character_id": "ban",
+    "name": "Nunchaku",
+    "type": null,
+    "rarity": null,
+    "skills": [],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/ban"
+  },
+  {
+    "id": "ban::Greatsword",
+    "character_id": "ban",
+    "name": "Greatsword",
+    "type": null,
+    "rarity": null,
+    "skills": [],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/ban"
+  },
+  {
+    "id": "ban::Gauntlets",
+    "character_id": "ban",
+    "name": "Gauntlets",
+    "type": null,
+    "rarity": null,
+    "skills": [],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/ban"
+  },
+  {
+    "id": "meliodas::Longsword",
+    "character_id": "meliodas",
+    "name": "Longsword",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "Perspicacité du Capitaine",
+        "kind": "Adventure Skill",
+        "cooldown": null,
+        "description": ""
+      },
+      {
+        "name": "Maître de la Vitesse",
+        "kind": "Passive",
+        "cooldown": null,
+        "description": "Réduit la durée d'Éclatement des Ténèbres de 3 sec et inflige en plus des dégâts égaux à 100% de l'Attaque en touchant avec une compétence un ennemi avec Éclatement des Ténèbres activé. Attaque Normale Normal"
+      },
+      {
+        "name": "Inflige des dégâts égaux à 132% de l'Attaque. 1er coup: 20% 2e coup: 21% 3e coup: 35% 4e coup: 56%",
+        "kind": "Special Attack",
+        "cooldown": null,
+        "description": "Spécial Inflige des dégâts égaux à 132% de l'Attaque et augmente l'Attaque des Ténèbres du héros de 25% pendant 20 sec. (Max: 2 fois) Obtient en plus 1 effet(s) en touchant un ennemi avec Éclatement des Ténèbres activé. Attaque en Chaîne Chaîne Inflige des dégâts égaux à 231% de l'Attaque. Restaure la Jauge de Magie de 100 en attaquant un ennemi avec Éclatement des Ténèbres activé."
+      },
+      {
+        "name": "Force des Ténèbres",
+        "kind": "Tag Skill",
+        "cooldown": null,
+        "description": "Inflige des dégâts égaux à 111% de l'Attaque."
+      },
+      {
+        "name": "Croix Ardente",
+        "kind": "Ultimate Move",
+        "cooldown": null,
+        "description": "Inflige des dégâts égaux à 342% de l'Attaque et augmente les dégâts infligés aux ennemis avec Éclatement des Ténèbres activé de 100%, puis supprime l'Éclatement des Ténèbres de la cible."
+      }
+    ],
+    "potentials": [
+      {
+        "tier": 1,
+        "text": "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%.",
+        "items": [
+          "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%."
+        ]
+      },
+      {
+        "tier": 2,
+        "text": "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 28% 2e coup: 29% 3e coup: 49% 4e coup: 78%",
+        "items": [
+          "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 28% 2e coup: 29% 3e coup: 49% 4e coup: 78%"
+        ]
+      },
+      {
+        "tier": 3,
+        "text": "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%.",
+        "items": [
+          "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%."
+        ]
+      },
+      {
+        "tier": 4,
+        "text": "Augmente les dégâts infligés avec l'Attaque Spéciale de 50%.",
+        "items": [
+          "Augmente les dégâts infligés avec l'Attaque Spéciale de 50%."
+        ]
+      },
+      {
+        "tier": 5,
+        "text": "Inflige des dégâts égaux à 100% de l'Attaque aux ennemis proches et restaure en plus la Jauge de Magie de 500 avec le coup final de la Compétence Normale.",
+        "items": [
+          "Inflige des dégâts égaux à 100% de l'Attaque aux ennemis proches et restaure en plus la Jauge de Magie de 500 avec le coup final de la Compétence Normale."
+        ]
+      },
+      {
+        "tier": 6,
+        "text": "Augmente les dégâts infligés avec la Compétence Normale de 60%.",
+        "items": [
+          "Augmente les dégâts infligés avec la Compétence Normale de 60%."
+        ]
+      },
+      {
+        "tier": 7,
+        "text": "Utiliser l'Attaque Spéciale augmente les Chances de Coup Critique du héros de 20% pendant 20 sec.",
+        "items": [
+          "Utiliser l'Attaque Spéciale augmente les Chances de Coup Critique du héros de 20% pendant 20 sec."
+        ]
+      },
+      {
+        "tier": 8,
+        "text": "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%.",
+        "items": [
+          "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%."
+        ]
+      },
+      {
+        "tier": 9,
+        "text": "Augmente les dégâts infligés avec l'Attaque Finale de 50%.",
+        "items": [
+          "Augmente les dégâts infligés avec l'Attaque Finale de 50%."
+        ]
+      },
+      {
+        "tier": 10,
+        "text": "Inflige en plus des dégâts égaux à 350% de l'Attaque en utilisant l'Attaque Finale.",
+        "items": [
+          "Inflige en plus des dégâts égaux à 350% de l'Attaque en utilisant l'Attaque Finale."
+        ]
+      }
+    ],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/meliodas"
+  },
+  {
+    "id": "meliodas::Axe",
+    "character_id": "meliodas",
+    "name": "Axe",
+    "type": null,
+    "rarity": null,
+    "skills": [],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/meliodas"
+  },
+  {
+    "id": "meliodas::Dual Swords",
+    "character_id": "meliodas",
+    "name": "Dual Swords",
+    "type": null,
+    "rarity": null,
+    "skills": [],
+    "potentials": [],
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/meliodas"
+  }
+]

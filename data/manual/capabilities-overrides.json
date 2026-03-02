@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "notes": "Overrides manuels: skill_id / weapon_kit_id / character_id → capabilities (bool).",
+  "skills": {},
+  "weapon_kits": {},
+  "characters": {}
+}

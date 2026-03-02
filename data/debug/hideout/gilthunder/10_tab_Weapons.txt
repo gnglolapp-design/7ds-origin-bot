@@ -1,0 +1,71 @@
+HIDEOUT GUIDES
+Home
+Games
+About
+Discord
+Ko-fi
+← Characters
+Gilthunder
+Basic Info
+Weapons
+Armor
+Potentials
+
+Longsword
+
+Shield
+
+Lance
+
+Lightning
+Longsword
+Lightning
+Passive
+
+Thunderbolt
+
+Additionally increases Burst damage by 20 when hitting a Shocked enemy. When hero activates Lightning Burst, enemy's Lightning Defense decreases by 15% for 20 sec.
+
+Normal Attack
+
+Normal Attack
+
+Inflicts damage equal to 108% of Attack.
+
+Special Attack
+
+Special Attack
+
+11 sec cooldown. Inflicts damage equal to 109% of Attack and increases enemy's Shock duration by 3 sec.
+
+Normal Skill
+
+Lightning Sword
+
+17 sec cooldown. Inflicts damage equal to 176% of Attack and inflicts Shock for 10 sec. Shock: inflicts Lightning damage equal to 15% of ATK every 2 sec and inflicts Shock on nearby enemies when hit.
+
+Attack Skill
+
+Lightning Strike
+
+Inflicts damage equal to 86% of Attack.
+
+Ultimate Move
+
+Lightning Flash
+
+10 sec cooldown. Consumes 2 magic. Inflicts damage equal to 281% of Attack and decreases all elemental Burst Resistance of enemies in range by 20%.
+
+HIDEOUT GUIDES
+Games
+Bleach Soul Resonance
+Dragon Traveler
+Dragon Raja Rerise
+Star Sailors
+Seven Deadly Sins: Origin
+Privacy Policy
+Terms of Service
+
+© 2026 Hideout Guides. All rights reserved.
+
+Disclaimer: All game assets, images, and trademarks are property of their respective owners. This site is not affiliated with or endorsed by any game developer or publisher.

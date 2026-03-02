@@ -1,0 +1,849 @@
+{
+  "version": 1,
+  "generated_at": "2026-03-02T18:13:40.657Z",
+  "items": [
+    {
+      "character_id": "ban",
+      "slug": "ban",
+      "name": "Ban",
+      "rarity": "6★",
+      "roles": [
+        "Unknown"
+      ],
+      "elements": [],
+      "weapon_kit_ids": [
+        "ban__kit_1__nunchaku",
+        "ban__kit_2__greatsword",
+        "ban__kit_3__gauntlets"
+      ],
+      "costume_ids": [],
+      "source_refs": {
+        "genshin": true,
+        "hideout": true,
+        "seven_origin": true
+      },
+      "science": {
+        "high_value_protocols": [],
+        "needs_more_testing": []
+      }
+    },
+    {
+      "character_id": "bug",
+      "slug": "bug",
+      "name": "Bug",
+      "rarity": "5★",
+      "roles": [
+        "DPS"
+      ],
+      "elements": [
+        "darkness"
+      ],
+      "weapon_kit_ids": [
+        "bug__kit_1__dual-swords",
+        "bug__kit_2__axe",
+        "bug__kit_3__book"
+      ],
+      "costume_ids": [
+        "bug__costume_1__demon-timide",
+        "bug__costume_2__sortie-du-demon",
+        "bug__costume_3__marche-de-lombre",
+        "bug__costume_4__discretion-du-demon",
+        "bug__costume_5__instinct-aiguise",
+        "bug__costume_6__7dsorigin-gg"
+      ],
+      "source_refs": {
+        "genshin": true,
+        "hideout": true,
+        "seven_origin": true
+      },
+      "science": {
+        "high_value_protocols": [],
+        "needs_more_testing": []
+      }
+    },
+    {
+      "character_id": "klotho",
+      "slug": "klotho",
+      "name": "Clotho",
+      "rarity": "4★",
+      "roles": [
+        "Unknown"
+      ],
+      "elements": [],
+      "weapon_kit_ids": [
+        "klotho__kit_1__rapier",
+        "klotho__kit_2__staff",
+        "klotho__kit_3__book"
+      ],
+      "costume_ids": [],
+      "source_refs": {
+        "genshin": true,
+        "hideout": true,
+        "seven_origin": true
+      },
+      "science": {
+        "high_value_protocols": [],
+        "needs_more_testing": []
+      }
+    },
+    {
+      "character_id": "daisy",
+      "slug": "daisy",
+      "name": "Daisy",
+      "rarity": "5★",
+      "roles": [
+        "Support"
+      ],
+      "elements": [
+        "earth",
+        "thunder",
+        "wind"
+      ],
+      "weapon_kit_ids": [
+        "daisy__kit_1__shield",
+        "daisy__kit_2__book",
+        "daisy__kit_3__wand",
+        "daisy__kit_4__staff"
+      ],
+      "costume_ids": [
+        "daisy__costume_1__fee-du-passe",
+        "daisy__costume_2__petite-exploratrice",
+        "daisy__costume_3__parfum-dautomne",
+        "daisy__costume_4__7dsorigin-gg"
+      ],
+      "source_refs": {
+        "genshin": true,
+        "hideout": true,
+        "seven_origin": true
+      },
+      "science": {
+        "high_value_protocols": [],
+        "needs_more_testing": []
+      }
+    },
+    {
+      "character_id": "derieri",
+      "slug": "derieri",
+      "name": "Derieri",
+      "rarity": "5★",
+      "roles": [
+        "Unknown"
+      ],
+      "elements": [],
+      "weapon_kit_ids": [
+        "derieri__kit_1__gauntlets",
+        "derieri__kit_2__axe",
+        "derieri__kit_3__greatsword"
+      ],
+      "costume_ids": [],
+      "source_refs": {
+        "genshin": true,
+        "hideout": true,
+        "seven_origin": true
+      },
+      "science": {
+        "high_value_protocols": [],
+        "needs_more_testing": []
+      }
+    },
+    {
+      "character_id": "diane",
+      "slug": "diane",
+      "name": "Diane",
+      "rarity": "5★",
+      "roles": [
+        "DPS",
+        "Défense"
+      ],
+      "elements": [
+        "earth"
+      ],
+      "weapon_kit_ids": [
+        "diane__kit_1__gauntlets",
+        "diane__kit_2__axe",
+        "diane__kit_3__nunchaku",
+        "diane__kit_4__cudgel"
+      ],
+      "costume_ids": [
+        "diane__costume_1__geante-amoureuse",
+        "diane__costume_2__hotesse-de-taverne",
+        "diane__costume_3__le-peche-de-lenvie-du-serpent",
+        "diane__costume_4__fille-joyeuse",
+        "diane__costume_5__7dsorigin-gg"
+      ],
+      "source_refs": {
+        "genshin": true,
+        "hideout": true,
+        "seven_origin": true
+      },
+      "science": {
+        "high_value_protocols": [],
+        "needs_more_testing": []
+      }
+    },
+    {
+      "character_id": "drake",
+      "slug": "drake",
+      "name": "Drake",
+      "rarity": "5★",
+      "roles": [
+        "DPS"
+      ],
+      "elements": [
+        "thunder"
+      ],
+      "weapon_kit_ids": [
+        "drake__kit_1__greatsword",
+        "drake__kit_2__staff",
+        "drake__kit_3__longsword",
+        "drake__kit_4__wand"
+      ],
+      "costume_ids": [
+        "drake__costume_1__descendant-du-dragon",
+        "drake__costume_2__serment-du-trone",
+        "drake__costume_3__gloire-du-passe",
+        "drake__costume_4__seigneur-de-lombre",
+        "drake__costume_5__7dsorigin-gg"
+      ],
+      "source_refs": {
+        "genshin": true,
+        "hideout": true,
+        "seven_origin": true
+      },
+      "science": {
+        "high_value_protocols": [],
+        "needs_more_testing": []
+      }
+    },
+    {
+      "character_id": "dreydrin",
+      "slug": "dreydrin",
+      "name": "Dreydrin",
+      "rarity": "5★",
+      "roles": [
+        "Tank"
+      ],
+      "elements": [
+        "earth",
+        "physical",
+        "holy"
+      ],
+      "weapon_kit_ids": [
+        "dreydrin__kit_1__shield",
+        "dreydrin__kit_2__axe",
+        "dreydrin__kit_3__rapier"
+      ],
+      "costume_ids": [
+        "dreydrin__costume_1__apprenti-chevalier-sacre-amical",
+        "dreydrin__costume_2__un-beau-jour-de-repos",
+        "dreydrin__costume_3__descendant-de-la-royaute",
+        "dreydrin__costume_4__preparation-minutieuse",
+        "dreydrin__costume_5__defense-solide",
+        "dreydrin__costume_6__7dsorigin-gg"
+      ],
+      "source_refs": {
+        "genshin": true,
+        "hideout": true,
+        "seven_origin": true
+      },
+      "science": {
+        "high_value_protocols": [],
+        "needs_more_testing": []
+      }
+    },
+    {
+      "character_id": "dreyfus",
+      "slug": "dreyfus",
+      "name": "Dreyfus",
+      "rarity": "5★",
+      "roles": [
+        "Tank"
+      ],
+      "elements": [
+        "physical",
+        "earth",
+        "holy"
+      ],
+      "weapon_kit_ids": [
+        "dreyfus__kit_1__rapier",
+        "dreyfus__kit_2__longsword",
+        "dreyfus__kit_3__lance"
+      ],
+      "costume_ids": [
+        "dreyfus__costume_1__instructeur-dart-de-lepee-du-royaume",
+        "dreyfus__costume_2__majordome-royal",
+        "dreyfus__costume_3__honneur-du-vieux-soldat",
+        "dreyfus__costume_4__tenue-simple",
+        "dreyfus__costume_5__chevalier-honorable",
+        "dreyfus__costume_6__7dsorigin-gg"
+      ],
+      "source_refs": {
+        "genshin": true,
+        "hideout": true,
+        "seven_origin": true
+      },
+      "science": {
+        "high_value_protocols": [],
+        "needs_more_testing": []
+      }
+    },
+    {
+      "character_id": "elaine",
+      "slug": "elaine",
+      "name": "Elaine",
+      "rarity": "5★",
+      "roles": [
+        "Support",
+        "DPS"
+      ],
+      "elements": [
+        "wind",
+        "holy",
+        "earth"
+      ],
+      "weapon_kit_ids": [
+        "elaine__kit_1__book",
+        "elaine__kit_2__wand",
+        "elaine__kit_3__staff"
+      ],
+      "costume_ids": [
+        "elaine__costume_1__sainte-gardienne-de-la-fontaine-de-jeunesse",
+        "elaine__costume_2__employee-temporaire",
+        "elaine__costume_3__lumiere-directrice",
+        "elaine__costume_4__sortie-joyeuse",
+        "elaine__costume_5__dignite-de-la-sainte",
+        "elaine__costume_6__7dsorigin-gg"
+      ],
+      "source_refs": {
+        "genshin": true,
+        "hideout": true,
+        "seven_origin": true
+      },
+      "science": {
+        "high_value_protocols": [],
+        "needs_more_testing": []
+      }
+    },
+    {
+      "character_id": "elizabeth",
+      "slug": "elizabeth",
+      "name": "Elizabeth",
+      "rarity": "5★",
+      "roles": [
+        "Unknown"
+      ],
+      "elements": [],
+      "weapon_kit_ids": [
+        "elizabeth__kit_1__wand",
+        "elizabeth__kit_2__staff"
+      ],
+      "costume_ids": [],
+      "source_refs": {
+        "genshin": true,
+        "hideout": true,
+        "seven_origin": true
+      },
+      "science": {
+        "high_value_protocols": [],
+        "needs_more_testing": []
+      }
+    },
+    {
+      "character_id": "escanor",
+      "slug": "escanor",
+      "name": "Escanor",
+      "rarity": "5★",
+      "roles": [
+        "Unknown"
+      ],
+      "elements": [],
+      "weapon_kit_ids": [
+        "escanor__kit_1__axe",
+        "escanor__kit_2__greatsword",
+        "escanor__kit_3__shield"
+      ],
+      "costume_ids": [],
+      "source_refs": {
+        "genshin": true,
+        "hideout": true,
+        "seven_origin": true
+      },
+      "science": {
+        "high_value_protocols": [],
+        "needs_more_testing": []
+      }
+    },
+    {
+      "character_id": "gilthunder",
+      "slug": "gilthunder",
+      "name": "Gilthunder",
+      "rarity": "5★",
+      "roles": [
+        "DPS",
+        "Défense"
+      ],
+      "elements": [
+        "thunder"
+      ],
+      "weapon_kit_ids": [
+        "gilthunder__kit_1__longsword",
+        "gilthunder__kit_2__shield",
+        "gilthunder__kit_3__lance"
+      ],
+      "costume_ids": [
+        "gilthunder__costume_1__jeune-chevalier-sacre",
+        "gilthunder__costume_2__chevalier-sacre-exemplaire",
+        "gilthunder__costume_3__chevalier-sacre-de-la-foudre",
+        "gilthunder__costume_4__aventure-exemplaire",
+        "gilthunder__costume_5__chevalier-sacre-prometteur",
+        "gilthunder__costume_6__7dsorigin-gg"
+      ],
+      "source_refs": {
+        "genshin": true,
+        "hideout": true,
+        "seven_origin": true
+      },
+      "science": {
+        "high_value_protocols": [],
+        "needs_more_testing": []
+      }
+    },
+    {
+      "character_id": "gowther",
+      "slug": "gowther",
+      "name": "Gowther",
+      "rarity": "5★",
+      "roles": [
+        "Unknown"
+      ],
+      "elements": [],
+      "weapon_kit_ids": [
+        "gowther__kit_1__book",
+        "gowther__kit_2__wand",
+        "gowther__kit_3__staff"
+      ],
+      "costume_ids": [],
+      "source_refs": {
+        "genshin": true,
+        "hideout": true,
+        "seven_origin": true
+      },
+      "science": {
+        "high_value_protocols": [],
+        "needs_more_testing": []
+      }
+    },
+    {
+      "character_id": "griamore",
+      "slug": "griamore",
+      "name": "Griamore",
+      "rarity": "5★",
+      "roles": [
+        "Tank",
+        "Défense"
+      ],
+      "elements": [
+        "physical"
+      ],
+      "weapon_kit_ids": [
+        "griamore__kit_1__shield",
+        "griamore__kit_2__cudgel",
+        "griamore__kit_3__gauntlets",
+        "griamore__kit_4__nunchaku"
+      ],
+      "costume_ids": [
+        "griamore__costume_1__chevalier-gardien-de-la-princesse",
+        "griamore__costume_2__sortie-decontractee",
+        "griamore__costume_3__chevalier-sacre-du-mur-de-fer",
+        "griamore__costume_4__barricade-de-fortune",
+        "griamore__costume_5__forteresse-de-fer-imprenable",
+        "griamore__costume_6__7dsorigin-gg"
+      ],
+      "source_refs": {
+        "genshin": true,
+        "hideout": true,
+        "seven_origin": true
+      },
+      "science": {
+        "high_value_protocols": [],
+        "needs_more_testing": []
+      }
+    },
+    {
+      "character_id": "guila",
+      "slug": "guila",
+      "name": "Guila",
+      "rarity": "5★",
+      "roles": [
+        "DPS",
+        "Défense"
+      ],
+      "elements": [
+        "fire"
+      ],
+      "weapon_kit_ids": [
+        "guila__kit_1__lance",
+        "guila__kit_2__shield",
+        "guila__kit_3__rapier"
+      ],
+      "costume_ids": [
+        "guila__costume_1__lunique-et-seul-chevalier-sacre",
+        "guila__costume_2__temps-en-famille",
+        "guila__costume_3__chevalier-sacre-des-explosions",
+        "guila__costume_4__pas-legers",
+        "guila__costume_5__trainee-de-flamme-ecarlate",
+        "guila__costume_6__7dsorigin-gg"
+      ],
+      "source_refs": {
+        "genshin": true,
+        "hideout": true,
+        "seven_origin": true
+      },
+      "science": {
+        "high_value_protocols": [],
+        "needs_more_testing": []
+      }
+    },
+    {
+      "character_id": "hendrickson",
+      "slug": "hendrickson",
+      "name": "Hendrickson",
+      "rarity": "5★",
+      "roles": [
+        "Support",
+        "DPS"
+      ],
+      "elements": [
+        "holy",
+        "physical",
+        "darkness"
+      ],
+      "weapon_kit_ids": [
+        "hendrickson__kit_1__dual-swords",
+        "hendrickson__kit_2__longsword",
+        "hendrickson__kit_3__lance"
+      ],
+      "costume_ids": [
+        "hendrickson__costume_1__apothicaire-de-liones",
+        "hendrickson__costume_2__gris-romantique",
+        "hendrickson__costume_3__un-costume-des-jeunes-annees",
+        "hendrickson__costume_4__tenue-de-travail-dapothicaire",
+        "hendrickson__costume_5__chevalier-sacre-revenu",
+        "hendrickson__costume_6__7dsorigin-gg"
+      ],
+      "source_refs": {
+        "genshin": true,
+        "hideout": true,
+        "seven_origin": true
+      },
+      "science": {
+        "high_value_protocols": [],
+        "needs_more_testing": []
+      }
+    },
+    {
+      "character_id": "howzer",
+      "slug": "howzer",
+      "name": "Howzer",
+      "rarity": "5★",
+      "roles": [
+        "DPS"
+      ],
+      "elements": [
+        "wind"
+      ],
+      "weapon_kit_ids": [
+        "howzer__kit_1__lance",
+        "howzer__kit_2__gauntlets",
+        "howzer__kit_3__cudgel",
+        "howzer__kit_4__nunchaku"
+      ],
+      "costume_ids": [
+        "howzer__costume_1__grand-maitre-de-confiance",
+        "howzer__costume_2__chope-de-biere-en-fin-de-journee",
+        "howzer__costume_3__chevalier-sacre-des-tempetes",
+        "howzer__costume_4__aventure-securisee",
+        "howzer__costume_5__dignite-du-grand-maitre",
+        "howzer__costume_6__7dsorigin-gg"
+      ],
+      "source_refs": {
+        "genshin": true,
+        "hideout": true,
+        "seven_origin": true
+      },
+      "science": {
+        "high_value_protocols": [],
+        "needs_more_testing": []
+      }
+    },
+    {
+      "character_id": "jericho",
+      "slug": "jericho",
+      "name": "Jericho",
+      "rarity": "5★",
+      "roles": [
+        "DPS",
+        "Défense"
+      ],
+      "elements": [
+        "cold"
+      ],
+      "weapon_kit_ids": [
+        "jericho__kit_1__dual-swords",
+        "jericho__kit_2__lance",
+        "jericho__kit_3__rapier"
+      ],
+      "costume_ids": [
+        "jericho__costume_1__chevaliere-sacree-en-fuite",
+        "jericho__costume_2__moment-de-detente",
+        "jericho__costume_3__chevaliere-sacree-avec-visiere-en-etoile",
+        "jericho__costume_4__voyageuse-secrete",
+        "jericho__costume_5__trace-de-souvenirs",
+        "jericho__costume_6__7dsorigin-gg"
+      ],
+      "source_refs": {
+        "genshin": true,
+        "hideout": true,
+        "seven_origin": true
+      },
+      "science": {
+        "high_value_protocols": [],
+        "needs_more_testing": []
+      }
+    },
+    {
+      "character_id": "king",
+      "slug": "king",
+      "name": "King",
+      "rarity": "5★",
+      "roles": [
+        "Support"
+      ],
+      "elements": [
+        "holy",
+        "physical",
+        "earth"
+      ],
+      "weapon_kit_ids": [
+        "king__kit_1__book",
+        "king__kit_2__wand",
+        "king__kit_3__staff"
+      ],
+      "costume_ids": [
+        "king__costume_1__roi-des-fees-inexperimente",
+        "king__costume_2__pas-de-la-foret",
+        "king__costume_3__le-peche-de-la-paresse-du-grizzly",
+        "king__costume_4__ombre-de-la-foret-profonde",
+        "king__costume_5__7dsorigin-gg"
+      ],
+      "source_refs": {
+        "genshin": true,
+        "hideout": true,
+        "seven_origin": true
+      },
+      "science": {
+        "high_value_protocols": [],
+        "needs_more_testing": []
+      }
+    },
+    {
+      "character_id": "manny",
+      "slug": "manny",
+      "name": "Manny",
+      "rarity": "5★",
+      "roles": [
+        "Support"
+      ],
+      "elements": [
+        "holy",
+        "cold"
+      ],
+      "weapon_kit_ids": [
+        "manny__kit_1__staff",
+        "manny__kit_2__dual-swords",
+        "manny__kit_3__longsword"
+      ],
+      "costume_ids": [
+        "manny__costume_1__pretresse-exaltee",
+        "manny__costume_2__cœur-de-priere",
+        "manny__costume_3__prestige-de-larchi-pretresse",
+        "manny__costume_4__exploration-de-linconnu",
+        "manny__costume_5__7dsorigin-gg"
+      ],
+      "source_refs": {
+        "genshin": true,
+        "hideout": true,
+        "seven_origin": true
+      },
+      "science": {
+        "high_value_protocols": [],
+        "needs_more_testing": []
+      }
+    },
+    {
+      "character_id": "meliodas",
+      "slug": "meliodas",
+      "name": "Meliodas",
+      "rarity": "6★",
+      "roles": [
+        "DPS"
+      ],
+      "elements": [
+        "darkness"
+      ],
+      "weapon_kit_ids": [
+        "meliodas__kit_1__longsword",
+        "meliodas__kit_2__axe",
+        "meliodas__kit_3__dual-swords"
+      ],
+      "costume_ids": [
+        "meliodas__costume_1__proprietaire-de-taverne-ordinaire",
+        "meliodas__costume_2__une-nouvelle-aventure",
+        "meliodas__costume_3__le-peche-du-dragon-de-la-colere",
+        "meliodas__costume_4__7dsorigin-gg"
+      ],
+      "source_refs": {
+        "genshin": true,
+        "hideout": true,
+        "seven_origin": true
+      },
+      "science": {
+        "high_value_protocols": [],
+        "needs_more_testing": []
+      }
+    },
+    {
+      "character_id": "merlin",
+      "slug": "merlin",
+      "name": "Merlin",
+      "rarity": "6★",
+      "roles": [
+        "Unknown"
+      ],
+      "elements": [],
+      "weapon_kit_ids": [
+        "merlin__kit_1__book",
+        "merlin__kit_2__wand",
+        "merlin__kit_3__staff"
+      ],
+      "costume_ids": [],
+      "source_refs": {
+        "genshin": true,
+        "hideout": true,
+        "seven_origin": true
+      },
+      "science": {
+        "high_value_protocols": [],
+        "needs_more_testing": []
+      }
+    },
+    {
+      "character_id": "slader",
+      "slug": "slader",
+      "name": "Slader",
+      "rarity": "5★",
+      "roles": [
+        "DPS"
+      ],
+      "elements": [
+        "fire",
+        "physical"
+      ],
+      "weapon_kit_ids": [
+        "slader__kit_1__greatsword",
+        "slader__kit_2__axe",
+        "slader__kit_3__cudgel",
+        "slader__kit_4__nunchaku"
+      ],
+      "costume_ids": [
+        "slader__costume_1__chevalier-sacre-veteran",
+        "slader__costume_2__ami-loyal",
+        "slader__costume_3__epee-de-lancien-roi",
+        "slader__costume_4__mission-secrete",
+        "slader__costume_5__preparation-totale",
+        "slader__costume_6__7dsorigin-gg"
+      ],
+      "source_refs": {
+        "genshin": true,
+        "hideout": true,
+        "seven_origin": true
+      },
+      "science": {
+        "high_value_protocols": [],
+        "needs_more_testing": []
+      }
+    },
+    {
+      "character_id": "tioreh",
+      "slug": "tioreh",
+      "name": "Tioreh",
+      "rarity": "5★",
+      "roles": [
+        "DPS",
+        "Heal",
+        "Buffer"
+      ],
+      "elements": [
+        "fire",
+        "wind",
+        "earth"
+      ],
+      "weapon_kit_ids": [
+        "tioreh__kit_1__wand",
+        "tioreh__kit_2__staff",
+        "tioreh__kit_3__book"
+      ],
+      "costume_ids": [
+        "tioreh__costume_1__fee-adorable",
+        "tioreh__costume_2__sortie-decontractee",
+        "tioreh__costume_3__fille-de-la-foret-et-de-la-terre",
+        "tioreh__costume_4__debut-de-laventure",
+        "tioreh__costume_5__7dsorigin-gg"
+      ],
+      "source_refs": {
+        "genshin": true,
+        "hideout": true,
+        "seven_origin": true
+      },
+      "science": {
+        "high_value_protocols": [],
+        "needs_more_testing": []
+      }
+    },
+    {
+      "character_id": "tristan",
+      "slug": "tristan",
+      "name": "Tristan",
+      "rarity": "5★",
+      "roles": [
+        "DPS"
+      ],
+      "elements": [
+        "fire",
+        "wind"
+      ],
+      "weapon_kit_ids": [
+        "tristan__kit_1__dual-swords",
+        "tristan__kit_2__longsword",
+        "tristan__kit_3__greatsword"
+      ],
+      "costume_ids": [
+        "tristan__costume_1__petit-prince",
+        "tristan__costume_2__tenue-dentrainement-du-prince",
+        "tristan__costume_3__tenue-formelle",
+        "tristan__costume_4__dignite-royale",
+        "tristan__costume_5__aventure-du-prince",
+        "tristan__costume_6__7dsorigin-gg"
+      ],
+      "source_refs": {
+        "genshin": true,
+        "hideout": true,
+        "seven_origin": true
+      },
+      "science": {
+        "high_value_protocols": [],
+        "needs_more_testing": []
+      }
+    }
+  ]
+}

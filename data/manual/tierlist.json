@@ -1,0 +1,47 @@
+{
+  "version": "v43",
+  "updated_at": "2026-02-27T00:00:00.000Z",
+  "default_view": "general",
+  "views": {
+    "general": {
+      "label": "Général",
+      "description": "Vue globale manuelle du serveur. À remplir librement selon vos critères communautaires.",
+      "tiers": {
+        "S": [],
+        "A": [],
+        "B": [],
+        "C": []
+      }
+    },
+    "boss": {
+      "label": "Boss",
+      "description": "Classement manuel orienté boss et contenu de type raid.",
+      "tiers": {
+        "S": [],
+        "A": [],
+        "B": [],
+        "C": []
+      }
+    },
+    "farm": {
+      "label": "Farm",
+      "description": "Classement manuel orienté farm, confort et vitesse de nettoyage.",
+      "tiers": {
+        "S": [],
+        "A": [],
+        "B": [],
+        "C": []
+      }
+    },
+    "support": {
+      "label": "Support",
+      "description": "Classement manuel orienté utilité d'équipe, buffs, debuffs et sécurité.",
+      "tiers": {
+        "S": [],
+        "A": [],
+        "B": [],
+        "C": []
+      }
+    }
+  }
+}

@@ -1,0 +1,2384 @@
+[
+  {
+    "id": "daisy::Shield",
+    "character_id": "daisy",
+    "name": "Shield",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "Artisan's Touch",
+        "kind": "Adventure Skill",
+        "cooldown": null,
+        "description": ""
+      },
+      {
+        "name": "Expands the crafting queue for consecutive crafting.",
+        "kind": "Normal Attack",
+        "cooldown": null,
+        "description": "Inflicts damage equal to 142% of Attack. Increases damage dealt by 30% when Riding. 1st hit: 21% 2nd hit: 23% 3rd hit: 37% 4th hit: 61%"
+      },
+      {
+        "name": "[Default] Decreases damage taken by 70% while the stance is maintained.",
+        "kind": "Special Attack",
+        "cooldown": "12 sec",
+        "description": "Additionally, nearby enemies are Staggered and the Magic Gauge is restored by 100 every 1 sec. [Riding] Inflicts damage equal to up to 163% of Attack. Consumes 100 Magic Gauge to increase damage by 10% every 0.4 sec while the stance is maintained. Restores Magic by 300 when the stance is maintained for 2 sec."
+      },
+      {
+        "name": "Offbeat Girl",
+        "kind": "Passive",
+        "cooldown": null,
+        "description": "Increases the default state's Magic Charging Efficiency by 50%, and the Ultimate Move does not consume Magic."
+      },
+      {
+        "name": "Go Away / Energy Blast",
+        "kind": "Normal Skill",
+        "cooldown": "18 sec",
+        "description": "[Default] Inflicts damage equal to 174% of Attack. Magic Gauge is restored by 300 if an enemy is struck, and their Earth Resistance is decreased by 20% for 20 sec. [Riding] Inflicts damage equal to 256% of Attack. Each hit consumes 100 of the Magic Gauge to increase damage by 10%. Restores the Magic Gauge by 100 when the same target is hit 5 time(s)."
+      },
+      {
+        "name": "Here Comes Daisy",
+        "kind": "Tag Skill",
+        "cooldown": null,
+        "description": "Inflicts damage equal to 113% of Attack."
+      },
+      {
+        "name": "Help Me, Domby",
+        "kind": "Ultimate Move",
+        "cooldown": "10 sec",
+        "description": "The hero summons and rides Domby for 20 sec. The hero gains Reaction Immunity while riding."
+      }
+    ],
+    "potentials": [
+      {
+        "tier": 1,
+        "text": "Increases Attack by 10%, Defense by 8%, and Max HP by 3%.",
+        "items": [
+          "Increases Attack by 10%, Defense by 8%, and Max HP by 3%."
+        ]
+      },
+      {
+        "tier": 2,
+        "text": "Increases damage dealt with Normal Attacks by 40%. 1st hit: 29% 2nd hit: 32% 3rd hit: 52% 4th hit: 85%",
+        "items": [
+          "Increases damage dealt with Normal Attacks by 40%. 1st hit: 29% 2nd hit: 32% 3rd hit: 52% 4th hit: 85%"
+        ]
+      },
+      {
+        "tier": 3,
+        "text": "Increases Attack by 15%, Defense by 12%, and Max HP by 5%.",
+        "items": [
+          "Increases Attack by 15%, Defense by 12%, and Max HP by 5%."
+        ]
+      },
+      {
+        "tier": 4,
+        "text": "Increases damage dealt with the Special Attack by 50%.",
+        "items": [
+          "Increases damage dealt with the Special Attack by 50%."
+        ]
+      },
+      {
+        "tier": 5,
+        "text": "Using the Special Attack does not decrease Movement Speed, and its range is greatly increased. The Magic Gauge recovery from Staggering nearby enemies increases by 100%.",
+        "items": [
+          "Using the Special Attack does not decrease Movement Speed, and its range is greatly increased. The Magic Gauge recovery from Staggering nearby enemies increases by 100%."
+        ]
+      },
+      {
+        "tier": 6,
+        "text": "Decreases the Magic consumption of the Special Attack and Normal Skill when riding by 50%.",
+        "items": [
+          "Decreases the Magic consumption of the Special Attack and Normal Skill when riding by 50%."
+        ]
+      },
+      {
+        "tier": 7,
+        "text": "Slightly increases the range of the Normal Skill while riding. Taking damage from a Normal Skill increases the enemy's damage taken by 20%.",
+        "items": [
+          "Slightly increases the range of the Normal Skill while riding. Taking damage from a Normal Skill increases the enemy's damage taken by 20%."
+        ]
+      },
+      {
+        "tier": 8,
+        "text": "Increases Attack by 25%, Defense by 20%, and Max HP by 8%.",
+        "items": [
+          "Increases Attack by 25%, Defense by 20%, and Max HP by 8%."
+        ]
+      },
+      {
+        "tier": 9,
+        "text": "Increases damage dealt with the Normal Skill by 90% and increases the riding duration by 10 sec.",
+        "items": [
+          "Increases damage dealt with the Normal Skill by 90% and increases the riding duration by 10 sec."
+        ]
+      },
+      {
+        "tier": 10,
+        "text": "Changes the Normal Skill into a skill that can be used 2 time(s) while riding. The Special Attack's damage dealt increases by 100% when fully charged.",
+        "items": [
+          "Changes the Normal Skill into a skill that can be used 2 time(s) while riding. The Special Attack's damage dealt increases by 100% when fully charged."
+        ]
+      }
+    ],
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/daisy"
+  },
+  {
+    "id": "diane::Gauntlets",
+    "character_id": "diane",
+    "name": "Gauntlets",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "Summon Rock",
+        "kind": "Adventure Skill",
+        "cooldown": null,
+        "description": "Gathers the power of the earth to summon rocks from the ground."
+      },
+      {
+        "name": "Giant Girl",
+        "kind": "Passive",
+        "cooldown": null,
+        "description": "Additionally inflicts damage equal to 10% of Defense when attacking the enemy."
+      },
+      {
+        "name": "Normal Attack",
+        "kind": "Normal Attack",
+        "cooldown": null,
+        "description": "Inflicts damage equal to 111% of Attack. 1st hit: 17% 2nd hit: 18% 3rd hit: 29% 4th hit: 47%"
+      },
+      {
+        "name": "Special Attack",
+        "kind": "Special Attack",
+        "cooldown": "10 sec",
+        "description": "Inflicts damage equal to 120% of Attack. 50% chance to reset the Normal Skill cooldown on the final strike."
+      },
+      {
+        "name": "Martial Drive",
+        "kind": "Normal Skill",
+        "cooldown": "15 sec",
+        "description": "Inflicts damage equal to 192% of Attack. Increases the hero's Defense by 30% for 10 sec."
+      },
+      {
+        "name": "Rock Down",
+        "kind": "Tag Skill",
+        "cooldown": null,
+        "description": "Inflicts damage equal to 94% of Attack and Taunts for 3 sec."
+      },
+      {
+        "name": "Metal Drop",
+        "kind": "Ultimate Move",
+        "cooldown": "10 sec",
+        "description": "Inflicts damage equal to 286% of Attack and gains Heavy Metal for 15 sec. ※ Heavy Metal: Becomes immune to Reactions. Increases the enemy's Burst Gauge by 50 and increases the hero's Shatter Resistance by 3% for 20 sec when hit. (Max: 30%)"
+      }
+    ],
+    "potentials": [
+      {
+        "tier": 1,
+        "text": "Increases Attack by 10%, Defense by 8%, and Max HP by 3%.",
+        "items": [
+          "Increases Attack by 10%, Defense by 8%, and Max HP by 3%."
+        ]
+      },
+      {
+        "tier": 2,
+        "text": "Increases damage dealt with Normal Attacks by 40%. 1st hit: 23% 2nd hit: 25% 3rd hit: 41% 4th hit: 67%",
+        "items": [
+          "Increases damage dealt with Normal Attacks by 40%. 1st hit: 23% 2nd hit: 25% 3rd hit: 41% 4th hit: 67%"
+        ]
+      },
+      {
+        "tier": 3,
+        "text": "Increases Attack by 15%, Defense by 12%, and Max HP by 5%.",
+        "items": [
+          "Increases Attack by 15%, Defense by 12%, and Max HP by 5%."
+        ]
+      },
+      {
+        "tier": 4,
+        "text": "Increases damage dealt with the Special Attack by 50%.",
+        "items": [
+          "Increases damage dealt with the Special Attack by 50%."
+        ]
+      },
+      {
+        "tier": 5,
+        "text": "100% chance to reset the Normal Skill cooldown and increase damage dealt with the Normal Skill by 50% once when landing the final strike of the Special Attack.",
+        "items": [
+          "100% chance to reset the Normal Skill cooldown and increase damage dealt with the Normal Skill by 50% once when landing the final strike of the Special Attack."
+        ]
+      },
+      {
+        "tier": 6,
+        "text": "Increases damage dealt with the Normal Skill by 60%.",
+        "items": [
+          "Increases damage dealt with the Normal Skill by 60%."
+        ]
+      },
+      {
+        "tier": 7,
+        "text": "Additionally inflicts damage equal to 270% of Attack when using the Ultimate Move.",
+        "items": [
+          "Additionally inflicts damage equal to 270% of Attack when using the Ultimate Move."
+        ]
+      },
+      {
+        "tier": 8,
+        "text": "Increases Attack by 25%, Defense by 20%, and Max HP by 8%.",
+        "items": [
+          "Increases Attack by 25%, Defense by 20%, and Max HP by 8%."
+        ]
+      },
+      {
+        "tier": 9,
+        "text": "Increases damage dealt with the Ultimate Move by 50%.",
+        "items": [
+          "Increases damage dealt with the Ultimate Move by 50%."
+        ]
+      },
+      {
+        "tier": 10,
+        "text": "Increases damage dealt by the Special Attack's final strike by 300% and decreases the enemy's Earth Defense by 30% for 20 sec.",
+        "items": [
+          "Increases damage dealt by the Special Attack's final strike by 300% and decreases the enemy's Earth Defense by 30% for 20 sec."
+        ]
+      }
+    ],
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/diane"
+  },
+  {
+    "id": "drake::Greatsword",
+    "character_id": "drake",
+    "name": "Greatsword",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "Treasure Detection",
+        "kind": "Adventure Skill",
+        "cooldown": null,
+        "description": "Highlights nearby treasure chests by detecting the faint energy lingering in them. Acquiring this hero grants the effect across your account."
+      },
+      {
+        "name": "Dragon King",
+        "kind": "Passive",
+        "cooldown": null,
+        "description": "25% chance to decrease the cooldown of the Normal Skill by 2 sec when using a Normal Attack on an enemy with Lightning Burst activated."
+      },
+      {
+        "name": "Normal Attack",
+        "kind": "Normal Attack",
+        "cooldown": null,
+        "description": "Inflicts damage equal to 164% of Attack. 1st hit: 16% 2nd hit: 19% 3rd hit: 28% 4th hit: 44% 5th hit: 57%"
+      },
+      {
+        "name": "Special Attack",
+        "kind": "Special Attack",
+        "cooldown": "9 sec",
+        "description": "Inflicts damage equal to 124% of Attack. Increases the Burst duration by 2 sec each time the attack hits an enemy with Lightning Burst activated."
+      },
+      {
+        "name": "Lightning Stream",
+        "kind": "Normal Skill",
+        "cooldown": "21 sec",
+        "description": "Inflicts damage equal to 230% of Attack. The hero gains King's Magic for 10 sec when attacking an enemy with Lightning Burst activated. (Max: 3) ※ King's Magic: Increases Lightning Attack by 10% and Crit Chance by 5% for every 1 effect(s)."
+      },
+      {
+        "name": "Lightning Dragon Strike",
+        "kind": "Tag Skill",
+        "cooldown": null,
+        "description": "Inflicts damage equal to 104% of Attack. Gains King of the Dracos for 15 sec when attacking an enemy with Lightning Burst activated. ※ King of the Dracos: Consumes 5% Stamina every 1 sec to decrease the cooldown of the Normal Skill by 3 sec."
+      },
+      {
+        "name": "Lightning Dragon's Wrath",
+        "kind": "Ultimate Move",
+        "cooldown": "10 sec",
+        "description": "Inflicts damage equal to 356% of Attack. Increases damage dealt by 30% per every 1 King's Magic effect on the hero."
+      }
+    ],
+    "potentials": [
+      {
+        "tier": 1,
+        "text": "Increases Attack by 10%, Defense by 8%, and Max HP by 3%.",
+        "items": [
+          "Increases Attack by 10%, Defense by 8%, and Max HP by 3%."
+        ]
+      },
+      {
+        "tier": 2,
+        "text": "Increases damage dealt with Normal Attacks by 40%. 1st hit: 23% 2nd hit: 26% 3rd hit: 40% 4th hit: 61% 5th hit: 80%",
+        "items": [
+          "Increases damage dealt with Normal Attacks by 40%. 1st hit: 23% 2nd hit: 26% 3rd hit: 40% 4th hit: 61% 5th hit: 80%"
+        ]
+      },
+      {
+        "tier": 3,
+        "text": "Increases Attack by 15%, Defense by 12%, and Max HP by 5%.",
+        "items": [
+          "Increases Attack by 15%, Defense by 12%, and Max HP by 5%."
+        ]
+      },
+      {
+        "tier": 4,
+        "text": "Increases damage dealt with the Special Attack by 50%.",
+        "items": [
+          "Increases damage dealt with the Special Attack by 50%."
+        ]
+      },
+      {
+        "tier": 5,
+        "text": "Slightly increases the range of the Special Attack. Decreases Normal Skill cooldown by 3 sec when using the Special Attack on an enemy with Lightning Burst activated.",
+        "items": [
+          "Slightly increases the range of the Special Attack. Decreases Normal Skill cooldown by 3 sec when using the Special Attack on an enemy with Lightning Burst activated."
+        ]
+      },
+      {
+        "tier": 6,
+        "text": "Increases damage dealt with the Normal Skill by 60%.",
+        "items": [
+          "Increases damage dealt with the Normal Skill by 60%."
+        ]
+      },
+      {
+        "tier": 7,
+        "text": "Increases the maximum number of King's Magic granted by the Normal Skill by 2. Increases the duration of the hero's King of the Dracos effect by 1 sec when landing the Normal Skill.",
+        "items": [
+          "Increases the maximum number of King's Magic granted by the Normal Skill by 2. Increases the duration of the hero's King of the Dracos effect by 1 sec when landing the Normal Skill."
+        ]
+      },
+      {
+        "tier": 8,
+        "text": "Increases Attack by 25%, Defense by 20%, and Max HP by 8%.",
+        "items": [
+          "Increases Attack by 25%, Defense by 20%, and Max HP by 8%."
+        ]
+      },
+      {
+        "tier": 9,
+        "text": "Increases damage dealt with the Ultimate Move by 50%.",
+        "items": [
+          "Increases damage dealt with the Ultimate Move by 50%."
+        ]
+      },
+      {
+        "tier": 10,
+        "text": "Additionally inflicts damage equal to 130% of Attack with the first strike of the Ultimate Move.",
+        "items": [
+          "Additionally inflicts damage equal to 130% of Attack with the first strike of the Ultimate Move."
+        ]
+      }
+    ],
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/drake"
+  },
+  {
+    "id": "elaine::Book",
+    "character_id": "elaine",
+    "name": "Book",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "Gentle Breeze",
+        "kind": "Adventure Skill",
+        "cooldown": null,
+        "description": "Charges an object with wind magic."
+      },
+      {
+        "name": "Saintess's Protection",
+        "kind": "Passive",
+        "cooldown": null,
+        "description": "Activating Earth Burst inflicts Petrify on the enemy for 6 sec. Increases all allied heroes' damage dealt to Petrified enemies by 100% when the hero is set to the team. ※ Petrify: Incapacitated. Increases Physical and Earth damage taken by 50%, and decreases damage taken from elements other than Physical and Earth by 75%."
+      },
+      {
+        "name": "Normal Attack",
+        "kind": "Normal Attack",
+        "cooldown": null,
+        "description": "Inflicts damage equal to 116% of Attack. 1st hit: 18% 2nd hit: 19% 3rd hit: 30% 4th hit: 49%"
+      },
+      {
+        "name": "Special Attack",
+        "kind": "Special Attack",
+        "cooldown": "12 sec",
+        "description": "Applies Saintess's Mark to nearby allies and enemies for 20 sec. ※ Saintess's Mark: Effects differ based on the target. Allies: Decreases damage taken by 50% while they have a barrier. Enemies: Decreases Earth Burst Resistance by 30%."
+      },
+      {
+        "name": "Guardian's Blossom",
+        "kind": "Normal Skill",
+        "cooldown": "20 sec",
+        "description": "Grants all allied heroes barriers equal to 300% of Defense for 20 sec. The damage taken by allies with barriers decreases by 20%."
+      },
+      {
+        "name": "Forest Savior",
+        "kind": "Tag Skill",
+        "cooldown": null,
+        "description": "Inflicts damage equal to 86% of Attack. Additionally increases Burst Gauge by 200 when landing a Critical Hit."
+      },
+      {
+        "name": "Dust Seal",
+        "kind": "Ultimate Move",
+        "cooldown": "10 sec",
+        "description": "Inflicts damage equal to 268% of Attack and Binds for 3 sec. Inflicts Petrify for 6 sec when attacking an enemy affected by Saintess's Mark. ※ Petrify: Incapacitated. Increases Physical and Earth damage taken by 50%, and decreases damage taken from elements other than Physical and Earth by 75%."
+      }
+    ],
+    "potentials": [
+      {
+        "tier": 1,
+        "text": "Increases Attack by 10%, Defense by 8%, and Max HP by 3%.",
+        "items": [
+          "Increases Attack by 10%, Defense by 8%, and Max HP by 3%."
+        ]
+      },
+      {
+        "tier": 2,
+        "text": "Increases damage dealt with Normal Attacks by 40%. 1st hit: 24% 2nd hit: 26% 3rd hit: 42% 4th hit: 68%",
+        "items": [
+          "Increases damage dealt with Normal Attacks by 40%. 1st hit: 24% 2nd hit: 26% 3rd hit: 42% 4th hit: 68%"
+        ]
+      },
+      {
+        "tier": 3,
+        "text": "Increases Attack by 15%, Defense by 12%, and Max HP by 5%.",
+        "items": [
+          "Increases Attack by 15%, Defense by 12%, and Max HP by 5%."
+        ]
+      },
+      {
+        "tier": 4,
+        "text": "Increases the duration of the Special Attack's Saintess's Mark by 10 sec.",
+        "items": [
+          "Increases the duration of the Special Attack's Saintess's Mark by 10 sec."
+        ]
+      },
+      {
+        "tier": 5,
+        "text": "Increases the Earth damage of allies with Saintess's Mark by 50%.",
+        "items": [
+          "Increases the Earth damage of allies with Saintess's Mark by 50%."
+        ]
+      },
+      {
+        "tier": 6,
+        "text": "Increases the Normal Skill's barrier by 66%.",
+        "items": [
+          "Increases the Normal Skill's barrier by 66%."
+        ]
+      },
+      {
+        "tier": 7,
+        "text": "Changes the Special Attack into a skill that can be used 2 time(s) and slightly increases its range.",
+        "items": [
+          "Changes the Special Attack into a skill that can be used 2 time(s) and slightly increases its range."
+        ]
+      },
+      {
+        "tier": 8,
+        "text": "Increases Attack by 25%, Defense by 20%, and Max HP by 8%.",
+        "items": [
+          "Increases Attack by 25%, Defense by 20%, and Max HP by 8%."
+        ]
+      },
+      {
+        "tier": 9,
+        "text": "Increases damage dealt with the Ultimate Move by 50%.",
+        "items": [
+          "Increases damage dealt with the Ultimate Move by 50%."
+        ]
+      },
+      {
+        "tier": 10,
+        "text": "Landing the Ultimate Move also inflicts Petrify on enemies without Saintess's Mark for 6 sec. Inflicts Petrify on enemies with Saintess's Mark for 12 sec.",
+        "items": [
+          "Landing the Ultimate Move also inflicts Petrify on enemies without Saintess's Mark for 6 sec. Inflicts Petrify on enemies with Saintess's Mark for 12 sec."
+        ]
+      }
+    ],
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/elaine"
+  },
+  {
+    "id": "guila::Lance",
+    "character_id": "guila",
+    "name": "Lance",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "Flare Charge",
+        "kind": "Adventure Skill",
+        "cooldown": null,
+        "description": "Charges an object with fire magic."
+      },
+      {
+        "name": "Blazing Devil",
+        "kind": "Passive",
+        "cooldown": null,
+        "description": "Gains Impulse for 20 sec when successfully attacking an enemy while not in Demon Form. (Max: 10) ※ Impulse: Increases Crit Chance by 3% per 1 effect(s) while in Demon Form. If the hero has the maximum number of Impulse effects, Normal Skill cooldown decreases by 1 sec when attacking an enemy with Fire Burst activated."
+      },
+      {
+        "name": "Normal Attack",
+        "kind": "Normal Attack",
+        "cooldown": null,
+        "description": "Inflicts damage equal to 135% of Attack. 1st hit: 20% 2nd hit: 22% 3rd hit: 35% 4th hit: 58% Inflicts damage equal to 148% of Attack while in Demon Form. 1st hit: 22% 2nd hit: 24% 3rd hit: 39% 4th hit: 63%"
+      },
+      {
+        "name": "Special Attack",
+        "kind": "Special Attack",
+        "cooldown": "8 sec",
+        "description": "Inflicts damage equal to 139% of Attack, then gains 2 Impulse effect(s). Inflicts damage equal to 160% of Attack and decreases the Normal Skill cooldown by 50% when landing a Critical Hit while in Demon Form."
+      },
+      {
+        "name": "Shot Bombs",
+        "kind": "Normal Skill",
+        "cooldown": "19 sec",
+        "description": "Inflicts damage equal to 198% of Attack, then gains 2 Impulse effect(s). Inflicts damage equal to 211% of Attack and increases damage dealt to enemies with Fire Burst activated by 30% while in Demon Form."
+      },
+      {
+        "name": "Fire Drop",
+        "kind": "Tag Skill",
+        "cooldown": null,
+        "description": "Inflicts damage equal to 119% of Attack."
+      },
+      {
+        "name": "Demon Form",
+        "kind": "Ultimate Move",
+        "cooldown": "30 sec",
+        "description": "Enters Demon Form for 20 sec."
+      }
+    ],
+    "potentials": [
+      {
+        "tier": 1,
+        "text": "Increases Attack by 10%, Defense by 8%, and Max HP by 3%.",
+        "items": [
+          "Increases Attack by 10%, Defense by 8%, and Max HP by 3%."
+        ]
+      },
+      {
+        "tier": 2,
+        "text": "Increases damage dealt with Normal Attacks by 40%. 1st hit: 28% 2nd hit: 31% 3rd hit: 50% 4th hit: 81% Increases damage dealt with Normal Attacks by 50% while in Demon Form. 1st hit: 33% 2nd hit: 35% 3rd hit: 58% 4th hit: 95%",
+        "items": [
+          "Increases damage dealt with Normal Attacks by 40%. 1st hit: 28% 2nd hit: 31% 3rd hit: 50% 4th hit: 81% Increases damage dealt with Normal Attacks by 50% while in Demon Form. 1st hit: 33% 2nd hit: 35% 3rd hit: 58% 4th hit: 95%"
+        ]
+      },
+      {
+        "tier": 3,
+        "text": "Increases Attack by 15%, Defense by 12%, and Max HP by 5%.",
+        "items": [
+          "Increases Attack by 15%, Defense by 12%, and Max HP by 5%."
+        ]
+      },
+      {
+        "tier": 4,
+        "text": "Increases damage dealt with the Special Attack by 50%. Increases damage dealt with the Special Attack by 65% while in Demon Form.",
+        "items": [
+          "Increases damage dealt with the Special Attack by 50%. Increases damage dealt with the Special Attack by 65% while in Demon Form."
+        ]
+      },
+      {
+        "tier": 5,
+        "text": "Increases the casting speed of the Special Attack, and increases the Normal Skill cooldown reduction by 100% while in Demon Form.",
+        "items": [
+          "Increases the casting speed of the Special Attack, and increases the Normal Skill cooldown reduction by 100% while in Demon Form."
+        ]
+      },
+      {
+        "tier": 6,
+        "text": "Increases damage dealt with the Normal Skill by 60%. Increases damage dealt with the Normal Skill by 80% while in Demon Form.",
+        "items": [
+          "Increases damage dealt with the Normal Skill by 60%. Increases damage dealt with the Normal Skill by 80% while in Demon Form."
+        ]
+      },
+      {
+        "tier": 7,
+        "text": "Increases the number of Normal Skill hits by 2 while in Demon Form.",
+        "items": [
+          "Increases the number of Normal Skill hits by 2 while in Demon Form."
+        ]
+      },
+      {
+        "tier": 8,
+        "text": "Increases Attack by 25%, Defense by 20%, and Max HP by 8%.",
+        "items": [
+          "Increases Attack by 25%, Defense by 20%, and Max HP by 8%."
+        ]
+      },
+      {
+        "tier": 9,
+        "text": "Increases damage dealt with the Special Attack by 75%, and damage dealt with the Normal Skill by 60% while in Demon Form.",
+        "items": [
+          "Increases damage dealt with the Special Attack by 75%, and damage dealt with the Normal Skill by 60% while in Demon Form."
+        ]
+      },
+      {
+        "tier": 10,
+        "text": "Inflicts damage equal to 25% of Attack to nearby enemies every 1 sec while in Demon Form.",
+        "items": [
+          "Inflicts damage equal to 25% of Attack to nearby enemies every 1 sec while in Demon Form."
+        ]
+      }
+    ],
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/guila"
+  },
+  {
+    "id": "jericho::Dual Swords",
+    "character_id": "jericho",
+    "name": "Dual Swords",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "Ice Field",
+        "kind": "Adventure Skill",
+        "cooldown": null,
+        "description": "Freezes water in a defined radius while using Stamina."
+      },
+      {
+        "name": "Glacier",
+        "kind": "Passive",
+        "cooldown": null,
+        "description": "Activating Cold Burst inflicts Freeze on the enemy for 6 sec. ※ Freeze: Incapacitated. When hit with a skill, inflicts 20% of damage taken and removes Freeze."
+      },
+      {
+        "name": "Normal Attack",
+        "kind": "Normal Attack",
+        "cooldown": null,
+        "description": "Inflicts damage equal to 107% of Attack. 1st hit: 16% 2nd hit: 17% 3rd hit: 28% 4th hit: 46%"
+      },
+      {
+        "name": "Special Attack",
+        "kind": "Special Attack",
+        "cooldown": "19 sec",
+        "description": "Inflicts damage equal to 111% of Attack. Inflicts Freeze on the target for 6 sec if the hero has a Frozen Saber effect when landing the final strike. ※ Freeze: Incapacitated. When hit with a skill, inflicts 20% of damage taken and removes Freeze."
+      },
+      {
+        "name": "Weapon Enchantment",
+        "kind": "Normal Skill",
+        "cooldown": "20 sec",
+        "description": "Gains Frozen Saber for 15 sec. ※ Frozen Saber: Increases Crit Chance by 30%. Using a Normal Attack teleports the hero behind the enemy to inflict additional damage equal to 50% of Attack and increase their Burst Gauge by 30."
+      },
+      {
+        "name": "Frozen Slash",
+        "kind": "Tag Skill",
+        "cooldown": null,
+        "description": "Inflicts damage equal to 87% of Attack. Inflicts Freeze on the target for 6 sec if they have Cold Burst activated. ※ Freeze: Incapacitated. When hit with a skill, inflicts 20% of damage taken and removes Freeze."
+      },
+      {
+        "name": "Ice Needle",
+        "kind": "Ultimate Move",
+        "cooldown": "10 sec",
+        "description": "Inflicts damage equal to 262% of Attack and decreases Cold Resistance by 20%. If the hero has a Frozen Saber effect, the Ultimate Move's Crit Damage increases by 60%."
+      }
+    ],
+    "potentials": [
+      {
+        "tier": 1,
+        "text": "Increases Attack by 10%, Defense by 8%, and Max HP by 3%.",
+        "items": [
+          "Increases Attack by 10%, Defense by 8%, and Max HP by 3%."
+        ]
+      },
+      {
+        "tier": 2,
+        "text": "Increases damage dealt with Normal Attacks by 40%. 1st hit: 22% 2nd hit: 24% 3rd hit: 39% 4th hit: 65%",
+        "items": [
+          "Increases damage dealt with Normal Attacks by 40%. 1st hit: 22% 2nd hit: 24% 3rd hit: 39% 4th hit: 65%"
+        ]
+      },
+      {
+        "tier": 3,
+        "text": "Increases Attack by 15%, Defense by 12%, and Max HP by 5%.",
+        "items": [
+          "Increases Attack by 15%, Defense by 12%, and Max HP by 5%."
+        ]
+      },
+      {
+        "tier": 4,
+        "text": "Increases damage dealt with the Special Attack by 50%.",
+        "items": [
+          "Increases damage dealt with the Special Attack by 50%."
+        ]
+      },
+      {
+        "tier": 5,
+        "text": "Increases the additional damage of Normal Attacks enhanced by Frozen Saber by 100%.",
+        "items": [
+          "Increases the additional damage of Normal Attacks enhanced by Frozen Saber by 100%."
+        ]
+      },
+      {
+        "tier": 6,
+        "text": "Increases Frozen Saber duration by 50% and Burst Gauge increase by 100%.",
+        "items": [
+          "Increases Frozen Saber duration by 50% and Burst Gauge increase by 100%."
+        ]
+      },
+      {
+        "tier": 7,
+        "text": "The Ultimate Move creates additional afterimages, each inflicting damage equal to 55% of Attack and increasing the Burst Gauge by 200.",
+        "items": [
+          "The Ultimate Move creates additional afterimages, each inflicting damage equal to 55% of Attack and increasing the Burst Gauge by 200."
+        ]
+      },
+      {
+        "tier": 8,
+        "text": "Increases Attack by 25%, Defense by 20%, and Max HP by 8%.",
+        "items": [
+          "Increases Attack by 25%, Defense by 20%, and Max HP by 8%."
+        ]
+      },
+      {
+        "tier": 9,
+        "text": "Increases damage dealt with the Ultimate Move by 50%.",
+        "items": [
+          "Increases damage dealt with the Ultimate Move by 50%."
+        ]
+      },
+      {
+        "tier": 10,
+        "text": "Adds 2 projectile(s) to the Ultimate Move, inflicting damage equal to 320% of Attack.",
+        "items": [
+          "Adds 2 projectile(s) to the Ultimate Move, inflicting damage equal to 320% of Attack."
+        ]
+      }
+    ],
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/jericho"
+  },
+  {
+    "id": "king::Book",
+    "character_id": "king",
+    "name": "Book",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "Flight",
+        "kind": "Adventure Skill",
+        "cooldown": null,
+        "description": "Flies at high speeds to a specific location."
+      },
+      {
+        "name": "Fairy King",
+        "kind": "Passive",
+        "cooldown": null,
+        "description": "Decreases all allied heroes' damage taken by 20% and increases the hero's Healing Efficiency by 50% when HP is 30% or lower."
+      },
+      {
+        "name": "Normal Attack",
+        "kind": "Normal Attack",
+        "cooldown": null,
+        "description": "Inflicts damage equal to 99% of Attack. 20% chance to inflict Mark of the Forest for 10 sec. (Max: 10 times) 1st hit: 15% 2nd hit: 16% 3rd hit: 26% 4th hit: 42%"
+      },
+      {
+        "name": "※ Mark of the Forest: Increases damage taken by 1% and Earth damage taken by 3%.",
+        "kind": "Special Attack",
+        "cooldown": "12 sec",
+        "description": "Decreases damage taken by 20% and increases Healing Efficiency by 3% every 0.5 sec for 10 sec while the stance is maintained. (Max: 15%) When hit, the stance is removed, then the hero inflicts damage equal to 99% of Attack and restores HP by 30% of Attack. Increases damage dealt by 5% per 1 Mark of the Forest on the enemy."
+      },
+      {
+        "name": "Protector of the Forest",
+        "kind": "Normal Skill",
+        "cooldown": "16 sec",
+        "description": "Inflicts damage equal to 166% of Attack, then inflicts Mark of the Forest for 10 sec. (Max: 10 times) ※ Mark of the Forest: Increases damage taken by 8 and Earth damage taken by 9."
+      },
+      {
+        "name": "Upper Arc",
+        "kind": "Tag Skill",
+        "cooldown": null,
+        "description": "Inflicts damage equal to 82% of Attack."
+      },
+      {
+        "name": "Forest's Protection",
+        "kind": "Ultimate Move",
+        "cooldown": "10 sec",
+        "description": "Grants all allied heroes Forest's Protection for 20 sec. ※ Forest's Protection: Grants a barrier equal to 50% of Max HP. Restores HP by 35% of Attack every 2 sec."
+      }
+    ],
+    "potentials": [
+      {
+        "tier": 1,
+        "text": "Increases Attack by 10%, Defense by 8%, and Max HP by 3%.",
+        "items": [
+          "Increases Attack by 10%, Defense by 8%, and Max HP by 3%."
+        ]
+      },
+      {
+        "tier": 2,
+        "text": "Increases damage dealt with Normal Attacks by 40%. 1st hit: 20% 2nd hit: 22% 3rd hit: 36% 4th hit: 59%",
+        "items": [
+          "Increases damage dealt with Normal Attacks by 40%. 1st hit: 20% 2nd hit: 22% 3rd hit: 36% 4th hit: 59%"
+        ]
+      },
+      {
+        "tier": 3,
+        "text": "Increases Attack by 15%, Defense by 12%, and Max HP by 5%.",
+        "items": [
+          "Increases Attack by 15%, Defense by 12%, and Max HP by 5%."
+        ]
+      },
+      {
+        "tier": 4,
+        "text": "Increases the Special Attack's HP Recovery by 50%.",
+        "items": [
+          "Increases the Special Attack's HP Recovery by 50%."
+        ]
+      },
+      {
+        "tier": 5,
+        "text": "Becomes immune to Reactions and decreases damage taken by 30% when using the Special Attack while the stance is maintained.",
+        "items": [
+          "Becomes immune to Reactions and decreases damage taken by 30% when using the Special Attack while the stance is maintained."
+        ]
+      },
+      {
+        "tier": 6,
+        "text": "Increases damage dealt with the Normal Skill by 60%.",
+        "items": [
+          "Increases damage dealt with the Normal Skill by 60%."
+        ]
+      },
+      {
+        "tier": 7,
+        "text": "Increases the Normal Skill's number of Mark of the Forest effects applied by 2, and restores the Magic Gauge by 75 per every 1 Mark of the Forest effect(s) on the enemy.",
+        "items": [
+          "Increases the Normal Skill's number of Mark of the Forest effects applied by 2, and restores the Magic Gauge by 75 per every 1 Mark of the Forest effect(s) on the enemy."
+        ]
+      },
+      {
+        "tier": 8,
+        "text": "Increases Attack by 25%, Defense by 20%, and Max HP by 8%.",
+        "items": [
+          "Increases Attack by 25%, Defense by 20%, and Max HP by 8%."
+        ]
+      },
+      {
+        "tier": 9,
+        "text": "Increases the HP Recovery of Forest's Protection by 50%.",
+        "items": [
+          "Increases the HP Recovery of Forest's Protection by 50%."
+        ]
+      },
+      {
+        "tier": 10,
+        "text": "Increases the duration of Forest's Protection by 10 sec, and increases Defense by 20% while it is active.",
+        "items": [
+          "Increases the duration of Forest's Protection by 10 sec, and increases Defense by 20% while it is active."
+        ]
+      }
+    ],
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/king"
+  },
+  {
+    "id": "manny::Staff",
+    "character_id": "manny",
+    "name": "Staff",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "Starlight Resonation",
+        "kind": "Adventure Skill",
+        "cooldown": null,
+        "description": "Highlights nearby Star Fragments by resonating with them. Acquiring this hero grants the effect across your account."
+      },
+      {
+        "name": "Priestess's Prayer",
+        "kind": "Passive",
+        "cooldown": null,
+        "description": "When an allied hero attacks an enemy affected by Punishment, their Ultimate Move damage increases by 30%."
+      },
+      {
+        "name": "Normal Attack",
+        "kind": "Normal Attack",
+        "cooldown": null,
+        "description": "Inflicts damage equal to 108% of Attack. 1st hit: 16% 2nd hit: 18% 3rd hit: 28% 4th hit: 46%"
+      },
+      {
+        "name": "Special Attack",
+        "kind": "Special Attack",
+        "cooldown": "15 sec",
+        "description": "Grants allies in range the Draco Priestess effect for 15 sec. ※ Draco Priestess: Increases Crit Damage by 30%."
+      },
+      {
+        "name": "Holy Judgment",
+        "kind": "Normal Skill",
+        "cooldown": "21 sec",
+        "description": "Inflicts damage equal to 135% of Attack and inflicts Punishment for 10 sec. Results in a Critical Hit when attacking enemies affected by Punishment. ※ Punishment: Inflicts Holy damage equal to 15% of damage dealt every 0.4 sec."
+      },
+      {
+        "name": "Holy Light",
+        "kind": "Tag Skill",
+        "cooldown": null,
+        "description": "Inflicts damage equal to 87% of Attack."
+      },
+      {
+        "name": "Flash Explosion",
+        "kind": "Ultimate Move",
+        "cooldown": "10 sec",
+        "description": "Inflicts damage equal to 158% of Attack. Inflicts damage equal to 20% of Attack every 1 sec for 5 sec and inflicts Stigmata for 30 sec to enemies in range. Also resets Normal Skill cooldowns of all allied heroes. ※ Stigmata: Decreases All Element Defense by 20%."
+      }
+    ],
+    "potentials": [
+      {
+        "tier": 1,
+        "text": "Increases Attack by 10%, Defense by 8%, and Max HP by 3%.",
+        "items": [
+          "Increases Attack by 10%, Defense by 8%, and Max HP by 3%."
+        ]
+      },
+      {
+        "tier": 2,
+        "text": "Increases damage dealt with Normal Attacks by 40%. 1st hit: 23% 2nd hit: 25% 3rd hit: 39% 4th hit: 64%",
+        "items": [
+          "Increases damage dealt with Normal Attacks by 40%. 1st hit: 23% 2nd hit: 25% 3rd hit: 39% 4th hit: 64%"
+        ]
+      },
+      {
+        "tier": 3,
+        "text": "Increases Attack by 15%, Defense by 12%, and Max HP by 5%.",
+        "items": [
+          "Increases Attack by 15%, Defense by 12%, and Max HP by 5%."
+        ]
+      },
+      {
+        "tier": 4,
+        "text": "Increases damage dealt with the Normal Skill by 30%.",
+        "items": [
+          "Increases damage dealt with the Normal Skill by 30%."
+        ]
+      },
+      {
+        "tier": 5,
+        "text": "Increases the duration of the Special Attack by 5 sec, and increases the Crit Damage boost of Draco Priestess by 50%.",
+        "items": [
+          "Increases the duration of the Special Attack by 5 sec, and increases the Crit Damage boost of Draco Priestess by 50%."
+        ]
+      },
+      {
+        "tier": 6,
+        "text": "Increases the duration of the Normal Skill's Punishment by 15 sec.",
+        "items": [
+          "Increases the duration of the Normal Skill's Punishment by 15 sec."
+        ]
+      },
+      {
+        "tier": 7,
+        "text": "Changes the Normal Skill into a skill that can be used 2 time(s).",
+        "items": [
+          "Changes the Normal Skill into a skill that can be used 2 time(s)."
+        ]
+      },
+      {
+        "tier": 8,
+        "text": "Increases Attack by 25%, Defense by 20%, and Max HP by 8%.",
+        "items": [
+          "Increases Attack by 25%, Defense by 20%, and Max HP by 8%."
+        ]
+      },
+      {
+        "tier": 9,
+        "text": "Increases damage dealt with the Ultimate Move by 50%.",
+        "items": [
+          "Increases damage dealt with the Ultimate Move by 50%."
+        ]
+      },
+      {
+        "tier": 10,
+        "text": "Slightly increases the range of the Ultimate Move and increases the duration by 5 sec.",
+        "items": [
+          "Slightly increases the range of the Ultimate Move and increases the duration by 5 sec."
+        ]
+      }
+    ],
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/manny"
+  },
+  {
+    "id": "meliodas::Longsword",
+    "character_id": "meliodas",
+    "name": "Longsword",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "Captain's Acumen",
+        "kind": "Adventure Skill",
+        "cooldown": null,
+        "description": "Allows double jumps and wall runs."
+      },
+      {
+        "name": "Speed Master",
+        "kind": "Passive",
+        "cooldown": null,
+        "description": "Decreases Darkness Burst duration by 3 sec and additionally inflicts damage equal to 100% of Attack when landing a skill on an enemy with Darkness Burst activated."
+      },
+      {
+        "name": "Normal Attack",
+        "kind": "Normal Attack",
+        "cooldown": null,
+        "description": "Inflicts damage equal to 132% of Attack. 1st hit: 20% 2nd hit: 21% 3rd hit: 35% 4th hit: 56%"
+      },
+      {
+        "name": "Special Attack",
+        "kind": "Special Attack",
+        "cooldown": "18 sec",
+        "description": "Inflicts damage equal to 132% of Attack and increases the hero's Darkness Attack by 25% for 20 sec. (Max: 2 times) Additionally gains 1 effect(s) when landing the attack on an enemy with Darkness Burst activated. Chain Attack Cooldown: 23 sec Inflicts damage equal to 231% of Attack. Restores the Magic Gauge by 100 when attacking an enemy with Darkness Burst activated."
+      },
+      {
+        "name": "Dark Force",
+        "kind": "Tag Skill",
+        "cooldown": null,
+        "description": "Inflicts damage equal to 111% of Attack."
+      },
+      {
+        "name": "Blazing Cross",
+        "kind": "Ultimate Move",
+        "cooldown": "10 sec",
+        "description": "Inflicts damage equal to 342% of Attack and increases damage dealt to enemies with Darkness Burst activated by 100%, then removes the target's Darkness Burst."
+      }
+    ],
+    "potentials": [
+      {
+        "tier": 1,
+        "text": "Increases Attack by 10%, Defense by 8%, and Max HP by 3%.",
+        "items": [
+          "Increases Attack by 10%, Defense by 8%, and Max HP by 3%."
+        ]
+      },
+      {
+        "tier": 2,
+        "text": "Increases damage dealt with Normal Attacks by 40%. 1st hit: 28% 2nd hit: 29% 3rd hit: 49% 4th hit: 78%",
+        "items": [
+          "Increases damage dealt with Normal Attacks by 40%. 1st hit: 28% 2nd hit: 29% 3rd hit: 49% 4th hit: 78%"
+        ]
+      },
+      {
+        "tier": 3,
+        "text": "Increases Attack by 15%, Defense by 12%, and Max HP by 5%.",
+        "items": [
+          "Increases Attack by 15%, Defense by 12%, and Max HP by 5%."
+        ]
+      },
+      {
+        "tier": 4,
+        "text": "Increases damage dealt with the Special Attack by 50%.",
+        "items": [
+          "Increases damage dealt with the Special Attack by 50%."
+        ]
+      },
+      {
+        "tier": 5,
+        "text": "Inflicts damage equal to 100% of Attack to nearby enemies and additionally restores the Magic Gauge by 500 with the final strike of the Normal Skill.",
+        "items": [
+          "Inflicts damage equal to 100% of Attack to nearby enemies and additionally restores the Magic Gauge by 500 with the final strike of the Normal Skill."
+        ]
+      },
+      {
+        "tier": 6,
+        "text": "Increases damage dealt with the Normal Skill by 60%.",
+        "items": [
+          "Increases damage dealt with the Normal Skill by 60%."
+        ]
+      },
+      {
+        "tier": 7,
+        "text": "Using the Special Attack increases the hero's Crit Chance by 20% for 20 sec.",
+        "items": [
+          "Using the Special Attack increases the hero's Crit Chance by 20% for 20 sec."
+        ]
+      },
+      {
+        "tier": 8,
+        "text": "Increases Attack by 25%, Defense by 20%, and Max HP by 8%.",
+        "items": [
+          "Increases Attack by 25%, Defense by 20%, and Max HP by 8%."
+        ]
+      },
+      {
+        "tier": 9,
+        "text": "Increases damage dealt with the Ultimate Move by 50%.",
+        "items": [
+          "Increases damage dealt with the Ultimate Move by 50%."
+        ]
+      },
+      {
+        "tier": 10,
+        "text": "Additionally inflicts damage equal to 350% of Attack when using the Ultimate Move.",
+        "items": [
+          "Additionally inflicts damage equal to 350% of Attack when using the Ultimate Move."
+        ]
+      }
+    ],
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/meliodas"
+  },
+  {
+    "id": "slader::Greatsword",
+    "character_id": "slader",
+    "name": "Greatsword",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "Erase Presence",
+        "kind": "Adventure Skill",
+        "cooldown": null,
+        "description": "Resets normal enemies' aggro and prevents further aggro while using Stamina."
+      },
+      {
+        "name": "Roaring Mask",
+        "kind": "Passive",
+        "cooldown": null,
+        "description": "Increases damage dealt to enemies with Fire Burst activated by 15%. Attacking an enemy with Fire Burst activated transforms the Special Attack into an enhanced Special Attack for 5 sec, increasing damage dealt by 30%."
+      },
+      {
+        "name": "Normal Attack",
+        "kind": "Normal Attack",
+        "cooldown": null,
+        "description": "Inflicts damage equal to 128% of Attack. 1st hit: 19% 2nd hit: 21% 3rd hit: 33% 4th hit: 56%"
+      },
+      {
+        "name": "Special Attack",
+        "kind": "Special Attack",
+        "cooldown": "9 sec",
+        "description": "Inflicts damage equal to 77% of Attack."
+      },
+      {
+        "name": "Power Drop",
+        "kind": "Normal Skill",
+        "cooldown": "21 sec",
+        "description": "Inflicts damage equal to 215% of Attack. Increases damage dealt to Stunned enemies by 20%."
+      },
+      {
+        "name": "Strike",
+        "kind": "Tag Skill",
+        "cooldown": null,
+        "description": "Inflicts damage equal to 105% of Attack."
+      },
+      {
+        "name": "Power Smite",
+        "kind": "Ultimate Move",
+        "cooldown": "10 sec",
+        "description": "Inflicts damage equal to 356% of Attack. If the enemy has Fire Burst activated, they are Stunned for 5 sec."
+      }
+    ],
+    "potentials": [
+      {
+        "tier": 1,
+        "text": "Increases Attack by 10%, Defense by 8%, and Max HP by 3%.",
+        "items": [
+          "Increases Attack by 10%, Defense by 8%, and Max HP by 3%."
+        ]
+      },
+      {
+        "tier": 2,
+        "text": "Increases damage dealt with the enhanced Special Attack by 40%.",
+        "items": [
+          "Increases damage dealt with the enhanced Special Attack by 40%."
+        ]
+      },
+      {
+        "tier": 3,
+        "text": "Increases Attack by 15%, Defense by 12%, and Max HP by 5%.",
+        "items": [
+          "Increases Attack by 15%, Defense by 12%, and Max HP by 5%."
+        ]
+      },
+      {
+        "tier": 4,
+        "text": "Increases damage dealt with the Normal Skill by 30%.",
+        "items": [
+          "Increases damage dealt with the Normal Skill by 30%."
+        ]
+      },
+      {
+        "tier": 5,
+        "text": "Using the Normal Skill to attack an enemy with Fire Burst activated inflicts damage equal to 8% of Attack on nearby enemies every 0.5 sec for 5 sec.",
+        "items": [
+          "Using the Normal Skill to attack an enemy with Fire Burst activated inflicts damage equal to 8% of Attack on nearby enemies every 0.5 sec for 5 sec."
+        ]
+      },
+      {
+        "tier": 6,
+        "text": "Increases damage dealt with the enhanced Special Attack by 110%.",
+        "items": [
+          "Increases damage dealt with the enhanced Special Attack by 110%."
+        ]
+      },
+      {
+        "tier": 7,
+        "text": "When an enhanced Special Attack hits, the cooldown of Normal Skills decreases by 50%.",
+        "items": [
+          "When an enhanced Special Attack hits, the cooldown of Normal Skills decreases by 50%."
+        ]
+      },
+      {
+        "tier": 8,
+        "text": "Increases Attack by 25%, Defense by 20%, and Max HP by 8%.",
+        "items": [
+          "Increases Attack by 25%, Defense by 20%, and Max HP by 8%."
+        ]
+      },
+      {
+        "tier": 9,
+        "text": "Increases damage dealt with the Ultimate Move by 50%.",
+        "items": [
+          "Increases damage dealt with the Ultimate Move by 50%."
+        ]
+      },
+      {
+        "tier": 10,
+        "text": "Additionally inflicts damage equal to 120% of Attack when using the Ultimate Move.",
+        "items": [
+          "Additionally inflicts damage equal to 120% of Attack when using the Ultimate Move."
+        ]
+      }
+    ],
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/slader"
+  },
+  {
+    "id": "bug::Dual Swords",
+    "character_id": "bug",
+    "name": "Dual Swords",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "Downsize",
+        "kind": "Adventure Skill",
+        "cooldown": null,
+        "description": "Turns into a small demon that can fly."
+      },
+      {
+        "name": "Troublemaker",
+        "kind": "Passive",
+        "cooldown": null,
+        "description": "Increases damage dealt with Back Attacks by 50%."
+      },
+      {
+        "name": "Normal Attack",
+        "kind": "Normal Attack",
+        "cooldown": null,
+        "description": "Inflicts damage equal to 142% of Attack. 1st hit: 21% 2nd hit: 23% 3rd hit: 37% 4th hit: 61%"
+      },
+      {
+        "name": "Special Attack",
+        "kind": "Special Attack",
+        "cooldown": "18 sec",
+        "description": "Teleports behind the enemy and inflicts damage equal to 146% of Attack, then inflicts Curse for 15 sec. ※ Curse: Inflicts damage equal to 15% of Attack every 3 sec and decreases Darkness Defense by 15%."
+      },
+      {
+        "name": "Annihilation",
+        "kind": "Normal Skill",
+        "cooldown": "20 sec",
+        "description": "Inflicts damage equal to 233% of Attack. Resets the Special Attack cooldown when attacking Cursed enemies."
+      },
+      {
+        "name": "Blade Dance",
+        "kind": "Tag Skill",
+        "cooldown": null,
+        "description": "Inflicts damage equal to 107% of Attack."
+      },
+      {
+        "name": "The End",
+        "kind": "Ultimate Move",
+        "cooldown": "10 sec",
+        "description": "Inflicts damage equal to 356% of Attack. Increases damage dealt to Cursed enemies by 10%."
+      }
+    ],
+    "potentials": [
+      {
+        "tier": 1,
+        "text": "Increases Attack by 10%, Defense by 8%, and Max HP by 3%.",
+        "items": [
+          "Increases Attack by 10%, Defense by 8%, and Max HP by 3%."
+        ]
+      },
+      {
+        "tier": 2,
+        "text": "Increases damage dealt with Normal Attacks by 40%. 1st hit: 30% 2nd hit: 32% 3rd hit: 52% 4th hit: 86%",
+        "items": [
+          "Increases damage dealt with Normal Attacks by 40%. 1st hit: 30% 2nd hit: 32% 3rd hit: 52% 4th hit: 86%"
+        ]
+      },
+      {
+        "tier": 3,
+        "text": "Increases Attack by 15%, Defense by 12%, and Max HP by 5%.",
+        "items": [
+          "Increases Attack by 15%, Defense by 12%, and Max HP by 5%."
+        ]
+      },
+      {
+        "tier": 4,
+        "text": "Increases damage dealt with the Special Attack by 50%.",
+        "items": [
+          "Increases damage dealt with the Special Attack by 50%."
+        ]
+      },
+      {
+        "tier": 5,
+        "text": "Resets the Special Attack cooldown when landing the final strike of the Normal Attack on an enemy with Darkness Burst activated.",
+        "items": [
+          "Resets the Special Attack cooldown when landing the final strike of the Normal Attack on an enemy with Darkness Burst activated."
+        ]
+      },
+      {
+        "tier": 6,
+        "text": "Increases damage dealt with the Normal Skill by 60%.",
+        "items": [
+          "Increases damage dealt with the Normal Skill by 60%."
+        ]
+      },
+      {
+        "tier": 7,
+        "text": "Increases the hero's Crit Chance by 30% for 10 sec when successfully landing a Back Attack.",
+        "items": [
+          "Increases the hero's Crit Chance by 30% for 10 sec when successfully landing a Back Attack."
+        ]
+      },
+      {
+        "tier": 8,
+        "text": "Increases Attack by 25%, Defense by 20%, and Max HP by 8%.",
+        "items": [
+          "Increases Attack by 25%, Defense by 20%, and Max HP by 8%."
+        ]
+      },
+      {
+        "tier": 9,
+        "text": "Increases damage dealt with the Ultimate Move by 50%.",
+        "items": [
+          "Increases damage dealt with the Ultimate Move by 50%."
+        ]
+      },
+      {
+        "tier": 10,
+        "text": "Landing the Special Attack inflicts Stun for 4 sec.",
+        "items": [
+          "Landing the Special Attack inflicts Stun for 4 sec."
+        ]
+      }
+    ],
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/bug"
+  },
+  {
+    "id": "dreydrin::Shield",
+    "character_id": "dreydrin",
+    "name": "Shield",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "Garden of Vitality",
+        "kind": "Adventure Skill",
+        "cooldown": null,
+        "description": "Temporarily restores and increases the energy of you and your party members for a set duration."
+      },
+      {
+        "name": "Strong Determination",
+        "kind": "Passive",
+        "cooldown": null,
+        "description": "When the hero is hit while HP is 30% or lower, grants all allied heroes barriers equal to 50% of Max HP for 20 sec."
+      },
+      {
+        "name": "(Cooldown: 60 sec)",
+        "kind": "Normal Attack",
+        "cooldown": null,
+        "description": "Inflicts damage equal to 147% of Attack. 1st hit: 14% 2nd hit: 17% 3rd hit: 25% 4th hit: 40% 5th hit: 51%"
+      },
+      {
+        "name": "Gains a barrier equal to 50% of Defense while the stance is maintained.",
+        "kind": "Special Attack",
+        "cooldown": "20 sec",
+        "description": "The stance lasts up to 10 sec, and is removed when the barrier is removed. When hit while the stance is maintained, the attacking enemy's Burst Gauge increases by 100, and all allied heroes' Defense increases by 5% for 20 sec. (Max: 25%)"
+      },
+      {
+        "name": "Shield Crush",
+        "kind": "Normal Skill",
+        "cooldown": "19 sec",
+        "description": "Inflicts damage equal to 80% of Attack. If the attack lands, attacks once more to inflict damage equal to 104% of Attack. Each hit additionally inflicts damage equal to 30% of the hero's Defense."
+      },
+      {
+        "name": "Sword Landing",
+        "kind": "Tag Skill",
+        "cooldown": null,
+        "description": "Inflicts damage equal to 92% of Attack."
+      },
+      {
+        "name": "Pure Garden",
+        "kind": "Ultimate Move",
+        "cooldown": "10 sec",
+        "description": "Increases the hero's Max HP equal to 100% of Defense for 20 sec."
+      }
+    ],
+    "potentials": [
+      {
+        "tier": 1,
+        "text": "Increases Attack by 10%, Defense by 8%, and Max HP by 3%.",
+        "items": [
+          "Increases Attack by 10%, Defense by 8%, and Max HP by 3%."
+        ]
+      },
+      {
+        "tier": 2,
+        "text": "Increases damage dealt with Normal Attacks by 40%. 1st hit: 20% 2nd hit: 24% 3rd hit: 35% 4th hit: 56% 5th hit: 71%",
+        "items": [
+          "Increases damage dealt with Normal Attacks by 40%. 1st hit: 20% 2nd hit: 24% 3rd hit: 35% 4th hit: 56% 5th hit: 71%"
+        ]
+      },
+      {
+        "tier": 3,
+        "text": "Increases Attack by 15%, Defense by 12%, and Max HP by 5%.",
+        "items": [
+          "Increases Attack by 15%, Defense by 12%, and Max HP by 5%."
+        ]
+      },
+      {
+        "tier": 4,
+        "text": "Increases the Defense boost gained when hit while the Special Attack's stance is maintained by 100%.",
+        "items": [
+          "Increases the Defense boost gained when hit while the Special Attack's stance is maintained by 100%."
+        ]
+      },
+      {
+        "tier": 5,
+        "text": "Increases the damage taken reduction by 70% and slightly increases Movement Speed while the Special Attack's stance is maintained.",
+        "items": [
+          "Increases the damage taken reduction by 70% and slightly increases Movement Speed while the Special Attack's stance is maintained."
+        ]
+      },
+      {
+        "tier": 6,
+        "text": "Increases damage dealt with the Normal Skill by 60%.",
+        "items": [
+          "Increases damage dealt with the Normal Skill by 60%."
+        ]
+      },
+      {
+        "tier": 7,
+        "text": "Restores HP of nearby allies by 10% of Defense every 1 sec for 10 sec when using the Ultimate Move.",
+        "items": [
+          "Restores HP of nearby allies by 10% of Defense every 1 sec for 10 sec when using the Ultimate Move."
+        ]
+      },
+      {
+        "tier": 8,
+        "text": "Increases Attack by 25%, Defense by 20%, and Max HP by 8%.",
+        "items": [
+          "Increases Attack by 25%, Defense by 20%, and Max HP by 8%."
+        ]
+      },
+      {
+        "tier": 9,
+        "text": "Increases the Ultimate Move's Max HP boost to 200% of the hero's Defense.",
+        "items": [
+          "Increases the Ultimate Move's Max HP boost to 200% of the hero's Defense."
+        ]
+      },
+      {
+        "tier": 10,
+        "text": "Increases the HP of barriers from the Passive to 100% of Max HP. Restores HP by 50% of Max HP when gaining a barrier.",
+        "items": [
+          "Increases the HP of barriers from the Passive to 100% of Max HP. Restores HP by 50% of Max HP when gaining a barrier."
+        ]
+      }
+    ],
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/dreydrin"
+  },
+  {
+    "id": "dreyfus::Rapier",
+    "character_id": "dreyfus",
+    "name": "Rapier",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "One-Shot Breaker",
+        "kind": "Adventure Skill",
+        "cooldown": null,
+        "description": "Marks nearby minerals and improves mining efficiency."
+      },
+      {
+        "name": "Grandmaster's Honor",
+        "kind": "Passive",
+        "cooldown": null,
+        "description": "Increases all allied heroes' DoT by 15%. Decreases the DoT interval by 50% for 5 sec when the hero attacks a Stunned or Paralyzed enemy."
+      },
+      {
+        "name": "Normal Attack",
+        "kind": "Normal Attack",
+        "cooldown": null,
+        "description": "Inflicts damage equal to 111% of Attack. 1st hit: 17% 2nd hit: 18% 3rd hit: 28% 4th hit: 48%"
+      },
+      {
+        "name": "Special Attack",
+        "kind": "Special Attack",
+        "cooldown": "13 sec",
+        "description": "Inflicts damage equal to 114% of Attack. Landing the final strike inflicts 1 Weaken effect(s) for 20 sec. ※ Weaken: Increases DoT damage taken by 5%. (Max: 25%)"
+      },
+      {
+        "name": "Piercing Lightning",
+        "kind": "Normal Skill",
+        "cooldown": "21 sec",
+        "description": "Inflicts damage equal to 180% of Attack. Restores the Tag Gauge by 150 for every 1 Weaken effect(s) on the enemy."
+      },
+      {
+        "name": "Flash Drop",
+        "kind": "Tag Skill",
+        "cooldown": null,
+        "description": "Inflicts damage equal to 95% of Attack. Inflicts 2 Weaken effect(s) for 20 sec if the enemy is affected by Shock, Bleed, or Chill. ※ Weaken: Increases DoT damage taken by 5%. (Max: 25%)"
+      },
+      {
+        "name": "Light Bomber",
+        "kind": "Ultimate Move",
+        "cooldown": "10 sec",
+        "description": "Inflicts damage equal to 271% of Attack. When the Weaken effect on the enemy reaches max stacks, it Stuns them for 5 sec."
+      }
+    ],
+    "potentials": [
+      {
+        "tier": 1,
+        "text": "Increases Attack by 10%, Defense by 8%, and Max HP by 3%.",
+        "items": [
+          "Increases Attack by 10%, Defense by 8%, and Max HP by 3%."
+        ]
+      },
+      {
+        "tier": 2,
+        "text": "Increases damage dealt with Normal Attacks by 40%. 1st hit: 23% 2nd hit: 25% 3rd hit: 40% 4th hit: 68%",
+        "items": [
+          "Increases damage dealt with Normal Attacks by 40%. 1st hit: 23% 2nd hit: 25% 3rd hit: 40% 4th hit: 68%"
+        ]
+      },
+      {
+        "tier": 3,
+        "text": "Increases Attack by 15%, Defense by 12%, and Max HP by 5%.",
+        "items": [
+          "Increases Attack by 15%, Defense by 12%, and Max HP by 5%."
+        ]
+      },
+      {
+        "tier": 4,
+        "text": "Increases damage dealt with the Special Attack by 50%.",
+        "items": [
+          "Increases damage dealt with the Special Attack by 50%."
+        ]
+      },
+      {
+        "tier": 5,
+        "text": "Changes the Special Attack into a skill that can be used 2 time(s).",
+        "items": [
+          "Changes the Special Attack into a skill that can be used 2 time(s)."
+        ]
+      },
+      {
+        "tier": 6,
+        "text": "Increases damage dealt with the Normal Skill by 60%.",
+        "items": [
+          "Increases damage dealt with the Normal Skill by 60%."
+        ]
+      },
+      {
+        "tier": 7,
+        "text": "Increases damage dealt with the Normal Skill by 35% and the number of hits by 4. Increases the Tag Gauge recovery by 40 for every 1 Weaken effect(s) on the enemy.",
+        "items": [
+          "Increases damage dealt with the Normal Skill by 35% and the number of hits by 4. Increases the Tag Gauge recovery by 40 for every 1 Weaken effect(s) on the enemy."
+        ]
+      },
+      {
+        "tier": 8,
+        "text": "Increases Attack by 25%, Defense by 20%, and Max HP by 8%.",
+        "items": [
+          "Increases Attack by 25%, Defense by 20%, and Max HP by 8%."
+        ]
+      },
+      {
+        "tier": 9,
+        "text": "Increases damage dealt with the Ultimate Move by 50%.",
+        "items": [
+          "Increases damage dealt with the Ultimate Move by 50%."
+        ]
+      },
+      {
+        "tier": 10,
+        "text": "Inflicts damage equal to 30% of Attack to enemies in range every 1 sec for 5 sec when using the Ultimate Move.",
+        "items": [
+          "Inflicts damage equal to 30% of Attack to enemies in range every 1 sec for 5 sec when using the Ultimate Move."
+        ]
+      }
+    ],
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/dreyfus"
+  },
+  {
+    "id": "gilthunder::Longsword",
+    "character_id": "gilthunder",
+    "name": "Longsword",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "\"Thunderbolt\"",
+        "kind": "Adventure Skill",
+        "cooldown": null,
+        "description": ""
+      },
+      {
+        "name": "Passive",
+        "kind": "Passive",
+        "cooldown": null,
+        "description": "Additionally increases Burst Gauge by 20 when hitting a Shocked enemy. When the hero activates Lightning Burst, the enemy's Lightning Defense decreases by 15% for 20 sec."
+      },
+      {
+        "name": "Normal Attack",
+        "kind": "Normal Attack",
+        "cooldown": null,
+        "description": "Inflicts damage equal to 108% of Attack. 1st hit: 16% 2nd hit: 17% 3rd hit: 28% 4th hit: 47%"
+      },
+      {
+        "name": "Special Attack",
+        "kind": "Special Attack",
+        "cooldown": "11 sec",
+        "description": "Inflicts damage equal to 109% of Attack. Increases the enemy's Shock duration by 3 sec."
+      },
+      {
+        "name": "Lightning Sword",
+        "kind": "Normal Skill",
+        "cooldown": "17 sec",
+        "description": "Inflicts damage equal to 176% of Attack and inflicts Shock for 10 sec. ※ Shock: Inflicts Lightning damage equal to 15% of Attack every 2 sec. Inflicts Shock on nearby enemies for 10 sec when hit."
+      },
+      {
+        "name": "Lightning Strike",
+        "kind": "Tag Skill",
+        "cooldown": null,
+        "description": "Inflicts damage equal to 86% of Attack."
+      },
+      {
+        "name": "Lightning Flash",
+        "kind": "Ultimate Move",
+        "cooldown": "10 sec",
+        "description": "Inflicts damage equal to 281% of Attack. Decreases All Elemental Burst Resistance of enemies in range by 20%."
+      }
+    ],
+    "potentials": [
+      {
+        "tier": 1,
+        "text": "Increases Attack by 10%, Defense by 8%, and Max HP by 3%.",
+        "items": [
+          "Increases Attack by 10%, Defense by 8%, and Max HP by 3%."
+        ]
+      },
+      {
+        "tier": 2,
+        "text": "Increases damage dealt with Normal Attacks by 40%. 1st hit: 22% 2nd hit: 24% 3rd hit: 39% 4th hit: 65%",
+        "items": [
+          "Increases damage dealt with Normal Attacks by 40%. 1st hit: 22% 2nd hit: 24% 3rd hit: 39% 4th hit: 65%"
+        ]
+      },
+      {
+        "tier": 3,
+        "text": "Increases Attack by 15%, Defense by 12%, and Max HP by 5%.",
+        "items": [
+          "Increases Attack by 15%, Defense by 12%, and Max HP by 5%."
+        ]
+      },
+      {
+        "tier": 4,
+        "text": "Increases damage dealt with the Special Attack by 50%.",
+        "items": [
+          "Increases damage dealt with the Special Attack by 50%."
+        ]
+      },
+      {
+        "tier": 5,
+        "text": "Changes the Normal Skill into a skill that can be used 2 time(s) and increases its damage dealt by 30%.",
+        "items": [
+          "Changes the Normal Skill into a skill that can be used 2 time(s) and increases its damage dealt by 30%."
+        ]
+      },
+      {
+        "tier": 6,
+        "text": "Increases damage dealt with the Normal Skill by 60%.",
+        "items": [
+          "Increases damage dealt with the Normal Skill by 60%."
+        ]
+      },
+      {
+        "tier": 7,
+        "text": "Increases the Ultimate Move's All Elemental Burst Resistance reduction by 50%.",
+        "items": [
+          "Increases the Ultimate Move's All Elemental Burst Resistance reduction by 50%."
+        ]
+      },
+      {
+        "tier": 8,
+        "text": "Increases Attack by 25%, Defense by 20%, and Max HP by 8%.",
+        "items": [
+          "Increases Attack by 25%, Defense by 20%, and Max HP by 8%."
+        ]
+      },
+      {
+        "tier": 9,
+        "text": "Increases damage dealt with the Ultimate Move by 50%.",
+        "items": [
+          "Increases damage dealt with the Ultimate Move by 50%."
+        ]
+      },
+      {
+        "tier": 10,
+        "text": "Changes the Special Attack into a skill that can be used 2 time(s).",
+        "items": [
+          "Changes the Special Attack into a skill that can be used 2 time(s)."
+        ]
+      }
+    ],
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/gilthunder"
+  },
+  {
+    "id": "griamore::Shield",
+    "character_id": "griamore",
+    "name": "Shield",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "Speed Star",
+        "kind": "Adventure Skill",
+        "cooldown": null,
+        "description": "Roll yourself up like a ball to move quickly You can chain additional actions like jumping while moving, and you become immune to certain status effects."
+      },
+      {
+        "name": "Wall Master",
+        "kind": "Passive",
+        "cooldown": null,
+        "description": "Increases Defense by 15% when all allied heroes have barriers."
+      },
+      {
+        "name": "Normal Attack",
+        "kind": "Normal Attack",
+        "cooldown": null,
+        "description": "Inflicts damage equal to 113% of Attack. 1st hit: 17% 2nd hit: 18% 3rd hit: 29% 4th hit: 49%"
+      },
+      {
+        "name": "Special Attack",
+        "kind": "Special Attack",
+        "cooldown": "13 sec",
+        "description": "Increases Defense by 25% while the stance is maintained. Restores the hero's Tag Gauge by 100 when hit while the stance is maintained. The stance lasts up to 10 sec, and it is removed when hit 5 time(s). Drop Attack Cooldown: 21 sec Inflicts damage equal to 195% of Attack and additional damage equal to 45% of Defense."
+      },
+      {
+        "name": "Shell Drop",
+        "kind": "Tag Skill",
+        "cooldown": null,
+        "description": "Inflicts damage equal to 88% of Attack."
+      },
+      {
+        "name": "Perfect Shell",
+        "kind": "Ultimate Move",
+        "cooldown": "10 sec",
+        "description": "Inflicts damage equal to 284% of Attack and decreases the enemy's Shatter Resistance by 5% for 20 sec."
+      }
+    ],
+    "potentials": [
+      {
+        "tier": 1,
+        "text": "Increases Attack by 10%, Defense by 8%, and Max HP by 3%.",
+        "items": [
+          "Increases Attack by 10%, Defense by 8%, and Max HP by 3%."
+        ]
+      },
+      {
+        "tier": 2,
+        "text": "Increases damage dealt with Normal Attacks by 40%. 1st hit: 23% 2nd hit: 26% 3rd hit: 41% 4th hit: 69%",
+        "items": [
+          "Increases damage dealt with Normal Attacks by 40%. 1st hit: 23% 2nd hit: 26% 3rd hit: 41% 4th hit: 69%"
+        ]
+      },
+      {
+        "tier": 3,
+        "text": "Increases Attack by 15%, Defense by 12%, and Max HP by 5%.",
+        "items": [
+          "Increases Attack by 15%, Defense by 12%, and Max HP by 5%."
+        ]
+      },
+      {
+        "tier": 4,
+        "text": "Increases Special Attack's Defense boost by 40%.",
+        "items": [
+          "Increases Special Attack's Defense boost by 40%."
+        ]
+      },
+      {
+        "tier": 5,
+        "text": "Using the Normal Skill increases the hero's Defense by 20% for 15 sec.",
+        "items": [
+          "Using the Normal Skill increases the hero's Defense by 20% for 15 sec."
+        ]
+      },
+      {
+        "tier": 6,
+        "text": "Increases damage dealt with the Normal Skill by 60%.",
+        "items": [
+          "Increases damage dealt with the Normal Skill by 60%."
+        ]
+      },
+      {
+        "tier": 7,
+        "text": "Gains a barrier equal to 20% of Max HP while the Special Attack's stance is maintained.",
+        "items": [
+          "Gains a barrier equal to 20% of Max HP while the Special Attack's stance is maintained."
+        ]
+      },
+      {
+        "tier": 8,
+        "text": "Increases Attack by 25%, Defense by 20%, and Max HP by 8%.",
+        "items": [
+          "Increases Attack by 25%, Defense by 20%, and Max HP by 8%."
+        ]
+      },
+      {
+        "tier": 9,
+        "text": "Increases damage dealt with the Ultimate Move by 50%.",
+        "items": [
+          "Increases damage dealt with the Ultimate Move by 50%."
+        ]
+      },
+      {
+        "tier": 10,
+        "text": "Landing the Ultimate Move inflicts additional damage equal to 150% of Defense.",
+        "items": [
+          "Landing the Ultimate Move inflicts additional damage equal to 150% of Defense."
+        ]
+      }
+    ],
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/griamore"
+  },
+  {
+    "id": "hendrickson::Dual Swords",
+    "character_id": "hendrickson",
+    "name": "Dual Swords",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "Phytocommunication",
+        "kind": "Adventure Skill",
+        "cooldown": null,
+        "description": "Marks nearby gathering points and improves gathering efficiency."
+      },
+      {
+        "name": "Veteran Grandmaster",
+        "kind": "Passive",
+        "cooldown": null,
+        "description": "Increases all allied heroes' Crit Chance by 10% when any ally attacks an enemy with reduced Movement Speed."
+      },
+      {
+        "name": "Normal Attack",
+        "kind": "Normal Attack",
+        "cooldown": null,
+        "description": "Inflicts damage equal to 142% of Attack. 15% chance to decrease the Special Attack cooldown by 1 sec. 1st hit: 21% 2nd hit: 23% 3rd hit: 37% 4th hit: 61%"
+      },
+      {
+        "name": "Teleports behind the enemy and inflicts damage equal to 146% of Attack.",
+        "kind": "Special Attack",
+        "cooldown": "9 sec",
+        "description": "Attacking an enemy with reduced Movement Speed Stuns them for 5 sec and increases the hero's Crit Chance by 10% for 10 sec."
+      },
+      {
+        "name": "Rapid Edge",
+        "kind": "Normal Skill",
+        "cooldown": "17 sec",
+        "description": "Inflicts damage equal to 240% of Attack. Increases Crit Damage by 30% when hitting an enemy with a Back Attack."
+      },
+      {
+        "name": "Double Slash",
+        "kind": "Tag Skill",
+        "cooldown": null,
+        "description": "Inflicts damage equal to 121% of Attack."
+      },
+      {
+        "name": "Knight's Sword",
+        "kind": "Ultimate Move",
+        "cooldown": "10 sec",
+        "description": "Inflicts damage equal to 357% of Attack and the hero gains Keen Eye for 5 sec. ※ Keen Eye: Consumes 100 from the Tag Gauge every 0.5 sec to increase Crit Damage by 20%."
+      }
+    ],
+    "potentials": [
+      {
+        "tier": 1,
+        "text": "Increases Attack by 10%, Defense by 8%, and Max HP by 3%.",
+        "items": [
+          "Increases Attack by 10%, Defense by 8%, and Max HP by 3%."
+        ]
+      },
+      {
+        "tier": 2,
+        "text": "Increases damage dealt with Normal Attacks by 40%. 1st hit: 29% 2nd hit: 31% 3rd hit: 51% 4th hit: 86%",
+        "items": [
+          "Increases damage dealt with Normal Attacks by 40%. 1st hit: 29% 2nd hit: 31% 3rd hit: 51% 4th hit: 86%"
+        ]
+      },
+      {
+        "tier": 3,
+        "text": "Increases Attack by 15%, Defense by 12%, and Max HP by 5%.",
+        "items": [
+          "Increases Attack by 15%, Defense by 12%, and Max HP by 5%."
+        ]
+      },
+      {
+        "tier": 4,
+        "text": "Increases damage dealt with the Special Attack by 50%.",
+        "items": [
+          "Increases damage dealt with the Special Attack by 50%."
+        ]
+      },
+      {
+        "tier": 5,
+        "text": "Restores Magic by 100 and restores the Tag Gauge by 150 when landing a Critical Hit with the Special Attack.",
+        "items": [
+          "Restores Magic by 100 and restores the Tag Gauge by 150 when landing a Critical Hit with the Special Attack."
+        ]
+      },
+      {
+        "tier": 6,
+        "text": "Increases damage dealt with the Normal Skill by 60%.",
+        "items": [
+          "Increases damage dealt with the Normal Skill by 60%."
+        ]
+      },
+      {
+        "tier": 7,
+        "text": "Increases Crit Damage by 30% when landing a Back Attack with the Normal Skill. Landing a Critical Hit restores the Tag Gauge by 300.",
+        "items": [
+          "Increases Crit Damage by 30% when landing a Back Attack with the Normal Skill. Landing a Critical Hit restores the Tag Gauge by 300."
+        ]
+      },
+      {
+        "tier": 8,
+        "text": "Increases Attack by 25%, Defense by 20%, and Max HP by 8%.",
+        "items": [
+          "Increases Attack by 25%, Defense by 20%, and Max HP by 8%."
+        ]
+      },
+      {
+        "tier": 9,
+        "text": "Increases damage dealt with the Ultimate Move by 50%.",
+        "items": [
+          "Increases damage dealt with the Ultimate Move by 50%."
+        ]
+      },
+      {
+        "tier": 10,
+        "text": "Increases the duration of the Ultimate Move's Keen Eye by 5 sec and decreases the Tag Gauge consumption by 45.",
+        "items": [
+          "Increases the duration of the Ultimate Move's Keen Eye by 5 sec and decreases the Tag Gauge consumption by 45."
+        ]
+      }
+    ],
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/hendrickson"
+  },
+  {
+    "id": "howzer::Lance",
+    "character_id": "howzer",
+    "name": "Lance",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "Updraft",
+        "kind": "Adventure Skill",
+        "cooldown": null,
+        "description": "Creates a powerful updraft to generate lift."
+      },
+      {
+        "name": "Eye of the Storm",
+        "kind": "Passive",
+        "cooldown": null,
+        "description": "Attacking an enemy with Wind Burst activated increases the hero's Wind Attack by 3% for 20 sec. (Max: 10 times)"
+      },
+      {
+        "name": "Normal Attack",
+        "kind": "Normal Attack",
+        "cooldown": null,
+        "description": "Inflicts damage equal to 127% of Attack. 1st hit: 18% 2nd hit: 19% 3rd hit: 34% 4th hit: 56%"
+      },
+      {
+        "name": "Special Attack",
+        "kind": "Special Attack",
+        "cooldown": "10 sec",
+        "description": "Inflicts damage equal to 120% of Attack, and the hero gains Gust for 20 sec. ※ Gust: Inflicts additional damage equal to 30% of the damage dealt with the Normal Skill or Ultimate Move."
+      },
+      {
+        "name": "Pulling Gust",
+        "kind": "Normal Skill",
+        "cooldown": "19 sec",
+        "description": "Inflicts damage equal to 224% of Attack. Inflicts Bleed for 20 sec if the hero has Gust. ※ Bleed: Inflicts Wind damage equal to 10% of the damage dealt every 1 sec. Decreases Healing Efficiency by 20%. Additionally decreases Healing Efficiency by 6% when landing a Critical Hit. (Max: 10 times)"
+      },
+      {
+        "name": "Wind Drop",
+        "kind": "Tag Skill",
+        "cooldown": null,
+        "description": "Inflicts damage equal to 110% of Attack."
+      },
+      {
+        "name": "Super Cyclone",
+        "kind": "Ultimate Move",
+        "cooldown": "10 sec",
+        "description": "Inflicts damage equal to 329% of Attack on the enemy and pulls them toward the center. Results in a Critical Hit if the enemy is Bleeding."
+      }
+    ],
+    "potentials": [
+      {
+        "tier": 1,
+        "text": "Increases Attack by 10%, Defense by 8%, and Max HP by 3%.",
+        "items": [
+          "Increases Attack by 10%, Defense by 8%, and Max HP by 3%."
+        ]
+      },
+      {
+        "tier": 2,
+        "text": "Increases damage dealt with the Special Attack by 40%.",
+        "items": [
+          "Increases damage dealt with the Special Attack by 40%."
+        ]
+      },
+      {
+        "tier": 3,
+        "text": "Increases Attack by 15%, Defense by 12%, and Max HP by 5%.",
+        "items": [
+          "Increases Attack by 15%, Defense by 12%, and Max HP by 5%."
+        ]
+      },
+      {
+        "tier": 4,
+        "text": "Increases damage dealt with the Tag Skill by 60%.",
+        "items": [
+          "Increases damage dealt with the Tag Skill by 60%."
+        ]
+      },
+      {
+        "tier": 5,
+        "text": "Additionally inflicts damage equal to 170% of Attack when using the Normal Skill.",
+        "items": [
+          "Additionally inflicts damage equal to 170% of Attack when using the Normal Skill."
+        ]
+      },
+      {
+        "tier": 6,
+        "text": "Increases damage dealt with the Normal Skill by 60%.",
+        "items": [
+          "Increases damage dealt with the Normal Skill by 60%."
+        ]
+      },
+      {
+        "tier": 7,
+        "text": "Additionally inflicts damage equal to 12% of Attack to enemies in the center of the Ultimate Move range.",
+        "items": [
+          "Additionally inflicts damage equal to 12% of Attack to enemies in the center of the Ultimate Move range."
+        ]
+      },
+      {
+        "tier": 8,
+        "text": "Increases Attack by 25%, Defense by 20%, and Max HP by 8%.",
+        "items": [
+          "Increases Attack by 25%, Defense by 20%, and Max HP by 8%."
+        ]
+      },
+      {
+        "tier": 9,
+        "text": "Increases damage dealt with the Ultimate Move by 50%.",
+        "items": [
+          "Increases damage dealt with the Ultimate Move by 50%."
+        ]
+      },
+      {
+        "tier": 10,
+        "text": "Additionally inflicts damage equal to 225% of Attack with the final strike of the Ultimate Move, and renders the enemy airborne.",
+        "items": [
+          "Additionally inflicts damage equal to 225% of Attack with the final strike of the Ultimate Move, and renders the enemy airborne."
+        ]
+      }
+    ],
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/howzer"
+  },
+  {
+    "id": "tioreh::Book",
+    "character_id": "tioreh",
+    "name": "Book",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "Vines of the Sacred Tree",
+        "kind": "Adventure Skill",
+        "cooldown": null,
+        "description": "Summons sacred vines to quickly move a set distance."
+      },
+      {
+        "name": "Blessing of the Spirits: Dragon",
+        "kind": "Passive",
+        "cooldown": null,
+        "description": "When an allied hero attacks an enemy with decreased Fire Defense, Crit Chance increases by 8%."
+      },
+      {
+        "name": "Normal Attack",
+        "kind": "Normal Attack",
+        "cooldown": null,
+        "description": "Inflicts damage equal to 115% of Attack. 1st hit: 17% 2nd hit: 19% 3rd hit: 31% 4th hit: 48% Enhanced Normal Attacks inflict damage equal to 164% of Attack. 1st hit: 24% 2nd hit: 26% 3rd hit: 42% 4th hit: 72%"
+      },
+      {
+        "name": "Normal Attacks are enhanced for 10 sec, slightly increasing damage.",
+        "kind": "Special Attack",
+        "cooldown": "15 sec",
+        "description": "Landing an enhanced Normal Attack inflicts Combustion on the enemy for 10 sec. ※ Combustion: Decreases Attack by 5%."
+      },
+      {
+        "name": "Fire Ejection",
+        "kind": "Normal Skill",
+        "cooldown": "22 sec",
+        "description": "Inflicts damage equal to 213% of Attack. Decreases the enemy's Fire Defense by 15% for 10 sec. Increases damage dealt by 5% every 5 attacks on enemies affected by Combustion. (Max: 75%)"
+      },
+      {
+        "name": "Fire Strike",
+        "kind": "Tag Skill",
+        "cooldown": null,
+        "description": "Inflicts damage equal to 81% of Attack."
+      },
+      {
+        "name": "Dragon Breath",
+        "kind": "Ultimate Move",
+        "cooldown": "10 sec",
+        "description": "Inflicts damage equal to 273% of Attack. Increases damage dealt to enemies affected by Combustion by 20%."
+      }
+    ],
+    "potentials": [
+      {
+        "tier": 1,
+        "text": "Increases Attack by 10%, Defense by 8%, and Max HP by 3%.",
+        "items": [
+          "Increases Attack by 10%, Defense by 8%, and Max HP by 3%."
+        ]
+      },
+      {
+        "tier": 2,
+        "text": "Increases damage dealt with Normal Attacks by 40%. 1st hit: 24% 2nd hit: 27% 3rd hit: 43% 4th hit: 68% Increases damage dealt with enhanced Normal Attacks by 50%. 1st hit: 35% 2nd hit: 39% 3rd hit: 63% 4th hit: 107%",
+        "items": [
+          "Increases damage dealt with Normal Attacks by 40%. 1st hit: 24% 2nd hit: 27% 3rd hit: 43% 4th hit: 68% Increases damage dealt with enhanced Normal Attacks by 50%. 1st hit: 35% 2nd hit: 39% 3rd hit: 63% 4th hit: 107%"
+        ]
+      },
+      {
+        "tier": 3,
+        "text": "Increases Attack by 15%, Defense by 12%, and Max HP by 5%.",
+        "items": [
+          "Increases Attack by 15%, Defense by 12%, and Max HP by 5%."
+        ]
+      },
+      {
+        "tier": 4,
+        "text": "Increases the duration of the Special Attack's Normal Attack enhancement by 15 sec.",
+        "items": [
+          "Increases the duration of the Special Attack's Normal Attack enhancement by 15 sec."
+        ]
+      },
+      {
+        "tier": 5,
+        "text": "Slightly increases the range of the Ultimate Move and increases damage dealt to enemies affected by Combustion by 20%.",
+        "items": [
+          "Slightly increases the range of the Ultimate Move and increases damage dealt to enemies affected by Combustion by 20%."
+        ]
+      },
+      {
+        "tier": 6,
+        "text": "Increases damage dealt with the Normal Skill by 60%.",
+        "items": [
+          "Increases damage dealt with the Normal Skill by 60%."
+        ]
+      },
+      {
+        "tier": 7,
+        "text": "Increases the duration of Combustion by 5 sec, and increases Normal Attack and enhanced Normal Attack damage dealt to enemies affected by Combustion by 20%.",
+        "items": [
+          "Increases the duration of Combustion by 5 sec, and increases Normal Attack and enhanced Normal Attack damage dealt to enemies affected by Combustion by 20%."
+        ]
+      },
+      {
+        "tier": 8,
+        "text": "Increases Attack by 25%, Defense by 20%, and Max HP by 8%.",
+        "items": [
+          "Increases Attack by 25%, Defense by 20%, and Max HP by 8%."
+        ]
+      },
+      {
+        "tier": 9,
+        "text": "Increases damage dealt with the Ultimate Move by 50%.",
+        "items": [
+          "Increases damage dealt with the Ultimate Move by 50%."
+        ]
+      },
+      {
+        "tier": 10,
+        "text": "Increases Movement Speed by 50% and becomes immune to Reactions while using the Normal Skill.",
+        "items": [
+          "Increases Movement Speed by 50% and becomes immune to Reactions while using the Normal Skill."
+        ]
+      }
+    ],
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/tioreh"
+  },
+  {
+    "id": "tristan::Dual Swords",
+    "character_id": "tristan",
+    "name": "Dual Swords",
+    "type": null,
+    "rarity": null,
+    "skills": [
+      {
+        "name": "Novice Adventurer",
+        "kind": "Adventure Skill",
+        "cooldown": null,
+        "description": "Restores 50% of Max HP when revived."
+      },
+      {
+        "name": "Sense of Justice",
+        "kind": "Passive",
+        "cooldown": null,
+        "description": ""
+      },
+      {
+        "name": "When Fire Burst is activated, all allied heroes' Fire Attack increases by 15% for 20 sec.",
+        "kind": "Normal Attack",
+        "cooldown": null,
+        "description": "Inflicts damage equal to 105% of Attack. 1st hit: 16% 2nd hit: 17% 3rd hit: 27% 4th hit: 45%"
+      },
+      {
+        "name": "Special Attack",
+        "kind": "Special Attack",
+        "cooldown": "7.5 sec",
+        "description": "Inflicts damage equal to 101% of Attack. Decreases the enemy's Fire Defense by 10% for 20 sec."
+      },
+      {
+        "name": "Vertical Slice",
+        "kind": "Normal Skill",
+        "cooldown": "18 sec",
+        "description": "Inflicts damage equal to 185% of Attack. If the enemy's Fire Defense is decreased, additionally increases the Burst Gauge by 200."
+      },
+      {
+        "name": "Burning Blow",
+        "kind": "Tag Skill",
+        "cooldown": null,
+        "description": "Inflicts damage equal to 87% of Attack."
+      },
+      {
+        "name": "Rain of Fire",
+        "kind": "Ultimate Move",
+        "cooldown": "10 sec",
+        "description": "Inflicts damage equal to 261% of Attack. Increases all allied heroes' All Elemental Burst Efficiency by 15% for 20 sec."
+      }
+    ],
+    "potentials": [
+      {
+        "tier": 1,
+        "text": "Increases Attack by 10%, Defense by 8%, and Max HP by 3%.",
+        "items": [
+          "Increases Attack by 10%, Defense by 8%, and Max HP by 3%."
+        ]
+      },
+      {
+        "tier": 2,
+        "text": "Increases damage dealt with Normal Attacks by 40%. 1st hit: 22% 2nd hit: 24% 3rd hit: 38% 4th hit: 64%",
+        "items": [
+          "Increases damage dealt with Normal Attacks by 40%. 1st hit: 22% 2nd hit: 24% 3rd hit: 38% 4th hit: 64%"
+        ]
+      },
+      {
+        "tier": 3,
+        "text": "Increases Attack by 15%, Defense by 12%, and Max HP by 5%.",
+        "items": [
+          "Increases Attack by 15%, Defense by 12%, and Max HP by 5%."
+        ]
+      },
+      {
+        "tier": 4,
+        "text": "Increases damage dealt with the Special Attack by 50%.",
+        "items": [
+          "Increases damage dealt with the Special Attack by 50%."
+        ]
+      },
+      {
+        "tier": 5,
+        "text": "Inflicts Fire damage equal to 45% of Attack to enemies around the target if Fire Burst activates with the Normal Skill.",
+        "items": [
+          "Inflicts Fire damage equal to 45% of Attack to enemies around the target if Fire Burst activates with the Normal Skill."
+        ]
+      },
+      {
+        "tier": 6,
+        "text": "Increases damage dealt with the Normal Skill by 60%.",
+        "items": [
+          "Increases damage dealt with the Normal Skill by 60%."
+        ]
+      },
+      {
+        "tier": 7,
+        "text": "When a Critical Hit is landed with a Special Attack, its cooldown is reset and its damage dealt is increased by 30% for 10 sec. Cooldown reset can be triggered up to 3 time(s) in a row.",
+        "items": [
+          "When a Critical Hit is landed with a Special Attack, its cooldown is reset and its damage dealt is increased by 30% for 10 sec. Cooldown reset can be triggered up to 3 time(s) in a row."
+        ]
+      },
+      {
+        "tier": 8,
+        "text": "Increases Attack by 25%, Defense by 20%, and Max HP by 8%.",
+        "items": [
+          "Increases Attack by 25%, Defense by 20%, and Max HP by 8%."
+        ]
+      },
+      {
+        "tier": 9,
+        "text": "Increases damage dealt with the Ultimate Move by 50%.",
+        "items": [
+          "Increases damage dealt with the Ultimate Move by 50%."
+        ]
+      },
+      {
+        "tier": 10,
+        "text": "When Fire Burst activates, all allied heroes' Fire Attack increases by 30%, and Fire heroes' Crit Chance increases by 10% for 30 sec.",
+        "items": [
+          "When Fire Burst activates, all allied heroes' Fire Attack increases by 30%, and Fire heroes' Crit Chance increases by 10% for 30 sec."
+        ]
+      }
+    ],
+    "image": null,
+    "source": "genshin.gg/7dso",
+    "source_url": "https://genshin.gg/7dso/characters/tristan"
+  }
+]

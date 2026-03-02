@@ -1,0 +1,71 @@
+HIDEOUT GUIDES
+Home
+Games
+About
+Discord
+Ko-fi
+← Characters
+Meliodas
+Basic Info
+Weapons
+Armor
+Potentials
+
+Longsword
+
+Axe
+
+Dual Swords
+
+Darkness
+Longsword
+Darkness
+Passive
+
+Speedmaster
+
+Decreases Darkness Burst duration by 3% and inflicts damage equal to 100% of Attack when landing a skill on an enemy with Darkness Burst activated.
+
+Normal Attack
+
+Normal Attack
+
+Inflicts damage equal to 132% of Attack. 1st: 20% 2nd: 21% 3rd: 35% 4th: 56%
+
+Special Attack
+
+Special Attack
+
+80 sec cooldown. Inflicts damage equal to 132% of Attack and increases the hero's Darkness Attack by 25% for 20 sec (max 2 times). Gains 1 effect when landing on enemy with Darkness Burst activated.
+
+Normal Skill
+
+Chain Attack
+
+23 sec cooldown. Inflicts damage equal to 231% of Attack. Restores magic gauge by 100% when attacking an enemy with Darkness Burst activated.
+
+Attack Skill
+
+Dark Force
+
+Inflicts damage equal to 111% of Attack.
+
+Ultimate Move
+
+Blazing Cross
+
+10 sec cooldown. Consumes 2 magic. Inflicts damage equal to 342% of Attack and increases damage dealt to enemy with Darkness Burst activated by 100%, then removes the target's Darkness Burst.
+
+HIDEOUT GUIDES
+Games
+Bleach Soul Resonance
+Dragon Traveler
+Dragon Raja Rerise
+Star Sailors
+Seven Deadly Sins: Origin
+Privacy Policy
+Terms of Service
+
+© 2026 Hideout Guides. All rights reserved.
+
+Disclaimer: All game assets, images, and trademarks are property of their respective owners. This site is not affiliated with or endorsed by any game developer or publisher.

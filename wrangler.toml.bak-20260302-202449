@@ -1,0 +1,14 @@
+name = "7ds-origin-bot"
+main = "src/worker.js"
+compatibility_date = "2025-08-16"
+
+[vars]
+DISCORD_APPLICATION_ID = ""
+
+[[kv_namespaces]]
+binding = "GAME_DATA"
+id = "bd28efd16f644f31ba85f8d25f28e449"
+
+[[migrations]]
+tag = "v1"
+deleted_classes = ["RaidDO"]

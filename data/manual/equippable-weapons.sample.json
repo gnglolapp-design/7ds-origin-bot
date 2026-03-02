@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Black Flame Wings Longsword",
+    "weapon_type": "Longsword",
+    "rarity": "SSR",
+    "stats": { "atk": 555, "crit_damage": 6.3 },
+    "passive": {
+      "trigger": "burst_activate",
+      "effects": [
+        { "stat": "atk_pct", "value": 12, "duration_sec": 20 },
+        { "stat": "crit_chance", "value": 8, "duration_sec": 20 }
+      ],
+      "description": "Exemple de structure. Remplace par tes vraies armes équipables."
+    }
+  }
+]

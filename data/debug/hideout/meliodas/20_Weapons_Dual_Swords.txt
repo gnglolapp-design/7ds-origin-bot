@@ -1,0 +1,73 @@
+HIDEOUT GUIDES
+Home
+Games
+About
+Discord
+Ko-fi
+← Characters
+Meliodas
+Basic Info
+Weapons
+Armor
+Potentials
+
+Longsword
+
+Axe
+
+Dual Swords
+
+Darkness
+Dual Swords
+Darkness
+Passive
+
+Speedmaster
+
+Gains Demonic Power for 30 sec when landing attacks on an enemy with Darkness Burst activated 10 times. Demonic Power: inflicts 10% ATK damage in 5m area around the hero every 2 sec, restores 5% max HP every 2 sec. Struck enemies are inflicted with Hellfire for 5 sec. Hellfire: increases damage taken from hero by 5% (max 10 times).
+
+Normal Attack
+
+Normal Attack
+
+Inflicts damage equal to 146% of Attack. 1st: 22% 2nd: 24% 3rd: 38% 4th: 62%
+
+No
+Icon
+Special Attack
+
+Special Attack
+
+10 sec cooldown. Inflicts damage equal to 146% of Attack. Decreases Special Attack cooldown by 50% when Demonic Power is active.
+
+Normal Skill
+
+Burning Slash
+
+20 sec cooldown. Inflicts damage equal to 245% of Attack. Additionally inflicts 100% ATK damage on enemies within 5m with the final strike if Demonic Power is active.
+
+Attack Skill
+
+X Slash
+
+Inflicts damage equal to 120% of Attack.
+
+Ultimate Move
+
+X Slash Flurry
+
+10 sec cooldown. Consumes 3 magic. Inflicts damage equal to 404% of Attack. Increases damage dealt by 50% and restores 5% max HP with each hit if Demonic Power is active.
+
+HIDEOUT GUIDES
+Games
+Bleach Soul Resonance
+Dragon Traveler
+Dragon Raja Rerise
+Star Sailors
+Seven Deadly Sins: Origin
+Privacy Policy
+Terms of Service
+
+© 2026 Hideout Guides. All rights reserved.
+
+Disclaimer: All game assets, images, and trademarks are property of their respective owners. This site is not affiliated with or endorsed by any game developer or publisher.

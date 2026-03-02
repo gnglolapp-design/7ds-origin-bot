@@ -1,0 +1,107 @@
+{
+  "version": 1,
+  "generated_at": "2026-03-02T18:13:40.686Z",
+  "items": [
+    {
+      "scenario_id": "clean_short_fight",
+      "label": "Combat propre court",
+      "description": "Setup propre, peu de perturbations, cycle court pour isoler un gain direct.",
+      "required_context": [
+        "character_id"
+      ],
+      "controls": [
+        "same_target",
+        "same_skill",
+        "same_buff_state"
+      ],
+      "focus_metrics": [
+        "gain_ratio",
+        "stability"
+      ]
+    },
+    {
+      "scenario_id": "clean_long_cycle",
+      "label": "Combat long stable",
+      "description": "Cycle plus long pour juger uptime, régularité et tenue réelle.",
+      "required_context": [
+        "character_id"
+      ],
+      "controls": [
+        "same_target",
+        "same_rotation_family"
+      ],
+      "focus_metrics": [
+        "uptime_ratio",
+        "stability"
+      ]
+    },
+    {
+      "scenario_id": "burst_window",
+      "label": "Fenêtre burst",
+      "description": "Mesure la vraie valeur d'une fenêtre de burst ou d'un alignement de setup.",
+      "required_context": [
+        "character_id"
+      ],
+      "controls": [
+        "same_target",
+        "same_phase",
+        "same_buff_state"
+      ],
+      "focus_metrics": [
+        "burst_gain_ratio",
+        "timing_penalty"
+      ]
+    },
+    {
+      "scenario_id": "tag_swap_setup",
+      "label": "Tag / swap setup",
+      "description": "Mesure ce que le swap ou le tag ajoute dans un setup comparable.",
+      "required_context": [
+        "character_id"
+      ],
+      "controls": [
+        "same_target",
+        "same_rotation_family"
+      ],
+      "focus_metrics": [
+        "tag_gain_ratio",
+        "stability"
+      ]
+    },
+    {
+      "scenario_id": "boss_pressure",
+      "label": "Pression boss",
+      "description": "Mesure la perte ou la tenue d'un setup quand le boss casse le rythme.",
+      "required_context": [
+        "character_id",
+        "boss_id"
+      ],
+      "controls": [
+        "same_boss",
+        "same_setup_family"
+      ],
+      "focus_metrics": [
+        "pressure_retention",
+        "recovery_penalty"
+      ]
+    },
+    {
+      "scenario_id": "phase_locked_boss",
+      "label": "Boss à phase verrouillée",
+      "description": "Mesure un setup dans une phase précise d'un boss.",
+      "required_context": [
+        "character_id",
+        "boss_id",
+        "phase_id"
+      ],
+      "controls": [
+        "same_boss",
+        "same_phase"
+      ],
+      "focus_metrics": [
+        "phase_gain_ratio",
+        "stability"
+      ]
+    }
+  ]
+}

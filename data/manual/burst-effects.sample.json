@@ -1,0 +1,9 @@
+[
+  {
+    "burst_effect_id": "burst_normal_earth",
+    "burst_family": "normal",
+    "element_id": "earth",
+    "common_effect": "When attacking with any Element, increases the damage taken by the target affected by the activated Burst.",
+    "unique_effect": "Creates a barrier upon activation, and the barrier is strengthened when attacking enemies affected by the Burst."
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "evade_rule_id": "evade__successful__generic_bonus",
+    "trigger_type": "successful_evade",
+    "successful_evade_bonus_type": "hero_type_conditional_bonus",
+    "applies_to_hero_family": "all",
+    "timing_notes": "Fill with hero-type specific evade follow-up rules when sources expose them."
+  }
+]

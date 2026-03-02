@@ -1,0 +1,44 @@
+{
+  "generated_at": "2026-03-02T20:49:51.273Z",
+  "raw": {
+    "hideout": {
+      "source": "hideoutgacha.com",
+      "fetched_at": "2026-03-02T20:46:24.982Z"
+    },
+    "genshin": {
+      "source": "genshin.gg/7dso",
+      "fetched_at": "2026-03-02T20:47:40.003Z"
+    },
+    "seven": {
+      "source": "7dsorigin.gg",
+      "fetched_at": "2026-03-02T20:49:51.184Z"
+    }
+  },
+  "counts": {
+    "characters": 26,
+    "character_weapons": 78,
+    "skills": 0,
+    "skill_icons": 0,
+    "rarities": 0,
+    "elements": 0,
+    "element_icons": 0,
+    "stat_icons": 0,
+    "armor_sets": 0,
+    "armor_pieces": 0,
+    "potentials": 0,
+    "potential_bonuses": 0,
+    "bosses": 1,
+    "boss_rewards": 0,
+    "boss_strategy": 0,
+    "weapons": 86,
+    "interactive_map": 0,
+    "banners": 0,
+    "events": 0,
+    "familiars": 0,
+    "items": 0,
+    "foods": 0,
+    "fishing": 0,
+    "costumes": 207,
+    "general": 0
+  }
+}

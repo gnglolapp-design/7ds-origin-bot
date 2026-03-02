@@ -1,0 +1,61 @@
+import { ROUTES, COMPONENT_IDS } from "./constants.js";
+import { requireEnv } from "./lib/env.js";
+import { json } from "./lib/utils.js";
+import { parseCid } from "./lib/ids.js";
+import { verifyDiscordRequest } from "./discord/verify.js";
+import { InteractionResponseType } from "./discord/responses.js";
+
+import { handlePersoCommand, handlePersoComponent } from "./features/perso.js";
+import { handleBossCommand, handleBossComponent } from "./features/boss.js";
+import { handleGlossaireCommand, handleGlossaireComponent } from "./features/glossaire.js";
+import { handleElementsCommand, handleElementsComponent } from "./features/elements.js";
+import { handleTierlistCommand } from "./features/tierlist.js";
+import { handleProfilCommand } from "./features/profil.js";
+import { handleAutocomplete } from "./features/autocomplete.js";
+
+export default {
+  async fetch(request, env) {
+    const url = new URL(request.url);
+    if (url.pathname === "/") return new Response("OK", { status: 200 });
+    if (url.pathname !== ROUTES.INTERACTIONS) return new Response("Not Found", { status: 404 });
+
+    requireEnv(env, ["DISCORD_PUBLIC_KEY"]);
+    const { isValid, body } = await verifyDiscordRequest(request, env.DISCORD_PUBLIC_KEY);
+    if (!isValid) return new Response("Bad signature", { status: 401 });
+    const interaction = JSON.parse(body);
+
+    if (interaction.type === 1) return json({ type: InteractionResponseType.PONG });
+
+    // Slash commands
+    if (interaction.type === 2) {
+      const name = interaction.data?.name;
+      if (name === "perso") return json(await handlePersoCommand(env, interaction));
+      if (name === "boss") return json(await handleBossCommand(env, interaction));
+      if (name === "glossaire") return json(await handleGlossaireCommand(env));
+      if (name === "elements") return json(await handleElementsCommand(env));
+      if (name === "tierlist") return json(await handleTierlistCommand(env, interaction));
+      if (name === "profil") return json(await handleProfilCommand(env, interaction));
+      return json({ type: 4, data: { content: "Commande inconnue.", flags: 64 } });
+    }
+
+    // Components
+    if (interaction.type === 3) {
+      const { base, params } = parseCid(interaction.data.custom_id);
+
+      if (base.startsWith("perso:")) return json(await handlePersoComponent(env, interaction));
+      if (base.startsWith("boss:")) return json(await handleBossComponent(env, interaction));
+      if (base.startsWith("glossaire:")) return json(await handleGlossaireComponent(env, interaction));
+      if (base.startsWith("elements:")) return json(await handleElementsComponent(env, interaction));
+
+      // profil currently has no interactive components
+      return json({ type: 7, data: { content: "Composant inconnu.", flags: 64 } });
+    }
+
+    // Autocomplete
+    if (interaction.type === 4) {
+      return json(await handleAutocomplete(env, interaction));
+    }
+
+    return json({ type: 4, data: { content: "Interaction non supportée.", flags: 64 } });
+  },
+};

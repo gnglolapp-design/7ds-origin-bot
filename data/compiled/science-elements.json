@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "generated_at": "2026-03-02T18:13:40.683Z",
+  "items": [
+    {
+      "element_id": "fire",
+      "label": "Fire",
+      "aliases": [
+        "fire",
+        "feu"
+      ]
+    },
+    {
+      "element_id": "cold",
+      "label": "Cold",
+      "aliases": [
+        "cold",
+        "ice",
+        "glace"
+      ]
+    },
+    {
+      "element_id": "earth",
+      "label": "Earth",
+      "aliases": [
+        "earth",
+        "terre"
+      ]
+    },
+    {
+      "element_id": "lightning",
+      "label": "Lightning",
+      "aliases": [
+        "lightning",
+        "thunder",
+        "foudre"
+      ]
+    },
+    {
+      "element_id": "wind",
+      "label": "Wind",
+      "aliases": [
+        "wind",
+        "vent"
+      ]
+    },
+    {
+      "element_id": "physical",
+      "label": "Physical",
+      "aliases": [
+        "physical",
+        "physique"
+      ]
+    },
+    {
+      "element_id": "holy",
+      "label": "Holy",
+      "aliases": [
+        "holy",
+        "light",
+        "lumiere"
+      ]
+    },
+    {
+      "element_id": "darkness",
+      "label": "Darkness",
+      "aliases": [
+        "darkness",
+        "dark",
+        "tenebres"
+      ]
+    }
+  ]
+}

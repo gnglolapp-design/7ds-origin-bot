@@ -1,0 +1,134 @@
+{
+  "version": 1,
+  "generated_at": "2026-03-02T18:13:40.686Z",
+  "items": [
+    {
+      "burst_effect_id": "burst_normal_earth",
+      "burst_family": "normal",
+      "element_id": "earth",
+      "common_effect": "When attacking with any Element, increases the damage taken by the target affected by the activated Burst.",
+      "unique_effect": "Creates a barrier upon activation, and the barrier is strengthened when attacking enemies affected by the Burst.",
+      "converts_active_burst": false,
+      "extends_duration": false,
+      "gauge_feed_target": null,
+      "freeze_stack_rule": null,
+      "burst_resistance_interaction": null,
+      "source_refs": {
+        "manual": true,
+        "dev_note": true
+      }
+    },
+    {
+      "burst_effect_id": "burst_normal_lightning",
+      "burst_family": "normal",
+      "element_id": "lightning",
+      "common_effect": "When attacking with any Element, increases the damage taken by the target affected by the activated Burst.",
+      "unique_effect": "After the Burst occurs, taking damage causes additional damage to the target and nearby enemies.",
+      "converts_active_burst": false,
+      "extends_duration": false,
+      "gauge_feed_target": null,
+      "freeze_stack_rule": null,
+      "burst_resistance_interaction": null,
+      "source_refs": {
+        "manual": true,
+        "dev_note": true
+      }
+    },
+    {
+      "burst_effect_id": "burst_normal_wind",
+      "burst_family": "normal",
+      "element_id": "wind",
+      "common_effect": "When attacking with any Element, increases the damage taken by the target affected by the activated Burst.",
+      "unique_effect": "When the Burst occurs, a wind field forms around the target, pulling in nearby monsters.",
+      "converts_active_burst": false,
+      "extends_duration": false,
+      "gauge_feed_target": null,
+      "freeze_stack_rule": null,
+      "burst_resistance_interaction": null,
+      "source_refs": {
+        "manual": true,
+        "dev_note": true
+      }
+    },
+    {
+      "burst_effect_id": "burst_normal_fire",
+      "burst_family": "normal",
+      "element_id": "fire",
+      "common_effect": "When attacking with any Element, increases the damage taken by the target affected by the activated Burst.",
+      "unique_effect": "After the Burst occurs, taking damage triggers an explosion on the target, dealing additional damage.",
+      "converts_active_burst": false,
+      "extends_duration": false,
+      "gauge_feed_target": null,
+      "freeze_stack_rule": null,
+      "burst_resistance_interaction": null,
+      "source_refs": {
+        "manual": true,
+        "dev_note": true
+      }
+    },
+    {
+      "burst_effect_id": "burst_normal_cold",
+      "burst_family": "normal",
+      "element_id": "cold",
+      "common_effect": "When attacking with any Element, increases the damage taken by the target affected by the activated Burst.",
+      "unique_effect": "When the Burst occurs, applies a Cold stack to the target. Attacks with the Cold Element add stacks, and upon reaching the maximum stack, the target becomes Frozen.",
+      "converts_active_burst": false,
+      "extends_duration": false,
+      "gauge_feed_target": null,
+      "freeze_stack_rule": "cold_stack_to_freeze",
+      "burst_resistance_interaction": "cold_burst_resistance",
+      "source_refs": {
+        "manual": true,
+        "dev_note": true
+      }
+    },
+    {
+      "burst_effect_id": "burst_special_darkness",
+      "burst_family": "special",
+      "element_id": "darkness",
+      "common_effect": null,
+      "unique_effect": "When the Burst occurs, converts any active Normal Elemental Burst into a Darkness Elemental Burst and extends its duration.",
+      "converts_active_burst": true,
+      "extends_duration": true,
+      "gauge_feed_target": null,
+      "freeze_stack_rule": null,
+      "burst_resistance_interaction": "darkness_burst_resistance",
+      "source_refs": {
+        "manual": true,
+        "dev_note": true
+      }
+    },
+    {
+      "burst_effect_id": "burst_special_holy",
+      "burst_family": "special",
+      "element_id": "holy",
+      "common_effect": null,
+      "unique_effect": "Does not trigger a Burst, but increases the Burst Gauge of the most recently accumulated Element.",
+      "converts_active_burst": false,
+      "extends_duration": false,
+      "gauge_feed_target": "most_recent_element",
+      "freeze_stack_rule": null,
+      "burst_resistance_interaction": null,
+      "source_refs": {
+        "manual": true,
+        "dev_note": true
+      }
+    },
+    {
+      "burst_effect_id": "burst_special_physical",
+      "burst_family": "special",
+      "element_id": "physical",
+      "common_effect": null,
+      "unique_effect": "Does not trigger a Burst, but increases the Burst Gauge of the most recently accumulated Element.",
+      "converts_active_burst": false,
+      "extends_duration": false,
+      "gauge_feed_target": "most_recent_element",
+      "freeze_stack_rule": null,
+      "burst_resistance_interaction": null,
+      "source_refs": {
+        "manual": true,
+        "dev_note": true
+      }
+    }
+  ]
+}

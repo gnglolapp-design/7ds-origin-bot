@@ -1,0 +1,1009 @@
+{
+  "version": 1,
+  "generated_at": "2026-03-02T18:13:40.681Z",
+  "items": {
+    "skills": {
+      "bug__kit_1__skill_1": {},
+      "bug__kit_1__skill_2": {},
+      "bug__kit_1__skill_3": {
+        "mobility": true
+      },
+      "bug__kit_1__skill_4": {},
+      "bug__kit_1__skill_5": {},
+      "bug__kit_1__skill_6": {},
+      "bug__kit_2__skill_1": {
+        "burst_related": true
+      },
+      "bug__kit_2__skill_2": {},
+      "bug__kit_2__skill_3": {},
+      "bug__kit_2__skill_4": {},
+      "bug__kit_2__skill_5": {},
+      "bug__kit_2__skill_6": {},
+      "bug__kit_3__skill_1": {},
+      "bug__kit_3__skill_2": {},
+      "bug__kit_3__skill_3": {},
+      "bug__kit_3__skill_4": {
+        "interrupt": true,
+        "stun": true,
+        "taunt": true
+      },
+      "bug__kit_3__skill_5": {},
+      "bug__kit_3__skill_6": {},
+      "daisy__kit_1__skill_1": {
+        "burst_related": true
+      },
+      "daisy__kit_1__skill_2": {},
+      "daisy__kit_1__skill_3": {},
+      "daisy__kit_1__skill_4": {},
+      "daisy__kit_1__skill_5": {},
+      "daisy__kit_1__skill_6": {},
+      "daisy__kit_1__skill_7": {},
+      "daisy__kit_2__skill_1": {},
+      "daisy__kit_2__skill_2": {},
+      "daisy__kit_2__skill_3": {},
+      "daisy__kit_2__skill_4": {},
+      "daisy__kit_2__skill_5": {},
+      "daisy__kit_2__skill_6": {},
+      "daisy__kit_4__skill_1": {},
+      "daisy__kit_4__skill_2": {},
+      "daisy__kit_4__skill_3": {
+        "interrupt": true,
+        "stun": true
+      },
+      "daisy__kit_4__skill_4": {
+        "interrupt": true,
+        "stun": true
+      },
+      "daisy__kit_4__skill_5": {},
+      "daisy__kit_4__skill_6": {},
+      "diane__kit_1__skill_1": {},
+      "diane__kit_1__skill_2": {},
+      "diane__kit_1__skill_3": {},
+      "diane__kit_1__skill_4": {},
+      "diane__kit_1__skill_5": {
+        "taunt": true
+      },
+      "diane__kit_1__skill_6": {
+        "invulnerability": true,
+        "burst_gauge_gain": true,
+        "burst_related": true
+      },
+      "diane__kit_2__skill_1": {
+        "interrupt": true,
+        "stun": true,
+        "burst_related": true
+      },
+      "diane__kit_2__skill_2": {},
+      "diane__kit_2__skill_3": {},
+      "diane__kit_2__skill_4": {},
+      "diane__kit_2__skill_5": {},
+      "diane__kit_2__skill_6": {},
+      "diane__kit_3__skill_1": {
+        "barrier": true,
+        "taunt": true,
+        "burst_related": true
+      },
+      "diane__kit_3__skill_2": {},
+      "diane__kit_3__skill_3": {},
+      "diane__kit_3__skill_4": {},
+      "diane__kit_3__skill_5": {},
+      "diane__kit_3__skill_6": {
+        "burst_gauge_gain": true,
+        "burst_related": true
+      },
+      "drake__kit_1__skill_1": {
+        "burst_related": true
+      },
+      "drake__kit_1__skill_2": {},
+      "drake__kit_1__skill_3": {
+        "burst_related": true
+      },
+      "drake__kit_1__skill_4": {
+        "burst_related": true
+      },
+      "drake__kit_1__skill_5": {
+        "burst_related": true
+      },
+      "drake__kit_1__skill_6": {},
+      "drake__kit_3__skill_1": {
+        "burst_related": true
+      },
+      "drake__kit_3__skill_2": {},
+      "drake__kit_3__skill_3": {
+        "burst_gauge_gain": true,
+        "burst_related": true
+      },
+      "drake__kit_3__skill_4": {
+        "burst_gauge_gain": true,
+        "burst_related": true
+      },
+      "drake__kit_3__skill_5": {},
+      "drake__kit_3__skill_6": {
+        "burst_related": true
+      },
+      "drake__kit_4__skill_1": {},
+      "drake__kit_4__skill_2": {},
+      "drake__kit_4__skill_3": {},
+      "drake__kit_4__skill_4": {},
+      "drake__kit_4__skill_5": {},
+      "drake__kit_4__skill_6": {},
+      "dreydrin__kit_1__skill_1": {
+        "barrier": true
+      },
+      "dreydrin__kit_1__skill_2": {},
+      "dreydrin__kit_1__skill_3": {
+        "barrier": true,
+        "burst_gauge_gain": true,
+        "burst_related": true
+      },
+      "dreydrin__kit_1__skill_4": {},
+      "dreydrin__kit_1__skill_5": {},
+      "dreydrin__kit_1__skill_6": {},
+      "dreydrin__kit_2__skill_1": {
+        "interrupt": true,
+        "stun": true
+      },
+      "dreydrin__kit_2__skill_2": {},
+      "dreydrin__kit_2__skill_3": {
+        "interrupt": true,
+        "stun": true
+      },
+      "dreydrin__kit_2__skill_4": {
+        "interrupt": true,
+        "stun": true
+      },
+      "dreydrin__kit_2__skill_5": {},
+      "dreydrin__kit_2__skill_6": {
+        "interrupt": true,
+        "stun": true
+      },
+      "dreydrin__kit_3__skill_1": {
+        "burst_related": true
+      },
+      "dreydrin__kit_3__skill_2": {},
+      "dreydrin__kit_3__skill_3": {},
+      "dreydrin__kit_3__skill_4": {},
+      "dreydrin__kit_3__skill_5": {},
+      "dreydrin__kit_3__skill_6": {},
+      "dreyfus__kit_1__skill_1": {
+        "interrupt": true,
+        "stun": true
+      },
+      "dreyfus__kit_1__skill_2": {},
+      "dreyfus__kit_1__skill_3": {},
+      "dreyfus__kit_1__skill_4": {},
+      "dreyfus__kit_1__skill_5": {},
+      "dreyfus__kit_1__skill_6": {
+        "interrupt": true,
+        "stun": true
+      },
+      "dreyfus__kit_2__skill_1": {
+        "burst_related": true
+      },
+      "dreyfus__kit_2__skill_2": {},
+      "dreyfus__kit_2__skill_3": {},
+      "dreyfus__kit_2__skill_4": {},
+      "dreyfus__kit_2__skill_5": {},
+      "dreyfus__kit_2__skill_6": {},
+      "dreyfus__kit_3__skill_1": {
+        "barrier": true
+      },
+      "dreyfus__kit_3__skill_2": {},
+      "dreyfus__kit_3__skill_3": {
+        "burst_related": true
+      },
+      "dreyfus__kit_3__skill_4": {
+        "interrupt": true,
+        "stun": true
+      },
+      "dreyfus__kit_3__skill_5": {},
+      "dreyfus__kit_3__skill_6": {},
+      "elaine__kit_1__skill_1": {
+        "burst_related": true
+      },
+      "elaine__kit_1__skill_2": {},
+      "elaine__kit_1__skill_3": {
+        "barrier": true,
+        "burst_related": true
+      },
+      "elaine__kit_1__skill_4": {
+        "barrier": true
+      },
+      "elaine__kit_1__skill_5": {
+        "burst_gauge_gain": true,
+        "burst_related": true
+      },
+      "elaine__kit_1__skill_6": {},
+      "elaine__kit_2__skill_1": {
+        "burst_related": true
+      },
+      "elaine__kit_2__skill_2": {},
+      "elaine__kit_2__skill_3": {},
+      "elaine__kit_2__skill_4": {},
+      "elaine__kit_2__skill_5": {},
+      "elaine__kit_2__skill_6": {
+        "burst_related": true
+      },
+      "elaine__kit_3__skill_1": {
+        "burst_related": true
+      },
+      "elaine__kit_3__skill_2": {},
+      "elaine__kit_3__skill_3": {
+        "burst_related": true
+      },
+      "elaine__kit_3__skill_4": {
+        "burst_gauge_gain": true,
+        "burst_related": true
+      },
+      "elaine__kit_3__skill_5": {},
+      "elaine__kit_3__skill_6": {},
+      "gilthunder__kit_1__skill_1": {
+        "burst_related": true
+      },
+      "gilthunder__kit_1__skill_2": {},
+      "gilthunder__kit_1__skill_3": {},
+      "gilthunder__kit_1__skill_4": {},
+      "gilthunder__kit_1__skill_5": {},
+      "gilthunder__kit_1__skill_6": {
+        "burst_related": true
+      },
+      "gilthunder__kit_2__skill_1": {
+        "barrier": true
+      },
+      "gilthunder__kit_2__skill_2": {},
+      "gilthunder__kit_2__skill_3": {
+        "taunt": true
+      },
+      "gilthunder__kit_2__skill_4": {
+        "barrier": true
+      },
+      "gilthunder__kit_2__skill_5": {},
+      "gilthunder__kit_2__skill_6": {},
+      "gilthunder__kit_3__skill_1": {},
+      "gilthunder__kit_3__skill_2": {},
+      "gilthunder__kit_3__skill_3": {},
+      "gilthunder__kit_3__skill_4": {
+        "burst_related": true
+      },
+      "gilthunder__kit_3__skill_5": {},
+      "gilthunder__kit_3__skill_6": {},
+      "griamore__kit_1__skill_1": {
+        "barrier": true
+      },
+      "griamore__kit_1__skill_2": {},
+      "griamore__kit_1__skill_3": {},
+      "griamore__kit_1__skill_4": {},
+      "griamore__kit_1__skill_5": {},
+      "griamore__kit_1__skill_6": {},
+      "griamore__kit_2__skill_1": {
+        "interrupt": true,
+        "stun": true
+      },
+      "griamore__kit_2__skill_2": {
+        "interrupt": true,
+        "stun": true,
+        "barrier": true
+      },
+      "griamore__kit_3__skill_1": {
+        "barrier": true,
+        "burst_related": true
+      },
+      "griamore__kit_3__skill_2": {},
+      "griamore__kit_3__skill_3": {
+        "interrupt": true,
+        "stun": true
+      },
+      "griamore__kit_3__skill_4": {
+        "interrupt": true,
+        "stun": true,
+        "barrier": true
+      },
+      "griamore__kit_3__skill_5": {
+        "barrier": true
+      },
+      "griamore__kit_3__skill_6": {
+        "interrupt": true,
+        "stun": true,
+        "burst_gauge_gain": true,
+        "burst_related": true
+      },
+      "griamore__kit_4__skill_1": {
+        "barrier": true
+      },
+      "griamore__kit_4__skill_2": {},
+      "griamore__kit_4__skill_3": {
+        "barrier": true
+      },
+      "griamore__kit_4__skill_4": {
+        "barrier": true
+      },
+      "griamore__kit_4__skill_5": {},
+      "griamore__kit_4__skill_6": {
+        "interrupt": true,
+        "stun": true,
+        "barrier": true,
+        "burst_related": true
+      },
+      "guila__kit_1__skill_1": {
+        "burst_related": true
+      },
+      "guila__kit_1__skill_2": {},
+      "guila__kit_1__skill_3": {},
+      "guila__kit_1__skill_4": {
+        "burst_related": true
+      },
+      "guila__kit_1__skill_5": {},
+      "guila__kit_1__skill_6": {},
+      "guila__kit_2__skill_1": {
+        "barrier": true
+      },
+      "guila__kit_2__skill_2": {},
+      "guila__kit_2__skill_3": {
+        "invulnerability": true,
+        "taunt": true
+      },
+      "guila__kit_2__skill_4": {
+        "barrier": true
+      },
+      "guila__kit_2__skill_5": {},
+      "guila__kit_2__skill_6": {},
+      "guila__kit_3__skill_1": {
+        "burst_related": true
+      },
+      "guila__kit_3__skill_2": {},
+      "guila__kit_3__skill_3": {
+        "burst_gauge_gain": true,
+        "burst_related": true
+      },
+      "guila__kit_3__skill_4": {
+        "burst_related": true
+      },
+      "guila__kit_3__skill_5": {},
+      "guila__kit_3__skill_6": {},
+      "hendrickson__kit_1__skill_1": {},
+      "hendrickson__kit_1__skill_2": {},
+      "hendrickson__kit_1__skill_3": {
+        "interrupt": true,
+        "stun": true,
+        "mobility": true
+      },
+      "hendrickson__kit_1__skill_4": {},
+      "hendrickson__kit_1__skill_5": {},
+      "hendrickson__kit_1__skill_6": {},
+      "hendrickson__kit_2__skill_1": {},
+      "hendrickson__kit_2__skill_2": {},
+      "hendrickson__kit_2__skill_3": {
+        "heal": true
+      },
+      "hendrickson__kit_2__skill_4": {},
+      "hendrickson__kit_2__skill_5": {},
+      "hendrickson__kit_2__skill_6": {},
+      "hendrickson__kit_3__skill_1": {
+        "burst_related": true
+      },
+      "hendrickson__kit_3__skill_2": {},
+      "hendrickson__kit_3__skill_3": {},
+      "hendrickson__kit_3__skill_4": {},
+      "hendrickson__kit_3__skill_5": {},
+      "hendrickson__kit_3__skill_6": {},
+      "howzer__kit_1__skill_1": {
+        "burst_related": true
+      },
+      "howzer__kit_1__skill_2": {},
+      "howzer__kit_1__skill_3": {
+        "burst_related": true
+      },
+      "howzer__kit_1__skill_4": {
+        "heal": true
+      },
+      "howzer__kit_1__skill_5": {},
+      "howzer__kit_1__skill_6": {},
+      "howzer__kit_2__skill_1": {},
+      "howzer__kit_2__skill_2": {},
+      "howzer__kit_2__skill_3": {},
+      "howzer__kit_2__skill_4": {},
+      "howzer__kit_2__skill_5": {},
+      "howzer__kit_2__skill_6": {},
+      "howzer__kit_3__skill_1": {},
+      "howzer__kit_3__skill_2": {},
+      "howzer__kit_4__skill_1": {
+        "burst_related": true
+      },
+      "howzer__kit_4__skill_2": {},
+      "howzer__kit_4__skill_3": {
+        "interrupt": true,
+        "stun": true
+      },
+      "howzer__kit_4__skill_4": {},
+      "howzer__kit_4__skill_5": {},
+      "howzer__kit_4__skill_6": {
+        "interrupt": true,
+        "stun": true
+      },
+      "jericho__kit_1__skill_1": {
+        "interrupt": true,
+        "burst_related": true
+      },
+      "jericho__kit_1__skill_2": {},
+      "jericho__kit_1__skill_3": {
+        "interrupt": true
+      },
+      "jericho__kit_1__skill_4": {
+        "mobility": true,
+        "burst_gauge_gain": true,
+        "burst_related": true
+      },
+      "jericho__kit_1__skill_5": {
+        "interrupt": true,
+        "burst_related": true
+      },
+      "jericho__kit_1__skill_6": {
+        "burst_related": true
+      },
+      "jericho__kit_2__skill_1": {
+        "barrier": true
+      },
+      "jericho__kit_2__skill_2": {},
+      "jericho__kit_2__skill_3": {},
+      "jericho__kit_2__skill_4": {
+        "barrier": true
+      },
+      "jericho__kit_2__skill_5": {
+        "barrier": true
+      },
+      "jericho__kit_2__skill_6": {
+        "interrupt": true
+      },
+      "jericho__kit_3__skill_1": {},
+      "jericho__kit_3__skill_2": {},
+      "jericho__kit_3__skill_3": {
+        "interrupt": true
+      },
+      "jericho__kit_3__skill_4": {},
+      "jericho__kit_3__skill_5": {},
+      "jericho__kit_3__skill_6": {},
+      "king__kit_1__skill_1": {
+        "heal": true
+      },
+      "king__kit_1__skill_2": {},
+      "king__kit_1__skill_3": {
+        "heal": true
+      },
+      "king__kit_1__skill_4": {},
+      "king__kit_1__skill_5": {},
+      "king__kit_1__skill_6": {
+        "barrier": true
+      },
+      "king__kit_2__skill_1": {},
+      "king__kit_2__skill_2": {},
+      "king__kit_2__skill_3": {},
+      "king__kit_2__skill_4": {},
+      "king__kit_2__skill_5": {},
+      "king__kit_2__skill_6": {},
+      "king__kit_3__skill_1": {
+        "burst_related": true
+      },
+      "king__kit_3__skill_2": {},
+      "king__kit_3__skill_3": {},
+      "king__kit_3__skill_4": {},
+      "king__kit_3__skill_5": {},
+      "king__kit_3__skill_6": {},
+      "manny__kit_1__skill_1": {
+        "burst_related": true
+      },
+      "manny__kit_1__skill_2": {},
+      "manny__kit_1__skill_3": {},
+      "manny__kit_1__skill_4": {},
+      "manny__kit_1__skill_5": {},
+      "manny__kit_1__skill_6": {},
+      "manny__kit_2__skill_1": {},
+      "manny__kit_2__skill_2": {},
+      "manny__kit_2__skill_3": {},
+      "manny__kit_2__skill_4": {},
+      "manny__kit_2__skill_5": {},
+      "manny__kit_2__skill_6": {
+        "interrupt": true
+      },
+      "manny__kit_3__skill_1": {
+        "burst_related": true
+      },
+      "manny__kit_3__skill_2": {},
+      "manny__kit_3__skill_3": {},
+      "manny__kit_3__skill_4": {},
+      "manny__kit_3__skill_5": {},
+      "manny__kit_3__skill_6": {
+        "interrupt": true,
+        "barrier": true
+      },
+      "meliodas__kit_1__skill_1": {
+        "burst_related": true
+      },
+      "meliodas__kit_1__skill_2": {},
+      "meliodas__kit_1__skill_3": {
+        "burst_related": true
+      },
+      "meliodas__kit_1__skill_4": {
+        "burst_related": true
+      },
+      "meliodas__kit_1__skill_5": {},
+      "meliodas__kit_1__skill_6": {
+        "burst_related": true
+      },
+      "meliodas__kit_2__skill_1": {},
+      "meliodas__kit_2__skill_2": {},
+      "meliodas__kit_2__skill_3": {},
+      "meliodas__kit_2__skill_4": {
+        "mobility": true
+      },
+      "meliodas__kit_2__skill_5": {},
+      "meliodas__kit_2__skill_6": {},
+      "meliodas__kit_3__skill_1": {
+        "burst_related": true
+      },
+      "meliodas__kit_3__skill_2": {},
+      "meliodas__kit_3__skill_3": {},
+      "meliodas__kit_3__skill_4": {},
+      "meliodas__kit_3__skill_5": {},
+      "meliodas__kit_3__skill_6": {},
+      "slader__kit_1__skill_1": {
+        "burst_related": true
+      },
+      "slader__kit_1__skill_2": {},
+      "slader__kit_1__skill_3": {},
+      "slader__kit_1__skill_4": {
+        "interrupt": true,
+        "stun": true
+      },
+      "slader__kit_1__skill_5": {},
+      "slader__kit_1__skill_6": {
+        "interrupt": true,
+        "stun": true,
+        "burst_related": true
+      },
+      "slader__kit_2__skill_1": {},
+      "slader__kit_2__skill_2": {},
+      "slader__kit_2__skill_3": {
+        "heal": true
+      },
+      "slader__kit_2__skill_4": {},
+      "slader__kit_2__skill_5": {},
+      "slader__kit_2__skill_6": {},
+      "slader__kit_3__skill_1": {},
+      "slader__kit_3__skill_2": {},
+      "slader__kit_4__skill_1": {
+        "burst_related": true
+      },
+      "slader__kit_4__skill_2": {},
+      "slader__kit_4__skill_3": {},
+      "slader__kit_4__skill_4": {
+        "burst_gauge_gain": true,
+        "burst_related": true
+      },
+      "slader__kit_4__skill_5": {
+        "interrupt": true,
+        "stun": true,
+        "burst_gauge_gain": true,
+        "burst_related": true
+      },
+      "slader__kit_4__skill_6": {},
+      "tioreh__kit_1__skill_1": {},
+      "tioreh__kit_1__skill_2": {},
+      "tioreh__kit_1__skill_3": {},
+      "tioreh__kit_1__skill_4": {
+        "heal": true
+      },
+      "tioreh__kit_1__skill_5": {},
+      "tioreh__kit_2__skill_1": {
+        "burst_related": true
+      },
+      "tioreh__kit_2__skill_2": {},
+      "tioreh__kit_2__skill_3": {},
+      "tioreh__kit_2__skill_4": {
+        "burst_gauge_gain": true,
+        "burst_related": true
+      },
+      "tioreh__kit_3__skill_1": {},
+      "tioreh__kit_3__skill_2": {},
+      "tioreh__kit_3__skill_3": {},
+      "tioreh__kit_3__skill_4": {},
+      "tioreh__kit_3__skill_5": {},
+      "tioreh__kit_3__skill_6": {},
+      "tristan__kit_1__skill_1": {
+        "burst_related": true
+      },
+      "tristan__kit_1__skill_2": {},
+      "tristan__kit_1__skill_3": {},
+      "tristan__kit_1__skill_4": {
+        "burst_gauge_gain": true,
+        "burst_related": true
+      },
+      "tristan__kit_1__skill_5": {},
+      "tristan__kit_2__skill_1": {
+        "burst_related": true
+      },
+      "tristan__kit_2__skill_2": {
+        "heal": true
+      },
+      "tristan__kit_2__skill_3": {
+        "burst_gauge_gain": true,
+        "burst_related": true
+      },
+      "tristan__kit_2__skill_4": {},
+      "tristan__kit_2__skill_5": {
+        "burst_related": true
+      },
+      "tristan__kit_3__skill_1": {},
+      "tristan__kit_3__skill_2": {},
+      "tristan__kit_3__skill_3": {},
+      "tristan__kit_3__skill_4": {},
+      "tristan__kit_3__skill_5": {}
+    },
+    "weapon_kits": {
+      "ban__kit_1__nunchaku": {},
+      "ban__kit_2__greatsword": {},
+      "ban__kit_3__gauntlets": {},
+      "bug__kit_1__dual-swords": {
+        "mobility": true
+      },
+      "bug__kit_2__axe": {
+        "burst_related": true
+      },
+      "bug__kit_3__book": {
+        "interrupt": true,
+        "stun": true,
+        "taunt": true
+      },
+      "klotho__kit_1__rapier": {},
+      "klotho__kit_2__staff": {},
+      "klotho__kit_3__book": {},
+      "daisy__kit_1__shield": {
+        "burst_related": true
+      },
+      "daisy__kit_2__book": {},
+      "daisy__kit_3__wand": {},
+      "daisy__kit_4__staff": {
+        "interrupt": true,
+        "stun": true
+      },
+      "derieri__kit_1__gauntlets": {},
+      "derieri__kit_2__axe": {},
+      "derieri__kit_3__greatsword": {},
+      "diane__kit_1__gauntlets": {
+        "taunt": true,
+        "invulnerability": true,
+        "burst_gauge_gain": true,
+        "burst_related": true
+      },
+      "diane__kit_2__axe": {
+        "interrupt": true,
+        "stun": true,
+        "burst_related": true
+      },
+      "diane__kit_3__nunchaku": {
+        "barrier": true,
+        "taunt": true,
+        "burst_related": true,
+        "burst_gauge_gain": true
+      },
+      "diane__kit_4__cudgel": {},
+      "drake__kit_1__greatsword": {
+        "burst_related": true
+      },
+      "drake__kit_2__staff": {},
+      "drake__kit_3__longsword": {
+        "burst_related": true,
+        "burst_gauge_gain": true
+      },
+      "drake__kit_4__wand": {},
+      "dreydrin__kit_1__shield": {
+        "barrier": true,
+        "burst_gauge_gain": true,
+        "burst_related": true
+      },
+      "dreydrin__kit_2__axe": {
+        "interrupt": true,
+        "stun": true
+      },
+      "dreydrin__kit_3__rapier": {
+        "burst_related": true
+      },
+      "dreyfus__kit_1__rapier": {
+        "interrupt": true,
+        "stun": true
+      },
+      "dreyfus__kit_2__longsword": {
+        "burst_related": true
+      },
+      "dreyfus__kit_3__lance": {
+        "barrier": true,
+        "burst_related": true,
+        "interrupt": true,
+        "stun": true
+      },
+      "elaine__kit_1__book": {
+        "burst_related": true,
+        "barrier": true,
+        "burst_gauge_gain": true
+      },
+      "elaine__kit_2__wand": {
+        "burst_related": true
+      },
+      "elaine__kit_3__staff": {
+        "burst_related": true,
+        "burst_gauge_gain": true
+      },
+      "elizabeth__kit_1__wand": {},
+      "elizabeth__kit_2__staff": {},
+      "escanor__kit_1__axe": {},
+      "escanor__kit_2__greatsword": {},
+      "escanor__kit_3__shield": {},
+      "gilthunder__kit_1__longsword": {
+        "burst_related": true
+      },
+      "gilthunder__kit_2__shield": {
+        "barrier": true,
+        "taunt": true
+      },
+      "gilthunder__kit_3__lance": {
+        "burst_related": true
+      },
+      "gowther__kit_1__book": {},
+      "gowther__kit_2__wand": {},
+      "gowther__kit_3__staff": {},
+      "griamore__kit_1__shield": {
+        "barrier": true
+      },
+      "griamore__kit_2__cudgel": {
+        "interrupt": true,
+        "stun": true,
+        "barrier": true
+      },
+      "griamore__kit_3__gauntlets": {
+        "barrier": true,
+        "burst_related": true,
+        "interrupt": true,
+        "stun": true,
+        "burst_gauge_gain": true
+      },
+      "griamore__kit_4__nunchaku": {
+        "barrier": true,
+        "interrupt": true,
+        "stun": true,
+        "burst_related": true
+      },
+      "guila__kit_1__lance": {
+        "burst_related": true
+      },
+      "guila__kit_2__shield": {
+        "barrier": true,
+        "invulnerability": true,
+        "taunt": true
+      },
+      "guila__kit_3__rapier": {
+        "burst_related": true,
+        "burst_gauge_gain": true
+      },
+      "hendrickson__kit_1__dual-swords": {
+        "interrupt": true,
+        "stun": true,
+        "mobility": true
+      },
+      "hendrickson__kit_2__longsword": {
+        "heal": true
+      },
+      "hendrickson__kit_3__lance": {
+        "burst_related": true
+      },
+      "howzer__kit_1__lance": {
+        "burst_related": true,
+        "heal": true
+      },
+      "howzer__kit_2__gauntlets": {},
+      "howzer__kit_3__cudgel": {},
+      "howzer__kit_4__nunchaku": {
+        "burst_related": true,
+        "interrupt": true,
+        "stun": true
+      },
+      "jericho__kit_1__dual-swords": {
+        "interrupt": true,
+        "burst_related": true,
+        "mobility": true,
+        "burst_gauge_gain": true
+      },
+      "jericho__kit_2__lance": {
+        "barrier": true,
+        "interrupt": true
+      },
+      "jericho__kit_3__rapier": {
+        "interrupt": true
+      },
+      "king__kit_1__book": {
+        "heal": true,
+        "barrier": true
+      },
+      "king__kit_2__wand": {},
+      "king__kit_3__staff": {
+        "burst_related": true
+      },
+      "manny__kit_1__staff": {
+        "burst_related": true
+      },
+      "manny__kit_2__dual-swords": {
+        "interrupt": true
+      },
+      "manny__kit_3__longsword": {
+        "burst_related": true,
+        "interrupt": true,
+        "barrier": true
+      },
+      "meliodas__kit_1__longsword": {
+        "burst_related": true
+      },
+      "meliodas__kit_2__axe": {
+        "mobility": true
+      },
+      "meliodas__kit_3__dual-swords": {
+        "burst_related": true
+      },
+      "merlin__kit_1__book": {},
+      "merlin__kit_2__wand": {},
+      "merlin__kit_3__staff": {},
+      "slader__kit_1__greatsword": {
+        "burst_related": true,
+        "interrupt": true,
+        "stun": true
+      },
+      "slader__kit_2__axe": {
+        "heal": true
+      },
+      "slader__kit_3__cudgel": {},
+      "slader__kit_4__nunchaku": {
+        "burst_related": true,
+        "burst_gauge_gain": true,
+        "interrupt": true,
+        "stun": true
+      },
+      "tioreh__kit_1__wand": {
+        "heal": true
+      },
+      "tioreh__kit_2__staff": {
+        "burst_related": true,
+        "burst_gauge_gain": true
+      },
+      "tioreh__kit_3__book": {},
+      "tristan__kit_1__dual-swords": {
+        "burst_related": true,
+        "burst_gauge_gain": true
+      },
+      "tristan__kit_2__longsword": {
+        "burst_related": true,
+        "heal": true,
+        "burst_gauge_gain": true
+      },
+      "tristan__kit_3__greatsword": {}
+    },
+    "characters": {
+      "ban": {},
+      "bug": {
+        "mobility": true,
+        "burst_related": true,
+        "interrupt": true,
+        "stun": true,
+        "taunt": true
+      },
+      "klotho": {},
+      "daisy": {
+        "burst_related": true,
+        "interrupt": true,
+        "stun": true
+      },
+      "derieri": {},
+      "diane": {
+        "taunt": true,
+        "invulnerability": true,
+        "burst_gauge_gain": true,
+        "burst_related": true,
+        "interrupt": true,
+        "stun": true,
+        "barrier": true
+      },
+      "drake": {
+        "burst_related": true,
+        "burst_gauge_gain": true
+      },
+      "dreydrin": {
+        "barrier": true,
+        "burst_gauge_gain": true,
+        "burst_related": true,
+        "interrupt": true,
+        "stun": true
+      },
+      "dreyfus": {
+        "interrupt": true,
+        "stun": true,
+        "burst_related": true,
+        "barrier": true
+      },
+      "elaine": {
+        "burst_related": true,
+        "barrier": true,
+        "burst_gauge_gain": true
+      },
+      "elizabeth": {},
+      "escanor": {},
+      "gilthunder": {
+        "burst_related": true,
+        "barrier": true,
+        "taunt": true
+      },
+      "gowther": {},
+      "griamore": {
+        "barrier": true,
+        "interrupt": true,
+        "stun": true,
+        "burst_related": true,
+        "burst_gauge_gain": true
+      },
+      "guila": {
+        "burst_related": true,
+        "barrier": true,
+        "invulnerability": true,
+        "taunt": true,
+        "burst_gauge_gain": true
+      },
+      "hendrickson": {
+        "interrupt": true,
+        "stun": true,
+        "mobility": true,
+        "heal": true,
+        "burst_related": true
+      },
+      "howzer": {
+        "burst_related": true,
+        "heal": true,
+        "interrupt": true,
+        "stun": true
+      },
+      "jericho": {
+        "interrupt": true,
+        "burst_related": true,
+        "mobility": true,
+        "burst_gauge_gain": true,
+        "barrier": true
+      },
+      "king": {
+        "heal": true,
+        "barrier": true,
+        "burst_related": true
+      },
+      "manny": {
+        "burst_related": true,
+        "interrupt": true,
+        "barrier": true
+      },
+      "meliodas": {
+        "burst_related": true,
+        "mobility": true
+      },
+      "merlin": {},
+      "slader": {
+        "burst_related": true,
+        "interrupt": true,
+        "stun": true,
+        "heal": true,
+        "burst_gauge_gain": true
+      },
+      "tioreh": {
+        "heal": true,
+        "burst_related": true,
+        "burst_gauge_gain": true
+      },
+      "tristan": {
+        "burst_related": true,
+        "burst_gauge_gain": true,
+        "heal": true
+      }
+    }
+  }
+}

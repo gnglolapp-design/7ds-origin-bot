@@ -1,0 +1,815 @@
+{
+  "version": 2,
+  "generated_at": "2026-03-02T18:13:40.672Z",
+  "items": [
+    {
+      "phase_id": "information__phase__overview",
+      "boss_id": "information",
+      "phase_key": "overview",
+      "name": "Informations générales",
+      "priority_score": 2,
+      "criticality_tags": [
+        "transition_phase"
+      ],
+      "pressure_level": "unknown",
+      "window_tags": [
+        "phase_variance"
+      ],
+      "pattern_ids": [],
+      "control_tags": [
+        "objective_check"
+      ],
+      "risk_tags": [],
+      "positioning_tags": [],
+      "recovery_window_tags": [],
+      "objective_tags": [],
+      "scenario_ids": [],
+      "burst_window_hint": false,
+      "evade_pressure_hint": false,
+      "interrupt_window_hint": false,
+      "multiplayer_relief_hint": false,
+      "melee_pressure_hint": false,
+      "ranged_pressure_hint": false,
+      "blue_interrupt_hint": false,
+      "source_section_key": "overview",
+      "summary": "Les versions Nightmare du Guardian Golem corrompu, de Drake, du Red Demon et du Grey Demon servent surtout à tester la coordination de l’équipe et la constance du DPS."
+    },
+    {
+      "phase_id": "guardian-golem__phase__overview",
+      "boss_id": "guardian-golem",
+      "phase_key": "overview",
+      "name": "Vue d’ensemble du combat",
+      "priority_score": 3,
+      "criticality_tags": [
+        "transition_phase"
+      ],
+      "pressure_level": "unknown",
+      "window_tags": [
+        "interrupt_window",
+        "phase_variance"
+      ],
+      "pattern_ids": [],
+      "control_tags": [
+        "interrupt_check",
+        "burst_check"
+      ],
+      "risk_tags": [
+        "interrupt_drop",
+        "rotation_break"
+      ],
+      "positioning_tags": [
+        "front_risk"
+      ],
+      "recovery_window_tags": [],
+      "objective_tags": [],
+      "scenario_ids": [
+        "burst_window"
+      ],
+      "burst_window_hint": true,
+      "evade_pressure_hint": false,
+      "interrupt_window_hint": false,
+      "multiplayer_relief_hint": false,
+      "melee_pressure_hint": false,
+      "ranged_pressure_hint": false,
+      "blue_interrupt_hint": false,
+      "source_section_key": "overview",
+      "summary": "Le Guardian Golem s’appuie sur de gros coups directionnels et une pression constante. Ses attaques ne sont pas forcément létales individuellement, mais les interruptions répétées cassent facilement le rythme de vos rotations."
+    },
+    {
+      "phase_id": "guardian-golem__phase__core",
+      "boss_id": "guardian-golem",
+      "phase_key": "core",
+      "name": "Mécaniques clés",
+      "priority_score": 5,
+      "criticality_tags": [
+        "gate_phase"
+      ],
+      "pressure_level": "medium",
+      "window_tags": [
+        "safe_burst",
+        "interrupt_window"
+      ],
+      "pattern_ids": [],
+      "control_tags": [
+        "interrupt_check"
+      ],
+      "risk_tags": [],
+      "positioning_tags": [],
+      "recovery_window_tags": [
+        "knockdown_window",
+        "interrupt_burst_window"
+      ],
+      "objective_tags": [],
+      "scenario_ids": [],
+      "burst_window_hint": false,
+      "evade_pressure_hint": false,
+      "interrupt_window_hint": true,
+      "multiplayer_relief_hint": false,
+      "melee_pressure_hint": false,
+      "ranged_pressure_hint": false,
+      "blue_interrupt_hint": true,
+      "source_section_key": "core",
+      "summary": "Quand le Golem brille en bleu, il prépare une grosse technique spéciale. Utilise immédiatement un Tag pour l’interrompre."
+    },
+    {
+      "phase_id": "guardian-golem__phase__strategy",
+      "boss_id": "guardian-golem",
+      "phase_key": "strategy",
+      "name": "Stratégie",
+      "priority_score": 4,
+      "criticality_tags": [
+        "burst_phase"
+      ],
+      "pressure_level": "medium",
+      "window_tags": [
+        "safe_burst",
+        "recovery_window",
+        "interrupt_window"
+      ],
+      "pattern_ids": [],
+      "control_tags": [
+        "interrupt_check",
+        "knockdown_window",
+        "burst_check",
+        "objective_check"
+      ],
+      "risk_tags": [
+        "interrupt_drop"
+      ],
+      "positioning_tags": [],
+      "recovery_window_tags": [
+        "knockdown_window",
+        "animation_recovery"
+      ],
+      "objective_tags": [],
+      "scenario_ids": [
+        "clean_short_fight",
+        "burst_window"
+      ],
+      "burst_window_hint": true,
+      "evade_pressure_hint": false,
+      "interrupt_window_hint": true,
+      "multiplayer_relief_hint": true,
+      "melee_pressure_hint": false,
+      "ranged_pressure_hint": false,
+      "blue_interrupt_hint": false,
+      "source_section_key": "strategy",
+      "summary": null
+    },
+    {
+      "phase_id": "drake__phase__overview",
+      "boss_id": "drake",
+      "phase_key": "overview",
+      "name": "Vue d’ensemble du combat",
+      "priority_score": 5,
+      "criticality_tags": [
+        "survival_phase",
+        "transition_phase"
+      ],
+      "pressure_level": "high",
+      "window_tags": [
+        "phase_variance"
+      ],
+      "pattern_ids": [],
+      "control_tags": [
+        "reposition_check"
+      ],
+      "risk_tags": [
+        "execution_punish",
+        "rotation_break"
+      ],
+      "positioning_tags": [
+        "repositioning"
+      ],
+      "recovery_window_tags": [],
+      "objective_tags": [],
+      "scenario_ids": [],
+      "burst_window_hint": false,
+      "evade_pressure_hint": true,
+      "interrupt_window_hint": false,
+      "multiplayer_relief_hint": false,
+      "melee_pressure_hint": false,
+      "ranged_pressure_hint": false,
+      "blue_interrupt_hint": false,
+      "source_section_key": "overview",
+      "summary": "Drake est plus dynamique et plus chaotique que le Guardian Golem. Il mélange mobilité, angles d’attaque obliques et enchaînements de techniques capables d’écraser les équipes qui manquent de dégâts."
+    },
+    {
+      "phase_id": "drake__phase__core",
+      "boss_id": "drake",
+      "phase_key": "core",
+      "name": "Mécaniques clés",
+      "priority_score": 8,
+      "criticality_tags": [
+        "gate_phase",
+        "burst_phase"
+      ],
+      "pressure_level": "medium",
+      "window_tags": [
+        "safe_burst",
+        "interrupt_window"
+      ],
+      "pattern_ids": [],
+      "control_tags": [
+        "interrupt_check",
+        "knockdown_window",
+        "burst_check"
+      ],
+      "risk_tags": [
+        "interrupt_drop"
+      ],
+      "positioning_tags": [],
+      "recovery_window_tags": [
+        "knockdown_window",
+        "interrupt_burst_window"
+      ],
+      "objective_tags": [],
+      "scenario_ids": [
+        "burst_window"
+      ],
+      "burst_window_hint": true,
+      "evade_pressure_hint": false,
+      "interrupt_window_hint": true,
+      "multiplayer_relief_hint": false,
+      "melee_pressure_hint": false,
+      "ranged_pressure_hint": false,
+      "blue_interrupt_hint": true,
+      "source_section_key": "core",
+      "summary": "Quand Drake entre en contour bleu avant une grosse capacité, l’interruption par Tag devient encore plus importante que sur le Golem à cause de sa mobilité."
+    },
+    {
+      "phase_id": "drake__phase__strategy",
+      "boss_id": "drake",
+      "phase_key": "strategy",
+      "name": "Stratégie",
+      "priority_score": 7,
+      "criticality_tags": [
+        "burst_phase",
+        "survival_phase"
+      ],
+      "pressure_level": "medium",
+      "window_tags": [
+        "safe_burst",
+        "recovery_window",
+        "interrupt_window"
+      ],
+      "pattern_ids": [],
+      "control_tags": [
+        "interrupt_check",
+        "reposition_check",
+        "burst_check"
+      ],
+      "risk_tags": [
+        "execution_punish"
+      ],
+      "positioning_tags": [
+        "repositioning",
+        "angle_discipline"
+      ],
+      "recovery_window_tags": [
+        "animation_recovery"
+      ],
+      "objective_tags": [],
+      "scenario_ids": [
+        "clean_short_fight",
+        "burst_window"
+      ],
+      "burst_window_hint": true,
+      "evade_pressure_hint": true,
+      "interrupt_window_hint": true,
+      "multiplayer_relief_hint": false,
+      "melee_pressure_hint": false,
+      "ranged_pressure_hint": false,
+      "blue_interrupt_hint": false,
+      "source_section_key": "strategy",
+      "summary": "Jouez autour du positionnement et évitez les angles morts"
+    },
+    {
+      "phase_id": "red-demon__phase__summoning",
+      "boss_id": "red-demon",
+      "phase_key": "summoning",
+      "name": "Invocation",
+      "priority_score": 7,
+      "criticality_tags": [
+        "gate_phase",
+        "transition_phase"
+      ],
+      "pressure_level": "medium",
+      "window_tags": [
+        "objective_window",
+        "uptime_break"
+      ],
+      "pattern_ids": [],
+      "control_tags": [
+        "objective_check"
+      ],
+      "risk_tags": [
+        "objective_delay"
+      ],
+      "positioning_tags": [],
+      "recovery_window_tags": [],
+      "objective_tags": [
+        "summon_sequence"
+      ],
+      "scenario_ids": [
+        "boss_pressure",
+        "phase_locked_boss"
+      ],
+      "burst_window_hint": false,
+      "evade_pressure_hint": false,
+      "interrupt_window_hint": false,
+      "multiplayer_relief_hint": false,
+      "melee_pressure_hint": false,
+      "ranged_pressure_hint": false,
+      "blue_interrupt_hint": false,
+      "source_section_key": "summoning",
+      "summary": "Pour lancer le combat, il faut accomplir un rituel d’invocation. Une fois terminé, le Red Demon descend du ciel. Contrairement au Grey Demon, son atterrissage ne vous blesse pas, même s’il tombe directement sur vous."
+    },
+    {
+      "phase_id": "red-demon__phase__core",
+      "boss_id": "red-demon",
+      "phase_key": "core",
+      "name": "Mécaniques clés",
+      "priority_score": 4,
+      "criticality_tags": [
+        "gate_phase"
+      ],
+      "pressure_level": "medium",
+      "window_tags": [
+        "safe_burst",
+        "interrupt_window"
+      ],
+      "pattern_ids": [],
+      "control_tags": [
+        "reposition_check"
+      ],
+      "risk_tags": [
+        "range_punish",
+        "melee_punish",
+        "rotation_break"
+      ],
+      "positioning_tags": [
+        "front_risk",
+        "range_management",
+        "melee_management",
+        "repositioning"
+      ],
+      "recovery_window_tags": [],
+      "objective_tags": [],
+      "scenario_ids": [],
+      "burst_window_hint": false,
+      "evade_pressure_hint": false,
+      "interrupt_window_hint": false,
+      "multiplayer_relief_hint": false,
+      "melee_pressure_hint": true,
+      "ranged_pressure_hint": true,
+      "blue_interrupt_hint": false,
+      "source_section_key": "core",
+      "summary": "Les patterns du Red Demon dépendent beaucoup de votre placement. Il alterne surtout entre pression frontale, frappes de zone au sol et projectiles à distance."
+    },
+    {
+      "phase_id": "red-demon__phase__abilities",
+      "boss_id": "red-demon",
+      "phase_key": "abilities",
+      "name": "Capacités spéciales",
+      "priority_score": 3,
+      "criticality_tags": [
+        "survival_phase"
+      ],
+      "pressure_level": "high",
+      "window_tags": [
+        "interrupt_risk",
+        "phase_variance"
+      ],
+      "pattern_ids": [],
+      "control_tags": [],
+      "risk_tags": [
+        "execution_punish",
+        "range_punish",
+        "melee_punish",
+        "rotation_break"
+      ],
+      "positioning_tags": [
+        "front_risk",
+        "range_management",
+        "melee_management"
+      ],
+      "recovery_window_tags": [],
+      "objective_tags": [],
+      "scenario_ids": [
+        "boss_pressure"
+      ],
+      "burst_window_hint": false,
+      "evade_pressure_hint": false,
+      "interrupt_window_hint": false,
+      "multiplayer_relief_hint": false,
+      "melee_pressure_hint": true,
+      "ranged_pressure_hint": true,
+      "blue_interrupt_hint": false,
+      "source_section_key": "abilities",
+      "summary": "Punit fortement les joueurs qui restent devant lui trop longtemps"
+    },
+    {
+      "phase_id": "red-demon__phase__flow",
+      "boss_id": "red-demon",
+      "phase_key": "flow",
+      "name": "Flow du combat",
+      "priority_score": 4,
+      "criticality_tags": [
+        "burst_phase"
+      ],
+      "pressure_level": "medium",
+      "window_tags": [
+        "safe_burst",
+        "recovery_window"
+      ],
+      "pattern_ids": [],
+      "control_tags": [
+        "burst_check"
+      ],
+      "risk_tags": [
+        "execution_punish",
+        "objective_delay",
+        "range_punish",
+        "melee_punish"
+      ],
+      "positioning_tags": [
+        "range_management",
+        "melee_management"
+      ],
+      "recovery_window_tags": [
+        "animation_recovery"
+      ],
+      "objective_tags": [
+        "summon_sequence"
+      ],
+      "scenario_ids": [
+        "clean_short_fight",
+        "burst_window"
+      ],
+      "burst_window_hint": true,
+      "evade_pressure_hint": false,
+      "interrupt_window_hint": false,
+      "multiplayer_relief_hint": false,
+      "melee_pressure_hint": true,
+      "ranged_pressure_hint": true,
+      "blue_interrupt_hint": false,
+      "source_section_key": "flow",
+      "summary": "Terminer l’invocation"
+    },
+    {
+      "phase_id": "grey-demon__phase__summoning",
+      "boss_id": "grey-demon",
+      "phase_key": "summoning",
+      "name": "Invocation",
+      "priority_score": 7,
+      "criticality_tags": [
+        "gate_phase",
+        "transition_phase"
+      ],
+      "pressure_level": "medium",
+      "window_tags": [
+        "objective_window",
+        "uptime_break"
+      ],
+      "pattern_ids": [],
+      "control_tags": [
+        "objective_check"
+      ],
+      "risk_tags": [
+        "objective_delay"
+      ],
+      "positioning_tags": [],
+      "recovery_window_tags": [],
+      "objective_tags": [
+        "summon_sequence"
+      ],
+      "scenario_ids": [
+        "boss_pressure",
+        "phase_locked_boss"
+      ],
+      "burst_window_hint": false,
+      "evade_pressure_hint": false,
+      "interrupt_window_hint": false,
+      "multiplayer_relief_hint": false,
+      "melee_pressure_hint": false,
+      "ranged_pressure_hint": false,
+      "blue_interrupt_hint": false,
+      "source_section_key": "summoning",
+      "summary": "Pour démarrer le combat, attaquez le magicien qui réalise le rituel. Le Grey Demon apparaît ensuite. Contrairement au Red Demon, son animation d’atterrissage inflige des dégâts : éloignez-vous immédiatement lorsqu’il spawn."
+    },
+    {
+      "phase_id": "grey-demon__phase__ground",
+      "boss_id": "grey-demon",
+      "phase_key": "ground",
+      "name": "Mécaniques au sol",
+      "priority_score": 4,
+      "criticality_tags": [
+        "burst_phase"
+      ],
+      "pressure_level": "medium",
+      "window_tags": [
+        "safe_burst",
+        "stable_uptime"
+      ],
+      "pattern_ids": [],
+      "control_tags": [],
+      "risk_tags": [
+        "execution_punish",
+        "range_punish",
+        "melee_punish"
+      ],
+      "positioning_tags": [
+        "rear_risk",
+        "range_management",
+        "melee_management",
+        "angle_discipline"
+      ],
+      "recovery_window_tags": [],
+      "objective_tags": [],
+      "scenario_ids": [
+        "clean_short_fight"
+      ],
+      "burst_window_hint": false,
+      "evade_pressure_hint": false,
+      "interrupt_window_hint": false,
+      "multiplayer_relief_hint": false,
+      "melee_pressure_hint": true,
+      "ranged_pressure_hint": true,
+      "blue_interrupt_hint": false,
+      "source_section_key": "ground",
+      "summary": "Toupie défensive si on l’attaque par derrière"
+    },
+    {
+      "phase_id": "grey-demon__phase__flight",
+      "boss_id": "grey-demon",
+      "phase_key": "flight",
+      "name": "Phase volante",
+      "priority_score": 9,
+      "criticality_tags": [
+        "gate_phase",
+        "survival_phase",
+        "transition_phase"
+      ],
+      "pressure_level": "high",
+      "window_tags": [
+        "uptime_break",
+        "ranged_window",
+        "objective_window"
+      ],
+      "pattern_ids": [],
+      "control_tags": [
+        "burst_check",
+        "objective_check",
+        "uptime_check"
+      ],
+      "risk_tags": [
+        "uptime_drop",
+        "objective_delay",
+        "pattern_spike"
+      ],
+      "positioning_tags": [
+        "objective_positioning"
+      ],
+      "recovery_window_tags": [],
+      "objective_tags": [
+        "shield_break",
+        "aerial_transition"
+      ],
+      "scenario_ids": [
+        "boss_pressure",
+        "phase_locked_boss",
+        "burst_window"
+      ],
+      "burst_window_hint": true,
+      "evade_pressure_hint": false,
+      "interrupt_window_hint": false,
+      "multiplayer_relief_hint": false,
+      "melee_pressure_hint": false,
+      "ranged_pressure_hint": false,
+      "blue_interrupt_hint": false,
+      "source_section_key": "flight",
+      "summary": "Le Grey Demon possède une phase aérienne avec une mécanique de bouclier. Cette séquence casse le rythme du combat et force l’équipe à s’adapter avant de pouvoir reprendre son burst normalement."
+    },
+    {
+      "phase_id": "grey-demon__phase__enrage",
+      "boss_id": "grey-demon",
+      "phase_key": "enrage",
+      "name": "Enrage et ultime",
+      "priority_score": 3,
+      "criticality_tags": [
+        "survival_phase"
+      ],
+      "pressure_level": "high",
+      "window_tags": [
+        "late_fight_pressure",
+        "interrupt_risk"
+      ],
+      "pattern_ids": [],
+      "control_tags": [
+        "burst_check",
+        "objective_check"
+      ],
+      "risk_tags": [
+        "late_fight_punish",
+        "execution_punish"
+      ],
+      "positioning_tags": [],
+      "recovery_window_tags": [],
+      "objective_tags": [],
+      "scenario_ids": [
+        "boss_pressure",
+        "burst_window"
+      ],
+      "burst_window_hint": true,
+      "evade_pressure_hint": false,
+      "interrupt_window_hint": false,
+      "multiplayer_relief_hint": true,
+      "melee_pressure_hint": false,
+      "ranged_pressure_hint": false,
+      "blue_interrupt_hint": false,
+      "source_section_key": "enrage",
+      "summary": "La fin du combat comporte une séquence d’enrage / ultimate capable de punir très vite les groupes non préparés. Plus le combat traîne, plus cette partie devient menaçante."
+    },
+    {
+      "phase_id": "albion__phase__phase1",
+      "boss_id": "albion",
+      "phase_key": "phase1",
+      "name": "Phase 1 — Briser le bouclier",
+      "priority_score": 4,
+      "criticality_tags": [
+        "gate_phase"
+      ],
+      "pressure_level": "high",
+      "window_tags": [
+        "safe_burst",
+        "objective_window",
+        "phase_variance"
+      ],
+      "pattern_ids": [],
+      "control_tags": [
+        "objective_check"
+      ],
+      "risk_tags": [
+        "execution_punish",
+        "objective_delay",
+        "range_punish",
+        "melee_punish"
+      ],
+      "positioning_tags": [
+        "range_management",
+        "melee_management",
+        "objective_positioning"
+      ],
+      "recovery_window_tags": [
+        "objective_burst_window"
+      ],
+      "objective_tags": [
+        "shield_break",
+        "climb_core"
+      ],
+      "scenario_ids": [],
+      "burst_window_hint": false,
+      "evade_pressure_hint": false,
+      "interrupt_window_hint": false,
+      "multiplayer_relief_hint": false,
+      "melee_pressure_hint": true,
+      "ranged_pressure_hint": true,
+      "blue_interrupt_hint": false,
+      "source_section_key": "phase1",
+      "summary": "Albion commence le combat avec un bouclier. Le but de la première phase est de le détruire pour pouvoir grimper sur le boss et atteindre son noyau."
+    },
+    {
+      "phase_id": "albion__phase__climb",
+      "boss_id": "albion",
+      "phase_key": "climb",
+      "name": "Bouclier brisé → grimper",
+      "priority_score": 4,
+      "criticality_tags": [
+        "gate_phase"
+      ],
+      "pressure_level": "medium",
+      "window_tags": [
+        "vertical_pressure",
+        "reposition_window",
+        "objective_window"
+      ],
+      "pattern_ids": [],
+      "control_tags": [
+        "objective_check"
+      ],
+      "risk_tags": [
+        "execution_punish",
+        "objective_delay"
+      ],
+      "positioning_tags": [
+        "objective_positioning"
+      ],
+      "recovery_window_tags": [
+        "objective_burst_window"
+      ],
+      "objective_tags": [
+        "shield_break",
+        "climb_core"
+      ],
+      "scenario_ids": [],
+      "burst_window_hint": false,
+      "evade_pressure_hint": false,
+      "interrupt_window_hint": false,
+      "multiplayer_relief_hint": false,
+      "melee_pressure_hint": false,
+      "ranged_pressure_hint": false,
+      "blue_interrupt_hint": false,
+      "source_section_key": "climb",
+      "summary": "Quand le bouclier est détruit, Albion tombe en arrière. Grimpez sur lui pour atteindre son noyau et infliger le plus de dégâts possible. Après un certain temps, il charge puis fait exploser son noyau pour éjecter les joueurs."
+    },
+    {
+      "phase_id": "albion__phase__later-phases",
+      "boss_id": "albion",
+      "phase_key": "later-phases",
+      "name": "Phases suivantes",
+      "priority_score": 9,
+      "criticality_tags": [
+        "gate_phase",
+        "survival_phase",
+        "transition_phase"
+      ],
+      "pressure_level": "high",
+      "window_tags": [
+        "phase_variance",
+        "interrupt_risk",
+        "safe_burst",
+        "objective_window"
+      ],
+      "pattern_ids": [],
+      "control_tags": [
+        "objective_check"
+      ],
+      "risk_tags": [
+        "objective_delay",
+        "pattern_spike"
+      ],
+      "positioning_tags": [],
+      "recovery_window_tags": [],
+      "objective_tags": [],
+      "scenario_ids": [
+        "boss_pressure"
+      ],
+      "burst_window_hint": false,
+      "evade_pressure_hint": false,
+      "interrupt_window_hint": false,
+      "multiplayer_relief_hint": false,
+      "melee_pressure_hint": false,
+      "ranged_pressure_hint": false,
+      "blue_interrupt_hint": false,
+      "source_section_key": "later-phases",
+      "summary": "Le combat continue ensuite avec d’autres objectifs et transitions. Albion n’est pas un simple sac à PV : chaque phase demande de comprendre ce qu’il faut faire avant de pouvoir optimiser le DPS."
+    },
+    {
+      "phase_id": "albion__phase__approach",
+      "boss_id": "albion",
+      "phase_key": "approach",
+      "name": "Approche recommandée",
+      "priority_score": 6,
+      "criticality_tags": [
+        "gate_phase",
+        "transition_phase"
+      ],
+      "pressure_level": "medium",
+      "window_tags": [
+        "safe_burst",
+        "recovery_window",
+        "objective_window"
+      ],
+      "pattern_ids": [],
+      "control_tags": [
+        "burst_check",
+        "objective_check"
+      ],
+      "risk_tags": [
+        "objective_delay",
+        "pattern_spike"
+      ],
+      "positioning_tags": [
+        "objective_positioning"
+      ],
+      "recovery_window_tags": [],
+      "objective_tags": [
+        "shield_break"
+      ],
+      "scenario_ids": [
+        "clean_short_fight",
+        "burst_window"
+      ],
+      "burst_window_hint": true,
+      "evade_pressure_hint": false,
+      "interrupt_window_hint": false,
+      "multiplayer_relief_hint": true,
+      "melee_pressure_hint": false,
+      "ranged_pressure_hint": false,
+      "blue_interrupt_hint": false,
+      "source_section_key": "approach",
+      "summary": "Traitez Albion comme un combat à objectifs, pas comme un pur check de dégâts"
+    }
+  ]
+}

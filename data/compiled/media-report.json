@@ -1,0 +1,80 @@
+{
+  "generated_at": "2026-03-02T18:13:40.655Z",
+  "summary": {
+    "costume_total": 119,
+    "costume_images": 105,
+    "costume_missing_images": 14,
+    "character_missing_portraits": 0,
+    "boss_missing_portraits": 5,
+    "costume_duplicate_candidates": 0
+  },
+  "missing": {
+    "character_portraits": [],
+    "boss_portraits": [
+      "Information",
+      "Guardian Golem",
+      "Drake",
+      "Grey Demon",
+      "Albion"
+    ],
+    "costume_images": [
+      {
+        "character": "Ban",
+        "costume": "Aucun skin disponible"
+      },
+      {
+        "character": "Ban",
+        "costume": "Les skins pour ce personnage seront bientôt ajoutés."
+      },
+      {
+        "character": "Clotho",
+        "costume": "Aucun skin disponible"
+      },
+      {
+        "character": "Clotho",
+        "costume": "Les skins pour ce personnage seront bientôt ajoutés."
+      },
+      {
+        "character": "Derieri",
+        "costume": "Aucun skin disponible"
+      },
+      {
+        "character": "Derieri",
+        "costume": "Les skins pour ce personnage seront bientôt ajoutés."
+      },
+      {
+        "character": "Elizabeth",
+        "costume": "Aucun skin disponible"
+      },
+      {
+        "character": "Elizabeth",
+        "costume": "Les skins pour ce personnage seront bientôt ajoutés."
+      },
+      {
+        "character": "Escanor",
+        "costume": "Aucun skin disponible"
+      },
+      {
+        "character": "Escanor",
+        "costume": "Les skins pour ce personnage seront bientôt ajoutés."
+      },
+      {
+        "character": "Gowther",
+        "costume": "Aucun skin disponible"
+      },
+      {
+        "character": "Gowther",
+        "costume": "Les skins pour ce personnage seront bientôt ajoutés."
+      },
+      {
+        "character": "Merlin",
+        "costume": "Aucun skin disponible"
+      },
+      {
+        "character": "Merlin",
+        "costume": "Les skins pour ce personnage seront bientôt ajoutés."
+      }
+    ],
+    "costume_duplicate_candidates": []
+  }
+}

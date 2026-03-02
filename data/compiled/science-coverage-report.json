@@ -1,0 +1,185 @@
+{
+  "version": 1,
+  "generated_at": "2026-03-02T18:13:40.767Z",
+  "summary": {
+    "bosses": 6,
+    "phases": 19,
+    "patterns": 2,
+    "phases_without_patterns": 19,
+    "unused_patterns": 2
+  },
+  "bossesCoverage": [
+    {
+      "boss_id": "information",
+      "name": "Information",
+      "phases": 1,
+      "phases_with_patterns": 0
+    },
+    {
+      "boss_id": "guardian-golem",
+      "name": "Guardian Golem",
+      "phases": 3,
+      "phases_with_patterns": 0
+    },
+    {
+      "boss_id": "drake",
+      "name": "Drake",
+      "phases": 3,
+      "phases_with_patterns": 0
+    },
+    {
+      "boss_id": "red-demon",
+      "name": "Red Demon",
+      "phases": 4,
+      "phases_with_patterns": 0
+    },
+    {
+      "boss_id": "grey-demon",
+      "name": "Grey Demon",
+      "phases": 4,
+      "phases_with_patterns": 0
+    },
+    {
+      "boss_id": "albion",
+      "name": "Albion",
+      "phases": 4,
+      "phases_with_patterns": 0
+    }
+  ],
+  "phasesNoPatterns": [
+    {
+      "boss_id": "information",
+      "phase_id": "information__phase__overview",
+      "phase_key": "overview",
+      "name": "Informations générales"
+    },
+    {
+      "boss_id": "guardian-golem",
+      "phase_id": "guardian-golem__phase__overview",
+      "phase_key": "overview",
+      "name": "Vue d’ensemble du combat"
+    },
+    {
+      "boss_id": "guardian-golem",
+      "phase_id": "guardian-golem__phase__core",
+      "phase_key": "core",
+      "name": "Mécaniques clés"
+    },
+    {
+      "boss_id": "guardian-golem",
+      "phase_id": "guardian-golem__phase__strategy",
+      "phase_key": "strategy",
+      "name": "Stratégie"
+    },
+    {
+      "boss_id": "drake",
+      "phase_id": "drake__phase__overview",
+      "phase_key": "overview",
+      "name": "Vue d’ensemble du combat"
+    },
+    {
+      "boss_id": "drake",
+      "phase_id": "drake__phase__core",
+      "phase_key": "core",
+      "name": "Mécaniques clés"
+    },
+    {
+      "boss_id": "drake",
+      "phase_id": "drake__phase__strategy",
+      "phase_key": "strategy",
+      "name": "Stratégie"
+    },
+    {
+      "boss_id": "red-demon",
+      "phase_id": "red-demon__phase__summoning",
+      "phase_key": "summoning",
+      "name": "Invocation"
+    },
+    {
+      "boss_id": "red-demon",
+      "phase_id": "red-demon__phase__core",
+      "phase_key": "core",
+      "name": "Mécaniques clés"
+    },
+    {
+      "boss_id": "red-demon",
+      "phase_id": "red-demon__phase__abilities",
+      "phase_key": "abilities",
+      "name": "Capacités spéciales"
+    },
+    {
+      "boss_id": "red-demon",
+      "phase_id": "red-demon__phase__flow",
+      "phase_key": "flow",
+      "name": "Flow du combat"
+    },
+    {
+      "boss_id": "grey-demon",
+      "phase_id": "grey-demon__phase__summoning",
+      "phase_key": "summoning",
+      "name": "Invocation"
+    },
+    {
+      "boss_id": "grey-demon",
+      "phase_id": "grey-demon__phase__ground",
+      "phase_key": "ground",
+      "name": "Mécaniques au sol"
+    },
+    {
+      "boss_id": "grey-demon",
+      "phase_id": "grey-demon__phase__flight",
+      "phase_key": "flight",
+      "name": "Phase volante"
+    },
+    {
+      "boss_id": "grey-demon",
+      "phase_id": "grey-demon__phase__enrage",
+      "phase_key": "enrage",
+      "name": "Enrage et ultime"
+    },
+    {
+      "boss_id": "albion",
+      "phase_id": "albion__phase__phase1",
+      "phase_key": "phase1",
+      "name": "Phase 1 — Briser le bouclier"
+    },
+    {
+      "boss_id": "albion",
+      "phase_id": "albion__phase__climb",
+      "phase_key": "climb",
+      "name": "Bouclier brisé → grimper"
+    },
+    {
+      "boss_id": "albion",
+      "phase_id": "albion__phase__later-phases",
+      "phase_key": "later-phases",
+      "name": "Phases suivantes"
+    },
+    {
+      "boss_id": "albion",
+      "phase_id": "albion__phase__approach",
+      "phase_key": "approach",
+      "name": "Approche recommandée"
+    }
+  ],
+  "unusedPatterns": [
+    {
+      "pattern_id": "generic-lock-and-window",
+      "name": "Lock + micro-fenêtre",
+      "tags": [
+        "lock",
+        "micro-window",
+        "pressure"
+      ]
+    },
+    {
+      "pattern_id": "generic-projectiles-chain",
+      "name": "Chaîne de projectiles",
+      "tags": [
+        "projectiles",
+        "pressure",
+        "movement"
+      ]
+    }
+  ]
+}

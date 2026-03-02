@@ -1,0 +1,66 @@
+HIDEOUT GUIDES
+Home
+Games
+About
+Discord
+Ko-fi
+← Characters
+Meliodas
+Basic Info
+Weapons
+Armor
+Potentials
+
+Meliodas
+
+OVERVIEW
+
+The Dragon Sin of Wrath. All weapons share the Darkness element. Longsword rewards aggressive Burst play with massive Burst-activated damage boosts; Axe uses Demon Energy teleport combos for mobile DPS; Dual Swords is extremely fast with Demonic Power granting AOE damage and self-healing.
+
+BASE STATS
+Attack
+250
+Defense
+200
+Max HP
+2 000
+PvP Dmg Inc
+150
+PvP Dmg Dec
+125
+Accuracy
+80
+Block
+50
+Crit Rate
+10.0%
+Crit Damage
+25.0%
+Crit Res
+3.0%
+Crit Dmg Res
+10.0%
+Block Dmg Res
+20.0%
+Move Speed
+5.0%
+WEAPONS
+Longsword
+Darkness
+Axe
+Darkness
+Dual Swords
+Darkness
+HIDEOUT GUIDES
+Games
+Bleach Soul Resonance
+Dragon Traveler
+Dragon Raja Rerise
+Star Sailors
+Seven Deadly Sins: Origin
+Privacy Policy
+Terms of Service
+
+© 2026 Hideout Guides. All rights reserved.
+
+Disclaimer: All game assets, images, and trademarks are property of their respective owners. This site is not affiliated with or endorsed by any game developer or publisher.

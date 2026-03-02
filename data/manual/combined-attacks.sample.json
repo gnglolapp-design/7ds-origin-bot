@@ -1,0 +1,9 @@
+[
+  {
+    "combined_attack_id": "meliodas__elizabeth__combined_1",
+    "actor_ids": ["meliodas", "elizabeth"],
+    "triggers_burst": true,
+    "burst_element_behavior": "immediate_trigger",
+    "notes": "Combined Attack pair placeholder for future scraper/manual enrichment."
+  }
+]

@@ -1,0 +1,1862 @@
+[
+  {
+    "id": "escanor::Aucun skin disponible",
+    "character_id": "escanor",
+    "name": "Aucun skin disponible",
+    "effect_title": null,
+    "effect": null,
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/escanor"
+  },
+  {
+    "id": "escanor::Les skins pour ce personnage seront bientôt ajoutés.",
+    "character_id": "escanor",
+    "name": "Les skins pour ce personnage seront bientôt ajoutés.",
+    "effect_title": null,
+    "effect": null,
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/escanor"
+  },
+  {
+    "id": "elizabeth::Aucun skin disponible",
+    "character_id": "elizabeth",
+    "name": "Aucun skin disponible",
+    "effect_title": null,
+    "effect": null,
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/elizabeth"
+  },
+  {
+    "id": "elizabeth::Les skins pour ce personnage seront bientôt ajoutés.",
+    "character_id": "elizabeth",
+    "name": "Les skins pour ce personnage seront bientôt ajoutés.",
+    "effect_title": null,
+    "effect": null,
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/elizabeth"
+  },
+  {
+    "id": "derieri::Aucun skin disponible",
+    "character_id": "derieri",
+    "name": "Aucun skin disponible",
+    "effect_title": null,
+    "effect": null,
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/derieri"
+  },
+  {
+    "id": "derieri::Les skins pour ce personnage seront bientôt ajoutés.",
+    "character_id": "derieri",
+    "name": "Les skins pour ce personnage seront bientôt ajoutés.",
+    "effect_title": null,
+    "effect": null,
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/derieri"
+  },
+  {
+    "id": "tristan::Petit Prince",
+    "character_id": "tristan",
+    "name": "Petit Prince",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/tristan/tristan-little-prince"
+  },
+  {
+    "id": "tristan::Tenue d'Entraînement du Prince",
+    "character_id": "tristan",
+    "name": "Tenue d'Entraînement du Prince",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/tristan/tristan-prince-training-outfit"
+  },
+  {
+    "id": "tristan::Tenue Formelle",
+    "character_id": "tristan",
+    "name": "Tenue Formelle",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/tristan/tristan-formal-attire"
+  },
+  {
+    "id": "tristan::Dignité Royale",
+    "character_id": "tristan",
+    "name": "Dignité Royale",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/tristan/tristan-royal-dignity"
+  },
+  {
+    "id": "tristan::Aventure du Prince",
+    "character_id": "tristan",
+    "name": "Aventure du Prince",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/tristan/tristan-prince-adventure"
+  },
+  {
+    "id": "tristan::7DSOrigin.gg",
+    "character_id": "tristan",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Tristan_001.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/tristan/tristan-little-prince"
+  },
+  {
+    "id": "tristan::7DSOrigin.gg",
+    "character_id": "tristan",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Tristan_006.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/tristan/tristan-prince-training-outfit"
+  },
+  {
+    "id": "tristan::7DSOrigin.gg",
+    "character_id": "tristan",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Tristan_003.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/tristan/tristan-formal-attire"
+  },
+  {
+    "id": "tristan::7DSOrigin.gg",
+    "character_id": "tristan",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Tristan_004.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/tristan/tristan-royal-dignity"
+  },
+  {
+    "id": "tristan::7DSOrigin.gg",
+    "character_id": "tristan",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Tristan_005.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/tristan/tristan-prince-adventure"
+  },
+  {
+    "id": "tioreh::Fée Adorable",
+    "character_id": "tioreh",
+    "name": "Fée Adorable",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/tioreh/tioreh-adorable-fairy"
+  },
+  {
+    "id": "tioreh::Sortie Décontractée",
+    "character_id": "tioreh",
+    "name": "Sortie Décontractée",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/tioreh/tioreh-casual-outing"
+  },
+  {
+    "id": "tioreh::Fille de la Forêt et de la Terre",
+    "character_id": "tioreh",
+    "name": "Fille de la Forêt et de la Terre",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/tioreh/tioreh-daughter-forest-earth"
+  },
+  {
+    "id": "tioreh::Début de l'Aventure",
+    "character_id": "tioreh",
+    "name": "Début de l'Aventure",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/tioreh/tioreh-adventure-beginning"
+  },
+  {
+    "id": "tioreh::7DSOrigin.gg",
+    "character_id": "tioreh",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Tioreh_001.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/tioreh/tioreh-adorable-fairy"
+  },
+  {
+    "id": "tioreh::7DSOrigin.gg",
+    "character_id": "tioreh",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Tioreh_002.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/tioreh/tioreh-casual-outing"
+  },
+  {
+    "id": "tioreh::7DSOrigin.gg",
+    "character_id": "tioreh",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Tioreh_003.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/tioreh/tioreh-daughter-forest-earth"
+  },
+  {
+    "id": "tioreh::7DSOrigin.gg",
+    "character_id": "tioreh",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Tioreh_004.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/tioreh/tioreh-adventure-beginning"
+  },
+  {
+    "id": "howzer::Grand Maître de Confiance",
+    "character_id": "howzer",
+    "name": "Grand Maître de Confiance",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/howzer/howzer-trusted-grandmaster"
+  },
+  {
+    "id": "howzer::Chope de Bière en Fin de Journée",
+    "character_id": "howzer",
+    "name": "Chope de Bière en Fin de Journée",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/howzer/howzer-end-of-day-ale"
+  },
+  {
+    "id": "howzer::Chevalier Sacré des Tempêtes",
+    "character_id": "howzer",
+    "name": "Chevalier Sacré des Tempêtes",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/howzer/howzer-holy-knight-storms"
+  },
+  {
+    "id": "howzer::Aventure Sécurisée",
+    "character_id": "howzer",
+    "name": "Aventure Sécurisée",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/howzer/howzer-secure-adventure"
+  },
+  {
+    "id": "howzer::Dignité du Grand Maître",
+    "character_id": "howzer",
+    "name": "Dignité du Grand Maître",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/howzer/howzer-grandmaster-dignity"
+  },
+  {
+    "id": "howzer::7DSOrigin.gg",
+    "character_id": "howzer",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Howzer_001.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/howzer/howzer-trusted-grandmaster"
+  },
+  {
+    "id": "howzer::7DSOrigin.gg",
+    "character_id": "howzer",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Howzer_002.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/howzer/howzer-end-of-day-ale"
+  },
+  {
+    "id": "howzer::7DSOrigin.gg",
+    "character_id": "howzer",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Howzer_003.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/howzer/howzer-holy-knight-storms"
+  },
+  {
+    "id": "howzer::7DSOrigin.gg",
+    "character_id": "howzer",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Howzer_004.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/howzer/howzer-secure-adventure"
+  },
+  {
+    "id": "howzer::7DSOrigin.gg",
+    "character_id": "howzer",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Howzer_005.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/howzer/howzer-grandmaster-dignity"
+  },
+  {
+    "id": "hendrickson::Apothicaire de Liones",
+    "character_id": "hendrickson",
+    "name": "Apothicaire de Liones",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/hendrickson/hendrickson-liones-apothecary"
+  },
+  {
+    "id": "hendrickson::Gris Romantique",
+    "character_id": "hendrickson",
+    "name": "Gris Romantique",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/hendrickson/hendrickson-romantic-gray"
+  },
+  {
+    "id": "hendrickson::Un Costume des Jeunes Années",
+    "character_id": "hendrickson",
+    "name": "Un Costume des Jeunes Années",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/hendrickson/hendrickson-suit-younger-days"
+  },
+  {
+    "id": "hendrickson::Tenue de Travail d'Apothicaire",
+    "character_id": "hendrickson",
+    "name": "Tenue de Travail d'Apothicaire",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/hendrickson/hendrickson-apothecary-workwear"
+  },
+  {
+    "id": "hendrickson::Chevalier Sacré Revenu",
+    "character_id": "hendrickson",
+    "name": "Chevalier Sacré Revenu",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/hendrickson/hendrickson-returned-holy-knight"
+  },
+  {
+    "id": "hendrickson::7DSOrigin.gg",
+    "character_id": "hendrickson",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Hendrickson_001.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/hendrickson/hendrickson-liones-apothecary"
+  },
+  {
+    "id": "hendrickson::7DSOrigin.gg",
+    "character_id": "hendrickson",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Hendrickson_002.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/hendrickson/hendrickson-romantic-gray"
+  },
+  {
+    "id": "hendrickson::7DSOrigin.gg",
+    "character_id": "hendrickson",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Hendrickson_003.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/hendrickson/hendrickson-suit-younger-days"
+  },
+  {
+    "id": "hendrickson::7DSOrigin.gg",
+    "character_id": "hendrickson",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Hendrickson_004.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/hendrickson/hendrickson-apothecary-workwear"
+  },
+  {
+    "id": "hendrickson::7DSOrigin.gg",
+    "character_id": "hendrickson",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Hendrickson_005.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/hendrickson/hendrickson-returned-holy-knight"
+  },
+  {
+    "id": "griamore::Chevalier Gardien de la Princesse",
+    "character_id": "griamore",
+    "name": "Chevalier Gardien de la Princesse",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/griamore/griamore-guardian-knight"
+  },
+  {
+    "id": "griamore::Sortie Décontractée",
+    "character_id": "griamore",
+    "name": "Sortie Décontractée",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/griamore/griamore-casual-outing"
+  },
+  {
+    "id": "griamore::Chevalier Sacré du Mur de Fer",
+    "character_id": "griamore",
+    "name": "Chevalier Sacré du Mur de Fer",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/griamore/griamore-holy-knight-iron-wall"
+  },
+  {
+    "id": "griamore::Barricade de Fortune",
+    "character_id": "griamore",
+    "name": "Barricade de Fortune",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/griamore/griamore-makeshift-barricade"
+  },
+  {
+    "id": "griamore::Forteresse de Fer Imprenable",
+    "character_id": "griamore",
+    "name": "Forteresse de Fer Imprenable",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/griamore/griamore-impregnable-fortress"
+  },
+  {
+    "id": "griamore::7DSOrigin.gg",
+    "character_id": "griamore",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Griamore_001.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/griamore/griamore-guardian-knight"
+  },
+  {
+    "id": "griamore::7DSOrigin.gg",
+    "character_id": "griamore",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Griamore_002.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/griamore/griamore-casual-outing"
+  },
+  {
+    "id": "griamore::7DSOrigin.gg",
+    "character_id": "griamore",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Griamore_003.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/griamore/griamore-holy-knight-iron-wall"
+  },
+  {
+    "id": "griamore::7DSOrigin.gg",
+    "character_id": "griamore",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Griamore_004.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/griamore/griamore-makeshift-barricade"
+  },
+  {
+    "id": "griamore::7DSOrigin.gg",
+    "character_id": "griamore",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Griamore_005.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/griamore/griamore-impregnable-fortress"
+  },
+  {
+    "id": "gilthunder::Jeune Chevalier Sacré",
+    "character_id": "gilthunder",
+    "name": "Jeune Chevalier Sacré",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/gilthunder/gilthunder-young-holy-knight"
+  },
+  {
+    "id": "gilthunder::Chevalier Sacré Exemplaire",
+    "character_id": "gilthunder",
+    "name": "Chevalier Sacré Exemplaire",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/gilthunder/gilthunder-exemplary-holy-knight"
+  },
+  {
+    "id": "gilthunder::Chevalier Sacré de la Foudre",
+    "character_id": "gilthunder",
+    "name": "Chevalier Sacré de la Foudre",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/gilthunder/gilthunder-holy-knight-lightning"
+  },
+  {
+    "id": "gilthunder::Aventure Exemplaire",
+    "character_id": "gilthunder",
+    "name": "Aventure Exemplaire",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/gilthunder/gilthunder-exemplary-adventure"
+  },
+  {
+    "id": "gilthunder::Chevalier Sacré Prometteur",
+    "character_id": "gilthunder",
+    "name": "Chevalier Sacré Prometteur",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/gilthunder/gilthunder-promising-holy-knight"
+  },
+  {
+    "id": "gilthunder::7DSOrigin.gg",
+    "character_id": "gilthunder",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Gil_thunder_001.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/gilthunder/gilthunder-young-holy-knight"
+  },
+  {
+    "id": "gilthunder::7DSOrigin.gg",
+    "character_id": "gilthunder",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Gil_thunder_002.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/gilthunder/gilthunder-exemplary-holy-knight"
+  },
+  {
+    "id": "gilthunder::7DSOrigin.gg",
+    "character_id": "gilthunder",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Gil_thunder_003.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/gilthunder/gilthunder-holy-knight-lightning"
+  },
+  {
+    "id": "gilthunder::7DSOrigin.gg",
+    "character_id": "gilthunder",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Gil_thunder_004.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/gilthunder/gilthunder-exemplary-adventure"
+  },
+  {
+    "id": "gilthunder::7DSOrigin.gg",
+    "character_id": "gilthunder",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Gil_thunder_005.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/gilthunder/gilthunder-promising-holy-knight"
+  },
+  {
+    "id": "dreyfus::Instructeur d'Art de l'Épée du Royaume",
+    "character_id": "dreyfus",
+    "name": "Instructeur d'Art de l'Épée du Royaume",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/dreyfus/dreyfus-sword-art-instructor"
+  },
+  {
+    "id": "dreyfus::Majordome Royal",
+    "character_id": "dreyfus",
+    "name": "Majordome Royal",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/dreyfus/dreyfus-royal-butler"
+  },
+  {
+    "id": "dreyfus::Honneur du Vieux Soldat",
+    "character_id": "dreyfus",
+    "name": "Honneur du Vieux Soldat",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/dreyfus/dreyfus-old-soldier-honor"
+  },
+  {
+    "id": "dreyfus::Tenue Simple",
+    "character_id": "dreyfus",
+    "name": "Tenue Simple",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/dreyfus/dreyfus-simple-attire"
+  },
+  {
+    "id": "dreyfus::Chevalier Honorable",
+    "character_id": "dreyfus",
+    "name": "Chevalier Honorable",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/dreyfus/dreyfus-honorable-knight"
+  },
+  {
+    "id": "dreyfus::7DSOrigin.gg",
+    "character_id": "dreyfus",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Dreyfus_001.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/dreyfus/dreyfus-sword-art-instructor"
+  },
+  {
+    "id": "dreyfus::7DSOrigin.gg",
+    "character_id": "dreyfus",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Dreyfus_002.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/dreyfus/dreyfus-royal-butler"
+  },
+  {
+    "id": "dreyfus::7DSOrigin.gg",
+    "character_id": "dreyfus",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Dreyfus_003.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/dreyfus/dreyfus-old-soldier-honor"
+  },
+  {
+    "id": "dreyfus::7DSOrigin.gg",
+    "character_id": "dreyfus",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Dreyfus_004.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/dreyfus/dreyfus-simple-attire"
+  },
+  {
+    "id": "dreyfus::7DSOrigin.gg",
+    "character_id": "dreyfus",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Dreyfus_005.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/dreyfus/dreyfus-honorable-knight"
+  },
+  {
+    "id": "dreydrin::Apprenti Chevalier Sacré Amical",
+    "character_id": "dreydrin",
+    "name": "Apprenti Chevalier Sacré Amical",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/dreydrin/dreydrin-apprentice-holy-knight"
+  },
+  {
+    "id": "dreydrin::Un Beau Jour de Repos",
+    "character_id": "dreydrin",
+    "name": "Un Beau Jour de Repos",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/dreydrin/dreydrin-nice-day-off"
+  },
+  {
+    "id": "dreydrin::Descendant de la Royauté",
+    "character_id": "dreydrin",
+    "name": "Descendant de la Royauté",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/dreydrin/dreydrin-descendant-royalty"
+  },
+  {
+    "id": "dreydrin::Préparation Minutieuse",
+    "character_id": "dreydrin",
+    "name": "Préparation Minutieuse",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/dreydrin/dreydrin-thorough-preparation"
+  },
+  {
+    "id": "dreydrin::Défense Solide",
+    "character_id": "dreydrin",
+    "name": "Défense Solide",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/dreydrin/dreydrin-solid-defense"
+  },
+  {
+    "id": "dreydrin::7DSOrigin.gg",
+    "character_id": "dreydrin",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Dreydrin_001.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/dreydrin/dreydrin-apprentice-holy-knight"
+  },
+  {
+    "id": "dreydrin::7DSOrigin.gg",
+    "character_id": "dreydrin",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Dreydrin_002.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/dreydrin/dreydrin-nice-day-off"
+  },
+  {
+    "id": "dreydrin::7DSOrigin.gg",
+    "character_id": "dreydrin",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Dreydrin_003.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/dreydrin/dreydrin-descendant-royalty"
+  },
+  {
+    "id": "dreydrin::7DSOrigin.gg",
+    "character_id": "dreydrin",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Dreydrin_004.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/dreydrin/dreydrin-thorough-preparation"
+  },
+  {
+    "id": "dreydrin::7DSOrigin.gg",
+    "character_id": "dreydrin",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Dreydrin_005.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/dreydrin/dreydrin-solid-defense"
+  },
+  {
+    "id": "bug::Démon Timide",
+    "character_id": "bug",
+    "name": "Démon Timide",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/bug/bug-shy-demon"
+  },
+  {
+    "id": "bug::Sortie du Démon",
+    "character_id": "bug",
+    "name": "Sortie du Démon",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/bug/bug-demon-outing"
+  },
+  {
+    "id": "bug::Marche de l'Ombre",
+    "character_id": "bug",
+    "name": "Marche de l'Ombre",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/bug/bug-shadow-walk"
+  },
+  {
+    "id": "bug::Discrétion du Démon",
+    "character_id": "bug",
+    "name": "Discrétion du Démon",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/bug/bug-demon-stealth"
+  },
+  {
+    "id": "bug::Instinct Aiguisé",
+    "character_id": "bug",
+    "name": "Instinct Aiguisé",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/bug/bug-keen-instinct"
+  },
+  {
+    "id": "bug::7DSOrigin.gg",
+    "character_id": "bug",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Bug_001.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/bug/bug-shy-demon"
+  },
+  {
+    "id": "bug::7DSOrigin.gg",
+    "character_id": "bug",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Bug_002.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/bug/bug-demon-outing"
+  },
+  {
+    "id": "bug::7DSOrigin.gg",
+    "character_id": "bug",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Bug_003.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/bug/bug-shadow-walk"
+  },
+  {
+    "id": "bug::7DSOrigin.gg",
+    "character_id": "bug",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Bug_004.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/bug/bug-demon-stealth"
+  },
+  {
+    "id": "bug::7DSOrigin.gg",
+    "character_id": "bug",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Bug_005.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/bug/bug-keen-instinct"
+  },
+  {
+    "id": "slader::Chevalier Sacré Vétéran",
+    "character_id": "slader",
+    "name": "Chevalier Sacré Vétéran",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/slader/slader-veteran-holy-knight"
+  },
+  {
+    "id": "slader::Ami Loyal",
+    "character_id": "slader",
+    "name": "Ami Loyal",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/slader/slader-loyal-friend"
+  },
+  {
+    "id": "slader::Épée de l'Ancien Roi",
+    "character_id": "slader",
+    "name": "Épée de l'Ancien Roi",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/slader/slader-sword-old-king"
+  },
+  {
+    "id": "slader::Mission Secrète",
+    "character_id": "slader",
+    "name": "Mission Secrète",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/slader/slader-secret-mission"
+  },
+  {
+    "id": "slader::Préparation Totale",
+    "character_id": "slader",
+    "name": "Préparation Totale",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/slader/slader-total-readiness"
+  },
+  {
+    "id": "slader::7DSOrigin.gg",
+    "character_id": "slader",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Slader_001.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/slader/slader-veteran-holy-knight"
+  },
+  {
+    "id": "slader::7DSOrigin.gg",
+    "character_id": "slader",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Slader_002.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/slader/slader-loyal-friend"
+  },
+  {
+    "id": "slader::7DSOrigin.gg",
+    "character_id": "slader",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Slader_003.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/slader/slader-sword-old-king"
+  },
+  {
+    "id": "slader::7DSOrigin.gg",
+    "character_id": "slader",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Slader_004.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/slader/slader-secret-mission"
+  },
+  {
+    "id": "slader::7DSOrigin.gg",
+    "character_id": "slader",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Slader_005.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/slader/slader-total-readiness"
+  },
+  {
+    "id": "manny::Prêtresse Exaltée",
+    "character_id": "manny",
+    "name": "Prêtresse Exaltée",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/manny/manny-exalted-priestess"
+  },
+  {
+    "id": "manny::Cœur de Prière",
+    "character_id": "manny",
+    "name": "Cœur de Prière",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/manny/manny-heart-prayer"
+  },
+  {
+    "id": "manny::Prestige de l'Archi-Prêtresse",
+    "character_id": "manny",
+    "name": "Prestige de l'Archi-Prêtresse",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/manny/manny-arch-priestess-prestige"
+  },
+  {
+    "id": "manny::Exploration de l'Inconnu",
+    "character_id": "manny",
+    "name": "Exploration de l'Inconnu",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/manny/manny-exploration-unknown"
+  },
+  {
+    "id": "manny::7DSOrigin.gg",
+    "character_id": "manny",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Manny_001.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/manny/manny-exalted-priestess"
+  },
+  {
+    "id": "manny::7DSOrigin.gg",
+    "character_id": "manny",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Manny_002.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/manny/manny-heart-prayer"
+  },
+  {
+    "id": "manny::7DSOrigin.gg",
+    "character_id": "manny",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Manny_003.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/manny/manny-arch-priestess-prestige"
+  },
+  {
+    "id": "manny::7DSOrigin.gg",
+    "character_id": "manny",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Manny_004.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/manny/manny-exploration-unknown"
+  },
+  {
+    "id": "jericho::Chevalière Sacrée en Fuite",
+    "character_id": "jericho",
+    "name": "Chevalière Sacrée en Fuite",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/jericho/jericho-runaway-holy-knight"
+  },
+  {
+    "id": "jericho::Moment de Détente",
+    "character_id": "jericho",
+    "name": "Moment de Détente",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/jericho/jericho-leisurely-moment"
+  },
+  {
+    "id": "jericho::Chevalière Sacrée avec Visière en Étoile",
+    "character_id": "jericho",
+    "name": "Chevalière Sacrée avec Visière en Étoile",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/jericho/jericho-star-shaped-visor"
+  },
+  {
+    "id": "jericho::Voyageuse Secrète",
+    "character_id": "jericho",
+    "name": "Voyageuse Secrète",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/jericho/jericho-secretive-traveler"
+  },
+  {
+    "id": "jericho::Trace de Souvenirs",
+    "character_id": "jericho",
+    "name": "Trace de Souvenirs",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/jericho/jericho-trace-memories"
+  },
+  {
+    "id": "jericho::7DSOrigin.gg",
+    "character_id": "jericho",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Jericho_001.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/jericho/jericho-runaway-holy-knight"
+  },
+  {
+    "id": "jericho::7DSOrigin.gg",
+    "character_id": "jericho",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Jericho_002.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/jericho/jericho-leisurely-moment"
+  },
+  {
+    "id": "jericho::7DSOrigin.gg",
+    "character_id": "jericho",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Jericho_003.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/jericho/jericho-star-shaped-visor"
+  },
+  {
+    "id": "jericho::7DSOrigin.gg",
+    "character_id": "jericho",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Jericho_004.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/jericho/jericho-secretive-traveler"
+  },
+  {
+    "id": "jericho::7DSOrigin.gg",
+    "character_id": "jericho",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Jericho_005.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/jericho/jericho-trace-memories"
+  },
+  {
+    "id": "guila::L'Unique et Seul Chevalier Sacré",
+    "character_id": "guila",
+    "name": "L'Unique et Seul Chevalier Sacré",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/guila/guila-holy-knight"
+  },
+  {
+    "id": "guila::Temps en Famille",
+    "character_id": "guila",
+    "name": "Temps en Famille",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/guila/guila-family-time"
+  },
+  {
+    "id": "guila::Chevalier Sacré des Explosions",
+    "character_id": "guila",
+    "name": "Chevalier Sacré des Explosions",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/guila/guila-holy-knight-explosions"
+  },
+  {
+    "id": "guila::Pas Légers",
+    "character_id": "guila",
+    "name": "Pas Légers",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/guila/guila-light-footsteps"
+  },
+  {
+    "id": "guila::Traînée de Flamme Écarlate",
+    "character_id": "guila",
+    "name": "Traînée de Flamme Écarlate",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/guila/guila-crimson-flame-trail"
+  },
+  {
+    "id": "guila::7DSOrigin.gg",
+    "character_id": "guila",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Guila_001.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/guila/guila-holy-knight"
+  },
+  {
+    "id": "guila::7DSOrigin.gg",
+    "character_id": "guila",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Guila_002.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/guila/guila-family-time"
+  },
+  {
+    "id": "guila::7DSOrigin.gg",
+    "character_id": "guila",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Guila_003.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/guila/guila-holy-knight-explosions"
+  },
+  {
+    "id": "guila::7DSOrigin.gg",
+    "character_id": "guila",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Guila_004.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/guila/guila-light-footsteps"
+  },
+  {
+    "id": "guila::7DSOrigin.gg",
+    "character_id": "guila",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Guila_005.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/guila/guila-crimson-flame-trail"
+  },
+  {
+    "id": "elaine::Sainte Gardienne de la Fontaine de Jeunesse",
+    "character_id": "elaine",
+    "name": "Sainte Gardienne de la Fontaine de Jeunesse",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/elaine/elaine-guardian-saint"
+  },
+  {
+    "id": "elaine::Employée Temporaire",
+    "character_id": "elaine",
+    "name": "Employée Temporaire",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/elaine/elaine-temp-employee"
+  },
+  {
+    "id": "elaine::Lumière Directrice",
+    "character_id": "elaine",
+    "name": "Lumière Directrice",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/elaine/elaine-guiding-light"
+  },
+  {
+    "id": "elaine::Sortie Joyeuse",
+    "character_id": "elaine",
+    "name": "Sortie Joyeuse",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/elaine/elaine-cheerful-outing"
+  },
+  {
+    "id": "elaine::Dignité de la Sainte",
+    "character_id": "elaine",
+    "name": "Dignité de la Sainte",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/elaine/elaine-saintess-dignity"
+  },
+  {
+    "id": "elaine::7DSOrigin.gg",
+    "character_id": "elaine",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Elaine_001.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/elaine/elaine-guardian-saint"
+  },
+  {
+    "id": "elaine::7DSOrigin.gg",
+    "character_id": "elaine",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Elaine_002.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/elaine/elaine-temp-employee"
+  },
+  {
+    "id": "elaine::7DSOrigin.gg",
+    "character_id": "elaine",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Elaine_003.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/elaine/elaine-guiding-light"
+  },
+  {
+    "id": "elaine::7DSOrigin.gg",
+    "character_id": "elaine",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Elaine_004.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/elaine/elaine-cheerful-outing"
+  },
+  {
+    "id": "elaine::7DSOrigin.gg",
+    "character_id": "elaine",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Elaine_005.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/elaine/elaine-saintess-dignity"
+  },
+  {
+    "id": "drake::Descendant du Dragon",
+    "character_id": "drake",
+    "name": "Descendant du Dragon",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/drake/drake-dragon-descendent"
+  },
+  {
+    "id": "drake::Serment du Trône",
+    "character_id": "drake",
+    "name": "Serment du Trône",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/drake/drake-oath-throne"
+  },
+  {
+    "id": "drake::Gloire du Passé",
+    "character_id": "drake",
+    "name": "Gloire du Passé",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/drake/drake-glory-past"
+  },
+  {
+    "id": "drake::Seigneur de l'Ombre",
+    "character_id": "drake",
+    "name": "Seigneur de l'Ombre",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/drake/drake-shadow-lord"
+  },
+  {
+    "id": "drake::7DSOrigin.gg",
+    "character_id": "drake",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Drake_001.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/drake/drake-dragon-descendent"
+  },
+  {
+    "id": "drake::7DSOrigin.gg",
+    "character_id": "drake",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Drake_002.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/drake/drake-oath-throne"
+  },
+  {
+    "id": "drake::7DSOrigin.gg",
+    "character_id": "drake",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Drake_003.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/drake/drake-glory-past"
+  },
+  {
+    "id": "drake::7DSOrigin.gg",
+    "character_id": "drake",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Drake_004.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/drake/drake-shadow-lord"
+  },
+  {
+    "id": "daisy::Fée du Passé",
+    "character_id": "daisy",
+    "name": "Fée du Passé",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/daisy/daisy-fairy-past"
+  },
+  {
+    "id": "daisy::Petite Exploratrice",
+    "character_id": "daisy",
+    "name": "Petite Exploratrice",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/daisy/daisy-small-explorer"
+  },
+  {
+    "id": "daisy::Parfum d'Automne",
+    "character_id": "daisy",
+    "name": "Parfum d'Automne",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/daisy/daisy-autumn-scent"
+  },
+  {
+    "id": "daisy::7DSOrigin.gg",
+    "character_id": "daisy",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Daisy_001.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/daisy/daisy-fairy-past"
+  },
+  {
+    "id": "daisy::7DSOrigin.gg",
+    "character_id": "daisy",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Daisy_002.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/daisy/daisy-small-explorer"
+  },
+  {
+    "id": "daisy::7DSOrigin.gg",
+    "character_id": "daisy",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Daisy_003.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/daisy/daisy-autumn-scent"
+  },
+  {
+    "id": "gowther::Aucun skin disponible",
+    "character_id": "gowther",
+    "name": "Aucun skin disponible",
+    "effect_title": null,
+    "effect": null,
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/gowther"
+  },
+  {
+    "id": "gowther::Les skins pour ce personnage seront bientôt ajoutés.",
+    "character_id": "gowther",
+    "name": "Les skins pour ce personnage seront bientôt ajoutés.",
+    "effect_title": null,
+    "effect": null,
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/gowther"
+  },
+  {
+    "id": "merlin::Aucun skin disponible",
+    "character_id": "merlin",
+    "name": "Aucun skin disponible",
+    "effect_title": null,
+    "effect": null,
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/merlin"
+  },
+  {
+    "id": "merlin::Les skins pour ce personnage seront bientôt ajoutés.",
+    "character_id": "merlin",
+    "name": "Les skins pour ce personnage seront bientôt ajoutés.",
+    "effect_title": null,
+    "effect": null,
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/merlin"
+  },
+  {
+    "id": "diane::Géante Amoureuse",
+    "character_id": "diane",
+    "name": "Géante Amoureuse",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/diane/diane-giant-girl-love"
+  },
+  {
+    "id": "diane::Hôtesse de Taverne",
+    "character_id": "diane",
+    "name": "Hôtesse de Taverne",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/diane/diane-tavern-hostess"
+  },
+  {
+    "id": "diane::<Le Péché de l'Envie du Serpent>",
+    "character_id": "diane",
+    "name": "<Le Péché de l'Envie du Serpent>",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/diane/diane-serpent-sin-envy"
+  },
+  {
+    "id": "diane::Fille Joyeuse",
+    "character_id": "diane",
+    "name": "Fille Joyeuse",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/diane/diane-cheerful-girl"
+  },
+  {
+    "id": "diane::7DSOrigin.gg",
+    "character_id": "diane",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Diane_001.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/diane/diane-giant-girl-love"
+  },
+  {
+    "id": "diane::7DSOrigin.gg",
+    "character_id": "diane",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Diane_002.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/diane/diane-tavern-hostess"
+  },
+  {
+    "id": "diane::7DSOrigin.gg",
+    "character_id": "diane",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Diane_003.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/diane/diane-serpent-sin-envy"
+  },
+  {
+    "id": "diane::7DSOrigin.gg",
+    "character_id": "diane",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Diane_004.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/diane/diane-cheerful-girl"
+  },
+  {
+    "id": "king::Roi des Fées Inexpérimenté",
+    "character_id": "king",
+    "name": "Roi des Fées Inexpérimenté",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/king/king-inexperienced-fairy"
+  },
+  {
+    "id": "king::Pas de la Forêt",
+    "character_id": "king",
+    "name": "Pas de la Forêt",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/king/king-forest-footsteps"
+  },
+  {
+    "id": "king::<Le Péché de la Paresse du Grizzly>",
+    "character_id": "king",
+    "name": "<Le Péché de la Paresse du Grizzly>",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/king/king-grizzly-sin-sloth"
+  },
+  {
+    "id": "king::Ombre de la Forêt Profonde",
+    "character_id": "king",
+    "name": "Ombre de la Forêt Profonde",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/king/king-shadow-deep-forest"
+  },
+  {
+    "id": "king::7DSOrigin.gg",
+    "character_id": "king",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_King_001.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/king/king-inexperienced-fairy"
+  },
+  {
+    "id": "king::7DSOrigin.gg",
+    "character_id": "king",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_King_002.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/king/king-forest-footsteps"
+  },
+  {
+    "id": "king::7DSOrigin.gg",
+    "character_id": "king",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_King_003.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/king/king-grizzly-sin-sloth"
+  },
+  {
+    "id": "king::7DSOrigin.gg",
+    "character_id": "king",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_King_004.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/king/king-shadow-deep-forest"
+  },
+  {
+    "id": "klotho::Aucun skin disponible",
+    "character_id": "klotho",
+    "name": "Aucun skin disponible",
+    "effect_title": null,
+    "effect": null,
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/klotho"
+  },
+  {
+    "id": "klotho::Les skins pour ce personnage seront bientôt ajoutés.",
+    "character_id": "klotho",
+    "name": "Les skins pour ce personnage seront bientôt ajoutés.",
+    "effect_title": null,
+    "effect": null,
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/klotho"
+  },
+  {
+    "id": "ban::Aucun skin disponible",
+    "character_id": "ban",
+    "name": "Aucun skin disponible",
+    "effect_title": null,
+    "effect": null,
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/ban"
+  },
+  {
+    "id": "ban::Les skins pour ce personnage seront bientôt ajoutés.",
+    "character_id": "ban",
+    "name": "Les skins pour ce personnage seront bientôt ajoutés.",
+    "effect_title": null,
+    "effect": null,
+    "image": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/ban"
+  },
+  {
+    "id": "meliodas::Propriétaire de Taverne Ordinaire",
+    "character_id": "meliodas",
+    "name": "Propriétaire de Taverne Ordinaire",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/meliodas/meliodas-tavern-owner"
+  },
+  {
+    "id": "meliodas::Une Nouvelle Aventure",
+    "character_id": "meliodas",
+    "name": "Une Nouvelle Aventure",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/meliodas/meliodas-new-adventure"
+  },
+  {
+    "id": "meliodas::<Le Péché du Dragon de la Colère>",
+    "character_id": "meliodas",
+    "name": "<Le Péché du Dragon de la Colère>",
+    "effect_title": null,
+    "effect": null,
+    "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/meliodas/meliodas-dragon-sin-wrath"
+  },
+  {
+    "id": "meliodas::7DSOrigin.gg",
+    "character_id": "meliodas",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Meliodas_001.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/meliodas/meliodas-tavern-owner"
+  },
+  {
+    "id": "meliodas::7DSOrigin.gg",
+    "character_id": "meliodas",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Meliodas_002.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/meliodas/meliodas-new-adventure"
+  },
+  {
+    "id": "meliodas::7DSOrigin.gg",
+    "character_id": "meliodas",
+    "name": "7DSOrigin.gg",
+    "effect_title": null,
+    "effect": null,
+    "image": "https://7dsorigin.gg/images/costumes/icon_Meliodas_003.png",
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/characters/meliodas/meliodas-dragon-sin-wrath"
+  }
+]

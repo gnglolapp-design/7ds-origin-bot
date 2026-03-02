@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "generated_at": "2026-03-02T18:13:40.673Z",
+  "items": [
+    {
+      "pattern_id": "generic-lock-and-window",
+      "name": "Lock + micro-fenêtre",
+      "boss_slugs": [],
+      "tags": [
+        "lock",
+        "micro-window",
+        "pressure"
+      ],
+      "description": "Pattern générique: phase verrouille l'action puis ouvre une micro-fenêtre de dégâts.",
+      "windows": [
+        {
+          "window_id": "post-lock",
+          "label": "Après lock",
+          "timing": "post",
+          "duration_hint": "short",
+          "notes": "Fenêtre courte après le verrou/impact.",
+          "tags": []
+        }
+      ],
+      "counters": [
+        {
+          "kind": "tenacity",
+          "label": "Tenue pendant lock",
+          "priority": "high",
+          "notes": "Réduire le risque de reset/KO pendant le verrou.",
+          "tags": []
+        },
+        {
+          "kind": "timed-burst",
+          "label": "Burst gardé post-lock",
+          "priority": "high",
+          "notes": "Le burst doit être gardé pour la micro-fenêtre.",
+          "tags": []
+        }
+      ],
+      "punishes": [
+        {
+          "kind": "reset",
+          "label": "Reset / tempo perdu",
+          "trigger": "burst-pre-window",
+          "notes": "Burst trop tôt => pas de dégâts sur la fenêtre.",
+          "tags": []
+        }
+      ],
+      "source_refs": []
+    },
+    {
+      "pattern_id": "generic-projectiles-chain",
+      "name": "Chaîne de projectiles",
+      "boss_slugs": [],
+      "tags": [
+        "projectiles",
+        "pressure",
+        "movement"
+      ],
+      "description": "Pattern générique: projectiles en chaîne forçant le mouvement et punissant le placement.",
+      "windows": [
+        {
+          "window_id": "gap",
+          "label": "Interstice",
+          "timing": "between",
+          "duration_hint": "very_short",
+          "notes": "Petit gap entre vagues.",
+          "tags": []
+        }
+      ],
+      "counters": [
+        {
+          "kind": "evade-or-iframe",
+          "label": "Esquive/I-frame",
+          "priority": "high",
+          "notes": "Répondre à une vague critique sans casser la rotation.",
+          "tags": []
+        },
+        {
+          "kind": "positioning-discipline",
+          "label": "Discipline placement",
+          "priority": "high",
+          "notes": "Limiter les overlaps et garder la ligne safe.",
+          "tags": []
+        }
+      ],
+      "punishes": [
+        {
+          "kind": "stagger",
+          "label": "Stagger/KO",
+          "trigger": "overlap",
+          "notes": "Overlap de vagues => stagger/KO probable.",
+          "tags": []
+        }
+      ],
+      "source_refs": []
+    }
+  ],
+  "index": {
+    "byBoss": {},
+    "byTag": {
+      "lock": [
+        "generic-lock-and-window"
+      ],
+      "micro-window": [
+        "generic-lock-and-window"
+      ],
+      "pressure": [
+        "generic-lock-and-window",
+        "generic-projectiles-chain"
+      ],
+      "projectiles": [
+        "generic-projectiles-chain"
+      ],
+      "movement": [
+        "generic-projectiles-chain"
+      ]
+    }
+  }
+}

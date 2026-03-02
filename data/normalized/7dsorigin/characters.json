@@ -1,0 +1,4620 @@
+[
+  {
+    "id": "escanor",
+    "name": "Escanor",
+    "rarity": "5★",
+    "element": null,
+    "roles": [],
+    "stats": null,
+    "images": {
+      "portrait": "https://7dsorigin.gg/images/characters/slot_Escanor_001.png"
+    },
+    "weapons": [
+      {
+        "name": "Axe",
+        "skills": [],
+        "potentials": []
+      },
+      {
+        "name": "Greatsword",
+        "skills": [],
+        "potentials": []
+      },
+      {
+        "name": "Shield",
+        "skills": [],
+        "potentials": []
+      }
+    ],
+    "costumes": [
+      {
+        "name": "Aucun skin disponible",
+        "description": "Les skins pour ce personnage seront bientôt ajoutés.",
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": null,
+        "source_url": null
+      },
+      {
+        "name": "Les skins pour ce personnage seront bientôt ajoutés.",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": null,
+        "source_url": null
+      }
+    ],
+    "potentials": [],
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/escanor"
+  },
+  {
+    "id": "elizabeth",
+    "name": "Elizabeth",
+    "rarity": "5★",
+    "element": null,
+    "roles": [],
+    "stats": null,
+    "images": {
+      "portrait": "https://7dsorigin.gg/images/characters/slot_elizabeth_001.png"
+    },
+    "weapons": [
+      {
+        "name": "Wand",
+        "skills": [],
+        "potentials": []
+      },
+      {
+        "name": "Staff",
+        "skills": [],
+        "potentials": []
+      }
+    ],
+    "costumes": [
+      {
+        "name": "Aucun skin disponible",
+        "description": "Les skins pour ce personnage seront bientôt ajoutés.",
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": null,
+        "source_url": null
+      },
+      {
+        "name": "Les skins pour ce personnage seront bientôt ajoutés.",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": null,
+        "source_url": null
+      }
+    ],
+    "potentials": [],
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/elizabeth"
+  },
+  {
+    "id": "derieri",
+    "name": "Derieri",
+    "rarity": "5★",
+    "element": null,
+    "roles": [],
+    "stats": null,
+    "images": {
+      "portrait": "https://7dsorigin.gg/images/characters/slot_Derieri_001.png"
+    },
+    "weapons": [
+      {
+        "name": "Gauntlets",
+        "skills": [],
+        "potentials": []
+      },
+      {
+        "name": "Axe",
+        "skills": [],
+        "potentials": []
+      },
+      {
+        "name": "Greatsword",
+        "skills": [],
+        "potentials": []
+      }
+    ],
+    "costumes": [
+      {
+        "name": "Aucun skin disponible",
+        "description": "Les skins pour ce personnage seront bientôt ajoutés.",
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": null,
+        "source_url": null
+      },
+      {
+        "name": "Les skins pour ce personnage seront bientôt ajoutés.",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": null,
+        "source_url": null
+      }
+    ],
+    "potentials": [],
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/derieri"
+  },
+  {
+    "id": "tristan",
+    "name": "Tristan",
+    "rarity": "5★",
+    "element": "Fire",
+    "roles": [],
+    "stats": null,
+    "images": {
+      "portrait": "https://7dsorigin.gg/images/characters/slot_tristan_001.png"
+    },
+    "weapons": [
+      {
+        "name": "Dual Swords",
+        "skills": [
+          {
+            "name": "Aventurier Débutant",
+            "kind": "Adventure Skill",
+            "cooldown": null,
+            "description": ""
+          },
+          {
+            "name": "Sens de la Justice",
+            "kind": "Passive",
+            "cooldown": null,
+            "description": ""
+          },
+          {
+            "name": "Lorsque le héros active une Décharge de Vent, l'Attaque de Vent de tous les héros alliés augmente de 15% pendant 20 sec.",
+            "kind": "Normal Attack",
+            "cooldown": null,
+            "description": "Attaque Normale"
+          },
+          {
+            "name": "Inflige des dégâts égaux à 105% de l'Attaque. 1er coup : 16% 2ème coup : 17% 3ème coup : 27% 4ème coup : 45%",
+            "kind": "Special Attack",
+            "cooldown": null,
+            "description": "Spécial Inflige des dégâts égaux à 103% de l'Attaque, puis inflige Saignement pendant 20 sec. ※ Saignement : Inflige des dégâts de Vent égaux à 10% des dégâts infligés toutes les 1 sec. Diminue l'Efficacité de Guérison de 20%. Diminue en plus l'Efficacité de Guérison de 6% lors de l'atterrissage d'un Coup Critique. (Max : 10 fois)"
+          },
+          {
+            "name": "Poussée de Vent",
+            "kind": "Normal Skill",
+            "cooldown": null,
+            "description": "Inflige des dégâts égaux à 173% de l'Attaque. Augmente en plus la Jauge de Décharge de 200 si l'ennemi saigne."
+          },
+          {
+            "name": "Frappe de Vent",
+            "kind": "Tag Skill",
+            "cooldown": null,
+            "description": "Inflige des dégâts égaux à 88% de l'Attaque."
+          },
+          {
+            "name": "Tempête de Lames",
+            "kind": "Ultimate Move",
+            "cooldown": null,
+            "description": "Augmente l'Efficacité de Décharge Élémentaire de tous les héros de Vent alliés de 20% pendant 20 sec, puis inflige des dégâts égaux à 295% de l'Attaque."
+          }
+        ],
+        "potentials": [
+          {
+            "tier": 1,
+            "text": "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%.",
+            "items": [
+              "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%."
+            ]
+          },
+          {
+            "tier": 2,
+            "text": "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 22% 2ème coup: 24% 3ème coup: 38% 4ème coup: 63%",
+            "items": [
+              "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 22% 2ème coup: 24% 3ème coup: 38% 4ème coup: 63%"
+            ]
+          },
+          {
+            "tier": 3,
+            "text": "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%.",
+            "items": [
+              "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%."
+            ]
+          },
+          {
+            "tier": 4,
+            "text": "Augmente les dégâts infligés avec l'Attaque Spéciale de 50%.",
+            "items": [
+              "Augmente les dégâts infligés avec l'Attaque Spéciale de 50%."
+            ]
+          },
+          {
+            "tier": 5,
+            "text": "Atterrir l'Attaque Spéciale augmente en plus la Jauge de Décharge de 200.",
+            "items": [
+              "Atterrir l'Attaque Spéciale augmente en plus la Jauge de Décharge de 200."
+            ]
+          },
+          {
+            "tier": 6,
+            "text": "Augmente les dégâts infligés avec la Compétence Normale de 60%.",
+            "items": [
+              "Augmente les dégâts infligés avec la Compétence Normale de 60%."
+            ]
+          },
+          {
+            "tier": 7,
+            "text": "Change la Compétence Normale en une compétence qui peut être utilisée 2 fois. Activer une Décharge de Vent avec une Compétence Normale diminue la Résistance Critique de l'ennemi de 15% pendant 20 sec.",
+            "items": [
+              "Change la Compétence Normale en une compétence qui peut être utilisée 2 fois. Activer une Décharge de Vent avec une Compétence Normale diminue la Résistance Critique de l'ennemi de 15% pendant 20 sec."
+            ]
+          },
+          {
+            "tier": 8,
+            "text": "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%.",
+            "items": [
+              "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%."
+            ]
+          },
+          {
+            "tier": 9,
+            "text": "Augmente les dégâts infligés avec le Mouvement Ultime de 50%.",
+            "items": [
+              "Augmente les dégâts infligés avec le Mouvement Ultime de 50%."
+            ]
+          },
+          {
+            "tier": 10,
+            "text": "Améliore le Mouvement Ultime pour augmenter les dégâts infligés avec Rafale de 150%.",
+            "items": [
+              "Améliore le Mouvement Ultime pour augmenter les dégâts infligés avec Rafale de 150%."
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Longsword",
+        "skills": [],
+        "potentials": []
+      },
+      {
+        "name": "Greatsword",
+        "skills": [],
+        "potentials": []
+      }
+    ],
+    "costumes": [
+      {
+        "name": "Petit Prince",
+        "description": "Tenue d'Entraînement du Prince",
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/tristan/tristan-little-prince"
+      },
+      {
+        "name": "Tenue d'Entraînement du Prince",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/tristan/tristan-prince-training-outfit"
+      },
+      {
+        "name": "Tenue Formelle",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/tristan/tristan-formal-attire"
+      },
+      {
+        "name": "Dignité Royale",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/tristan/tristan-royal-dignity"
+      },
+      {
+        "name": "Aventure du Prince",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/tristan/tristan-prince-adventure"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Tristan en tant que petit prince",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Tristan_001.png",
+        "source_url": "https://7dsorigin.gg/characters/tristan/tristan-little-prince"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume du Prince de Lioness Tristan. Robuste et léger, c'est la tenue parfaite pour l'entraînement à l'épée.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Tristan_006.png",
+        "source_url": "https://7dsorigin.gg/characters/tristan/tristan-prince-training-outfit"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume du Prince de Lioness Tristan. Une tenue soignée pour les occasions formelles.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Tristan_003.png",
+        "source_url": "https://7dsorigin.gg/characters/tristan/tristan-formal-attire"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume du Prince de Lioness Tristan. Une tenue élégante digne de la royauté.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Tristan_004.png",
+        "source_url": "https://7dsorigin.gg/characters/tristan/tristan-royal-dignity"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume du Prince de Lioness Tristan. Une tenue d'aventure soignée conçue pour la mobilité.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Tristan_005.png",
+        "source_url": "https://7dsorigin.gg/characters/tristan/tristan-prince-adventure"
+      }
+    ],
+    "potentials": [],
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/tristan"
+  },
+  {
+    "id": "tioreh",
+    "name": "Tioreh",
+    "rarity": "5★",
+    "element": "Fire",
+    "roles": [],
+    "stats": null,
+    "images": {
+      "portrait": "https://7dsorigin.gg/images/characters/slot_tioreh_001.png"
+    },
+    "weapons": [
+      {
+        "name": "Wand",
+        "skills": [
+          {
+            "name": "Vignes de l'Arbre Sacré",
+            "kind": "Adventure Skill",
+            "cooldown": null,
+            "description": ""
+          },
+          {
+            "name": "Bénédiction des Esprits : Dragon",
+            "kind": "Passive",
+            "cooldown": null,
+            "description": ""
+          }
+        ],
+        "potentials": [
+          {
+            "tier": 1,
+            "text": "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%.",
+            "items": [
+              "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%."
+            ]
+          },
+          {
+            "tier": 2,
+            "text": "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 24% 2ème coup: 27% 3ème coup: 43% 4ème coup: 68% Augmente les dégâts infligés avec les Attaques Normales améliorées de 50%. 1er coup: 35% 2ème coup: 39% 3ème coup: 63% 4ème coup: 107%",
+            "items": [
+              "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 24% 2ème coup: 27% 3ème coup: 43% 4ème coup: 68% Augmente les dégâts infligés avec les Attaques Normales améliorées de 50%. 1er coup: 35% 2ème coup: 39% 3ème coup: 63% 4ème coup: 107%"
+            ]
+          },
+          {
+            "tier": 3,
+            "text": "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%.",
+            "items": [
+              "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%."
+            ]
+          },
+          {
+            "tier": 4,
+            "text": "Augmente la durée de l'amélioration d'Attaque Normale de l'Attaque Spéciale de 15 sec.",
+            "items": [
+              "Augmente la durée de l'amélioration d'Attaque Normale de l'Attaque Spéciale de 15 sec."
+            ]
+          },
+          {
+            "tier": 5,
+            "text": "Augmente légèrement la portée du Mouvement Ultime et augmente les dégâts infligés aux ennemis affectés par Combustion de 20%.",
+            "items": [
+              "Augmente légèrement la portée du Mouvement Ultime et augmente les dégâts infligés aux ennemis affectés par Combustion de 20%."
+            ]
+          },
+          {
+            "tier": 6,
+            "text": "Augmente les dégâts infligés avec la Compétence Normale de 60%.",
+            "items": [
+              "Augmente les dégâts infligés avec la Compétence Normale de 60%."
+            ]
+          },
+          {
+            "tier": 7,
+            "text": "Augmente la durée de Combustion de 5 sec et augmente les dégâts d'Attaque Normale et d'Attaque Normale améliorée infligés aux ennemis affectés par Combustion de 20%.",
+            "items": [
+              "Augmente la durée de Combustion de 5 sec et augmente les dégâts d'Attaque Normale et d'Attaque Normale améliorée infligés aux ennemis affectés par Combustion de 20%."
+            ]
+          },
+          {
+            "tier": 8,
+            "text": "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%.",
+            "items": [
+              "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%."
+            ]
+          },
+          {
+            "tier": 9,
+            "text": "Augmente les dégâts infligés avec le Mouvement Ultime de 50%.",
+            "items": [
+              "Augmente les dégâts infligés avec le Mouvement Ultime de 50%."
+            ]
+          },
+          {
+            "tier": 10,
+            "text": "Augmente la Vitesse de Déplacement de 50% et devient immunisé aux Réactions lors de l'utilisation de la Compétence Normale.",
+            "items": [
+              "Augmente la Vitesse de Déplacement de 50% et devient immunisé aux Réactions lors de l'utilisation de la Compétence Normale."
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Staff",
+        "skills": [
+          {
+            "name": "Lorsqu'un héros allié attaque un ennemi avec une Défense de Feu réduite, la Chance Critique augmente de 8%.",
+            "kind": "Normal Attack",
+            "cooldown": null,
+            "description": "Attaque Normale Inflige des dégâts égaux à 115% de l'Attaque. 1er coup : 17% 2ème coup : 19% 3ème coup : 31% 4ème coup : 48% Les Attaques Normales améliorées infligent des dégâts égaux à 164% de l'Attaque. 1er coup : 24% 2ème coup : 26% 3ème coup : 42% 4ème coup : 72% Attaque Spéciale Spécial Les Attaques Normales sont améliorées pendant 10 sec, augmentant légèrement les dégâts. Atterrir une Attaque Normale améliorée inflige Combustion à l'ennemi pendant 10 sec. ※ Combustion : Diminue l'Attaque de 5%."
+          },
+          {
+            "name": "Éjection de Feu",
+            "kind": "Normal Skill",
+            "cooldown": null,
+            "description": "Inflige des dégâts égaux à 213% de l'Attaque. Diminue la Défense de Feu de l'ennemi de 15% pendant 10 sec. Augmente les dégâts infligés de 5% tous les 5 coups sur les ennemis affectés par Combustion. (Max : 75%)"
+          }
+        ],
+        "potentials": []
+      },
+      {
+        "name": "Book",
+        "skills": [
+          {
+            "name": "Frappe de Feu",
+            "kind": "Tag Skill",
+            "cooldown": null,
+            "description": "Inflige des dégâts égaux à 81% de l'Attaque."
+          },
+          {
+            "name": "Souffle du Dragon",
+            "kind": "Ultimate Move",
+            "cooldown": null,
+            "description": "Inflige des dégâts égaux à 273% de l'Attaque. Augmente les dégâts infligés aux ennemis affectés par Combustion de 20%."
+          }
+        ],
+        "potentials": []
+      }
+    ],
+    "costumes": [
+      {
+        "name": "Fée Adorable",
+        "description": "Sortie Décontractée",
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/tioreh/tioreh-adorable-fairy"
+      },
+      {
+        "name": "Sortie Décontractée",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/tioreh/tioreh-casual-outing"
+      },
+      {
+        "name": "Fille de la Forêt et de la Terre",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/tioreh/tioreh-daughter-forest-earth"
+      },
+      {
+        "name": "Début de l'Aventure",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/tioreh/tioreh-adventure-beginning"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Tioreh en tant que fée adorable",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Tioreh_001.png",
+        "source_url": "https://7dsorigin.gg/characters/tioreh/tioreh-adorable-fairy"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Tioreh la Fée Curieuse. Il faut rester à jour sur la dernière mode des villages humains !",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Tioreh_002.png",
+        "source_url": "https://7dsorigin.gg/characters/tioreh/tioreh-casual-outing"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Tioreh la Fée Curieuse. C'est une tenue blindée qui peut même être portée lors d'occasions formelles.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Tioreh_003.png",
+        "source_url": "https://7dsorigin.gg/characters/tioreh/tioreh-daughter-forest-earth"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Tioreh la Fée Curieuse. La tenue est si pleine d'énergie qu'elle donne envie de partir à l'aventure immédiatement.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Tioreh_004.png",
+        "source_url": "https://7dsorigin.gg/characters/tioreh/tioreh-adventure-beginning"
+      }
+    ],
+    "potentials": [],
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/tioreh"
+  },
+  {
+    "id": "howzer",
+    "name": "Howzer",
+    "rarity": "5★",
+    "element": "Wind",
+    "roles": [],
+    "stats": null,
+    "images": {
+      "portrait": "https://7dsorigin.gg/images/characters/slot_howzer_001.png"
+    },
+    "weapons": [
+      {
+        "name": "Lance",
+        "skills": [
+          {
+            "name": "Courant Ascendant",
+            "kind": "Adventure Skill",
+            "cooldown": null,
+            "description": ""
+          },
+          {
+            "name": "Œil de la Tempête",
+            "kind": "Passive",
+            "cooldown": null,
+            "description": ""
+          }
+        ],
+        "potentials": [
+          {
+            "tier": 1,
+            "text": "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%.",
+            "items": [
+              "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%."
+            ]
+          },
+          {
+            "tier": 2,
+            "text": "Augmente les dégâts infligés avec l'Attaque Spéciale de 40%.",
+            "items": [
+              "Augmente les dégâts infligés avec l'Attaque Spéciale de 40%."
+            ]
+          },
+          {
+            "tier": 3,
+            "text": "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%.",
+            "items": [
+              "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%."
+            ]
+          },
+          {
+            "tier": 4,
+            "text": "Augmente les dégâts infligés avec la Compétence d'Équipe de 60%.",
+            "items": [
+              "Augmente les dégâts infligés avec la Compétence d'Équipe de 60%."
+            ]
+          },
+          {
+            "tier": 5,
+            "text": "Utiliser le Mouvement Ultime crée un tourbillon qui inflige des dégâts égaux à 187% de l'Attaque.",
+            "items": [
+              "Utiliser le Mouvement Ultime crée un tourbillon qui inflige des dégâts égaux à 187% de l'Attaque."
+            ]
+          },
+          {
+            "tier": 6,
+            "text": "Augmente les dégâts infligés avec la Compétence Normale de 60%.",
+            "items": [
+              "Augmente les dégâts infligés avec la Compétence Normale de 60%."
+            ]
+          },
+          {
+            "tier": 7,
+            "text": "Augmente grandement la portée de l'Attaque Spéciale et augmente sa réduction de Résistance Critique de 100%.",
+            "items": [
+              "Augmente grandement la portée de l'Attaque Spéciale et augmente sa réduction de Résistance Critique de 100%."
+            ]
+          },
+          {
+            "tier": 8,
+            "text": "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%.",
+            "items": [
+              "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%."
+            ]
+          },
+          {
+            "tier": 9,
+            "text": "Augmente les dégâts infligés avec le Mouvement Ultime de 50%.",
+            "items": [
+              "Augmente les dégâts infligés avec le Mouvement Ultime de 50%."
+            ]
+          },
+          {
+            "tier": 10,
+            "text": "Inflige des dégâts supplémentaires égaux à 65% de l'Attaque par tourbillon lors de l'utilisation de la Compétence Normale.",
+            "items": [
+              "Inflige des dégâts supplémentaires égaux à 65% de l'Attaque par tourbillon lors de l'utilisation de la Compétence Normale."
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Gauntlets",
+        "skills": [
+          {
+            "name": "Augmente les dégâts de Vent infligés par tous les héros alliés aux ennemis Saignants de 30%.",
+            "kind": "Normal Attack",
+            "cooldown": null,
+            "description": "Attaque Normale Inflige des dégâts égaux à 115% de l'Attaque. 50% de chances de réinitialiser le temps de recharge de l'Attaque Spéciale au dernier coup. 1er coup : 17% 2ème coup : 19% 3ème coup : 30% 4ème coup : 49% Attaque Spéciale Spécial Inflige des dégâts égaux à 84% de l'Attaque. Le deuxième coup diminue la Résistance Critique de 5% pendant 20 sec si l'ennemi saigne. (Max : 3 fois)"
+          },
+          {
+            "name": "Combo",
+            "kind": "Normal Skill",
+            "cooldown": null,
+            "description": "Inflige des dégâts égaux à 192% de l'Attaque. 50% de chances de réinitialiser le temps de recharge de l'Attaque Spéciale."
+          }
+        ],
+        "potentials": []
+      },
+      {
+        "name": "Cudgel",
+        "skills": [
+          {
+            "name": "Poing Ascendant",
+            "kind": "Tag Skill",
+            "cooldown": null,
+            "description": "Inflige des dégâts égaux à 95% de l'Attaque."
+          },
+          {
+            "name": "Choc Tourbillonnant",
+            "kind": "Ultimate Move",
+            "cooldown": null,
+            "description": "Augmente les Dégâts Critiques du héros de 30% pendant 20 sec, puis inflige des dégâts égaux à 322% de l'Attaque."
+          }
+        ],
+        "potentials": []
+      }
+    ],
+    "costumes": [
+      {
+        "name": "Grand Maître de Confiance",
+        "description": "Chope de Bière en Fin de Journée",
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/howzer/howzer-trusted-grandmaster"
+      },
+      {
+        "name": "Chope de Bière en Fin de Journée",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/howzer/howzer-end-of-day-ale"
+      },
+      {
+        "name": "Chevalier Sacré des Tempêtes",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/howzer/howzer-holy-knight-storms"
+      },
+      {
+        "name": "Aventure Sécurisée",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/howzer/howzer-secure-adventure"
+      },
+      {
+        "name": "Dignité du Grand Maître",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/howzer/howzer-grandmaster-dignity"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Howzer en tant que grand maître de confiance",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Howzer_001.png",
+        "source_url": "https://7dsorigin.gg/characters/howzer/howzer-trusted-grandmaster"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Howzer, Grand Maître de Liones. Rien de mieux qu'une chope de bière froide quand les choses deviennent stressantes.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Howzer_002.png",
+        "source_url": "https://7dsorigin.gg/characters/howzer/howzer-end-of-day-ale"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Howzer, Grand Maître de Liones. C'est son armure préférée de ses années de jeunesse.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Howzer_003.png",
+        "source_url": "https://7dsorigin.gg/characters/howzer/howzer-holy-knight-storms"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Howzer, Grand Maître de Liones. La tenue combine avec succès qualités protectrices et facilité de mouvement.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Howzer_004.png",
+        "source_url": "https://7dsorigin.gg/characters/howzer/howzer-secure-adventure"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Howzer, Grand Maître de Liones. L'armure porte un air d'autorité qui correspond à son rôle estimé.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Howzer_005.png",
+        "source_url": "https://7dsorigin.gg/characters/howzer/howzer-grandmaster-dignity"
+      }
+    ],
+    "potentials": [],
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/howzer"
+  },
+  {
+    "id": "hendrickson",
+    "name": "Hendrickson",
+    "rarity": "5★",
+    "element": "Holy",
+    "roles": [],
+    "stats": null,
+    "images": {
+      "portrait": "https://7dsorigin.gg/images/characters/slot_hendrickson_001.png"
+    },
+    "weapons": [
+      {
+        "name": "Dual Swords",
+        "skills": [
+          {
+            "name": "Phytocommunication",
+            "kind": "Adventure Skill",
+            "cooldown": null,
+            "description": ""
+          },
+          {
+            "name": "Grand Maître Vétéran",
+            "kind": "Passive",
+            "cooldown": null,
+            "description": ""
+          },
+          {
+            "name": "Augmente la Défense de tous les héros alliés de 15%.",
+            "kind": "Normal Attack",
+            "cooldown": null,
+            "description": "Attaque Normale"
+          },
+          {
+            "name": "Inflige des dégâts égaux à 101% de l'Attaque. 1er coup : 15% 2ème coup : 16% 3ème coup : 26% 4ème coup : 44%",
+            "kind": "Special Attack",
+            "cooldown": null,
+            "description": "Spécial Inflige des dégâts égaux à 101% de l'Attaque. Augmente l'Efficacité de Guérison du héros de 15% pendant 20 sec."
+          },
+          {
+            "name": "Sort Défensif",
+            "kind": "Normal Skill",
+            "cooldown": null,
+            "description": "Augmente la Résistance de Fracassement de tous les héros alliés de 10% pendant 25 sec."
+          },
+          {
+            "name": "Tranche Perçante",
+            "kind": "Tag Skill",
+            "cooldown": null,
+            "description": "Inflige des dégâts égaux à 84% de l'Attaque."
+          },
+          {
+            "name": "Magie Libérée",
+            "kind": "Ultimate Move",
+            "cooldown": null,
+            "description": "Restaure les PV des alliés à portée de 268% de l'Attaque pendant 10 sec."
+          }
+        ],
+        "potentials": [
+          {
+            "tier": 1,
+            "text": "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%.",
+            "items": [
+              "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%."
+            ]
+          },
+          {
+            "tier": 2,
+            "text": "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 21% 2ème coup: 23% 3ème coup: 36% 4ème coup: 62%",
+            "items": [
+              "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 21% 2ème coup: 23% 3ème coup: 36% 4ème coup: 62%"
+            ]
+          },
+          {
+            "tier": 3,
+            "text": "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%.",
+            "items": [
+              "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%."
+            ]
+          },
+          {
+            "tier": 4,
+            "text": "Augmente les dégâts infligés avec l'Attaque Spéciale de 50%.",
+            "items": [
+              "Augmente les dégâts infligés avec l'Attaque Spéciale de 50%."
+            ]
+          },
+          {
+            "tier": 5,
+            "text": "Change l'Attaque Spéciale en une compétence qui peut être utilisée 2 fois et change l'effet d'augmentation d'Efficacité de Guérison pour être appliqué jusqu'à 3 fois.",
+            "items": [
+              "Change l'Attaque Spéciale en une compétence qui peut être utilisée 2 fois et change l'effet d'augmentation d'Efficacité de Guérison pour être appliqué jusqu'à 3 fois."
+            ]
+          },
+          {
+            "tier": 6,
+            "text": "Augmente l'augmentation de Résistance de Fracassement de la Compétence Normale de 50%.",
+            "items": [
+              "Augmente l'augmentation de Résistance de Fracassement de la Compétence Normale de 50%."
+            ]
+          },
+          {
+            "tier": 7,
+            "text": "L'effet d'augmentation de Résistance de Fracassement de la Compétence Normale s'applique également aux alliés proches.",
+            "items": [
+              "L'effet d'augmentation de Résistance de Fracassement de la Compétence Normale s'applique également aux alliés proches."
+            ]
+          },
+          {
+            "tier": 8,
+            "text": "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%.",
+            "items": [
+              "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%."
+            ]
+          },
+          {
+            "tier": 9,
+            "text": "Augmente la Récupération de PV du Mouvement Ultime de 20%.",
+            "items": [
+              "Augmente la Récupération de PV du Mouvement Ultime de 20%."
+            ]
+          },
+          {
+            "tier": 10,
+            "text": "Augmente légèrement la portée du Mouvement Ultime.",
+            "items": [
+              "Augmente légèrement la portée du Mouvement Ultime."
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Longsword",
+        "skills": [],
+        "potentials": []
+      },
+      {
+        "name": "Lance",
+        "skills": [],
+        "potentials": []
+      }
+    ],
+    "costumes": [
+      {
+        "name": "Apothicaire de Liones",
+        "description": "Un Costume des Jeunes Années",
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/hendrickson/hendrickson-liones-apothecary"
+      },
+      {
+        "name": "Gris Romantique",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/hendrickson/hendrickson-romantic-gray"
+      },
+      {
+        "name": "Un Costume des Jeunes Années",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/hendrickson/hendrickson-suit-younger-days"
+      },
+      {
+        "name": "Tenue de Travail d'Apothicaire",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/hendrickson/hendrickson-apothecary-workwear"
+      },
+      {
+        "name": "Chevalier Sacré Revenu",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/hendrickson/hendrickson-returned-holy-knight"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Hendrickson en tant qu'apothicaire de Liones",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Hendrickson_001.png",
+        "source_url": "https://7dsorigin.gg/characters/hendrickson/hendrickson-liones-apothecary"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Hendrickson, Grand Maître Retraité. Un homme doit être élégant de temps en temps.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Hendrickson_002.png",
+        "source_url": "https://7dsorigin.gg/characters/hendrickson/hendrickson-romantic-gray"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Hendrickson, Grand Maître Retraité. Cela lui rappelle ses années de jeunesse.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Hendrickson_003.png",
+        "source_url": "https://7dsorigin.gg/characters/hendrickson/hendrickson-suit-younger-days"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Hendrickson, Grand Maître Retraité. À l'apothicairerie, rester actif fait partie du travail.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Hendrickson_004.png",
+        "source_url": "https://7dsorigin.gg/characters/hendrickson/hendrickson-apothecary-workwear"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Hendrickson, Grand Maître Retraité. Il peut travailler comme apothicaire, mais ses compétences de combat restent aiguisées.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Hendrickson_005.png",
+        "source_url": "https://7dsorigin.gg/characters/hendrickson/hendrickson-returned-holy-knight"
+      }
+    ],
+    "potentials": [],
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/hendrickson"
+  },
+  {
+    "id": "griamore",
+    "name": "Griamore",
+    "rarity": "5★",
+    "element": "Physical",
+    "roles": [],
+    "stats": null,
+    "images": {
+      "portrait": "https://7dsorigin.gg/images/characters/slot_griamore_001.png"
+    },
+    "weapons": [
+      {
+        "name": "Shield",
+        "skills": [
+          {
+            "name": "Étoile de Vitesse",
+            "kind": "Adventure Skill",
+            "cooldown": null,
+            "description": ""
+          },
+          {
+            "name": "Maître du Mur",
+            "kind": "Passive",
+            "cooldown": null,
+            "description": "Augmente l'Efficacité de Décharge de 20% lorsque tous les héros alliés ont des barrières. Restaure 2 Points de Magie lorsque le héros active une Décharge. (Temps de recharge : 60 sec) Attaque Normale Attaque Normale"
+          }
+        ],
+        "potentials": [
+          {
+            "tier": 1,
+            "text": "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%.",
+            "items": [
+              "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%."
+            ]
+          },
+          {
+            "tier": 2,
+            "text": "Inflige des dégâts égaux à 40% de l'Attaque. 1er coup: 22% 2ème coup: 23% 3ème coup: 37% 4ème coup: 61%",
+            "items": [
+              "Inflige des dégâts égaux à 40% de l'Attaque. 1er coup: 22% 2ème coup: 23% 3ème coup: 37% 4ème coup: 61%"
+            ]
+          },
+          {
+            "tier": 3,
+            "text": "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%.",
+            "items": [
+              "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%."
+            ]
+          },
+          {
+            "tier": 4,
+            "text": "Augmente les dégâts infligés avec l'Attaque Spéciale de 50%.",
+            "items": [
+              "Augmente les dégâts infligés avec l'Attaque Spéciale de 50%."
+            ]
+          },
+          {
+            "tier": 5,
+            "text": "Change l'Attaque Spéciale en une compétence qui peut être utilisée 2 fois.",
+            "items": [
+              "Change l'Attaque Spéciale en une compétence qui peut être utilisée 2 fois."
+            ]
+          },
+          {
+            "tier": 6,
+            "text": "Augmente les dégâts infligés avec la Compétence Normale de 60%.",
+            "items": [
+              "Augmente les dégâts infligés avec la Compétence Normale de 60%."
+            ]
+          },
+          {
+            "tier": 7,
+            "text": "Atterrir la Compétence d'Équipe inflige Étourdissement pendant 8 sec.",
+            "items": [
+              "Atterrir la Compétence d'Équipe inflige Étourdissement pendant 8 sec."
+            ]
+          },
+          {
+            "tier": 8,
+            "text": "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%.",
+            "items": [
+              "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%."
+            ]
+          },
+          {
+            "tier": 9,
+            "text": "Augmente les dégâts infligés avec le Mouvement Ultime de 50%.",
+            "items": [
+              "Augmente les dégâts infligés avec le Mouvement Ultime de 50%."
+            ]
+          },
+          {
+            "tier": 10,
+            "text": "Inflige en plus des dégâts égaux à 120% de l'Attaque lors de l'utilisation du Mouvement Ultime.",
+            "items": [
+              "Inflige en plus des dégâts égaux à 120% de l'Attaque lors de l'utilisation du Mouvement Ultime."
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Cudgel",
+        "skills": [
+          {
+            "name": "Inflige des dégâts égaux à 103% de l'Attaque. 1er coup : 15% 2ème coup : 17% 3ème coup : 27%",
+            "kind": "Special Attack",
+            "cooldown": null,
+            "description": "Spécial Inflige des dégâts égaux à 104% de l'Attaque et Étourdit pendant 5 sec."
+          },
+          {
+            "name": "Ruée de Bouclier",
+            "kind": "Normal Skill",
+            "cooldown": null,
+            "description": "Inflige des dégâts égaux à 164% de l'Attaque et augmente leur durée d'Étourdissement de 3 sec. Inflige des dégâts supplémentaires égaux à 55% de la Défense si le héros a une barrière."
+          }
+        ],
+        "potentials": []
+      },
+      {
+        "name": "Gauntlets",
+        "skills": [
+          {
+            "name": "Poing de Bouclier",
+            "kind": "Tag Skill",
+            "cooldown": null,
+            "description": "Inflige des dégâts égaux à 84% de l'Attaque et accorde à tous les héros alliés des barrières égales à 10% des PV Max pendant 15 sec."
+          },
+          {
+            "name": "Bouclier d'Émission",
+            "kind": "Ultimate Move",
+            "cooldown": null,
+            "description": "Inflige des dégâts égaux à 254% de l'Attaque. Augmente en plus la Jauge de Décharge sur les ennemis Étourdis de 250"
+          }
+        ],
+        "potentials": []
+      }
+    ],
+    "costumes": [
+      {
+        "name": "Chevalier Gardien de la Princesse",
+        "description": "Sortie Décontractée",
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/griamore/griamore-guardian-knight"
+      },
+      {
+        "name": "Sortie Décontractée",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/griamore/griamore-casual-outing"
+      },
+      {
+        "name": "Chevalier Sacré du Mur de Fer",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/griamore/griamore-holy-knight-iron-wall"
+      },
+      {
+        "name": "Barricade de Fortune",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/griamore/griamore-makeshift-barricade"
+      },
+      {
+        "name": "Forteresse de Fer Imprenable",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/griamore/griamore-impregnable-fortress"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Griamore en tant que chevalier gardien de la princesse",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Griamore_001.png",
+        "source_url": "https://7dsorigin.gg/characters/griamore/griamore-guardian-knight"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Griamore du passé. Il a cessé d'essayer de le boutonner après plusieurs tentatives.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Griamore_002.png",
+        "source_url": "https://7dsorigin.gg/characters/griamore/griamore-casual-outing"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Griamore du passé. Il n'a pas encore trouvé d'armure qui convienne réellement à son torse gigantesque.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Griamore_003.png",
+        "source_url": "https://7dsorigin.gg/characters/griamore/griamore-holy-knight-iron-wall"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Griamore du passé. Le costume offre un niveau de protection adéquat.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Griamore_004.png",
+        "source_url": "https://7dsorigin.gg/characters/griamore/griamore-makeshift-barricade"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Griamore du passé. Il affiche une défense puissante et incassable.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Griamore_005.png",
+        "source_url": "https://7dsorigin.gg/characters/griamore/griamore-impregnable-fortress"
+      }
+    ],
+    "potentials": [],
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/griamore"
+  },
+  {
+    "id": "gilthunder",
+    "name": "Gilthunder",
+    "rarity": "5★",
+    "element": "Thunder",
+    "roles": [],
+    "stats": null,
+    "images": {
+      "portrait": "https://7dsorigin.gg/images/characters/slot_gil_thunder_001.png"
+    },
+    "weapons": [
+      {
+        "name": "Longsword",
+        "skills": [
+          {
+            "name": "Coup de Foudre",
+            "kind": "Adventure Skill",
+            "cooldown": null,
+            "description": ""
+          },
+          {
+            "name": "Coup de Foudre",
+            "kind": "Passive",
+            "cooldown": null,
+            "description": "Augmente en plus la Jauge de Décharge de 20 lors de l'attaque d'un ennemi en Choc. Lorsque le héros active Décharge de Foudre, la Défense de Foudre de l'ennemi diminue de 15% pendant 20 sec. Attaque Normale Attaque Normale"
+          }
+        ],
+        "potentials": [
+          {
+            "tier": 1,
+            "text": "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%.",
+            "items": [
+              "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%."
+            ]
+          },
+          {
+            "tier": 2,
+            "text": "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 22% 2ème coup: 24% 3ème coup: 39% 4ème coup: 65%",
+            "items": [
+              "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 22% 2ème coup: 24% 3ème coup: 39% 4ème coup: 65%"
+            ]
+          },
+          {
+            "tier": 3,
+            "text": "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%.",
+            "items": [
+              "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%."
+            ]
+          },
+          {
+            "tier": 4,
+            "text": "Augmente les dégâts infligés avec l'Attaque Spéciale de 50%.",
+            "items": [
+              "Augmente les dégâts infligés avec l'Attaque Spéciale de 50%."
+            ]
+          },
+          {
+            "tier": 5,
+            "text": "Change la Compétence Normale en une compétence qui peut être utilisée 2 fois et augmente les dégâts infligés de 30%.",
+            "items": [
+              "Change la Compétence Normale en une compétence qui peut être utilisée 2 fois et augmente les dégâts infligés de 30%."
+            ]
+          },
+          {
+            "tier": 6,
+            "text": "Augmente les dégâts infligés avec la Compétence Normale de 60%.",
+            "items": [
+              "Augmente les dégâts infligés avec la Compétence Normale de 60%."
+            ]
+          },
+          {
+            "tier": 7,
+            "text": "Augmente la réduction de Résistance de Décharge de Tous les Éléments du Mouvement Ultime de 50%.",
+            "items": [
+              "Augmente la réduction de Résistance de Décharge de Tous les Éléments du Mouvement Ultime de 50%."
+            ]
+          },
+          {
+            "tier": 8,
+            "text": "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%.",
+            "items": [
+              "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%."
+            ]
+          },
+          {
+            "tier": 9,
+            "text": "Augmente les dégâts infligés avec le Mouvement Ultime de 50%.",
+            "items": [
+              "Augmente les dégâts infligés avec le Mouvement Ultime de 50%."
+            ]
+          },
+          {
+            "tier": 10,
+            "text": "Change l'Attaque Spéciale en une compétence qui peut être utilisée 2 fois.",
+            "items": [
+              "Change l'Attaque Spéciale en une compétence qui peut être utilisée 2 fois."
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Shield",
+        "skills": [
+          {
+            "name": "Inflige des dégâts égaux à 108% de l'Attaque. 1er coup : 16% 2ème coup : 17% 3ème coup : 28% 4ème coup : 47%",
+            "kind": "Special Attack",
+            "cooldown": null,
+            "description": "Spécial Inflige des dégâts égaux à 109% de l'Attaque. Augmente la durée de Choc de l'ennemi de 3 sec."
+          },
+          {
+            "name": "Épée de Foudre",
+            "kind": "Normal Skill",
+            "cooldown": null,
+            "description": "Inflige des dégâts égaux à 176% de l'Attaque et inflige Choc pendant 10 sec. ※ Choc : Inflige des dégâts de Foudre égaux à 15% de l'Attaque toutes les 2 sec. Inflige Choc aux ennemis proches pendant 10 sec lorsque touché."
+          }
+        ],
+        "potentials": []
+      },
+      {
+        "name": "Lance",
+        "skills": [
+          {
+            "name": "Frappe de Foudre",
+            "kind": "Tag Skill",
+            "cooldown": null,
+            "description": "Inflige des dégâts égaux à 86% de l'Attaque."
+          },
+          {
+            "name": "Éclair de Foudre",
+            "kind": "Ultimate Move",
+            "cooldown": null,
+            "description": "Inflige des dégâts égaux à 281% de l'Attaque. Diminue la Résistance de Décharge de Tous les Éléments des ennemis à portée de 20%."
+          }
+        ],
+        "potentials": []
+      }
+    ],
+    "costumes": [
+      {
+        "name": "Jeune Chevalier Sacré",
+        "description": "Chevalier Sacré Exemplaire",
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/gilthunder/gilthunder-young-holy-knight"
+      },
+      {
+        "name": "Chevalier Sacré Exemplaire",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/gilthunder/gilthunder-exemplary-holy-knight"
+      },
+      {
+        "name": "Chevalier Sacré de la Foudre",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/gilthunder/gilthunder-holy-knight-lightning"
+      },
+      {
+        "name": "Aventure Exemplaire",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/gilthunder/gilthunder-exemplary-adventure"
+      },
+      {
+        "name": "Chevalier Sacré Prometteur",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/gilthunder/gilthunder-promising-holy-knight"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Gilthunder en tant que jeune chevalier sacré",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Gil_thunder_001.png",
+        "source_url": "https://7dsorigin.gg/characters/gilthunder/gilthunder-young-holy-knight"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Gilthunder du passé. Un Chevalier Sacré doit maintenir sa forme même en dehors du service.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Gil_thunder_002.png",
+        "source_url": "https://7dsorigin.gg/characters/gilthunder/gilthunder-exemplary-holy-knight"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Gilthunder du passé. Son apparence majestueuse lui a valu l'admiration de nombreux Apprentis Chevaliers Sacrés.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Gil_thunder_003.png",
+        "source_url": "https://7dsorigin.gg/characters/gilthunder/gilthunder-holy-knight-lightning"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Gilthunder du passé. Même sa tenue reflète l'approche d'un chevalier exemplaire pour l'aventure.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Gil_thunder_004.png",
+        "source_url": "https://7dsorigin.gg/characters/gilthunder/gilthunder-exemplary-adventure"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Gilthunder du passé. L'armure l'aide à révéler tout son potentiel.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Gil_thunder_005.png",
+        "source_url": "https://7dsorigin.gg/characters/gilthunder/gilthunder-promising-holy-knight"
+      }
+    ],
+    "potentials": [],
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/gilthunder"
+  },
+  {
+    "id": "dreyfus",
+    "name": "Dreyfus",
+    "rarity": "5★",
+    "element": "Physical",
+    "roles": [],
+    "stats": null,
+    "images": {
+      "portrait": "https://7dsorigin.gg/images/characters/slot_dreyfus_001.png"
+    },
+    "weapons": [
+      {
+        "name": "Rapier",
+        "skills": [
+          {
+            "name": "Briseur en Un Coup",
+            "kind": "Adventure Skill",
+            "cooldown": null,
+            "description": ""
+          },
+          {
+            "name": "Honneur du Grand Maître",
+            "kind": "Passive",
+            "cooldown": null,
+            "description": ""
+          },
+          {
+            "name": "Augmente les dégâts infligés aux ennemis avec Décharge de Terre activée de 30%.",
+            "kind": "Normal Attack",
+            "cooldown": null,
+            "description": "Attaque Normale"
+          },
+          {
+            "name": "Inflige des dégâts égaux à 98% de l'Attaque. 1er coup : 23% 2ème coup : 28% 3ème coup : 47%",
+            "kind": "Special Attack",
+            "cooldown": null,
+            "description": "Spécial Inflige des dégâts égaux à 143% de l'Attaque et inflige Orgueil pendant 20 sec. ※ Orgueil : Augmente les dégâts reçus du héros de 20%."
+          },
+          {
+            "name": "Lame de Terre",
+            "kind": "Normal Skill",
+            "cooldown": null,
+            "description": "Inflige des dégâts égaux à 249% de l'Attaque. Diminue le temps de recharge de la Compétence Normale de 50% lors de l'attaque d'un ennemi affecté par Orgueil."
+          },
+          {
+            "name": "Tranche de Terre Angulaire",
+            "kind": "Tag Skill",
+            "cooldown": null,
+            "description": "Inflige des dégâts égaux à 116% de l'Attaque."
+          },
+          {
+            "name": "Brisure de Terre",
+            "kind": "Ultimate Move",
+            "cooldown": null,
+            "description": "Inflige des dégâts égaux à 367% de l'Attaque. Augmente les dégâts infligés aux ennemis Pétrifiés de 50%."
+          }
+        ],
+        "potentials": [
+          {
+            "tier": 1,
+            "text": "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%.",
+            "items": [
+              "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%."
+            ]
+          },
+          {
+            "tier": 2,
+            "text": "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 32% 2ème coup: 39% 3ème coup: 66%",
+            "items": [
+              "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 32% 2ème coup: 39% 3ème coup: 66%"
+            ]
+          },
+          {
+            "tier": 3,
+            "text": "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%.",
+            "items": [
+              "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%."
+            ]
+          },
+          {
+            "tier": 4,
+            "text": "Augmente les dégâts infligés avec l'Attaque Spéciale de 50%.",
+            "items": [
+              "Augmente les dégâts infligés avec l'Attaque Spéciale de 50%."
+            ]
+          },
+          {
+            "tier": 5,
+            "text": "Atterrir la Compétence Normale diminue la Défense de Terre de l'ennemi de 20% pendant 20 sec.",
+            "items": [
+              "Atterrir la Compétence Normale diminue la Défense de Terre de l'ennemi de 20% pendant 20 sec."
+            ]
+          },
+          {
+            "tier": 6,
+            "text": "Augmente les dégâts infligés avec la Compétence Normale de 60%.",
+            "items": [
+              "Augmente les dégâts infligés avec la Compétence Normale de 60%."
+            ]
+          },
+          {
+            "tier": 7,
+            "text": "Augmente légèrement la portée du Mouvement Ultime et Étourdit l'ennemi pendant 4 sec lors de l'atterrissage de la dernière frappe du Mouvement Ultime.",
+            "items": [
+              "Augmente légèrement la portée du Mouvement Ultime et Étourdit l'ennemi pendant 4 sec lors de l'atterrissage de la dernière frappe du Mouvement Ultime."
+            ]
+          },
+          {
+            "tier": 8,
+            "text": "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%.",
+            "items": [
+              "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%."
+            ]
+          },
+          {
+            "tier": 9,
+            "text": "Augmente les dégâts infligés avec le Mouvement Ultime de 50%.",
+            "items": [
+              "Augmente les dégâts infligés avec le Mouvement Ultime de 50%."
+            ]
+          },
+          {
+            "tier": 10,
+            "text": "Augmente l'augmentation de dégâts du Passif de 80%.",
+            "items": [
+              "Augmente l'augmentation de dégâts du Passif de 80%."
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Longsword",
+        "skills": [],
+        "potentials": []
+      },
+      {
+        "name": "Lance",
+        "skills": [],
+        "potentials": []
+      }
+    ],
+    "costumes": [
+      {
+        "name": "Instructeur d'Art de l'Épée du Royaume",
+        "description": "Honneur du Vieux Soldat",
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/dreyfus/dreyfus-sword-art-instructor"
+      },
+      {
+        "name": "Majordome Royal",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/dreyfus/dreyfus-royal-butler"
+      },
+      {
+        "name": "Honneur du Vieux Soldat",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/dreyfus/dreyfus-old-soldier-honor"
+      },
+      {
+        "name": "Tenue Simple",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/dreyfus/dreyfus-simple-attire"
+      },
+      {
+        "name": "Chevalier Honorable",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/dreyfus/dreyfus-honorable-knight"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Dreyfus en tant qu'instructeur d'art de l'épée du royaume",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Dreyfus_001.png",
+        "source_url": "https://7dsorigin.gg/characters/dreyfus/dreyfus-sword-art-instructor"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Dreyfus, Grand Maître Retraité. Une tenue sophistiquée et modeste qui est parfaite pour les occasions formelles.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Dreyfus_002.png",
+        "source_url": "https://7dsorigin.gg/characters/dreyfus/dreyfus-royal-butler"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Dreyfus, Grand Maître Retraité. Il a vu de nombreuses batailles tout au long des années de service actif de Dreyfus.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Dreyfus_003.png",
+        "source_url": "https://7dsorigin.gg/characters/dreyfus/dreyfus-old-soldier-honor"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Dreyfus, Grand Maître Retraité. Conçu pour une défense légère et la mobilité.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Dreyfus_004.png",
+        "source_url": "https://7dsorigin.gg/characters/dreyfus/dreyfus-simple-attire"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Dreyfus, Grand Maître Retraité. Après avoir traversé de nombreux événements historiques, il travaille maintenant en quête d'honneur.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Dreyfus_005.png",
+        "source_url": "https://7dsorigin.gg/characters/dreyfus/dreyfus-honorable-knight"
+      }
+    ],
+    "potentials": [],
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/dreyfus"
+  },
+  {
+    "id": "dreydrin",
+    "name": "Dreydrin",
+    "rarity": "5★",
+    "element": "Earth",
+    "roles": [],
+    "stats": null,
+    "images": {
+      "portrait": "https://7dsorigin.gg/images/characters/slot_dreydrin_001.png"
+    },
+    "weapons": [
+      {
+        "name": "Shield",
+        "skills": [
+          {
+            "name": "Jardin de Vitalité",
+            "kind": "Adventure Skill",
+            "cooldown": null,
+            "description": ""
+          },
+          {
+            "name": "Détermination Forte",
+            "kind": "Passive",
+            "cooldown": null,
+            "description": ""
+          }
+        ],
+        "potentials": [
+          {
+            "tier": 1,
+            "text": "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%.",
+            "items": [
+              "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%."
+            ]
+          },
+          {
+            "tier": 2,
+            "text": "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 20% 2ème coup: 23% 3ème coup: 33% 4ème coup: 51% 5ème coup: 71%",
+            "items": [
+              "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 20% 2ème coup: 23% 3ème coup: 33% 4ème coup: 51% 5ème coup: 71%"
+            ]
+          },
+          {
+            "tier": 3,
+            "text": "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%.",
+            "items": [
+              "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%."
+            ]
+          },
+          {
+            "tier": 4,
+            "text": "Augmente les dégâts de l'Attaque Spéciale de 35% / 50% selon le niveau de charge.",
+            "items": [
+              "Augmente les dégâts de l'Attaque Spéciale de 35% / 50% selon le niveau de charge."
+            ]
+          },
+          {
+            "tier": 5,
+            "text": "Augmente légèrement la portée de la Compétence Normale.",
+            "items": [
+              "Augmente légèrement la portée de la Compétence Normale."
+            ]
+          },
+          {
+            "tier": 6,
+            "text": "Augmente la durée de l'Étourdissement de l'Attaque Spéciale de 3 sec.",
+            "items": [
+              "Augmente la durée de l'Étourdissement de l'Attaque Spéciale de 3 sec."
+            ]
+          },
+          {
+            "tier": 7,
+            "text": "Augmente la réduction de Défense du Passif de 100% et augmente sa durée de 5 sec.",
+            "items": [
+              "Augmente la réduction de Défense du Passif de 100% et augmente sa durée de 5 sec."
+            ]
+          },
+          {
+            "tier": 8,
+            "text": "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%.",
+            "items": [
+              "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%."
+            ]
+          },
+          {
+            "tier": 9,
+            "text": "Augmente les dégâts infligés avec le Mouvement Ultime de 50%.",
+            "items": [
+              "Augmente les dégâts infligés avec le Mouvement Ultime de 50%."
+            ]
+          },
+          {
+            "tier": 10,
+            "text": "Atterrir la Compétence d'Équipe inflige Étourdissement à l'ennemi pendant 6 sec.",
+            "items": [
+              "Atterrir la Compétence d'Équipe inflige Étourdissement à l'ennemi pendant 6 sec."
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Axe",
+        "skills": [
+          {
+            "name": "Attaquer un ennemi affecté par Pétrification, Gel, Étourdissement ou Paralysie diminue sa Défense de 10% pendant 5 sec.",
+            "kind": "Normal Attack",
+            "cooldown": null,
+            "description": "Attaque Normale Inflige des dégâts égaux à 142% de l'Attaque. 1er coup : 15% 2ème coup : 17% 3ème coup : 23% 4ème coup : 36% 5ème coup : 51% Attaque Spéciale Spécial Inflige des dégâts égaux à 108% / 154% de l'Attaque selon le niveau de charge. Atterrir une attaque chargée Étourdit l'ennemi pendant 5 sec."
+          },
+          {
+            "name": "Cri de Guerre",
+            "kind": "Normal Skill",
+            "cooldown": null,
+            "description": "Inflige des dégâts égaux à 163% de l'Attaque. Restaure la Jauge d'Équipe de 300 lors de l'attaque d'un ennemi affecté par Pétrification, Gel, Étourdissement ou Paralysie."
+          }
+        ],
+        "potentials": []
+      },
+      {
+        "name": "Rapier",
+        "skills": [
+          {
+            "name": "Uppercut de Hache",
+            "kind": "Tag Skill",
+            "cooldown": null,
+            "description": "Inflige des dégâts égaux à 83% de l'Attaque."
+          },
+          {
+            "name": "Cri du Géant",
+            "kind": "Ultimate Move",
+            "cooldown": null,
+            "description": "Inflige des dégâts égaux à 282% de l'Attaque. Augmente les dégâts infligés à un ennemi affecté par Pétrification, Gel, Étourdissement ou Paralysie de 30%."
+          }
+        ],
+        "potentials": []
+      }
+    ],
+    "costumes": [
+      {
+        "name": "Apprenti Chevalier Sacré Amical",
+        "description": "Un Beau Jour de Repos",
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/dreydrin/dreydrin-apprentice-holy-knight"
+      },
+      {
+        "name": "Un Beau Jour de Repos",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/dreydrin/dreydrin-nice-day-off"
+      },
+      {
+        "name": "Descendant de la Royauté",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/dreydrin/dreydrin-descendant-royalty"
+      },
+      {
+        "name": "Préparation Minutieuse",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/dreydrin/dreydrin-thorough-preparation"
+      },
+      {
+        "name": "Défense Solide",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/dreydrin/dreydrin-solid-defense"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Dreydrin en tant qu'apprenti chevalier sacré amical",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Dreydrin_001.png",
+        "source_url": "https://7dsorigin.gg/characters/dreydrin/dreydrin-apprentice-holy-knight"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Dredrin, Apprenti Chevalier Sacré de Liones. Dredrin ressemble de plus en plus à son père en grandissant.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Dreydrin_002.png",
+        "source_url": "https://7dsorigin.gg/characters/dreydrin/dreydrin-nice-day-off"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Dredrin, Apprenti Chevalier Sacré de Liones. Tout comme son père l'avait fait avant lui, Griamore a aidé son fils à choisir sa première armure.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Dreydrin_003.png",
+        "source_url": "https://7dsorigin.gg/characters/dreydrin/dreydrin-descendant-royalty"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Dredrin, Apprenti Chevalier Sacré de Liones. Chaque détail reflète une préparation minutieuse pour l'aventure.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Dreydrin_004.png",
+        "source_url": "https://7dsorigin.gg/characters/dreydrin/dreydrin-thorough-preparation"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Dredrin, Apprenti Chevalier Sacré de Liones. L'armure est conçue pour quelqu'un qui privilégie la défense avant tout.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Dreydrin_005.png",
+        "source_url": "https://7dsorigin.gg/characters/dreydrin/dreydrin-solid-defense"
+      }
+    ],
+    "potentials": [],
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/dreydrin"
+  },
+  {
+    "id": "bug",
+    "name": "Bug",
+    "rarity": "5★",
+    "element": "Darkness",
+    "roles": [],
+    "stats": null,
+    "images": {
+      "portrait": "https://7dsorigin.gg/images/characters/slot_bug_001.png"
+    },
+    "weapons": [
+      {
+        "name": "Dual Swords",
+        "skills": [
+          {
+            "name": "Rapetissement",
+            "kind": "Adventure Skill",
+            "cooldown": null,
+            "description": ""
+          },
+          {
+            "name": "Fauteur de Troubles",
+            "kind": "Passive",
+            "cooldown": null,
+            "description": ""
+          },
+          {
+            "name": "Augmente les dégâts infligés aux ennemis avec Décharge des Ténèbres activée de 30%.",
+            "kind": "Normal Attack",
+            "cooldown": null,
+            "description": "Attaque Normale"
+          },
+          {
+            "name": "Inflige des dégâts égaux à 129% de l'Attaque. 1er coup : 19% 2ème coup : 21% 3ème coup : 33% 4ème coup : 56%",
+            "kind": "Special Attack",
+            "cooldown": null,
+            "description": "Spécial Inflige des dégâts égaux à 106% / 166% de l'Attaque selon le niveau de charge. Inflige des dégâts égaux à 60% de l'Attaque lorsque surchargé. Atterrir l'attaque au bon moment résulte en un Coup Critique."
+          },
+          {
+            "name": "Saccage Sombre",
+            "kind": "Normal Skill",
+            "cooldown": null,
+            "description": "Inflige des dégâts égaux à 219% de l'Attaque à l'ennemi et les tire vers le centre."
+          },
+          {
+            "name": "Tranche de Hache Sombre",
+            "kind": "Tag Skill",
+            "cooldown": null,
+            "description": "Inflige des dégâts égaux à 105% de l'Attaque."
+          },
+          {
+            "name": "Essaim de Mort",
+            "kind": "Ultimate Move",
+            "cooldown": null,
+            "description": "Augmente l'Attaque des Ténèbres du héros de 30% pendant 20 sec, puis inflige des dégâts égaux à 307% de l'Attaque."
+          }
+        ],
+        "potentials": [
+          {
+            "tier": 1,
+            "text": "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%.",
+            "items": [
+              "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%."
+            ]
+          },
+          {
+            "tier": 2,
+            "text": "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 27% 2ème coup: 29% 3ème coup: 46% 4ème coup: 78%",
+            "items": [
+              "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 27% 2ème coup: 29% 3ème coup: 46% 4ème coup: 78%"
+            ]
+          },
+          {
+            "tier": 3,
+            "text": "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%.",
+            "items": [
+              "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%."
+            ]
+          },
+          {
+            "tier": 4,
+            "text": "Augmente les dégâts infligés avec l'Attaque Spéciale de 50%.",
+            "items": [
+              "Augmente les dégâts infligés avec l'Attaque Spéciale de 50%."
+            ]
+          },
+          {
+            "tier": 5,
+            "text": "Augmente légèrement la portée de la Compétence Normale. Inflige en plus des dégâts égaux à 20% de l'Attaque chaque fois que l'attaque touche des cibles dans la zone centrale.",
+            "items": [
+              "Augmente légèrement la portée de la Compétence Normale. Inflige en plus des dégâts égaux à 20% de l'Attaque chaque fois que l'attaque touche des cibles dans la zone centrale."
+            ]
+          },
+          {
+            "tier": 6,
+            "text": "Augmente les dégâts infligés avec la Compétence Normale de 60%.",
+            "items": [
+              "Augmente les dégâts infligés avec la Compétence Normale de 60%."
+            ]
+          },
+          {
+            "tier": 7,
+            "text": "Augmente les dégâts infligés de 10% chaque fois que le Mouvement Ultime touche le même ennemi.",
+            "items": [
+              "Augmente les dégâts infligés de 10% chaque fois que le Mouvement Ultime touche le même ennemi."
+            ]
+          },
+          {
+            "tier": 8,
+            "text": "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%.",
+            "items": [
+              "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%."
+            ]
+          },
+          {
+            "tier": 9,
+            "text": "Augmente les dégâts infligés avec le Mouvement Ultime de 50%.",
+            "items": [
+              "Augmente les dégâts infligés avec le Mouvement Ultime de 50%."
+            ]
+          },
+          {
+            "tier": 10,
+            "text": "Gagne l'Immunité aux Réactions pendant le chargement de l'Attaque Spéciale. Atterrir l'attaque au bon moment augmente les dégâts infligés de 75%.",
+            "items": [
+              "Gagne l'Immunité aux Réactions pendant le chargement de l'Attaque Spéciale. Atterrir l'attaque au bon moment augmente les dégâts infligés de 75%."
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Axe",
+        "skills": [],
+        "potentials": []
+      },
+      {
+        "name": "Book",
+        "skills": [],
+        "potentials": []
+      }
+    ],
+    "costumes": [
+      {
+        "name": "Démon Timide",
+        "description": "Marche de l'Ombre",
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/bug/bug-shy-demon"
+      },
+      {
+        "name": "Sortie du Démon",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/bug/bug-demon-outing"
+      },
+      {
+        "name": "Marche de l'Ombre",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/bug/bug-shadow-walk"
+      },
+      {
+        "name": "Discrétion du Démon",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/bug/bug-demon-stealth"
+      },
+      {
+        "name": "Instinct Aiguisé",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/bug/bug-keen-instinct"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Bug en tant que démon timide",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Bug_001.png",
+        "source_url": "https://7dsorigin.gg/characters/bug/bug-shy-demon"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Bug le Démon Secret. Reste à savoir si ce style élégant passera dans le monde humain.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Bug_002.png",
+        "source_url": "https://7dsorigin.gg/characters/bug/bug-demon-outing"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Bug le Démon Secret. Les couleurs sombres rappellent les ombres dans lesquelles il aime se cacher.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Bug_003.png",
+        "source_url": "https://7dsorigin.gg/characters/bug/bug-shadow-walk"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Bug le Démon Secret. Une tenue d'aventurier naturelle conçue pour se fondre autant que possible.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Bug_004.png",
+        "source_url": "https://7dsorigin.gg/characters/bug/bug-demon-stealth"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Bug le Démon Secret. Une armure robuste qui offre à la fois mobilité et protection.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Bug_005.png",
+        "source_url": "https://7dsorigin.gg/characters/bug/bug-keen-instinct"
+      }
+    ],
+    "potentials": [],
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/bug"
+  },
+  {
+    "id": "slader",
+    "name": "Slader",
+    "rarity": "5★",
+    "element": "Fire",
+    "roles": [],
+    "stats": null,
+    "images": {
+      "portrait": "https://7dsorigin.gg/images/characters/slot_slader_001.png"
+    },
+    "weapons": [
+      {
+        "name": "Greatsword",
+        "skills": [
+          {
+            "name": "Effacer la Présence",
+            "kind": "Adventure Skill",
+            "cooldown": null,
+            "description": ""
+          },
+          {
+            "name": "Masque Rugissant",
+            "kind": "Passive",
+            "cooldown": null,
+            "description": "Augmente la Brisure de Défense du héros de 10% et a 15% de chances de réinitialiser le temps de recharge de l'Attaque Spéciale lors de l'attaque d'un ennemi qui Saigne. Attaque Normale Attaque Normale"
+          }
+        ],
+        "potentials": [
+          {
+            "tier": 1,
+            "text": "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%.",
+            "items": [
+              "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%."
+            ]
+          },
+          {
+            "tier": 2,
+            "text": "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 25% 2ème coup: 31% 3ème coup: 51%",
+            "items": [
+              "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 25% 2ème coup: 31% 3ème coup: 51%"
+            ]
+          },
+          {
+            "tier": 3,
+            "text": "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%.",
+            "items": [
+              "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%."
+            ]
+          },
+          {
+            "tier": 4,
+            "text": "Augmente les dégâts infligés avec l'Attaque Spéciale de 35% / 50%.",
+            "items": [
+              "Augmente les dégâts infligés avec l'Attaque Spéciale de 35% / 50%."
+            ]
+          },
+          {
+            "tier": 5,
+            "text": "Inflige en plus des dégâts égaux à 55% de l'Attaque lors de l'utilisation de la Compétence Normale.",
+            "items": [
+              "Inflige en plus des dégâts égaux à 55% de l'Attaque lors de l'utilisation de la Compétence Normale."
+            ]
+          },
+          {
+            "tier": 6,
+            "text": "Augmente les dégâts infligés avec la Compétence Normale de 60%.",
+            "items": [
+              "Augmente les dégâts infligés avec la Compétence Normale de 60%."
+            ]
+          },
+          {
+            "tier": 7,
+            "text": "Atterrir la Compétence d'Équipe inflige Saignement pendant 20 sec.",
+            "items": [
+              "Atterrir la Compétence d'Équipe inflige Saignement pendant 20 sec."
+            ]
+          },
+          {
+            "tier": 8,
+            "text": "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%.",
+            "items": [
+              "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%."
+            ]
+          },
+          {
+            "tier": 9,
+            "text": "Augmente les dégâts infligés avec le Mouvement Ultime de 50%.",
+            "items": [
+              "Augmente les dégâts infligés avec le Mouvement Ultime de 50%."
+            ]
+          },
+          {
+            "tier": 10,
+            "text": "Augmente les dégâts infligés avec la dernière frappe du Mouvement Ultime de 50%.",
+            "items": [
+              "Augmente les dégâts infligés avec la dernière frappe du Mouvement Ultime de 50%."
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Axe",
+        "skills": [
+          {
+            "name": "Inflige des dégâts égaux à 76% de l'Attaque. 1er coup : 18% 2ème coup : 22% 3ème coup : 36%",
+            "kind": "Special Attack",
+            "cooldown": null,
+            "description": "Spécial Inflige des dégâts égaux à 77% / 141% de l'Attaque selon le niveau de charge. Augmente les dégâts infligés aux ennemis qui Saignent de 30%. Les attaques chargées infligent Saignement pendant 20 sec. ※ Saignement : Inflige des dégâts de Vent égaux à 10% des dégâts infligés toutes les 1 sec. Diminue l'Efficacité de Soin de 20%. Diminue en plus l'Efficacité de Soin de 6% lors d'un Coup Critique. (Max : 10 fois)"
+          },
+          {
+            "name": "Charge de Hache",
+            "kind": "Normal Skill",
+            "cooldown": null,
+            "description": "Inflige des dégâts égaux à 183% de l'Attaque et accorde au héros Saignement Amélioré pendant 20 sec. ※ Saignement Amélioré : Augmente les dégâts de Saignement infligés par le héros de 20%."
+          }
+        ],
+        "potentials": []
+      },
+      {
+        "name": "Cudgel",
+        "skills": [
+          {
+            "name": "Tranche de Hache",
+            "kind": "Tag Skill",
+            "cooldown": null,
+            "description": "Inflige des dégâts égaux à 96% de l'Attaque."
+          },
+          {
+            "name": "Arc Sanglant",
+            "kind": "Ultimate Move",
+            "cooldown": null,
+            "description": "Inflige des dégâts égaux à 288% de l'Attaque. Résulte en un Coup Critique et inflige Blessure Profonde pendant 15 sec si l'ennemi Saigne. ※ Blessure Profonde : Augmente les dégâts reçus de 10%."
+          }
+        ],
+        "potentials": []
+      }
+    ],
+    "costumes": [
+      {
+        "name": "Chevalier Sacré Vétéran",
+        "description": "Épée de l'Ancien Roi",
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/slader/slader-veteran-holy-knight"
+      },
+      {
+        "name": "Ami Loyal",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/slader/slader-loyal-friend"
+      },
+      {
+        "name": "Épée de l'Ancien Roi",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/slader/slader-sword-old-king"
+      },
+      {
+        "name": "Mission Secrète",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/slader/slader-secret-mission"
+      },
+      {
+        "name": "Préparation Totale",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/slader/slader-total-readiness"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Slader en tant que chevalier sacré vétéran",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Slader_001.png",
+        "source_url": "https://7dsorigin.gg/characters/slader/slader-veteran-holy-knight"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Slater, vieil ami du Roi Bartra. Cette tenue formelle est parfaite pour quand il doit se tenir à côté du roi.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Slader_002.png",
+        "source_url": "https://7dsorigin.gg/characters/slader/slader-loyal-friend"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Slater, vieil ami du Roi Bartra. Sa discipline de chef des troupes d'élite du royaume n'a disparu nulle part.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Slader_003.png",
+        "source_url": "https://7dsorigin.gg/characters/slader/slader-sword-old-king"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Slater, vieil ami du Roi Bartra. Porté lors de missions secrètes.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Slader_004.png",
+        "source_url": "https://7dsorigin.gg/characters/slader/slader-secret-mission"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Slater, vieil ami du Roi Bartra. Cette armure garantit qu'il peut combattre à pleine puissance.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Slader_005.png",
+        "source_url": "https://7dsorigin.gg/characters/slader/slader-total-readiness"
+      }
+    ],
+    "potentials": [],
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/slader"
+  },
+  {
+    "id": "manny",
+    "name": "Manny",
+    "rarity": "5★",
+    "element": "Holy",
+    "roles": [],
+    "stats": null,
+    "images": {
+      "portrait": "https://7dsorigin.gg/images/characters/slot_manny_001.png"
+    },
+    "weapons": [
+      {
+        "name": "Staff",
+        "skills": [
+          {
+            "name": "Résonance de la Lumière des Étoiles",
+            "kind": "Adventure Skill",
+            "cooldown": null,
+            "description": ""
+          },
+          {
+            "name": "Prière de la Prêtresse",
+            "kind": "Passive",
+            "cooldown": null,
+            "description": ""
+          },
+          {
+            "name": "Attaquer un ennemi avec Décharge de Froid activée augmente le Taux de Critique de 20% et les Dégâts Critiques de 50%.",
+            "kind": "Normal Attack",
+            "cooldown": null,
+            "description": "Attaque Normale"
+          },
+          {
+            "name": "Inflige des dégâts égaux à 126% de l'Attaque. 1er coup : 19% 2ème coup : 20% 3ème coup : 33% 4ème coup : 54%",
+            "kind": "Special Attack",
+            "cooldown": null,
+            "description": "Spécial Inflige des dégâts égaux à 128% de l'Attaque."
+          },
+          {
+            "name": "Libération du Givre",
+            "kind": "Normal Skill",
+            "cooldown": null,
+            "description": "Inflige des dégâts égaux à 199% de l'Attaque, puis gagne Givre pendant 20 sec. ※ Givre : Ajoute des explosions d'épée aux Attaques Normales, infligeant en plus des dégâts égaux à 30% de l'Attaque. Atterrir 4 Attaques Normales augmente les dégâts de Frappe Givrée de 100%. ※ Frappe Givrée : Améliore la Compétence Normale pour permettre l'utilisation de Frappe Givrée. L'utilisation de Frappe Givrée inflige des dégâts égaux à 200% de l'Attaque et retire l'effet Givre."
+          },
+          {
+            "name": "Lame Givrée",
+            "kind": "Tag Skill",
+            "cooldown": null,
+            "description": "Inflige des dégâts égaux à 104% de l'Attaque."
+          },
+          {
+            "name": "Barrière de la Prêtresse",
+            "kind": "Ultimate Move",
+            "cooldown": null,
+            "description": "Inflige des dégâts égaux à 331% de l'Attaque, puis Gèle les ennemis à portée pendant 6 sec. Si le héros est à portée, l'Attaque de Froid augmente de 15%. ※ Gel : Neutralisé. Lorsque touché par une compétence, inflige 20% des dégâts reçus et retire Gel."
+          }
+        ],
+        "potentials": [
+          {
+            "tier": 1,
+            "text": "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%.",
+            "items": [
+              "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%."
+            ]
+          },
+          {
+            "tier": 2,
+            "text": "Augmente les dégâts infligés avec l'Attaque Spéciale de 40%.",
+            "items": [
+              "Augmente les dégâts infligés avec l'Attaque Spéciale de 40%."
+            ]
+          },
+          {
+            "tier": 3,
+            "text": "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%.",
+            "items": [
+              "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%."
+            ]
+          },
+          {
+            "tier": 4,
+            "text": "Augmente les dégâts infligés avec la Compétence d'Équipe de 60%.",
+            "items": [
+              "Augmente les dégâts infligés avec la Compétence d'Équipe de 60%."
+            ]
+          },
+          {
+            "tier": 5,
+            "text": "Augmente légèrement la portée du Mouvement Ultime et augmente sa durée de 10 sec. Augmente les dégâts de Froid des alliés à portée de 15%.",
+            "items": [
+              "Augmente légèrement la portée du Mouvement Ultime et augmente sa durée de 10 sec. Augmente les dégâts de Froid des alliés à portée de 15%."
+            ]
+          },
+          {
+            "tier": 6,
+            "text": "Augmente les dégâts infligés avec les Attaques Normales de 110%. 1er coup: 40% 2ème coup: 42% 3ème coup: 69% 4ème coup: 113%",
+            "items": [
+              "Augmente les dégâts infligés avec les Attaques Normales de 110%. 1er coup: 40% 2ème coup: 42% 3ème coup: 69% 4ème coup: 113%"
+            ]
+          },
+          {
+            "tier": 7,
+            "text": "Les explosions d'épée de Frappe Givrée explosent en disparaissant, infligeant des dégâts supplémentaires égaux à 50% de l'Attaque.",
+            "items": [
+              "Les explosions d'épée de Frappe Givrée explosent en disparaissant, infligeant des dégâts supplémentaires égaux à 50% de l'Attaque."
+            ]
+          },
+          {
+            "tier": 8,
+            "text": "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%.",
+            "items": [
+              "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%."
+            ]
+          },
+          {
+            "tier": 9,
+            "text": "Augmente les dégâts infligés avec le Mouvement Ultime de 50%.",
+            "items": [
+              "Augmente les dégâts infligés avec le Mouvement Ultime de 50%."
+            ]
+          },
+          {
+            "tier": 10,
+            "text": "Augmente la durée de Givre de 10 sec. Utiliser une Attaque Normale pendant que Givre est actif inflige Refroidissement à l'ennemi et le héros gagne l'effet Cristallisation pendant 15 sec. Utiliser Frappe Givrée sur un ennemi Refroidi inflige Gel pendant 6 sec. ※ Cristallisation : Augmente l'Attaque de Froid de 3% (Max : 60%).",
+            "items": [
+              "Augmente la durée de Givre de 10 sec. Utiliser une Attaque Normale pendant que Givre est actif inflige Refroidissement à l'ennemi et le héros gagne l'effet Cristallisation pendant 15 sec. Utiliser Frappe Givrée sur un ennemi Refroidi inflige Gel pendant 6 sec. ※ Cristallisation : Augmente l'Attaque de Froid de 3% (Max : 60%)."
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Dual Swords",
+        "skills": [],
+        "potentials": []
+      },
+      {
+        "name": "Longsword",
+        "skills": [],
+        "potentials": []
+      }
+    ],
+    "costumes": [
+      {
+        "name": "Prêtresse Exaltée",
+        "description": "Prestige de l'Archi-Prêtresse",
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/manny/manny-exalted-priestess"
+      },
+      {
+        "name": "Cœur de Prière",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/manny/manny-heart-prayer"
+      },
+      {
+        "name": "Prestige de l'Archi-Prêtresse",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/manny/manny-arch-priestess-prestige"
+      },
+      {
+        "name": "Exploration de l'Inconnu",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/manny/manny-exploration-unknown"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Manny en tant que prêtresse exaltée",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Manny_001.png",
+        "source_url": "https://7dsorigin.gg/characters/manny/manny-exalted-priestess"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Mannie, Grande Prêtresse Draco. Une robe cérémonielle bien adaptée pour de longues heures de prière et de rituel.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Manny_002.png",
+        "source_url": "https://7dsorigin.gg/characters/manny/manny-heart-prayer"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Mannie, Grande Prêtresse Draco. Il y a beaucoup de prêtresses, mais seule Mannie portait ceci pour les rites sacrés.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Manny_003.png",
+        "source_url": "https://7dsorigin.gg/characters/manny/manny-arch-priestess-prestige"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Mannie, Grande Prêtresse Draco. Il n'y a pas de meilleure tenue pour la recherche ou la cueillette.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Manny_004.png",
+        "source_url": "https://7dsorigin.gg/characters/manny/manny-exploration-unknown"
+      }
+    ],
+    "potentials": [],
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/manny"
+  },
+  {
+    "id": "jericho",
+    "name": "Jericho",
+    "rarity": "5★",
+    "element": "Cold",
+    "roles": [],
+    "stats": null,
+    "images": {
+      "portrait": "https://7dsorigin.gg/images/characters/slot_jericho_001.png"
+    },
+    "weapons": [
+      {
+        "name": "Dual Swords",
+        "skills": [
+          {
+            "name": "Champ de Glace",
+            "kind": "Adventure Skill",
+            "cooldown": null,
+            "description": ""
+          },
+          {
+            "name": "Glacier",
+            "kind": "Passive",
+            "cooldown": null,
+            "description": "L'activation de Décharge de Froid inflige Gel à l'ennemi pendant 6 sec. ※ Gel : Neutralisé. Lorsque touché par une compétence, inflige 20% des dégâts reçus et retire Gel. Attaque Normale Attaque Normale"
+          }
+        ],
+        "potentials": [
+          {
+            "tier": 1,
+            "text": "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%.",
+            "items": [
+              "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%."
+            ]
+          },
+          {
+            "tier": 2,
+            "text": "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 22% 2ème coup: 24% 3ème coup: 39% 4ème coup: 65%",
+            "items": [
+              "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 22% 2ème coup: 24% 3ème coup: 39% 4ème coup: 65%"
+            ]
+          },
+          {
+            "tier": 3,
+            "text": "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%.",
+            "items": [
+              "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%."
+            ]
+          },
+          {
+            "tier": 4,
+            "text": "Augmente les dégâts infligés avec l'Attaque Spéciale de 50%.",
+            "items": [
+              "Augmente les dégâts infligés avec l'Attaque Spéciale de 50%."
+            ]
+          },
+          {
+            "tier": 5,
+            "text": "Augmente les dégâts supplémentaires des Attaques Normales améliorées par Sabre Gelé de 100%.",
+            "items": [
+              "Augmente les dégâts supplémentaires des Attaques Normales améliorées par Sabre Gelé de 100%."
+            ]
+          },
+          {
+            "tier": 6,
+            "text": "Augmente la durée de Sabre Gelé de 50% et l'augmentation de la Jauge de Décharge de 100%.",
+            "items": [
+              "Augmente la durée de Sabre Gelé de 50% et l'augmentation de la Jauge de Décharge de 100%."
+            ]
+          },
+          {
+            "tier": 7,
+            "text": "Le Mouvement Ultime crée des images résiduelles supplémentaires, chacune infligeant des dégâts égaux à 55% de l'Attaque et augmentant la Jauge de Décharge de 200.",
+            "items": [
+              "Le Mouvement Ultime crée des images résiduelles supplémentaires, chacune infligeant des dégâts égaux à 55% de l'Attaque et augmentant la Jauge de Décharge de 200."
+            ]
+          },
+          {
+            "tier": 8,
+            "text": "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%.",
+            "items": [
+              "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%."
+            ]
+          },
+          {
+            "tier": 9,
+            "text": "Augmente les dégâts infligés avec le Mouvement Ultime de 50%.",
+            "items": [
+              "Augmente les dégâts infligés avec le Mouvement Ultime de 50%."
+            ]
+          },
+          {
+            "tier": 10,
+            "text": "Ajoute 2 projectile(s) au Mouvement Ultime, infligeant des dégâts égaux à 320% de l'Attaque.",
+            "items": [
+              "Ajoute 2 projectile(s) au Mouvement Ultime, infligeant des dégâts égaux à 320% de l'Attaque."
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Lance",
+        "skills": [
+          {
+            "name": "Inflige des dégâts égaux à 107% de l'Attaque. 1er coup : 16% 2ème coup : 17% 3ème coup : 28% 4ème coup : 46%",
+            "kind": "Special Attack",
+            "cooldown": null,
+            "description": "Spécial Inflige des dégâts égaux à 111% de l'Attaque. Inflige Gel à la cible pendant 6 sec si le héros a un effet Sabre Gelé lors de la dernière frappe. ※ Gel : Neutralisé. Lorsque touché par une compétence, inflige 20% des dégâts reçus et retire Gel."
+          },
+          {
+            "name": "Enchantement d'Arme",
+            "kind": "Normal Skill",
+            "cooldown": null,
+            "description": "Gagne Sabre Gelé pendant 15 sec. ※ Sabre Gelé : Augmente le Taux de Critique de 30%. L'utilisation d'une Attaque Normale téléporte le héros derrière l'ennemi pour infliger des dégâts supplémentaires égaux à 50% de l'Attaque et augmenter sa Jauge de Décharge de 30."
+          }
+        ],
+        "potentials": []
+      },
+      {
+        "name": "Rapier",
+        "skills": [
+          {
+            "name": "Tranche Gelée",
+            "kind": "Tag Skill",
+            "cooldown": null,
+            "description": "Inflige des dégâts égaux à 87% de l'Attaque. Inflige Gel à la cible pendant 6 sec si elle a Décharge de Froid activée. ※ Gel : Neutralisé. Lorsque touché par une compétence, inflige 20% des dégâts reçus et retire Gel."
+          },
+          {
+            "name": "Aiguille de Glace",
+            "kind": "Ultimate Move",
+            "cooldown": null,
+            "description": "Inflige des dégâts égaux à 262% de l'Attaque et diminue la Résistance au Froid de 20%. Si le héros a un effet Sabre Gelé, les Dégâts Critiques du Mouvement Ultime augmentent de 60%."
+          }
+        ],
+        "potentials": []
+      }
+    ],
+    "costumes": [
+      {
+        "name": "Chevalière Sacrée en Fuite",
+        "description": "Moment de Détente",
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/jericho/jericho-runaway-holy-knight"
+      },
+      {
+        "name": "Moment de Détente",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/jericho/jericho-leisurely-moment"
+      },
+      {
+        "name": "Chevalière Sacrée avec Visière en Étoile",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/jericho/jericho-star-shaped-visor"
+      },
+      {
+        "name": "Voyageuse Secrète",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/jericho/jericho-secretive-traveler"
+      },
+      {
+        "name": "Trace de Souvenirs",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/jericho/jericho-trace-memories"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Jericho en tant que chevalière sacrée en fuite",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Jericho_001.png",
+        "source_url": "https://7dsorigin.gg/characters/jericho/jericho-runaway-holy-knight"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Jericho, Ancienne Chevalier Sacré de Liones. Même en temps de paix, elle ne peut pas se détendre complètement.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Jericho_002.png",
+        "source_url": "https://7dsorigin.gg/characters/jericho/jericho-leisurely-moment"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Jericho, Ancienne Chevalier Sacré de Liones. L'honneur et la fierté d'un chevalier ne sont désormais qu'une contrainte.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Jericho_003.png",
+        "source_url": "https://7dsorigin.gg/characters/jericho/jericho-star-shaped-visor"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Jericho, Ancienne Chevalier Sacré de Liones. Une tenue légère qui lui permettait de parcourir Britannia sans révéler son identité.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Jericho_004.png",
+        "source_url": "https://7dsorigin.gg/characters/jericho/jericho-secretive-traveler"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Jericho, Ancienne Chevalier Sacré de Liones. Modélé d'après l'armure qu'elle portait autrefois.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Jericho_005.png",
+        "source_url": "https://7dsorigin.gg/characters/jericho/jericho-trace-memories"
+      }
+    ],
+    "potentials": [],
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/jericho"
+  },
+  {
+    "id": "guila",
+    "name": "Guila",
+    "rarity": "5★",
+    "element": "Fire",
+    "roles": [],
+    "stats": null,
+    "images": {
+      "portrait": "https://7dsorigin.gg/images/characters/slot_guila_001.png"
+    },
+    "weapons": [
+      {
+        "name": "Lance",
+        "skills": [
+          {
+            "name": "Charge Flamboyante",
+            "kind": "Adventure Skill",
+            "cooldown": null,
+            "description": ""
+          },
+          {
+            "name": "Diable Ardent",
+            "kind": "Passive",
+            "cooldown": null,
+            "description": ""
+          },
+          {
+            "name": "Augmente l'Attaque de Feu de tous les héros alliés de 25% si une barrière que le héros s'est appliquée est active.",
+            "kind": "Normal Attack",
+            "cooldown": null,
+            "description": "Attaque Normale"
+          },
+          {
+            "name": "Inflige des dégâts égaux à 113% de l'Attaque. 1er coup : 17% 2ème coup : 18% 3ème coup : 29% 4ème coup : 49%",
+            "kind": "Special Attack",
+            "cooldown": null,
+            "description": "Spécial Devient immunisée aux Réactions et Provoque les ennemis proches tant que la posture est maintenue. Reflète 30% des dégâts reçus lorsque touché tant que la posture est maintenue. Maintient la posture jusqu'à 10 sec. Lorsque touché 5 fois tant que la posture est maintenue, la posture est retirée, infligeant des dégâts égaux à 102% de l'Attaque."
+          },
+          {
+            "name": "Mines Meurtrières",
+            "kind": "Normal Skill",
+            "cooldown": null,
+            "description": "Inflige des dégâts égaux à 174% de l'Attaque. Accorde à tous les héros alliés des barrières égales à 30% des PV Max pendant 20 sec lorsque l'attaque touche."
+          },
+          {
+            "name": "Chute de Bouclier",
+            "kind": "Tag Skill",
+            "cooldown": null,
+            "description": "Inflige des dégâts égaux à 93% de l'Attaque."
+          },
+          {
+            "name": "Détonation Brillante",
+            "kind": "Ultimate Move",
+            "cooldown": null,
+            "description": "Inflige des dégâts égaux à 287% de l'Attaque. Augmente les dégâts de Feu reçus par les ennemis à portée de 20%."
+          }
+        ],
+        "potentials": [
+          {
+            "tier": 1,
+            "text": "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%.",
+            "items": [
+              "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%."
+            ]
+          },
+          {
+            "tier": 2,
+            "text": "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 24% 2ème coup: 26% 3ème coup: 41% 4ème coup: 68%",
+            "items": [
+              "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 24% 2ème coup: 26% 3ème coup: 41% 4ème coup: 68%"
+            ]
+          },
+          {
+            "tier": 3,
+            "text": "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%.",
+            "items": [
+              "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%."
+            ]
+          },
+          {
+            "tier": 4,
+            "text": "Augmente les dégâts infligés avec l'Attaque Spéciale de 50%.",
+            "items": [
+              "Augmente les dégâts infligés avec l'Attaque Spéciale de 50%."
+            ]
+          },
+          {
+            "tier": 5,
+            "text": "Augmente légèrement la portée du Mouvement Ultime.",
+            "items": [
+              "Augmente légèrement la portée du Mouvement Ultime."
+            ]
+          },
+          {
+            "tier": 6,
+            "text": "Augmente la barrière de la Compétence Normale de 50% et augmente sa durée de 10 sec.",
+            "items": [
+              "Augmente la barrière de la Compétence Normale de 50% et augmente sa durée de 10 sec."
+            ]
+          },
+          {
+            "tier": 7,
+            "text": "Inflige des dégâts égaux à 35% de l'Attaque aux ennemis proches toutes les 1 sec lors de l'utilisation de l'Attaque Spéciale tant que la posture est maintenue.",
+            "items": [
+              "Inflige des dégâts égaux à 35% de l'Attaque aux ennemis proches toutes les 1 sec lors de l'utilisation de l'Attaque Spéciale tant que la posture est maintenue."
+            ]
+          },
+          {
+            "tier": 8,
+            "text": "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%.",
+            "items": [
+              "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%."
+            ]
+          },
+          {
+            "tier": 9,
+            "text": "Augmente les dégâts infligés avec le Mouvement Ultime de 50%.",
+            "items": [
+              "Augmente les dégâts infligés avec le Mouvement Ultime de 50%."
+            ]
+          },
+          {
+            "tier": 10,
+            "text": "Change les barrières de la Compétence Normale en Barrières de Feu. ※ Barrière de Feu : Inflige des dégâts égaux à 15% de l'Attaque aux ennemis proches toutes les 0,5 sec.",
+            "items": [
+              "Change les barrières de la Compétence Normale en Barrières de Feu. ※ Barrière de Feu : Inflige des dégâts égaux à 15% de l'Attaque aux ennemis proches toutes les 0,5 sec."
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Shield",
+        "skills": [],
+        "potentials": []
+      },
+      {
+        "name": "Rapier",
+        "skills": [],
+        "potentials": []
+      }
+    ],
+    "costumes": [
+      {
+        "name": "L'Unique et Seul Chevalier Sacré",
+        "description": "Temps en Famille",
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/guila/guila-holy-knight"
+      },
+      {
+        "name": "Temps en Famille",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/guila/guila-family-time"
+      },
+      {
+        "name": "Chevalier Sacré des Explosions",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/guila/guila-holy-knight-explosions"
+      },
+      {
+        "name": "Pas Légers",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/guila/guila-light-footsteps"
+      },
+      {
+        "name": "Traînée de Flamme Écarlate",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/guila/guila-crimson-flame-trail"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Guila en tant que l'unique et seul chevalier sacré",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Guila_001.png",
+        "source_url": "https://7dsorigin.gg/characters/guila/guila-holy-knight"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Guila, Vice-Grand Maître de Liones. Même les meilleurs des meilleurs ont besoin de se détendre de temps en temps.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Guila_002.png",
+        "source_url": "https://7dsorigin.gg/characters/guila/guila-family-time"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Guila, Vice-Grand Maître de Liones. Ceci a été fabriqué avec amour par un apprenti forgeron.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Guila_003.png",
+        "source_url": "https://7dsorigin.gg/characters/guila/guila-holy-knight-explosions"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Guila, Vice-Grand Maître de Liones. Une tenue pratique axée sur la mobilité, pas la formalité.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Guila_004.png",
+        "source_url": "https://7dsorigin.gg/characters/guila/guila-light-footsteps"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Guila, Vice-Grand Maître de Liones. Armure inspirée par les explosions rouges qu'elle commande.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Guila_005.png",
+        "source_url": "https://7dsorigin.gg/characters/guila/guila-crimson-flame-trail"
+      }
+    ],
+    "potentials": [],
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/guila"
+  },
+  {
+    "id": "elaine",
+    "name": "Elaine",
+    "rarity": "5★",
+    "element": "Wind",
+    "roles": [],
+    "stats": null,
+    "images": {
+      "portrait": "https://7dsorigin.gg/images/characters/slot_elaine_001.png"
+    },
+    "weapons": [
+      {
+        "name": "Book",
+        "skills": [
+          {
+            "name": "Brise Douce",
+            "kind": "Adventure Skill",
+            "cooldown": null,
+            "description": ""
+          },
+          {
+            "name": "Protection de la Sainte",
+            "kind": "Passive",
+            "cooldown": null,
+            "description": "L'activation de Décharge de Terre inflige Pétrification à l'ennemi pendant 6 sec. Augmente les dégâts infligés aux ennemis Pétrifiés de tous les héros alliés de 100% lorsque le héros est dans l'équipe. ※ Pétrification : Neutralisé. Augmente les dégâts Physiques et de Terre reçus de 50% et diminue les dégâts reçus des éléments autres que Physique et Terre de 75%. Attaque Normale Attaque Normale"
+          }
+        ],
+        "potentials": [
+          {
+            "tier": 1,
+            "text": "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%.",
+            "items": [
+              "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%."
+            ]
+          },
+          {
+            "tier": 2,
+            "text": "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 24% 2ème coup: 26% 3ème coup: 42% 4ème coup: 68%",
+            "items": [
+              "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 24% 2ème coup: 26% 3ème coup: 42% 4ème coup: 68%"
+            ]
+          },
+          {
+            "tier": 3,
+            "text": "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%.",
+            "items": [
+              "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%."
+            ]
+          },
+          {
+            "tier": 4,
+            "text": "Augmente la durée de la Marque de la Sainte de l'Attaque Spéciale de 10 sec.",
+            "items": [
+              "Augmente la durée de la Marque de la Sainte de l'Attaque Spéciale de 10 sec."
+            ]
+          },
+          {
+            "tier": 5,
+            "text": "Augmente les dégâts de Terre des alliés avec la Marque de la Sainte de 50%.",
+            "items": [
+              "Augmente les dégâts de Terre des alliés avec la Marque de la Sainte de 50%."
+            ]
+          },
+          {
+            "tier": 6,
+            "text": "Augmente la barrière de la Compétence Normale de 66%.",
+            "items": [
+              "Augmente la barrière de la Compétence Normale de 66%."
+            ]
+          },
+          {
+            "tier": 7,
+            "text": "Change l'Attaque Spéciale en une compétence qui peut être utilisée 2 fois et augmente légèrement sa portée.",
+            "items": [
+              "Change l'Attaque Spéciale en une compétence qui peut être utilisée 2 fois et augmente légèrement sa portée."
+            ]
+          },
+          {
+            "tier": 8,
+            "text": "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%.",
+            "items": [
+              "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%."
+            ]
+          },
+          {
+            "tier": 9,
+            "text": "Augmente les dégâts infligés avec le Mouvement Ultime de 50%.",
+            "items": [
+              "Augmente les dégâts infligés avec le Mouvement Ultime de 50%."
+            ]
+          },
+          {
+            "tier": 10,
+            "text": "Atterrir le Mouvement Ultime inflige également Pétrification aux ennemis sans Marque de la Sainte pendant 6 sec. Inflige Pétrification aux ennemis avec la Marque de la Sainte pendant 12 sec.",
+            "items": [
+              "Atterrir le Mouvement Ultime inflige également Pétrification aux ennemis sans Marque de la Sainte pendant 6 sec. Inflige Pétrification aux ennemis avec la Marque de la Sainte pendant 12 sec."
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Wand",
+        "skills": [
+          {
+            "name": "Inflige des dégâts égaux à 116% de l'Attaque. 1er coup : 18% 2ème coup : 19% 3ème coup : 30% 4ème coup : 49%",
+            "kind": "Special Attack",
+            "cooldown": null,
+            "description": "Spécial Applique la Marque de la Sainte aux alliés et ennemis proches pendant 20 sec. ※ Marque de la Sainte : Les effets diffèrent selon la cible. Alliés : Diminue les dégâts reçus de 50% tant qu'ils ont une barrière. Ennemis : Diminue la Résistance à Décharge de Terre de 30%."
+          },
+          {
+            "name": "Floraison du Gardien",
+            "kind": "Normal Skill",
+            "cooldown": null,
+            "description": "Accorde à tous les héros alliés des barrières égales à 300% de la Défense pendant 20 sec. Les dégâts reçus par les alliés avec des barrières diminuent de 20%."
+          }
+        ],
+        "potentials": []
+      },
+      {
+        "name": "Staff",
+        "skills": [
+          {
+            "name": "Sauveur de la Forêt",
+            "kind": "Tag Skill",
+            "cooldown": null,
+            "description": "Inflige des dégâts égaux à 86% de l'Attaque. Augmente en plus la Jauge de Décharge de 200 lors d'un Coup Critique."
+          },
+          {
+            "name": "Sceau de Poussière",
+            "kind": "Ultimate Move",
+            "cooldown": null,
+            "description": "Inflige des dégâts égaux à 268% de l'Attaque et Lie pendant 3 sec. Inflige Pétrification pendant 6 sec lors de l'attaque d'un ennemi affecté par la Marque de la Sainte. ※ Pétrification : Neutralisé. Augmente les dégâts Physiques et de Terre reçus de 50% et diminue les dégâts reçus des éléments autres que Physique et Terre de 75%."
+          }
+        ],
+        "potentials": []
+      }
+    ],
+    "costumes": [
+      {
+        "name": "Sainte Gardienne de la Fontaine de Jeunesse",
+        "description": "Employée Temporaire",
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/elaine/elaine-guardian-saint"
+      },
+      {
+        "name": "Employée Temporaire",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/elaine/elaine-temp-employee"
+      },
+      {
+        "name": "Lumière Directrice",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/elaine/elaine-guiding-light"
+      },
+      {
+        "name": "Sortie Joyeuse",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/elaine/elaine-cheerful-outing"
+      },
+      {
+        "name": "Dignité de la Sainte",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/elaine/elaine-saintess-dignity"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Elaine en tant que sainte gardienne de l'éternelle jeunesse",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Elaine_001.png",
+        "source_url": "https://7dsorigin.gg/characters/elaine/elaine-guardian-saint"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume d'Elaine du passé. L'uniforme officiel de <Ma Douce Gloutonnerie>.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Elaine_002.png",
+        "source_url": "https://7dsorigin.gg/characters/elaine/elaine-temp-employee"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume d'Elaine du passé. C'est une tenue formelle de Fée qui est légère comme une plume mais plus solide que le cuir.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Elaine_003.png",
+        "source_url": "https://7dsorigin.gg/characters/elaine/elaine-guiding-light"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume d'Elaine du passé. La tenue est légère et permet la mobilité, parfaite pour une sortie spontanée.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Elaine_004.png",
+        "source_url": "https://7dsorigin.gg/characters/elaine/elaine-cheerful-outing"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume d'Elaine du passé. Ce costume capture la dignité de la Sainte Gardienne de la Fontaine de Jeunesse.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Elaine_005.png",
+        "source_url": "https://7dsorigin.gg/characters/elaine/elaine-saintess-dignity"
+      }
+    ],
+    "potentials": [],
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/elaine"
+  },
+  {
+    "id": "drake",
+    "name": "Drake",
+    "rarity": "5★",
+    "element": "Thunder",
+    "roles": [],
+    "stats": null,
+    "images": {
+      "portrait": "https://7dsorigin.gg/images/characters/slot_Drake_001.png"
+    },
+    "weapons": [
+      {
+        "name": "Greatsword",
+        "skills": [
+          {
+            "name": "Détection de Trésor",
+            "kind": "Adventure Skill",
+            "cooldown": null,
+            "description": ""
+          },
+          {
+            "name": "Roi Dragon",
+            "kind": "Passive",
+            "cooldown": null,
+            "description": ""
+          },
+          {
+            "name": "Augmente l'Efficacité de Décharge de Foudre du héros de 30% tant que Pulsation est active.",
+            "kind": "Normal Attack",
+            "cooldown": null,
+            "description": "Attaque Normale"
+          },
+          {
+            "name": "Inflige des dégâts égaux à 100% de l'Attaque. 1er coup: 15% 2ème coup: 16% 3ème coup: 26% 4ème coup: 43%",
+            "kind": "Special Attack",
+            "cooldown": null,
+            "description": "Spécial Inflige des dégâts égaux à 106% de l'Attaque. Augmente en plus la Jauge de Décharge de 20 chaque fois que l'Attaque Spéciale atterrit 3 fois pendant que Pulsation est active."
+          },
+          {
+            "name": "Pulsation",
+            "kind": "Normal Skill",
+            "cooldown": null,
+            "description": "Accorde Pulsation à tous les héros alliés pendant 20 sec. ※ Pulsation: Inflige des dégâts égaux à 3% de l'Attaque aux ennemis proches toutes les 0,3 sec. Augmente en plus la Jauge de Décharge de 30 après 5 coups."
+          },
+          {
+            "name": "Tranche de Tonnerre",
+            "kind": "Tag Skill",
+            "cooldown": null,
+            "description": "Inflige des dégâts égaux à 88% de l'Attaque."
+          },
+          {
+            "name": "Lame Fantôme",
+            "kind": "Ultimate Move",
+            "cooldown": null,
+            "description": "Inflige des dégâts égaux à 314% de l'Attaque, puis diminue la Résistance à la Décharge Élémentaire de 30% pendant 20 sec."
+          }
+        ],
+        "potentials": [
+          {
+            "tier": 1,
+            "text": "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%.",
+            "items": [
+              "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%."
+            ]
+          },
+          {
+            "tier": 2,
+            "text": "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 21% 2ème coup: 23% 3ème coup: 36% 4ème coup: 61%",
+            "items": [
+              "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 21% 2ème coup: 23% 3ème coup: 36% 4ème coup: 61%"
+            ]
+          },
+          {
+            "tier": 3,
+            "text": "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%.",
+            "items": [
+              "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%."
+            ]
+          },
+          {
+            "tier": 4,
+            "text": "Augmente les dégâts infligés avec l'Attaque Spéciale de 50%.",
+            "items": [
+              "Augmente les dégâts infligés avec l'Attaque Spéciale de 50%."
+            ]
+          },
+          {
+            "tier": 5,
+            "text": "Augmente le nombre d'attaques du Mouvement Ultime de 4 et les dégâts infligés avec le Mouvement Ultime de 40%.",
+            "items": [
+              "Augmente le nombre d'attaques du Mouvement Ultime de 4 et les dégâts infligés avec le Mouvement Ultime de 40%."
+            ]
+          },
+          {
+            "tier": 6,
+            "text": "Augmente les dégâts infligés avec la Compétence Normale de 60%.",
+            "items": [
+              "Augmente les dégâts infligés avec la Compétence Normale de 60%."
+            ]
+          },
+          {
+            "tier": 7,
+            "text": "Augmente les dégâts infligés par l'Attaque Spéciale de 110% et la Jauge de Décharge de 100%.",
+            "items": [
+              "Augmente les dégâts infligés par l'Attaque Spéciale de 110% et la Jauge de Décharge de 100%."
+            ]
+          },
+          {
+            "tier": 8,
+            "text": "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%.",
+            "items": [
+              "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%."
+            ]
+          },
+          {
+            "tier": 9,
+            "text": "Augmente les dégâts infligés avec le Mouvement Ultime de 50%.",
+            "items": [
+              "Augmente les dégâts infligés avec le Mouvement Ultime de 50%."
+            ]
+          },
+          {
+            "tier": 10,
+            "text": "Augmente légèrement la portée de Pulsation et augmente en plus la Jauge de Décharge de 100%.",
+            "items": [
+              "Augmente légèrement la portée de Pulsation et augmente en plus la Jauge de Décharge de 100%."
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Staff",
+        "skills": [],
+        "potentials": []
+      },
+      {
+        "name": "Longsword",
+        "skills": [],
+        "potentials": []
+      }
+    ],
+    "costumes": [
+      {
+        "name": "Descendant du Dragon",
+        "description": "Serment du Trône",
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/drake/drake-dragon-descendent"
+      },
+      {
+        "name": "Serment du Trône",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/drake/drake-oath-throne"
+      },
+      {
+        "name": "Gloire du Passé",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/drake/drake-glory-past"
+      },
+      {
+        "name": "Seigneur de l'Ombre",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/drake/drake-shadow-lord"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "La forme majestueuse de descendant du dragon de Drake",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Drake_001.png",
+        "source_url": "https://7dsorigin.gg/characters/drake/drake-dragon-descendent"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Drake le Roi Dragon Tyran. Une tenue cérémonielle formelle et raffinée.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Drake_002.png",
+        "source_url": "https://7dsorigin.gg/characters/drake/drake-oath-throne"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Drake le Roi Dragon Tyran. C'était son armure préférée pour le champ de bataille.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Drake_003.png",
+        "source_url": "https://7dsorigin.gg/characters/drake/drake-glory-past"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Drake le Roi Dragon Tyran. Porté lors de sorties secrètes pour observer la vie quotidienne des Dracos.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Drake_004.png",
+        "source_url": "https://7dsorigin.gg/characters/drake/drake-shadow-lord"
+      }
+    ],
+    "potentials": [],
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/drake"
+  },
+  {
+    "id": "daisy",
+    "name": "Daisy",
+    "rarity": "5★",
+    "element": "Earth",
+    "roles": [],
+    "stats": null,
+    "images": {
+      "portrait": "https://7dsorigin.gg/images/characters/slot_Daisy_001.png"
+    },
+    "weapons": [
+      {
+        "name": "Shield",
+        "skills": [
+          {
+            "name": "Touche d'Artisan",
+            "kind": "Adventure Skill",
+            "cooldown": null,
+            "description": ""
+          },
+          {
+            "name": "Fille Excentrique",
+            "kind": "Passive",
+            "cooldown": null,
+            "description": "Augmente l'efficacité de chargement de magie de l'état par défaut de 50%, et le mouvement ultime ne consomme pas de magie. Attaque Normale Normal Inflige des dégâts égaux à 142% de l'Attaque. Augmente les dégâts infligés de 30% en chevauchant. 1er coup: 21% 2ème coup: 23% 3ème coup: 37% 4ème coup: 61% Attaque Spéciale Spécial [Par défaut] Diminue les dégâts reçus de 70% tant que la posture est maintenue. De plus, les ennemis proches sont Déséquilibrés et la jauge de magie est restaurée de 100 toutes les 1 sec. [En chevauchant] Inflige des dégâts égaux à 163% de l'Attaque. Consomme 100 de jauge de magie pour augmenter les dégâts de 10% toutes les 0,4 sec tant que la posture est maintenue. Restaure la magie de 300 lorsque la posture est maintenue pendant 2 sec."
+          },
+          {
+            "name": "Va-t'en / Explosion d'Énergie",
+            "kind": "Normal Skill",
+            "cooldown": null,
+            "description": "[Par défaut] Inflige des dégâts égaux à 174% de l'Attaque. La jauge de magie est restaurée de 300 si un ennemi est touché, et sa résistance à la Terre est diminuée de 20% pendant 20 sec. [En chevauchant] Inflige des dégâts égaux à 256% de l'Attaque. Chaque coup consomme 100 de la jauge de magie pour augmenter les dégâts de 10%. Restaure la jauge de magie de 100 lorsque la même cible est touchée 5 fois."
+          },
+          {
+            "name": "Voilà Daisy",
+            "kind": "Tag Skill",
+            "cooldown": null,
+            "description": "Inflige des dégâts égaux à 113% de l'Attaque."
+          },
+          {
+            "name": "Aide-moi, Domby",
+            "kind": "Ultimate Move",
+            "cooldown": null,
+            "description": "Le héros invoque et chevauche Domby pendant 20 sec. Le héros gagne l'immunité aux réactions en chevauchant."
+          }
+        ],
+        "potentials": [
+          {
+            "tier": 1,
+            "text": "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%.",
+            "items": [
+              "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%."
+            ]
+          },
+          {
+            "tier": 2,
+            "text": "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 29% 2ème coup: 32% 3ème coup: 52% 4ème coup: 85%",
+            "items": [
+              "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 29% 2ème coup: 32% 3ème coup: 52% 4ème coup: 85%"
+            ]
+          },
+          {
+            "tier": 3,
+            "text": "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%.",
+            "items": [
+              "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%."
+            ]
+          },
+          {
+            "tier": 4,
+            "text": "Augmente les dégâts infligés avec l'Attaque Spéciale de 50%.",
+            "items": [
+              "Augmente les dégâts infligés avec l'Attaque Spéciale de 50%."
+            ]
+          },
+          {
+            "tier": 5,
+            "text": "L'utilisation de l'Attaque Spéciale ne diminue pas la Vitesse de Déplacement, et sa portée est grandement augmentée. La récupération de jauge de magie en Déséquilibrant les ennemis proches augmente de 100%.",
+            "items": [
+              "L'utilisation de l'Attaque Spéciale ne diminue pas la Vitesse de Déplacement, et sa portée est grandement augmentée. La récupération de jauge de magie en Déséquilibrant les ennemis proches augmente de 100%."
+            ]
+          },
+          {
+            "tier": 6,
+            "text": "Diminue la consommation de magie de l'Attaque Spéciale et de la Compétence Normale en chevauchant de 50%.",
+            "items": [
+              "Diminue la consommation de magie de l'Attaque Spéciale et de la Compétence Normale en chevauchant de 50%."
+            ]
+          },
+          {
+            "tier": 7,
+            "text": "Augmente légèrement la portée de la Compétence Normale en chevauchant. Subir des dégâts d'une Compétence Normale augmente les dégâts subis par l'ennemi de 20%.",
+            "items": [
+              "Augmente légèrement la portée de la Compétence Normale en chevauchant. Subir des dégâts d'une Compétence Normale augmente les dégâts subis par l'ennemi de 20%."
+            ]
+          },
+          {
+            "tier": 8,
+            "text": "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%.",
+            "items": [
+              "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%."
+            ]
+          },
+          {
+            "tier": 9,
+            "text": "Augmente les dégâts infligés avec la Compétence Normale de 90% et augmente la durée de chevauchement de 10 sec.",
+            "items": [
+              "Augmente les dégâts infligés avec la Compétence Normale de 90% et augmente la durée de chevauchement de 10 sec."
+            ]
+          },
+          {
+            "tier": 10,
+            "text": "Change la Compétence Normale en une compétence qui peut être utilisée 2 fois en chevauchant. Les dégâts infligés par l'Attaque Spéciale augmentent de 100% lorsqu'elle est complètement chargée.",
+            "items": [
+              "Change la Compétence Normale en une compétence qui peut être utilisée 2 fois en chevauchant. Les dégâts infligés par l'Attaque Spéciale augmentent de 100% lorsqu'elle est complètement chargée."
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Book",
+        "skills": [],
+        "potentials": []
+      },
+      {
+        "name": "Wand",
+        "skills": [],
+        "potentials": []
+      }
+    ],
+    "costumes": [
+      {
+        "name": "Fée du Passé",
+        "description": "Petite Exploratrice",
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/daisy/daisy-fairy-past"
+      },
+      {
+        "name": "Petite Exploratrice",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/daisy/daisy-small-explorer"
+      },
+      {
+        "name": "Parfum d'Automne",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/daisy/daisy-autumn-scent"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "La forme fée de Daisy des temps anciens",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Daisy_001.png",
+        "source_url": "https://7dsorigin.gg/characters/daisy/daisy-fairy-past"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de la Fée Daisy du passé lointain. La tenue idéale pour explorer toute la Britannia.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Daisy_002.png",
+        "source_url": "https://7dsorigin.gg/characters/daisy/daisy-small-explorer"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de la Fée Daisy du passé lointain. Le costume ressemble aux feuilles qui colorent en rouge la forêt d'automne profonde.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Daisy_003.png",
+        "source_url": "https://7dsorigin.gg/characters/daisy/daisy-autumn-scent"
+      }
+    ],
+    "potentials": [],
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/daisy"
+  },
+  {
+    "id": "gowther",
+    "name": "Gowther",
+    "rarity": "5★",
+    "element": null,
+    "roles": [],
+    "stats": null,
+    "images": {
+      "portrait": "https://7dsorigin.gg/images/characters/gowther.png"
+    },
+    "weapons": [
+      {
+        "name": "Book",
+        "skills": [],
+        "potentials": []
+      },
+      {
+        "name": "Wand",
+        "skills": [],
+        "potentials": []
+      },
+      {
+        "name": "Staff",
+        "skills": [],
+        "potentials": []
+      }
+    ],
+    "costumes": [
+      {
+        "name": "Aucun skin disponible",
+        "description": "Les skins pour ce personnage seront bientôt ajoutés.",
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": null,
+        "source_url": null
+      },
+      {
+        "name": "Les skins pour ce personnage seront bientôt ajoutés.",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": null,
+        "source_url": null
+      }
+    ],
+    "potentials": [],
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/gowther"
+  },
+  {
+    "id": "merlin",
+    "name": "Merlin",
+    "rarity": "6★",
+    "element": null,
+    "roles": [],
+    "stats": null,
+    "images": {
+      "portrait": "https://7dsorigin.gg/images/characters/merlin.png"
+    },
+    "weapons": [
+      {
+        "name": "Book",
+        "skills": [],
+        "potentials": []
+      },
+      {
+        "name": "Wand",
+        "skills": [],
+        "potentials": []
+      },
+      {
+        "name": "Staff",
+        "skills": [],
+        "potentials": []
+      }
+    ],
+    "costumes": [
+      {
+        "name": "Aucun skin disponible",
+        "description": "Les skins pour ce personnage seront bientôt ajoutés.",
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": null,
+        "source_url": null
+      },
+      {
+        "name": "Les skins pour ce personnage seront bientôt ajoutés.",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": null,
+        "source_url": null
+      }
+    ],
+    "potentials": [],
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/merlin"
+  },
+  {
+    "id": "diane",
+    "name": "Diane",
+    "rarity": "5★",
+    "element": "Earth",
+    "roles": [],
+    "stats": null,
+    "images": {
+      "portrait": "https://7dsorigin.gg/images/characters/diane.png"
+    },
+    "weapons": [
+      {
+        "name": "Gauntlets",
+        "skills": [
+          {
+            "name": "Fille Géante",
+            "kind": "Passive",
+            "cooldown": null,
+            "description": "Augmente les dégâts infligés de 40% en attaquant un ennemi avec Éclatement de Terre activé, et inflige Briseur pendant 10 sec en attaquant cet ennemi 3 fois. ※ Briseur: Inflige Étourdissement pendant 4 sec lors de la première application de l'effet. Inflige des dégâts égaux à 150% de la Défense du lanceur. Augmente les dégâts subis du lanceur de 30%. Attaque Normale Normal"
+          },
+          {
+            "name": "Inflige des dégâts égaux à 88% de l'Attaque. 1er coup: 21% 2e coup: 25% 3e coup: 42%",
+            "kind": "Special Attack",
+            "cooldown": null,
+            "description": "Spécial Inflige des dégâts égaux à 114% / 167% de l'Attaque selon le niveau de charge. Diminue le temps de recharge de 50% en attaquant un ennemi affecté par Briseur. Attaque Spéciale Spécial Inflige des dégâts égaux à 114% / 167% de l'Attaque selon le niveau de charge. Diminue le temps de recharge de 50% en attaquant un ennemi affecté par Briseur. Attaque Spéciale Spécial Inflige des dégâts égaux à 114% / 167% de l'Attaque selon le niveau de charge. Diminue le temps de recharge de 50% en attaquant un ennemi affecté par Briseur."
+          },
+          {
+            "name": "Entaille Chargée",
+            "kind": "Normal Skill",
+            "cooldown": null,
+            "description": "Inflige des dégâts égaux à 215% de l'Attaque. Augmente les dégâts infligés aux ennemis affectés par Briseur de 100%."
+          },
+          {
+            "name": "Bas de Terre",
+            "kind": "Tag Skill",
+            "cooldown": null,
+            "description": "Inflige des dégâts égaux à 113% de l'Attaque, et inflige Briseur pendant 10 sec si l'ennemi est Pétrifié. ※ Briseur: Inflige Étourdissement pendant 4 sec lors de la première application de l'effet. Inflige des dégâts égaux à 150% de la Défense du lanceur. Augmente les dégâts subis du lanceur de 30%."
+          },
+          {
+            "name": "Explosion Rocheuse",
+            "kind": "Ultimate Move",
+            "cooldown": null,
+            "description": "Inflige des dégâts égaux à 283% de l'Attaque et inflige Briseur pendant 10 sec. ※ Briseur: Inflige Étourdissement pendant 4 sec lors de la première application de l'effet. Inflige des dégâts égaux à 150% de la Défense du lanceur. Augmente les dégâts subis du lanceur de 30%."
+          }
+        ],
+        "potentials": [
+          {
+            "tier": 1,
+            "text": "Increases Attack by 10%, Defense by 8%, and Max HP by 3%.",
+            "items": [
+              "Increases Attack by 10%, Defense by 8%, and Max HP by 3%."
+            ]
+          },
+          {
+            "tier": 2,
+            "text": "Increases damage dealt with Normal Attacks by 40%. 1st hit: 29% 2nd hit: 35% 3rd hit: 58%",
+            "items": [
+              "Increases damage dealt with Normal Attacks by 40%. 1st hit: 29% 2nd hit: 35% 3rd hit: 58%"
+            ]
+          },
+          {
+            "tier": 3,
+            "text": "Increases Attack by 15%, Defense by 12%, and Max HP by 5%.",
+            "items": [
+              "Increases Attack by 15%, Defense by 12%, and Max HP by 5%."
+            ]
+          },
+          {
+            "tier": 4,
+            "text": "Increases damage dealt with the Special Attack by 50%.",
+            "items": [
+              "Increases damage dealt with the Special Attack by 50%."
+            ]
+          },
+          {
+            "tier": 5,
+            "text": "Inflicts damage equal to 240% of Defense 3 sec after landing the Normal Skill on an enemy. Increases damage dealt by 100% if they are affected by Breaker.",
+            "items": [
+              "Inflicts damage equal to 240% of Defense 3 sec after landing the Normal Skill on an enemy. Increases damage dealt by 100% if they are affected by Breaker."
+            ]
+          },
+          {
+            "tier": 6,
+            "text": "Increases damage dealt with the Normal Skill by 60%.",
+            "items": [
+              "Increases damage dealt with the Normal Skill by 60%."
+            ]
+          },
+          {
+            "tier": 7,
+            "text": "Slightly increases the range of the Special Attack and increases damage dealt by 20%.",
+            "items": [
+              "Slightly increases the range of the Special Attack and increases damage dealt by 20%."
+            ]
+          },
+          {
+            "tier": 8,
+            "text": "Increases Attack by 25%, Defense by 20%, and Max HP by 8%.",
+            "items": [
+              "Increases Attack by 25%, Defense by 20%, and Max HP by 8%."
+            ]
+          },
+          {
+            "tier": 9,
+            "text": "Increases damage dealt with the Ultimate Move by 50%.",
+            "items": [
+              "Increases damage dealt with the Ultimate Move by 50%."
+            ]
+          },
+          {
+            "tier": 10,
+            "text": "Increases Breaker's damage dealt by 100% and the hero's damage dealt by 50%",
+            "items": [
+              "Increases Breaker's damage dealt by 100% and the hero's damage dealt by 50%"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Axe",
+        "skills": [],
+        "potentials": []
+      },
+      {
+        "name": "Nunchaku",
+        "skills": [],
+        "potentials": []
+      },
+      {
+        "name": "Cudgel",
+        "skills": [],
+        "potentials": []
+      }
+    ],
+    "costumes": [
+      {
+        "name": "Géante Amoureuse",
+        "description": "Hôtesse de Taverne",
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/diane/diane-giant-girl-love"
+      },
+      {
+        "name": "Hôtesse de Taverne",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/diane/diane-tavern-hostess"
+      },
+      {
+        "name": "<Le Péché de l'Envie du Serpent>",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/diane/diane-serpent-sin-envy"
+      },
+      {
+        "name": "Fille Joyeuse",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/diane/diane-cheerful-girl"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "La forme de géante charmante de Diane",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Diane_001.png",
+        "source_url": "https://7dsorigin.gg/characters/diane/diane-giant-girl-love"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Diane du passé. Elle aspire à devenir le nouveau visage de la taverne avec son charme joyeux.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Diane_002.png",
+        "source_url": "https://7dsorigin.gg/characters/diane/diane-tavern-hostess"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Diane du passé. L'armure emblématique de Diane des <Sept Péchés Capitaux>.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Diane_003.png",
+        "source_url": "https://7dsorigin.gg/characters/diane/diane-serpent-sin-envy"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Diane du passé. Une tenue d'aventure qui allie beauté et mobilité.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Diane_004.png",
+        "source_url": "https://7dsorigin.gg/characters/diane/diane-cheerful-girl"
+      }
+    ],
+    "potentials": [],
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/diane"
+  },
+  {
+    "id": "king",
+    "name": "King",
+    "rarity": "5★",
+    "element": "Holy",
+    "roles": [],
+    "stats": null,
+    "images": {
+      "portrait": "https://7dsorigin.gg/images/characters/slot_king_001.png"
+    },
+    "weapons": [
+      {
+        "name": "Book",
+        "skills": [
+          {
+            "name": "Vol",
+            "kind": "Adventure Skill",
+            "cooldown": null,
+            "description": ""
+          },
+          {
+            "name": "Roi des Fées",
+            "kind": "Passive",
+            "cooldown": null,
+            "description": "Diminue les dégâts reçus de tous les héros alliés de 20% et augmente l'Efficacité de Soin du héros de 50% lorsque les PV sont à 30% ou moins. Attaque Normale Attaque Normale Inflige des dégâts égaux à 99% de l'Attaque. 20% de chances d'infliger Marque de la Forêt pendant 10 sec. (Max : 10 fois) 1er coup : 15% 2ème coup : 16% 3ème coup : 26% 4ème coup : 42% ※ Marque de la Forêt : Augmente les dégâts reçus de 1% et les dégâts de Terre reçus de 3%. Attaque Spéciale Spécial Diminue les dégâts reçus de 20% et augmente l'Efficacité de Soin de 3% toutes les 0,5 sec pendant 10 sec tant que la posture est maintenue. (Max : 15%) Lorsque touché, la posture est retirée, puis le héros inflige des dégâts égaux à 99% de l'Attaque et restaure les PV de 30% de l'Attaque. Augmente les dégâts infligés de 5% par Marque de la Forêt sur l'ennemi."
+          },
+          {
+            "name": "Protecteur de la Forêt",
+            "kind": "Normal Skill",
+            "cooldown": null,
+            "description": "Inflige des dégâts égaux à 166% de l'Attaque, puis inflige Marque de la Forêt pendant 10 sec. (Max : 10 fois) ※ Marque de la Forêt : Augmente les dégâts reçus de 8 et les dégâts de Terre reçus de 9."
+          },
+          {
+            "name": "Arc Supérieur",
+            "kind": "Tag Skill",
+            "cooldown": null,
+            "description": "Inflige des dégâts égaux à 82% de l'Attaque."
+          },
+          {
+            "name": "Protection de la Forêt",
+            "kind": "Ultimate Move",
+            "cooldown": null,
+            "description": "Accorde Protection de la Forêt à tous les héros alliés pendant 20 sec. ※ Protection de la Forêt : Accorde une barrière égale à 50% des PV Max. Restaure les PV de 35% de l'Attaque toutes les 2 sec."
+          }
+        ],
+        "potentials": [
+          {
+            "tier": 1,
+            "text": "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%.",
+            "items": [
+              "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%."
+            ]
+          },
+          {
+            "tier": 2,
+            "text": "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 20% 2ème coup: 22% 3ème coup: 36% 4ème coup: 59%",
+            "items": [
+              "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 20% 2ème coup: 22% 3ème coup: 36% 4ème coup: 59%"
+            ]
+          },
+          {
+            "tier": 3,
+            "text": "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%.",
+            "items": [
+              "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%."
+            ]
+          },
+          {
+            "tier": 4,
+            "text": "Augmente la Récupération de PV de l'Attaque Spéciale de 50%.",
+            "items": [
+              "Augmente la Récupération de PV de l'Attaque Spéciale de 50%."
+            ]
+          },
+          {
+            "tier": 5,
+            "text": "Devient immunisé aux Réactions et diminue les dégâts reçus de 30% lors de l'utilisation de l'Attaque Spéciale tant que la posture est maintenue.",
+            "items": [
+              "Devient immunisé aux Réactions et diminue les dégâts reçus de 30% lors de l'utilisation de l'Attaque Spéciale tant que la posture est maintenue."
+            ]
+          },
+          {
+            "tier": 6,
+            "text": "Augmente les dégâts infligés avec la Compétence Normale de 60%.",
+            "items": [
+              "Augmente les dégâts infligés avec la Compétence Normale de 60%."
+            ]
+          },
+          {
+            "tier": 7,
+            "text": "Augmente le nombre d'effets Marque de la Forêt appliqués par la Compétence Normale de 2 et restaure la Jauge de Magie de 75 pour chaque effet Marque de la Forêt sur l'ennemi.",
+            "items": [
+              "Augmente le nombre d'effets Marque de la Forêt appliqués par la Compétence Normale de 2 et restaure la Jauge de Magie de 75 pour chaque effet Marque de la Forêt sur l'ennemi."
+            ]
+          },
+          {
+            "tier": 8,
+            "text": "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%.",
+            "items": [
+              "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%."
+            ]
+          },
+          {
+            "tier": 9,
+            "text": "Augmente la Récupération de PV de Protection de la Forêt de 50%.",
+            "items": [
+              "Augmente la Récupération de PV de Protection de la Forêt de 50%."
+            ]
+          },
+          {
+            "tier": 10,
+            "text": "Augmente la durée de Protection de la Forêt de 10 sec et augmente la Défense de 20% tant qu'elle est active.",
+            "items": [
+              "Augmente la durée de Protection de la Forêt de 10 sec et augmente la Défense de 20% tant qu'elle est active."
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Wand",
+        "skills": [],
+        "potentials": []
+      },
+      {
+        "name": "Staff",
+        "skills": [],
+        "potentials": []
+      }
+    ],
+    "costumes": [
+      {
+        "name": "Roi des Fées Inexpérimenté",
+        "description": "<Le Péché de la Paresse du Grizzly>",
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/king/king-inexperienced-fairy"
+      },
+      {
+        "name": "Pas de la Forêt",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/king/king-forest-footsteps"
+      },
+      {
+        "name": "<Le Péché de la Paresse du Grizzly>",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/king/king-grizzly-sin-sloth"
+      },
+      {
+        "name": "Ombre de la Forêt Profonde",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/king/king-shadow-deep-forest"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "King en tant que roi des fées inexpérimenté",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_King_001.png",
+        "source_url": "https://7dsorigin.gg/characters/king/king-inexperienced-fairy"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de King du passé. Une tenue légère conçue pour des mouvements flexibles même au sein de la forêt.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_King_002.png",
+        "source_url": "https://7dsorigin.gg/characters/king/king-forest-footsteps"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de King du passé. L'armure emblématique de King des <Sept Péchés Capitaux>.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_King_003.png",
+        "source_url": "https://7dsorigin.gg/characters/king/king-grizzly-sin-sloth"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de King du passé. Le roi peut l'utiliser pour se camoufler parfaitement dans les forêts denses.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_King_004.png",
+        "source_url": "https://7dsorigin.gg/characters/king/king-shadow-deep-forest"
+      }
+    ],
+    "potentials": [],
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/king"
+  },
+  {
+    "id": "klotho",
+    "name": "Clotho",
+    "rarity": "4★",
+    "element": null,
+    "roles": [],
+    "stats": null,
+    "images": {
+      "portrait": "https://7dsorigin.gg/images/characters/slot_Klotho_001.png"
+    },
+    "weapons": [
+      {
+        "name": "Rapier",
+        "skills": [],
+        "potentials": []
+      },
+      {
+        "name": "Staff",
+        "skills": [],
+        "potentials": []
+      },
+      {
+        "name": "Book",
+        "skills": [],
+        "potentials": []
+      }
+    ],
+    "costumes": [
+      {
+        "name": "Aucun skin disponible",
+        "description": "Les skins pour ce personnage seront bientôt ajoutés.",
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": null,
+        "source_url": null
+      },
+      {
+        "name": "Les skins pour ce personnage seront bientôt ajoutés.",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": null,
+        "source_url": null
+      }
+    ],
+    "potentials": [],
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/klotho"
+  },
+  {
+    "id": "ban",
+    "name": "Ban",
+    "rarity": "6★",
+    "element": null,
+    "roles": [],
+    "stats": null,
+    "images": {
+      "portrait": "https://7dsorigin.gg/images/characters/ban.png"
+    },
+    "weapons": [
+      {
+        "name": "Nunchaku",
+        "skills": [],
+        "potentials": []
+      },
+      {
+        "name": "Greatsword",
+        "skills": [],
+        "potentials": []
+      },
+      {
+        "name": "Gauntlets",
+        "skills": [],
+        "potentials": []
+      }
+    ],
+    "costumes": [
+      {
+        "name": "Aucun skin disponible",
+        "description": "Les skins pour ce personnage seront bientôt ajoutés.",
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": null,
+        "source_url": null
+      },
+      {
+        "name": "Les skins pour ce personnage seront bientôt ajoutés.",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": null,
+        "source_url": null
+      }
+    ],
+    "potentials": [],
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/ban"
+  },
+  {
+    "id": "meliodas",
+    "name": "Meliodas",
+    "rarity": "6★",
+    "element": "Darkness",
+    "roles": [],
+    "stats": null,
+    "images": {
+      "portrait": "https://7dsorigin.gg/images/characters/meliodas.png"
+    },
+    "weapons": [
+      {
+        "name": "Longsword",
+        "skills": [
+          {
+            "name": "Perspicacité du Capitaine",
+            "kind": "Adventure Skill",
+            "cooldown": null,
+            "description": ""
+          },
+          {
+            "name": "Maître de la Vitesse",
+            "kind": "Passive",
+            "cooldown": null,
+            "description": "Réduit la durée d'Éclatement des Ténèbres de 3 sec et inflige en plus des dégâts égaux à 100% de l'Attaque en touchant avec une compétence un ennemi avec Éclatement des Ténèbres activé. Attaque Normale Normal"
+          },
+          {
+            "name": "Inflige des dégâts égaux à 132% de l'Attaque. 1er coup: 20% 2e coup: 21% 3e coup: 35% 4e coup: 56%",
+            "kind": "Special Attack",
+            "cooldown": null,
+            "description": "Spécial Inflige des dégâts égaux à 132% de l'Attaque et augmente l'Attaque des Ténèbres du héros de 25% pendant 20 sec. (Max: 2 fois) Obtient en plus 1 effet(s) en touchant un ennemi avec Éclatement des Ténèbres activé. Attaque en Chaîne Chaîne Inflige des dégâts égaux à 231% de l'Attaque. Restaure la Jauge de Magie de 100 en attaquant un ennemi avec Éclatement des Ténèbres activé."
+          },
+          {
+            "name": "Force des Ténèbres",
+            "kind": "Tag Skill",
+            "cooldown": null,
+            "description": "Inflige des dégâts égaux à 111% de l'Attaque."
+          },
+          {
+            "name": "Croix Ardente",
+            "kind": "Ultimate Move",
+            "cooldown": null,
+            "description": "Inflige des dégâts égaux à 342% de l'Attaque et augmente les dégâts infligés aux ennemis avec Éclatement des Ténèbres activé de 100%, puis supprime l'Éclatement des Ténèbres de la cible."
+          }
+        ],
+        "potentials": [
+          {
+            "tier": 1,
+            "text": "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%.",
+            "items": [
+              "Augmente l'Attaque de 10%, la Défense de 8% et les PV Max de 3%."
+            ]
+          },
+          {
+            "tier": 2,
+            "text": "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 28% 2e coup: 29% 3e coup: 49% 4e coup: 78%",
+            "items": [
+              "Augmente les dégâts infligés avec les Attaques Normales de 40%. 1er coup: 28% 2e coup: 29% 3e coup: 49% 4e coup: 78%"
+            ]
+          },
+          {
+            "tier": 3,
+            "text": "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%.",
+            "items": [
+              "Augmente l'Attaque de 15%, la Défense de 12% et les PV Max de 5%."
+            ]
+          },
+          {
+            "tier": 4,
+            "text": "Augmente les dégâts infligés avec l'Attaque Spéciale de 50%.",
+            "items": [
+              "Augmente les dégâts infligés avec l'Attaque Spéciale de 50%."
+            ]
+          },
+          {
+            "tier": 5,
+            "text": "Inflige des dégâts égaux à 100% de l'Attaque aux ennemis proches et restaure en plus la Jauge de Magie de 500 avec le coup final de la Compétence Normale.",
+            "items": [
+              "Inflige des dégâts égaux à 100% de l'Attaque aux ennemis proches et restaure en plus la Jauge de Magie de 500 avec le coup final de la Compétence Normale."
+            ]
+          },
+          {
+            "tier": 6,
+            "text": "Augmente les dégâts infligés avec la Compétence Normale de 60%.",
+            "items": [
+              "Augmente les dégâts infligés avec la Compétence Normale de 60%."
+            ]
+          },
+          {
+            "tier": 7,
+            "text": "Utiliser l'Attaque Spéciale augmente les Chances de Coup Critique du héros de 20% pendant 20 sec.",
+            "items": [
+              "Utiliser l'Attaque Spéciale augmente les Chances de Coup Critique du héros de 20% pendant 20 sec."
+            ]
+          },
+          {
+            "tier": 8,
+            "text": "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%.",
+            "items": [
+              "Augmente l'Attaque de 25%, la Défense de 20% et les PV Max de 8%."
+            ]
+          },
+          {
+            "tier": 9,
+            "text": "Augmente les dégâts infligés avec l'Attaque Finale de 50%.",
+            "items": [
+              "Augmente les dégâts infligés avec l'Attaque Finale de 50%."
+            ]
+          },
+          {
+            "tier": 10,
+            "text": "Inflige en plus des dégâts égaux à 350% de l'Attaque en utilisant l'Attaque Finale.",
+            "items": [
+              "Inflige en plus des dégâts égaux à 350% de l'Attaque en utilisant l'Attaque Finale."
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Axe",
+        "skills": [],
+        "potentials": []
+      },
+      {
+        "name": "Dual Swords",
+        "skills": [],
+        "potentials": []
+      }
+    ],
+    "costumes": [
+      {
+        "name": "Propriétaire de Taverne Ordinaire",
+        "description": "Une Nouvelle Aventure",
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/meliodas/meliodas-tavern-owner"
+      },
+      {
+        "name": "Une Nouvelle Aventure",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/meliodas/meliodas-new-adventure"
+      },
+      {
+        "name": "<Le Péché du Dragon de la Colère>",
+        "description": null,
+        "passive": null,
+        "effect_title": null,
+        "effect": null,
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75",
+        "source_url": "https://7dsorigin.gg/characters/meliodas/meliodas-dragon-sin-wrath"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Meliodas en tant que propriétaire de taverne ordinaire",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Meliodas_001.png",
+        "source_url": "https://7dsorigin.gg/characters/meliodas/meliodas-tavern-owner"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Meliodas du passé. C'est une bonne idée de s'habiller en couches pour les longs voyages.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Meliodas_002.png",
+        "source_url": "https://7dsorigin.gg/characters/meliodas/meliodas-new-adventure"
+      },
+      {
+        "name": "7DSOrigin.gg",
+        "description": "Le costume de Meliodas du passé. L'armure emblématique de Meliodas des <Sept Péchés Capitaux>.",
+        "passive": "Les données sont à venir",
+        "effect_title": null,
+        "effect": null,
+        "image": "https://7dsorigin.gg/images/costumes/icon_Meliodas_003.png",
+        "source_url": "https://7dsorigin.gg/characters/meliodas/meliodas-dragon-sin-wrath"
+      }
+    ],
+    "potentials": [],
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/fr/characters/meliodas"
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "generated_at": "2026-03-02T18:13:40.687Z",
+  "items": [
+    {
+      "evade_rule_id": "evade__successful__generic_bonus",
+      "trigger_type": "successful_evade",
+      "successful_evade_bonus_type": "hero_type_conditional_bonus",
+      "applies_to_hero_family": "all",
+      "timing_notes": "Upon successfully evading a powerful enemy attack, additional effects may trigger depending on hero type.",
+      "source_refs": {
+        "manual": true,
+        "dev_note": true
+      }
+    },
+    {
+      "evade_rule_id": "evade__responsiveness__fast_chain",
+      "trigger_type": "post_evade_command_window",
+      "successful_evade_bonus_type": "immediate_followup_window",
+      "applies_to_hero_family": "all",
+      "timing_notes": "Animations and transition rules are shortened so players can chain into the next action more quickly after evasive input.",
+      "source_refs": {
+        "manual": true,
+        "dev_note": true
+      }
+    }
+  ]
+}

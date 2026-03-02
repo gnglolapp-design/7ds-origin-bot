@@ -1,0 +1,71 @@
+HIDEOUT GUIDES
+Home
+Games
+About
+Discord
+Ko-fi
+← Characters
+Meliodas
+Basic Info
+Weapons
+Armor
+Potentials
+
+Longsword
+
+Axe
+
+Dual Swords
+
+Darkness
+Axe
+Darkness
+Passive
+
+Speedmaster
+
+Increases damage dealt with Normal Skill by 20% for 20 sec when using a Normal Skill. Increases damage dealt by 100% at 3 stacks, then resets.
+
+Normal Attack
+
+Normal Attack
+
+Inflicts damage equal to 146% of Attack. 1st: 22% 2nd: 24% 3rd: 38% 4th: 62%
+
+Special Attack
+
+Special Attack
+
+12 sec cooldown. Inflicts damage equal to 148–200% of Attack based on charge level. Inflicts Demon Energy for 10 sec. Demon Energy: inflicts damage equal to 200% of ATK when the effect is removed.
+
+Normal Skill
+
+Circle Slash
+
+Teleports behind an enemy affected by Demon Energy within 30m and inflicts damage equal to 245% of Attack. Attacking Demon Energy resets Normal Skill cooldown and removes Demon Energy.
+
+Attack Skill
+
+Power Arc
+
+Inflicts damage equal to 123% of Attack.
+
+Ultimate Move
+
+Demon's Fighting Spirit
+
+10 sec cooldown. Consumes 4 magic. Inflicts damage equal to 370% of Attack and inflicts Demon Energy for 10 sec. If 5 or fewer targets: damage increases by up to 100% (1 enemy: +100%, 2: +50%, 3: +33%, 4: +25%, 5: +20%).
+
+HIDEOUT GUIDES
+Games
+Bleach Soul Resonance
+Dragon Traveler
+Dragon Raja Rerise
+Star Sailors
+Seven Deadly Sins: Origin
+Privacy Policy
+Terms of Service
+
+© 2026 Hideout Guides. All rights reserved.
+
+Disclaimer: All game assets, images, and trademarks are property of their respective owners. This site is not affiliated with or endorsed by any game developer or publisher.

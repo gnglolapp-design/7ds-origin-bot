@@ -1,0 +1,2334 @@
+{
+  "version": 1,
+  "generated_at": "2026-03-02T18:13:40.683Z",
+  "items": [
+    {
+      "weapon_id": "black-flame-wings-axe",
+      "name": "Black Flame Wings Axe",
+      "weapon_type": "wings-axe",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 555,
+        "crit_damage": 6.3
+      },
+      "passive": {
+        "trigger": "burst_activate",
+        "effects": [],
+        "description": "Activating a Burst increases Attack by 12/14/16/18/20/22/24% and Crit Chance by 8/10/12/14/16/18/20% for 20 sec."
+      },
+      "burst_context": {
+        "burst_trigger": true,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "black-flame-wings-dual-swords",
+      "name": "Black Flame Wings Dual Swords",
+      "weapon_type": "dual-swords",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 555,
+        "crit_damage": 6.3
+      },
+      "passive": {
+        "trigger": "burst_activate",
+        "effects": [],
+        "description": "Activating a Burst increases Attack by 12/14/16/18/20/22/24% and Crit Chance by 8/10/12/14/16/18/20% for 20 sec."
+      },
+      "burst_context": {
+        "burst_trigger": true,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "black-flame-wings-gauntlets",
+      "name": "Black Flame Wings Gauntlets",
+      "weapon_type": "wings-gauntlets",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 555,
+        "crit_damage": 6.3
+      },
+      "passive": {
+        "trigger": "burst_activate",
+        "effects": [],
+        "description": "Activating a Burst increases Attack by 12/14/16/18/20/22/24% and Crit Chance by 8/10/12/14/16/18/20% for 20 sec."
+      },
+      "burst_context": {
+        "burst_trigger": true,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "black-flame-wings-greatsword",
+      "name": "Black Flame Wings Greatsword",
+      "weapon_type": "wings-greatsword",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 555,
+        "crit_damage": 6.3
+      },
+      "passive": {
+        "trigger": "burst_activate",
+        "effects": [],
+        "description": "Activating a Burst increases Attack by 12/14/16/18/20/22/24% and Crit Chance by 8/10/12/14/16/18/20% for 20 sec."
+      },
+      "burst_context": {
+        "burst_trigger": true,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "black-flame-wings-grimoire",
+      "name": "Black Flame Wings Grimoire",
+      "weapon_type": "wings-grimoire",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 555,
+        "crit_damage": 6.3
+      },
+      "passive": {
+        "trigger": "burst_activate",
+        "effects": [],
+        "description": "Activating a Burst increases Attack by 12/14/16/18/20/22/24% and Crit Chance by 8/10/12/14/16/18/20% for 20 sec."
+      },
+      "burst_context": {
+        "burst_trigger": true,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "black-flame-wings-lance",
+      "name": "Black Flame Wings Lance",
+      "weapon_type": "wings-lance",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 555,
+        "crit_damage": 6.3
+      },
+      "passive": {
+        "trigger": "burst_activate",
+        "effects": [],
+        "description": "Activating a Burst increases Attack by 12/14/16/18/20/22/24% and Crit Chance by 8/10/12/14/16/18/20% for 20 sec."
+      },
+      "burst_context": {
+        "burst_trigger": true,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "black-flame-wings-longsword",
+      "name": "Black Flame Wings Longsword",
+      "weapon_type": "wings-longsword",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 555,
+        "crit_damage": 6.3
+      },
+      "passive": {
+        "trigger": "burst_activate",
+        "effects": [],
+        "description": "Activating a Burst increases Attack by 12/14/16/18/20/22/24% and Crit Chance by 8/10/12/14/16/18/20% for 20 sec."
+      },
+      "burst_context": {
+        "burst_trigger": true,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "black-flame-wings-rapier",
+      "name": "Black Flame Wings Rapier",
+      "weapon_type": "wings-rapier",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 555,
+        "crit_damage": 6.3
+      },
+      "passive": {
+        "trigger": "burst_activate",
+        "effects": [],
+        "description": "Activating a Burst increases Attack by 12/14/16/18/20/22/24% and Crit Chance by 8/10/12/14/16/18/20% for 20 sec."
+      },
+      "burst_context": {
+        "burst_trigger": true,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "black-flame-wings-staff",
+      "name": "Black Flame Wings Staff",
+      "weapon_type": "wings-staff",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 555,
+        "crit_damage": 6.3
+      },
+      "passive": {
+        "trigger": "burst_activate",
+        "effects": [],
+        "description": "Activating a Burst increases Attack by 12/14/16/18/20/22/24% and Crit Chance by 8/10/12/14/16/18/20% for 20 sec."
+      },
+      "burst_context": {
+        "burst_trigger": true,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "black-flame-wings-sword-and-shield",
+      "name": "Black Flame Wings Sword and Shield",
+      "weapon_type": "and-shield",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 555,
+        "crit_damage": 6.3
+      },
+      "passive": {
+        "trigger": "burst_activate",
+        "effects": [],
+        "description": "Activating a Burst increases Attack by 12/14/16/18/20/22/24% and Crit Chance by 8/10/12/14/16/18/20% for 20 sec."
+      },
+      "burst_context": {
+        "burst_trigger": true,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "black-flame-wings-wand",
+      "name": "Black Flame Wings Wand",
+      "weapon_type": "wings-wand",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 555,
+        "crit_damage": 6.3
+      },
+      "passive": {
+        "trigger": "burst_activate",
+        "effects": [],
+        "description": "Activating a Burst increases Attack by 12/14/16/18/20/22/24% and Crit Chance by 8/10/12/14/16/18/20% for 20 sec."
+      },
+      "burst_context": {
+        "burst_trigger": true,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "eternal-grace-axe",
+      "name": "Eternal Grace Axe",
+      "weapon_type": "grace-axe",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 624,
+        "healing_efficiency": 4.64
+      },
+      "passive": {
+        "trigger": "skill_use",
+        "effects": [],
+        "description": "Using a skill increases Healing Efficiency by 20/25/30/35/40/45/50% for 10 sec if the remaining HP is 30% or lower. (Cooldown: 20 sec)"
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "eternal-grace-dual-swords",
+      "name": "Eternal Grace Dual Swords",
+      "weapon_type": "dual-swords",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 624,
+        "healing_efficiency": 4.64
+      },
+      "passive": {
+        "trigger": "skill_use",
+        "effects": [],
+        "description": "Using a skill increases Healing Efficiency by 20/25/30/35/40/45/50% for 10 sec if the remaining HP is 30% or lower. (Cooldown: 20 sec)"
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "eternal-grace-gauntlets",
+      "name": "Eternal Grace Gauntlets",
+      "weapon_type": "grace-gauntlets",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 624,
+        "healing_efficiency": 4.64
+      },
+      "passive": {
+        "trigger": "skill_use",
+        "effects": [],
+        "description": "Using a skill increases Healing Efficiency by 20/25/30/35/40/45/50% for 10 sec if the remaining HP is 30% or lower. (Cooldown: 20 sec)"
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "eternal-grace-greatsword",
+      "name": "Eternal Grace Greatsword",
+      "weapon_type": "grace-greatsword",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 624,
+        "healing_efficiency": 4.64
+      },
+      "passive": {
+        "trigger": "skill_use",
+        "effects": [],
+        "description": "Using a skill increases Healing Efficiency by 20/25/30/35/40/45/50% for 10 sec if the remaining HP is 30% or lower. (Cooldown: 20 sec)"
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "eternal-grace-grimoire",
+      "name": "Eternal Grace Grimoire",
+      "weapon_type": "grace-grimoire",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 624,
+        "healing_efficiency": 4.64
+      },
+      "passive": {
+        "trigger": "skill_use",
+        "effects": [],
+        "description": "Using a skill increases Healing Efficiency by 20/25/30/35/40/45/50% for 10 sec if the remaining HP is 30% or lower. (Cooldown: 20 sec)"
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "eternal-grace-lance",
+      "name": "Eternal Grace Lance",
+      "weapon_type": "grace-lance",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 624,
+        "healing_efficiency": 4.64
+      },
+      "passive": {
+        "trigger": "skill_use",
+        "effects": [],
+        "description": "Using a skill increases Healing Efficiency by 20/25/30/35/40/45/50% for 10 sec if the remaining HP is 30% or lower. (Cooldown: 20 sec)"
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "eternal-grace-longsword",
+      "name": "Eternal Grace Longsword",
+      "weapon_type": "grace-longsword",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 624,
+        "healing_efficiency": 4.64
+      },
+      "passive": {
+        "trigger": "skill_use",
+        "effects": [],
+        "description": "Using a skill increases Healing Efficiency by 20/25/30/35/40/45/50% for 10 sec if the remaining HP is 30% or lower. (Cooldown: 20 sec)"
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "eternal-grace-rapier",
+      "name": "Eternal Grace Rapier",
+      "weapon_type": "grace-rapier",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 624,
+        "healing_efficiency": 4.64
+      },
+      "passive": {
+        "trigger": "skill_use",
+        "effects": [],
+        "description": "Using a skill increases Healing Efficiency by 20/25/30/35/40/45/50% for 10 sec if the remaining HP is 30% or lower. (Cooldown: 20 sec)"
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "eternal-grace-staff",
+      "name": "Eternal Grace Staff",
+      "weapon_type": "grace-staff",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 624,
+        "healing_efficiency": 4.64
+      },
+      "passive": {
+        "trigger": "skill_use",
+        "effects": [],
+        "description": "Using a skill increases Healing Efficiency by 20/25/30/35/40/45/50% for 10 sec if the remaining HP is 30% or lower. (Cooldown: 20 sec)"
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "eternal-grace-sword-and-shield",
+      "name": "Eternal Grace Sword and Shield",
+      "weapon_type": "and-shield",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 624,
+        "healing_efficiency": 4.64
+      },
+      "passive": {
+        "trigger": "skill_use",
+        "effects": [],
+        "description": "Using a skill increases Healing Efficiency by 20/25/30/35/40/45/50% for 10 sec if the remaining HP is 30% or lower. (Cooldown: 20 sec)"
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "eternal-grace-wand",
+      "name": "Eternal Grace Wand",
+      "weapon_type": "grace-wand",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 624,
+        "healing_efficiency": 4.64
+      },
+      "passive": {
+        "trigger": "skill_use",
+        "effects": [],
+        "description": "Using a skill increases Healing Efficiency by 20/25/30/35/40/45/50% for 10 sec if the remaining HP is 30% or lower. (Cooldown: 20 sec)"
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "indomitable-guard-axe",
+      "name": "Indomitable Guard Axe",
+      "weapon_type": "guard-axe",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 607,
+        "attack_increase": 6.98
+      },
+      "passive": {
+        "trigger": "tag_skill_use",
+        "effects": [],
+        "description": "Using the Tag Skill increases Block Rate by 8/10/12/14/16/18/20% and Block Defense by 16/20/24/28/32/36/40% for 15 sec if the remaining HP is 30% or lower."
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": true,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "indomitable-guard-dual-swords",
+      "name": "Indomitable Guard Dual Swords",
+      "weapon_type": "dual-swords",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 607,
+        "attack_increase": 6.98
+      },
+      "passive": {
+        "trigger": "tag_skill_use",
+        "effects": [],
+        "description": "Using the Tag Skill increases Block Rate by 8/10/12/14/16/18/20% and Block Defense by 16/20/24/28/32/36/40% for 15 sec if the remaining HP is 30% or lower."
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": true,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "indomitable-guard-gauntlets",
+      "name": "Indomitable Guard Gauntlets",
+      "weapon_type": "guard-gauntlets",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 607,
+        "attack_increase": 6.98
+      },
+      "passive": {
+        "trigger": "tag_skill_use",
+        "effects": [],
+        "description": "Using the Tag Skill increases Block Rate by 8/10/12/14/16/18/20% and Block Defense by 16/20/24/28/32/36/40% for 15 sec if the remaining HP is 30% or lower."
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": true,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "indomitable-guard-greatsword",
+      "name": "Indomitable Guard Greatsword",
+      "weapon_type": "guard-greatsword",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 607,
+        "attack_increase": 6.98
+      },
+      "passive": {
+        "trigger": "tag_skill_use",
+        "effects": [],
+        "description": "Using the Tag Skill increases Block Rate by 8/10/12/14/16/18/20% and Block Defense by 16/20/24/28/32/36/40% for 15 sec if the remaining HP is 30% or lower."
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": true,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "indomitable-guard-grimoire",
+      "name": "Indomitable Guard Grimoire",
+      "weapon_type": "guard-grimoire",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 607,
+        "attack_increase": 6.98
+      },
+      "passive": {
+        "trigger": "tag_skill_use",
+        "effects": [],
+        "description": "Using the Tag Skill increases Block Rate by 8/10/12/14/16/18/20% and Block Defense by 16/20/24/28/32/36/40% for 15 sec if the remaining HP is 30% or lower."
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": true,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "indomitable-guard-lance",
+      "name": "Indomitable Guard Lance",
+      "weapon_type": "guard-lance",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 607,
+        "attack_increase": 6.98
+      },
+      "passive": {
+        "trigger": "tag_skill_use",
+        "effects": [],
+        "description": "Using the Tag Skill increases Block Rate by 8/10/12/14/16/18/20% and Block Defense by 16/20/24/28/32/36/40% for 15 sec if the remaining HP is 30% or lower."
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": true,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "indomitable-guard-longsword",
+      "name": "Indomitable Guard Longsword",
+      "weapon_type": "guard-longsword",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 607,
+        "attack_increase": 6.98
+      },
+      "passive": {
+        "trigger": "tag_skill_use",
+        "effects": [],
+        "description": "Using the Tag Skill increases Block Rate by 8/10/12/14/16/18/20% and Block Defense by 16/20/24/28/32/36/40% for 15 sec if the remaining HP is 30% or lower."
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": true,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "indomitable-guard-rapier",
+      "name": "Indomitable Guard Rapier",
+      "weapon_type": "guard-rapier",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 607,
+        "attack_increase": 6.98
+      },
+      "passive": {
+        "trigger": "tag_skill_use",
+        "effects": [],
+        "description": "Using the Tag Skill increases Block Rate by 8/10/12/14/16/18/20% and Block Defense by 16/20/24/28/32/36/40% for 15 sec if the remaining HP is 30% or lower."
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": true,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "indomitable-guard-staff",
+      "name": "Indomitable Guard Staff",
+      "weapon_type": "guard-staff",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 607,
+        "attack_increase": 6.98
+      },
+      "passive": {
+        "trigger": "tag_skill_use",
+        "effects": [],
+        "description": "Using the Tag Skill increases Block Rate by 8/10/12/14/16/18/20% and Block Defense by 16/20/24/28/32/36/40% for 15 sec if the remaining HP is 30% or lower."
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": true,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "indomitable-guard-sword-and-shield",
+      "name": "Indomitable Guard Sword and Shield",
+      "weapon_type": "and-shield",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 607,
+        "attack_increase": 6.98
+      },
+      "passive": {
+        "trigger": "tag_skill_use",
+        "effects": [],
+        "description": "Using the Tag Skill increases Block Rate by 8/10/12/14/16/18/20% and Block Defense by 16/20/24/28/32/36/40% for 15 sec if the remaining HP is 30% or lower."
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": true,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "indomitable-guard-wand",
+      "name": "Indomitable Guard Wand",
+      "weapon_type": "guard-wand",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 607,
+        "attack_increase": 6.98
+      },
+      "passive": {
+        "trigger": "tag_skill_use",
+        "effects": [],
+        "description": "Using the Tag Skill increases Block Rate by 8/10/12/14/16/18/20% and Block Defense by 16/20/24/28/32/36/40% for 15 sec if the remaining HP is 30% or lower."
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": true,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "shadow-of-rupture-axe",
+      "name": "Shadow of Rupture Axe",
+      "weapon_type": "rupture-axe",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 613,
+        "crit_rate": 3.48
+      },
+      "passive": {
+        "trigger": "critical_hit",
+        "effects": [],
+        "description": "Increases Crit Damage by 0.3/0.35/0.4/0.45/0.5/0.55/0.6% for 10 sec when an attack results in a Critical Hit. (Max: 15/17.5/20/22.5/25/27.5/30%)"
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "shadow-of-rupture-dual-swords",
+      "name": "Shadow of Rupture Dual Swords",
+      "weapon_type": "dual-swords",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 613,
+        "crit_rate": 3.48
+      },
+      "passive": {
+        "trigger": "critical_hit",
+        "effects": [],
+        "description": "Increases Crit Damage by 0.3/0.35/0.4/0.45/0.5/0.55/0.6% for 10 sec when an attack results in a Critical Hit. (Max: 15/17.5/20/22.5/25/27.5/30%)"
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "shadow-of-rupture-gauntlets",
+      "name": "Shadow of Rupture Gauntlets",
+      "weapon_type": "rupture-gauntlets",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 613,
+        "crit_rate": 3.48
+      },
+      "passive": {
+        "trigger": "critical_hit",
+        "effects": [],
+        "description": "Increases Crit Damage by 0.3/0.35/0.4/0.45/0.5/0.55/0.6% for 10 sec when an attack results in a Critical Hit. (Max: 15/17.5/20/22.5/25/27.5/30%)"
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "shadow-of-rupture-greatsword",
+      "name": "Shadow of Rupture Greatsword",
+      "weapon_type": "rupture-greatsword",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 613,
+        "crit_rate": 3.48
+      },
+      "passive": {
+        "trigger": "critical_hit",
+        "effects": [],
+        "description": "Increases Crit Damage by 0.3/0.35/0.4/0.45/0.5/0.55/0.6% for 10 sec when an attack results in a Critical Hit. (Max: 15/17.5/20/22.5/25/27.5/30%)"
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "shadow-of-rupture-grimoire",
+      "name": "Shadow of Rupture Grimoire",
+      "weapon_type": "rupture-grimoire",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 613,
+        "crit_rate": 3.48
+      },
+      "passive": {
+        "trigger": "critical_hit",
+        "effects": [],
+        "description": "Increases Crit Damage by 0.3/0.35/0.4/0.45/0.5/0.55/0.6% for 10 sec when an attack results in a Critical Hit. (Max: 15/17.5/20/22.5/25/27.5/30%)"
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "shadow-of-rupture-lance",
+      "name": "Shadow of Rupture Lance",
+      "weapon_type": "rupture-lance",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 613,
+        "crit_rate": 3.48
+      },
+      "passive": {
+        "trigger": "critical_hit",
+        "effects": [],
+        "description": "Increases Crit Damage by 0.3/0.35/0.4/0.45/0.5/0.55/0.6% for 10 sec when an attack results in a Critical Hit. (Max: 15/17.5/20/22.5/25/27.5/30%)"
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "shadow-of-rupture-longsword",
+      "name": "Shadow of Rupture Longsword",
+      "weapon_type": "rupture-longsword",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 613,
+        "crit_rate": 3.48
+      },
+      "passive": {
+        "trigger": "critical_hit",
+        "effects": [],
+        "description": "Increases Crit Damage by 0.3/0.35/0.4/0.45/0.5/0.55/0.6% for 10 sec when an attack results in a Critical Hit. (Max: 15/17.5/20/22.5/25/27.5/30%)"
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "shadow-of-rupture-rapier",
+      "name": "Shadow of Rupture Rapier",
+      "weapon_type": "rupture-rapier",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 613,
+        "crit_rate": 3.48
+      },
+      "passive": {
+        "trigger": "critical_hit",
+        "effects": [],
+        "description": "Increases Crit Damage by 0.3/0.35/0.4/0.45/0.5/0.55/0.6% for 10 sec when an attack results in a Critical Hit. (Max: 15/17.5/20/22.5/25/27.5/30%)"
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "shadow-of-rupture-staff",
+      "name": "Shadow of Rupture Staff",
+      "weapon_type": "rupture-staff",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 613,
+        "crit_rate": 3.48
+      },
+      "passive": {
+        "trigger": "critical_hit",
+        "effects": [],
+        "description": "Increases Crit Damage by 0.3/0.35/0.4/0.45/0.5/0.55/0.6% for 10 sec when an attack results in a Critical Hit. (Max: 15/17.5/20/22.5/25/27.5/30%)"
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "shadow-of-rupture-sword-and-shield",
+      "name": "Shadow of Rupture Sword and Shield",
+      "weapon_type": "and-shield",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 613,
+        "crit_rate": 3.48
+      },
+      "passive": {
+        "trigger": "critical_hit",
+        "effects": [],
+        "description": "Increases Crit Damage by 0.3/0.35/0.4/0.45/0.5/0.55/0.6% for 10 sec when an attack results in a Critical Hit. (Max: 15/17.5/20/22.5/25/27.5/30%)"
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "shadow-of-rupture-wand",
+      "name": "Shadow of Rupture Wand",
+      "weapon_type": "rupture-wand",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 613,
+        "crit_rate": 3.48
+      },
+      "passive": {
+        "trigger": "critical_hit",
+        "effects": [],
+        "description": "Increases Crit Damage by 0.3/0.35/0.4/0.45/0.5/0.55/0.6% for 10 sec when an attack results in a Critical Hit. (Max: 15/17.5/20/22.5/25/27.5/30%)"
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "black-shadow-greatsword",
+      "name": "Black Shadow Greatsword",
+      "weapon_type": "shadow-greatsword",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 315,
+        "accuracy": 21
+      },
+      "passive": {
+        "trigger": null,
+        "effects": [],
+        "description": "Hitting an Incapacitated enemy decreases All Elemental Burst Resistance by 40/50/60/70/80/90/100% for 20 sec. (Cooldown: 30 sec)"
+      },
+      "burst_context": {
+        "burst_trigger": true,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": [
+          "burst_resistance",
+          "all_element_burst_resistance"
+        ]
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "blazing-axe",
+      "name": "Blazing Axe",
+      "weapon_type": "axe",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 426,
+        "crit_rate": 2.47
+      },
+      "passive": {
+        "trigger": "on_hit",
+        "effects": [],
+        "description": "Hitting an enemy whose remaining HP is 100% or above increases their damage taken by 40/50/60/70/80/90/100% for 5 sec."
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "blazing-dual-swords",
+      "name": "Blazing Dual Swords",
+      "weapon_type": "dual-swords",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 426,
+        "crit_rate": 2.47
+      },
+      "passive": {
+        "trigger": "on_hit",
+        "effects": [],
+        "description": "Hitting an enemy whose remaining HP is 100% or above increases their damage taken by 40/50/60/70/80/90/100% for 5 sec."
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "blazing-gauntlets",
+      "name": "Blazing Gauntlets",
+      "weapon_type": "gauntlets",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 426,
+        "crit_rate": 2.47
+      },
+      "passive": {
+        "trigger": "on_hit",
+        "effects": [],
+        "description": "Hitting an enemy whose remaining HP is 100% or above increases their damage taken by 40/50/60/70/80/90/100% for 5 sec."
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "blazing-greatsword",
+      "name": "Blazing Greatsword",
+      "weapon_type": "greatsword",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 426,
+        "crit_rate": 2.47
+      },
+      "passive": {
+        "trigger": "on_hit",
+        "effects": [],
+        "description": "Hitting an enemy whose remaining HP is 100% or above increases their damage taken by 40/50/60/70/80/90/100% for 5 sec."
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "blazing-grimoire",
+      "name": "Blazing Grimoire",
+      "weapon_type": "book",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 426,
+        "crit_rate": 2.47
+      },
+      "passive": {
+        "trigger": "on_hit",
+        "effects": [],
+        "description": "Hitting an enemy whose remaining HP is 100% or above increases their damage taken by 40/50/60/70/80/90/100% for 5 sec."
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "blazing-lance",
+      "name": "Blazing Lance",
+      "weapon_type": "lance",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 426,
+        "crit_rate": 2.47
+      },
+      "passive": {
+        "trigger": "on_hit",
+        "effects": [],
+        "description": "Hitting an enemy whose remaining HP is 100% or above increases their damage taken by 40/50/60/70/80/90/100% for 5 sec."
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "blazing-longsword",
+      "name": "Blazing Longsword",
+      "weapon_type": "longsword",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 426,
+        "crit_rate": 2.47
+      },
+      "passive": {
+        "trigger": "on_hit",
+        "effects": [],
+        "description": "Hitting an enemy whose remaining HP is 100% or above increases their damage taken by 40/50/60/70/80/90/100% for 5 sec."
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "blazing-rapier",
+      "name": "Blazing Rapier",
+      "weapon_type": "rapier",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 426,
+        "crit_rate": 2.47
+      },
+      "passive": {
+        "trigger": "on_hit",
+        "effects": [],
+        "description": "Hitting an enemy whose remaining HP is 100% or above increases their damage taken by 40/50/60/70/80/90/100% for 5 sec."
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "blazing-staff",
+      "name": "Blazing Staff",
+      "weapon_type": "staff",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 426,
+        "crit_rate": 2.47
+      },
+      "passive": {
+        "trigger": "on_hit",
+        "effects": [],
+        "description": "Hitting an enemy whose remaining HP is 100% or above increases their damage taken by 40/50/60/70/80/90/100% for 5 sec."
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "blazing-sword-and-shield",
+      "name": "Blazing Sword and Shield",
+      "weapon_type": "and-shield",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 426,
+        "crit_rate": 2.47
+      },
+      "passive": {
+        "trigger": "on_hit",
+        "effects": [],
+        "description": "Hitting an enemy whose remaining HP is 100% or above increases their damage taken by 40/50/60/70/80/90/100% for 5 sec."
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "blazing-wand",
+      "name": "Blazing Wand",
+      "weapon_type": "wand",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 426,
+        "crit_rate": 2.47
+      },
+      "passive": {
+        "trigger": "on_hit",
+        "effects": [],
+        "description": "Hitting an enemy whose remaining HP is 100% or above increases their damage taken by 40/50/60/70/80/90/100% for 5 sec."
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "chaos-song-rapier",
+      "name": "Chaos Song Rapier",
+      "weapon_type": "song-rapier",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 393,
+        "crit_damage": 4.31
+      },
+      "passive": {
+        "trigger": "on_hit",
+        "effects": [],
+        "description": "Hitting an enemy whose Movement Speed is reduced decreases their Defense by 16/20/24/28/32/36/40% for 15 sec. (Cooldown: 25 sec)"
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "corrupted-conviction-longsword",
+      "name": "Corrupted Conviction Longsword",
+      "weapon_type": "conviction-longsword",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 358,
+        "crit_damage": 4.42
+      },
+      "passive": {
+        "trigger": "on_hit",
+        "effects": [],
+        "description": "Hitting an enemy taking DoT increases damage dealt by 6/7/8/9/10/11/12%."
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "corrupted-will-gauntlets",
+      "name": "Corrupted Will Gauntlets",
+      "weapon_type": "will-gauntlets",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 327
+      },
+      "passive": {
+        "trigger": "on_hit",
+        "effects": [],
+        "description": "Hitting an enemy increases a random skill's damage by 12/15/18/21/24/27/30% for 15 sec. (Cooldown: 25 sec, up to 5 types)"
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "crimson-flame-dual-swords",
+      "name": "Crimson Flame Dual Swords",
+      "weapon_type": "dual-swords",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 364,
+        "crit_damage": 4.41
+      },
+      "passive": {
+        "trigger": "burst_activate",
+        "effects": [],
+        "description": "Activating a Burst increases Attack by 12/14/16/18/20/22/24% for 20 sec."
+      },
+      "burst_context": {
+        "burst_trigger": true,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "crimson-flame-gauntlets",
+      "name": "Crimson Flame Gauntlets",
+      "weapon_type": "flame-gauntlets",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 364,
+        "crit_damage": 4.41
+      },
+      "passive": {
+        "trigger": "burst_activate",
+        "effects": [],
+        "description": "Activating a Burst increases Attack by 12/14/16/18/20/22/24% for 20 sec."
+      },
+      "burst_context": {
+        "burst_trigger": true,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "crimson-flame-greatsword",
+      "name": "Crimson Flame Greatsword",
+      "weapon_type": "flame-greatsword",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 364,
+        "crit_damage": 4.41
+      },
+      "passive": {
+        "trigger": "burst_activate",
+        "effects": [],
+        "description": "Activating a Burst increases Attack by 12/14/16/18/20/22/24% for 20 sec."
+      },
+      "burst_context": {
+        "burst_trigger": true,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "crimson-flame-grimoire",
+      "name": "Crimson Flame Grimoire",
+      "weapon_type": "flame-grimoire",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 364,
+        "crit_damage": 4.41
+      },
+      "passive": {
+        "trigger": "burst_activate",
+        "effects": [],
+        "description": "Activating a Burst increases Attack by 12/14/16/18/20/22/24% for 20 sec."
+      },
+      "burst_context": {
+        "burst_trigger": true,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "crimson-flame-lance",
+      "name": "Crimson Flame Lance",
+      "weapon_type": "flame-lance",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 364,
+        "crit_damage": 4.41
+      },
+      "passive": {
+        "trigger": "burst_activate",
+        "effects": [],
+        "description": "Activating a Burst increases Attack by 12/14/16/18/20/22/24% for 20 sec."
+      },
+      "burst_context": {
+        "burst_trigger": true,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "crimson-flame-longsword",
+      "name": "Crimson Flame Longsword",
+      "weapon_type": "flame-longsword",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 364,
+        "crit_damage": 4.41
+      },
+      "passive": {
+        "trigger": "burst_activate",
+        "effects": [],
+        "description": "Activating a Burst increases Attack by 12/14/16/18/20/22/24% for 20 sec."
+      },
+      "burst_context": {
+        "burst_trigger": true,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "crimson-flame-rapier",
+      "name": "Crimson Flame Rapier",
+      "weapon_type": "flame-rapier",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 364,
+        "crit_damage": 4.41
+      },
+      "passive": {
+        "trigger": "burst_activate",
+        "effects": [],
+        "description": "Activating a Burst increases Attack by 12/14/16/18/20/22/24% for 20 sec."
+      },
+      "burst_context": {
+        "burst_trigger": true,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "crimson-flame-staff",
+      "name": "Crimson Flame Staff",
+      "weapon_type": "flame-staff",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 364,
+        "crit_damage": 4.41
+      },
+      "passive": {
+        "trigger": "burst_activate",
+        "effects": [],
+        "description": "Activating a Burst increases Attack by 12/14/16/18/20/22/24% for 20 sec."
+      },
+      "burst_context": {
+        "burst_trigger": true,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "crimson-flame-sword-and-shield",
+      "name": "Crimson Flame Sword and Shield",
+      "weapon_type": "and-shield",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 364,
+        "crit_damage": 4.41
+      },
+      "passive": {
+        "trigger": "burst_activate",
+        "effects": [],
+        "description": "Activating a Burst increases Attack by 12/14/16/18/20/22/24% for 20 sec."
+      },
+      "burst_context": {
+        "burst_trigger": true,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "crimson-flame-wand",
+      "name": "Crimson Flame Wand",
+      "weapon_type": "flame-wand",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 364,
+        "crit_damage": 4.41
+      },
+      "passive": {
+        "trigger": "burst_activate",
+        "effects": [],
+        "description": "Activating a Burst increases Attack by 12/14/16/18/20/22/24% for 20 sec."
+      },
+      "burst_context": {
+        "burst_trigger": true,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "dark-clouds-enhancement-staff",
+      "name": "Dark Clouds Enhancement Staff",
+      "weapon_type": "enhancement-staff",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 354,
+        "crit_rate": 2.45
+      },
+      "passive": {
+        "trigger": "critical_hit",
+        "effects": [],
+        "description": "Critical Hits have 50% chance to increase Crit Damage by 16/20/24/28/32/36/40% or 4/5/6/7/8/9/10% for 15 sec. (Cooldown: 25 sec)"
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "jet-black-axe",
+      "name": "Jet-black Axe",
+      "weapon_type": "axe",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 424,
+        "crit_damage": 4.4
+      },
+      "passive": {
+        "trigger": "ultimate_use",
+        "effects": [],
+        "description": "20% chance to increase Crit Chance by 18/20/22/24/26/28/30% for 5 sec when using the Ultimate Move."
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "jet-black-dual-swords",
+      "name": "Jet-black Dual Swords",
+      "weapon_type": "dual-swords",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 424,
+        "crit_damage": 4.4
+      },
+      "passive": {
+        "trigger": "ultimate_use",
+        "effects": [],
+        "description": "20% chance to increase Crit Chance by 18/20/22/24/26/28/30% for 5 sec when using the Ultimate Move."
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "jet-black-gauntlets",
+      "name": "Jet-black Gauntlets",
+      "weapon_type": "gauntlets",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 424,
+        "crit_damage": 4.4
+      },
+      "passive": {
+        "trigger": "ultimate_use",
+        "effects": [],
+        "description": "20% chance to increase Crit Chance by 18/20/22/24/26/28/30% for 5 sec when using the Ultimate Move."
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "jet-black-greatsword",
+      "name": "Jet-black Greatsword",
+      "weapon_type": "greatsword",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 424,
+        "crit_damage": 4.4
+      },
+      "passive": {
+        "trigger": "ultimate_use",
+        "effects": [],
+        "description": "20% chance to increase Crit Chance by 18/20/22/24/26/28/30% for 5 sec when using the Ultimate Move."
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "jet-black-grimoire",
+      "name": "Jet-black Grimoire",
+      "weapon_type": "book",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 424,
+        "crit_damage": 4.4
+      },
+      "passive": {
+        "trigger": "ultimate_use",
+        "effects": [],
+        "description": "20% chance to increase Crit Chance by 18/20/22/24/26/28/30% for 5 sec when using the Ultimate Move."
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "jet-black-lance",
+      "name": "Jet-black Lance",
+      "weapon_type": "lance",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 424,
+        "crit_damage": 4.4
+      },
+      "passive": {
+        "trigger": "ultimate_use",
+        "effects": [],
+        "description": "20% chance to increase Crit Chance by 18/20/22/24/26/28/30% for 5 sec when using the Ultimate Move."
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "jet-black-longsword",
+      "name": "Jet-black Longsword",
+      "weapon_type": "longsword",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 424,
+        "crit_damage": 4.4
+      },
+      "passive": {
+        "trigger": "ultimate_use",
+        "effects": [],
+        "description": "20% chance to increase Crit Chance by 18/20/22/24/26/28/30% for 5 sec when using the Ultimate Move."
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "jet-black-rapier",
+      "name": "Jet-black Rapier",
+      "weapon_type": "rapier",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 424,
+        "crit_damage": 4.4
+      },
+      "passive": {
+        "trigger": "ultimate_use",
+        "effects": [],
+        "description": "20% chance to increase Crit Chance by 18/20/22/24/26/28/30% for 5 sec when using the Ultimate Move."
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "jet-black-staff",
+      "name": "Jet-black Staff",
+      "weapon_type": "staff",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 424,
+        "crit_damage": 4.4
+      },
+      "passive": {
+        "trigger": "ultimate_use",
+        "effects": [],
+        "description": "20% chance to increase Crit Chance by 18/20/22/24/26/28/30% for 5 sec when using the Ultimate Move."
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "jet-black-sword-and-shield",
+      "name": "Jet-black Sword and Shield",
+      "weapon_type": "and-shield",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 424,
+        "crit_damage": 4.4
+      },
+      "passive": {
+        "trigger": "ultimate_use",
+        "effects": [],
+        "description": "20% chance to increase Crit Chance by 18/20/22/24/26/28/30% for 5 sec when using the Ultimate Move."
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "jet-black-wand",
+      "name": "Jet-black Wand",
+      "weapon_type": "wand",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 424,
+        "crit_damage": 4.4
+      },
+      "passive": {
+        "trigger": "ultimate_use",
+        "effects": [],
+        "description": "20% chance to increase Crit Chance by 18/20/22/24/26/28/30% for 5 sec when using the Ultimate Move."
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "melody-of-temptation-grimoire",
+      "name": "Melody of Temptation Grimoire",
+      "weapon_type": "temptation-grimoire",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 328,
+        "healing_efficiency": 3.41
+      },
+      "passive": {
+        "trigger": null,
+        "effects": [],
+        "description": "Increases Barrier Efficiency by 12/15/18/21/24/27/30%."
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "razorwind-wand",
+      "name": "Razorwind Wand",
+      "weapon_type": "wand",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 381
+      },
+      "passive": {
+        "trigger": "critical_hit",
+        "effects": [],
+        "description": "Critical Hits have 50% chance to increase Crit Damage by 16/20/24/28/32/36/40% or 4/5/6/7/8/9/10% for 15 sec. (Cooldown: 25 sec)"
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "skyborne-gale-dual-swords",
+      "name": "Skyborne Gale Dual Swords",
+      "weapon_type": "dual-swords",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 321,
+        "crit_rate": 2.49
+      },
+      "passive": {
+        "trigger": "back_attack",
+        "effects": [],
+        "description": "Back Attacks decrease Crit Resistance by 16/20/24/28/32/36/40% for 20 sec."
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "thorn-of-greed-lance",
+      "name": "Thorn of Greed Lance",
+      "weapon_type": "greed-lance",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 339,
+        "attack_increase": 4.89
+      },
+      "passive": {
+        "trigger": "on_hit",
+        "effects": [],
+        "description": "Hitting an enemy taking DoT increases damage dealt by 6/7/8/9/10/11/12%."
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    },
+    {
+      "weapon_id": "unyielding-spirit-sword-and-shield",
+      "name": "Unyielding Spirit Sword and Shield",
+      "weapon_type": "and-shield",
+      "rarity": null,
+      "stats": {
+        "equipment_attack": 348,
+        "accuracy": 20
+      },
+      "passive": {
+        "trigger": null,
+        "effects": [],
+        "description": "Increases Barrier Efficiency by 12/15/18/21/24/27/30%."
+      },
+      "burst_context": {
+        "burst_trigger": false,
+        "combined_trigger": false,
+        "tag_trigger": false,
+        "evade_trigger": false,
+        "deluge_tags": []
+      },
+      "source_url": "https://genshin.gg/7dso/weapons/",
+      "source_refs": {
+        "manual": false,
+        "genshin": true
+      }
+    }
+  ],
+  "coverage": {
+    "populated": true,
+    "source": "genshin+manual",
+    "note": "Base équipable alimentée depuis genshin.gg/7dso/weapons avec surcharge manuelle optionnelle."
+  }
+}

@@ -1,0 +1,15 @@
+[
+  {
+    "id": "red-demon",
+    "name": "7DSOrigin.gg",
+    "stats": null,
+    "description": "Personnages",
+    "images": {
+      "portrait": "https://7dsorigin.gg/images/bosses/red-demon.png"
+    },
+    "rewards": [],
+    "strategy": null,
+    "source": "7dsorigin.gg",
+    "source_url": "https://7dsorigin.gg/boss/red-demon"
+  }
+]

@@ -1,0 +1,2192 @@
+{
+  "generated_at": "2026-03-02T20:49:51.265Z",
+  "counts": {
+    "characters": 26,
+    "character_weapons": 78,
+    "skills": 0,
+    "skill_icons": 0,
+    "rarities": 0,
+    "elements": 0,
+    "element_icons": 0,
+    "stat_icons": 0,
+    "armor_sets": 0,
+    "armor_pieces": 0,
+    "potentials": 0,
+    "potential_bonuses": 0,
+    "bosses": 1,
+    "boss_rewards": 0,
+    "boss_strategy": 0,
+    "weapons": 86,
+    "interactive_map": 0,
+    "banners": 0,
+    "events": 0,
+    "familiars": 0,
+    "items": 0,
+    "foods": 0,
+    "fishing": 0,
+    "costumes": 207,
+    "general": 0
+  },
+  "entities": {
+    "characters": [
+      {
+        "id": "daisy",
+        "name": "Daisy",
+        "rarity": "5★",
+        "element": "Earth",
+        "image": "https://7dsorigin.gg/images/characters/slot_Daisy_001.png"
+      },
+      {
+        "id": "diane",
+        "name": "Diane",
+        "rarity": "5★",
+        "element": "Earth",
+        "image": "https://sunderarmor.com/7DSO/7dso-meta-image.png"
+      },
+      {
+        "id": "drake",
+        "name": "Drake",
+        "rarity": "5★",
+        "element": "Thunder",
+        "image": "https://7dsorigin.gg/images/characters/slot_Drake_001.png"
+      },
+      {
+        "id": "elaine",
+        "name": "Elaine",
+        "rarity": "5★",
+        "element": "Wind",
+        "image": "https://7dsorigin.gg/images/characters/slot_elaine_001.png"
+      },
+      {
+        "id": "guila",
+        "name": "Guila",
+        "rarity": "5★",
+        "element": "Fire",
+        "image": "https://7dsorigin.gg/images/characters/slot_guila_001.png"
+      },
+      {
+        "id": "jericho",
+        "name": "Jericho",
+        "rarity": "5★",
+        "element": "Cold",
+        "image": "https://7dsorigin.gg/images/characters/slot_jericho_001.png"
+      },
+      {
+        "id": "king",
+        "name": "King",
+        "rarity": "5★",
+        "element": "Holy",
+        "image": "https://7dsorigin.gg/images/characters/slot_king_001.png"
+      },
+      {
+        "id": "manny",
+        "name": "Manny",
+        "rarity": "5★",
+        "element": "Holy",
+        "image": "https://7dsorigin.gg/images/characters/slot_manny_001.png"
+      },
+      {
+        "id": "meliodas",
+        "name": "Meliodas",
+        "rarity": "6★",
+        "element": "Darkness",
+        "image": "https://7dsorigin.gg/images/characters/meliodas.png"
+      },
+      {
+        "id": "slader",
+        "name": "Slader",
+        "rarity": "5★",
+        "element": "Fire",
+        "image": "https://7dsorigin.gg/images/characters/slot_slader_001.png"
+      },
+      {
+        "id": "bug",
+        "name": "Bug",
+        "rarity": "5★",
+        "element": "Darkness",
+        "image": "https://7dsorigin.gg/images/characters/slot_bug_001.png"
+      },
+      {
+        "id": "dreydrin",
+        "name": "Dreydrin",
+        "rarity": "5★",
+        "element": "Earth",
+        "image": "https://7dsorigin.gg/images/characters/slot_dreydrin_001.png"
+      },
+      {
+        "id": "dreyfus",
+        "name": "Dreyfus",
+        "rarity": "5★",
+        "element": "Physical",
+        "image": "https://7dsorigin.gg/images/characters/slot_dreyfus_001.png"
+      },
+      {
+        "id": "gilthunder",
+        "name": "Gil Thunder",
+        "rarity": "5★",
+        "element": "Thunder",
+        "image": "https://7dsorigin.gg/images/characters/slot_gil_thunder_001.png"
+      },
+      {
+        "id": "griamore",
+        "name": "Griamore",
+        "rarity": "5★",
+        "element": "Physical",
+        "image": "https://7dsorigin.gg/images/characters/slot_griamore_001.png"
+      },
+      {
+        "id": "hendrickson",
+        "name": "Hendrickson",
+        "rarity": "5★",
+        "element": "Holy",
+        "image": "https://7dsorigin.gg/images/characters/slot_hendrickson_001.png"
+      },
+      {
+        "id": "howzer",
+        "name": "Howzer",
+        "rarity": "5★",
+        "element": "Wind",
+        "image": "https://7dsorigin.gg/images/characters/slot_howzer_001.png"
+      },
+      {
+        "id": "tioreh",
+        "name": "Tioreh",
+        "rarity": "5★",
+        "element": "Fire",
+        "image": "https://7dsorigin.gg/images/characters/slot_tioreh_001.png"
+      },
+      {
+        "id": "tristan",
+        "name": "Tristan",
+        "rarity": "5★",
+        "element": "Fire",
+        "image": "https://7dsorigin.gg/images/characters/slot_tristan_001.png"
+      },
+      {
+        "id": "ban",
+        "name": "Ban",
+        "rarity": "6★",
+        "element": null,
+        "image": "https://sunderarmor.com/7DSO/7dso-meta-image.png"
+      },
+      {
+        "id": "derieri",
+        "name": "Derieri",
+        "rarity": "5★",
+        "element": null,
+        "image": "https://7dsorigin.gg/images/characters/slot_Derieri_001.png"
+      },
+      {
+        "id": "elizabeth",
+        "name": "Elizabeth",
+        "rarity": "5★",
+        "element": null,
+        "image": "https://7dsorigin.gg/images/characters/slot_elizabeth_001.png"
+      },
+      {
+        "id": "escanor",
+        "name": "Escanor",
+        "rarity": "5★",
+        "element": null,
+        "image": "https://7dsorigin.gg/images/characters/slot_Escanor_001.png"
+      },
+      {
+        "id": "gowther",
+        "name": "Gowther",
+        "rarity": "5★",
+        "element": null,
+        "image": "https://7dsorigin.gg/images/characters/gowther.png"
+      },
+      {
+        "id": "klotho",
+        "name": "Klotho",
+        "rarity": "4★",
+        "element": null,
+        "image": "https://7dsorigin.gg/images/characters/slot_Klotho_001.png"
+      },
+      {
+        "id": "merlin",
+        "name": "Merlin",
+        "rarity": "6★",
+        "element": null,
+        "image": "https://7dsorigin.gg/images/characters/merlin.png"
+      }
+    ],
+    "bosses": [
+      {
+        "id": "red-demon",
+        "name": "7DSOrigin.gg",
+        "image": "https://7dsorigin.gg/images/bosses/red-demon.png"
+      }
+    ],
+    "weapons": [
+      {
+        "id": "Black Flame Wings Axe",
+        "name": "Black Flame Wings Axe",
+        "rarity": null,
+        "type": "Wings Axe",
+        "icon": null
+      },
+      {
+        "id": "Black Flame Wings Dual Swords",
+        "name": "Black Flame Wings Dual Swords",
+        "rarity": null,
+        "type": "Dual Swords",
+        "icon": null
+      },
+      {
+        "id": "Black Flame Wings Gauntlets",
+        "name": "Black Flame Wings Gauntlets",
+        "rarity": null,
+        "type": "Wings Gauntlets",
+        "icon": null
+      },
+      {
+        "id": "Black Flame Wings Greatsword",
+        "name": "Black Flame Wings Greatsword",
+        "rarity": null,
+        "type": "Wings Greatsword",
+        "icon": null
+      },
+      {
+        "id": "Black Flame Wings Grimoire",
+        "name": "Black Flame Wings Grimoire",
+        "rarity": null,
+        "type": "Wings Grimoire",
+        "icon": null
+      },
+      {
+        "id": "Black Flame Wings Lance",
+        "name": "Black Flame Wings Lance",
+        "rarity": null,
+        "type": "Wings Lance",
+        "icon": null
+      },
+      {
+        "id": "Black Flame Wings Longsword",
+        "name": "Black Flame Wings Longsword",
+        "rarity": null,
+        "type": "Wings Longsword",
+        "icon": null
+      },
+      {
+        "id": "Black Flame Wings Rapier",
+        "name": "Black Flame Wings Rapier",
+        "rarity": null,
+        "type": "Wings Rapier",
+        "icon": null
+      },
+      {
+        "id": "Black Flame Wings Staff",
+        "name": "Black Flame Wings Staff",
+        "rarity": null,
+        "type": "Wings Staff",
+        "icon": null
+      },
+      {
+        "id": "Black Flame Wings Sword and Shield",
+        "name": "Black Flame Wings Sword and Shield",
+        "rarity": null,
+        "type": "and Shield",
+        "icon": null
+      },
+      {
+        "id": "Black Flame Wings Wand",
+        "name": "Black Flame Wings Wand",
+        "rarity": null,
+        "type": "Wings Wand",
+        "icon": null
+      },
+      {
+        "id": "Eternal Grace Axe",
+        "name": "Eternal Grace Axe",
+        "rarity": null,
+        "type": "Grace Axe",
+        "icon": null
+      },
+      {
+        "id": "Eternal Grace Dual Swords",
+        "name": "Eternal Grace Dual Swords",
+        "rarity": null,
+        "type": "Dual Swords",
+        "icon": null
+      },
+      {
+        "id": "Eternal Grace Gauntlets",
+        "name": "Eternal Grace Gauntlets",
+        "rarity": null,
+        "type": "Grace Gauntlets",
+        "icon": null
+      },
+      {
+        "id": "Eternal Grace Greatsword",
+        "name": "Eternal Grace Greatsword",
+        "rarity": null,
+        "type": "Grace Greatsword",
+        "icon": null
+      },
+      {
+        "id": "Eternal Grace Grimoire",
+        "name": "Eternal Grace Grimoire",
+        "rarity": null,
+        "type": "Grace Grimoire",
+        "icon": null
+      },
+      {
+        "id": "Eternal Grace Lance",
+        "name": "Eternal Grace Lance",
+        "rarity": null,
+        "type": "Grace Lance",
+        "icon": null
+      },
+      {
+        "id": "Eternal Grace Longsword",
+        "name": "Eternal Grace Longsword",
+        "rarity": null,
+        "type": "Grace Longsword",
+        "icon": null
+      },
+      {
+        "id": "Eternal Grace Rapier",
+        "name": "Eternal Grace Rapier",
+        "rarity": null,
+        "type": "Grace Rapier",
+        "icon": null
+      },
+      {
+        "id": "Eternal Grace Staff",
+        "name": "Eternal Grace Staff",
+        "rarity": null,
+        "type": "Grace Staff",
+        "icon": null
+      },
+      {
+        "id": "Eternal Grace Sword and Shield",
+        "name": "Eternal Grace Sword and Shield",
+        "rarity": null,
+        "type": "and Shield",
+        "icon": null
+      },
+      {
+        "id": "Eternal Grace Wand",
+        "name": "Eternal Grace Wand",
+        "rarity": null,
+        "type": "Grace Wand",
+        "icon": null
+      },
+      {
+        "id": "Indomitable Guard Axe",
+        "name": "Indomitable Guard Axe",
+        "rarity": null,
+        "type": "Guard Axe",
+        "icon": null
+      },
+      {
+        "id": "Indomitable Guard Dual Swords",
+        "name": "Indomitable Guard Dual Swords",
+        "rarity": null,
+        "type": "Dual Swords",
+        "icon": null
+      },
+      {
+        "id": "Indomitable Guard Gauntlets",
+        "name": "Indomitable Guard Gauntlets",
+        "rarity": null,
+        "type": "Guard Gauntlets",
+        "icon": null
+      },
+      {
+        "id": "Indomitable Guard Greatsword",
+        "name": "Indomitable Guard Greatsword",
+        "rarity": null,
+        "type": "Guard Greatsword",
+        "icon": null
+      },
+      {
+        "id": "Indomitable Guard Grimoire",
+        "name": "Indomitable Guard Grimoire",
+        "rarity": null,
+        "type": "Guard Grimoire",
+        "icon": null
+      },
+      {
+        "id": "Indomitable Guard Lance",
+        "name": "Indomitable Guard Lance",
+        "rarity": null,
+        "type": "Guard Lance",
+        "icon": null
+      },
+      {
+        "id": "Indomitable Guard Longsword",
+        "name": "Indomitable Guard Longsword",
+        "rarity": null,
+        "type": "Guard Longsword",
+        "icon": null
+      },
+      {
+        "id": "Indomitable Guard Rapier",
+        "name": "Indomitable Guard Rapier",
+        "rarity": null,
+        "type": "Guard Rapier",
+        "icon": null
+      },
+      {
+        "id": "Indomitable Guard Staff",
+        "name": "Indomitable Guard Staff",
+        "rarity": null,
+        "type": "Guard Staff",
+        "icon": null
+      },
+      {
+        "id": "Indomitable Guard Sword and Shield",
+        "name": "Indomitable Guard Sword and Shield",
+        "rarity": null,
+        "type": "and Shield",
+        "icon": null
+      },
+      {
+        "id": "Indomitable Guard Wand",
+        "name": "Indomitable Guard Wand",
+        "rarity": null,
+        "type": "Guard Wand",
+        "icon": null
+      },
+      {
+        "id": "Shadow of Rupture Axe",
+        "name": "Shadow of Rupture Axe",
+        "rarity": null,
+        "type": "Rupture Axe",
+        "icon": null
+      },
+      {
+        "id": "Shadow of Rupture Dual Swords",
+        "name": "Shadow of Rupture Dual Swords",
+        "rarity": null,
+        "type": "Dual Swords",
+        "icon": null
+      },
+      {
+        "id": "Shadow of Rupture Gauntlets",
+        "name": "Shadow of Rupture Gauntlets",
+        "rarity": null,
+        "type": "Rupture Gauntlets",
+        "icon": null
+      },
+      {
+        "id": "Shadow of Rupture Greatsword",
+        "name": "Shadow of Rupture Greatsword",
+        "rarity": null,
+        "type": "Rupture Greatsword",
+        "icon": null
+      },
+      {
+        "id": "Shadow of Rupture Grimoire",
+        "name": "Shadow of Rupture Grimoire",
+        "rarity": null,
+        "type": "Rupture Grimoire",
+        "icon": null
+      },
+      {
+        "id": "Shadow of Rupture Lance",
+        "name": "Shadow of Rupture Lance",
+        "rarity": null,
+        "type": "Rupture Lance",
+        "icon": null
+      },
+      {
+        "id": "Shadow of Rupture Longsword",
+        "name": "Shadow of Rupture Longsword",
+        "rarity": null,
+        "type": "Rupture Longsword",
+        "icon": null
+      },
+      {
+        "id": "Shadow of Rupture Rapier",
+        "name": "Shadow of Rupture Rapier",
+        "rarity": null,
+        "type": "Rupture Rapier",
+        "icon": null
+      },
+      {
+        "id": "Shadow of Rupture Staff",
+        "name": "Shadow of Rupture Staff",
+        "rarity": null,
+        "type": "Rupture Staff",
+        "icon": null
+      },
+      {
+        "id": "Shadow of Rupture Sword and Shield",
+        "name": "Shadow of Rupture Sword and Shield",
+        "rarity": null,
+        "type": "and Shield",
+        "icon": null
+      },
+      {
+        "id": "Shadow of Rupture Wand",
+        "name": "Shadow of Rupture Wand",
+        "rarity": null,
+        "type": "Rupture Wand",
+        "icon": null
+      },
+      {
+        "id": "Black Shadow Greatsword",
+        "name": "Black Shadow Greatsword",
+        "rarity": null,
+        "type": "Shadow Greatsword",
+        "icon": null
+      },
+      {
+        "id": "Blazing Axe",
+        "name": "Blazing Axe",
+        "rarity": null,
+        "type": "Axe",
+        "icon": null
+      },
+      {
+        "id": "Blazing Dual Swords",
+        "name": "Blazing Dual Swords",
+        "rarity": null,
+        "type": "Dual Swords",
+        "icon": null
+      },
+      {
+        "id": "Blazing Gauntlets",
+        "name": "Blazing Gauntlets",
+        "rarity": null,
+        "type": "Gauntlets",
+        "icon": null
+      },
+      {
+        "id": "Blazing Greatsword",
+        "name": "Blazing Greatsword",
+        "rarity": null,
+        "type": "Greatsword",
+        "icon": null
+      },
+      {
+        "id": "Blazing Grimoire",
+        "name": "Blazing Grimoire",
+        "rarity": null,
+        "type": "Book",
+        "icon": null
+      },
+      {
+        "id": "Blazing Lance",
+        "name": "Blazing Lance",
+        "rarity": null,
+        "type": "Lance",
+        "icon": null
+      },
+      {
+        "id": "Blazing Longsword",
+        "name": "Blazing Longsword",
+        "rarity": null,
+        "type": "Longsword",
+        "icon": null
+      },
+      {
+        "id": "Blazing Rapier",
+        "name": "Blazing Rapier",
+        "rarity": null,
+        "type": "Rapier",
+        "icon": null
+      },
+      {
+        "id": "Blazing Staff",
+        "name": "Blazing Staff",
+        "rarity": null,
+        "type": "Staff",
+        "icon": null
+      },
+      {
+        "id": "Blazing Sword and Shield",
+        "name": "Blazing Sword and Shield",
+        "rarity": null,
+        "type": "and Shield",
+        "icon": null
+      },
+      {
+        "id": "Blazing Wand",
+        "name": "Blazing Wand",
+        "rarity": null,
+        "type": "Wand",
+        "icon": null
+      },
+      {
+        "id": "Chaos Song Rapier",
+        "name": "Chaos Song Rapier",
+        "rarity": null,
+        "type": "Song Rapier",
+        "icon": null
+      },
+      {
+        "id": "Corrupted Conviction Longsword",
+        "name": "Corrupted Conviction Longsword",
+        "rarity": null,
+        "type": "Conviction Longsword",
+        "icon": null
+      },
+      {
+        "id": "Corrupted Will Gauntlets",
+        "name": "Corrupted Will Gauntlets",
+        "rarity": null,
+        "type": "Will Gauntlets",
+        "icon": null
+      },
+      {
+        "id": "Crimson Flame Dual Swords",
+        "name": "Crimson Flame Dual Swords",
+        "rarity": null,
+        "type": "Dual Swords",
+        "icon": null
+      },
+      {
+        "id": "Crimson Flame Gauntlets",
+        "name": "Crimson Flame Gauntlets",
+        "rarity": null,
+        "type": "Flame Gauntlets",
+        "icon": null
+      },
+      {
+        "id": "Crimson Flame Greatsword",
+        "name": "Crimson Flame Greatsword",
+        "rarity": null,
+        "type": "Flame Greatsword",
+        "icon": null
+      },
+      {
+        "id": "Crimson Flame Grimoire",
+        "name": "Crimson Flame Grimoire",
+        "rarity": null,
+        "type": "Flame Grimoire",
+        "icon": null
+      },
+      {
+        "id": "Crimson Flame Lance",
+        "name": "Crimson Flame Lance",
+        "rarity": null,
+        "type": "Flame Lance",
+        "icon": null
+      },
+      {
+        "id": "Crimson Flame Longsword",
+        "name": "Crimson Flame Longsword",
+        "rarity": null,
+        "type": "Flame Longsword",
+        "icon": null
+      },
+      {
+        "id": "Crimson Flame Rapier",
+        "name": "Crimson Flame Rapier",
+        "rarity": null,
+        "type": "Flame Rapier",
+        "icon": null
+      },
+      {
+        "id": "Crimson Flame Staff",
+        "name": "Crimson Flame Staff",
+        "rarity": null,
+        "type": "Flame Staff",
+        "icon": null
+      },
+      {
+        "id": "Crimson Flame Sword and Shield",
+        "name": "Crimson Flame Sword and Shield",
+        "rarity": null,
+        "type": "and Shield",
+        "icon": null
+      },
+      {
+        "id": "Crimson Flame Wand",
+        "name": "Crimson Flame Wand",
+        "rarity": null,
+        "type": "Flame Wand",
+        "icon": null
+      },
+      {
+        "id": "Dark Clouds Enhancement Staff",
+        "name": "Dark Clouds Enhancement Staff",
+        "rarity": null,
+        "type": "Enhancement Staff",
+        "icon": null
+      },
+      {
+        "id": "Jet-black Axe",
+        "name": "Jet-black Axe",
+        "rarity": null,
+        "type": "Axe",
+        "icon": null
+      },
+      {
+        "id": "Jet-black Dual Swords",
+        "name": "Jet-black Dual Swords",
+        "rarity": null,
+        "type": "Dual Swords",
+        "icon": null
+      },
+      {
+        "id": "Jet-black Gauntlets",
+        "name": "Jet-black Gauntlets",
+        "rarity": null,
+        "type": "Gauntlets",
+        "icon": null
+      },
+      {
+        "id": "Jet-black Greatsword",
+        "name": "Jet-black Greatsword",
+        "rarity": null,
+        "type": "Greatsword",
+        "icon": null
+      },
+      {
+        "id": "Jet-black Grimoire",
+        "name": "Jet-black Grimoire",
+        "rarity": null,
+        "type": "Book",
+        "icon": null
+      },
+      {
+        "id": "Jet-black Lance",
+        "name": "Jet-black Lance",
+        "rarity": null,
+        "type": "Lance",
+        "icon": null
+      },
+      {
+        "id": "Jet-black Longsword",
+        "name": "Jet-black Longsword",
+        "rarity": null,
+        "type": "Longsword",
+        "icon": null
+      },
+      {
+        "id": "Jet-black Rapier",
+        "name": "Jet-black Rapier",
+        "rarity": null,
+        "type": "Rapier",
+        "icon": null
+      },
+      {
+        "id": "Jet-black Staff",
+        "name": "Jet-black Staff",
+        "rarity": null,
+        "type": "Staff",
+        "icon": null
+      },
+      {
+        "id": "Jet-black Sword and Shield",
+        "name": "Jet-black Sword and Shield",
+        "rarity": null,
+        "type": "and Shield",
+        "icon": null
+      },
+      {
+        "id": "Jet-black Wand",
+        "name": "Jet-black Wand",
+        "rarity": null,
+        "type": "Wand",
+        "icon": null
+      },
+      {
+        "id": "Melody of Temptation Grimoire",
+        "name": "Melody of Temptation Grimoire",
+        "rarity": null,
+        "type": "Temptation Grimoire",
+        "icon": null
+      },
+      {
+        "id": "Razorwind Wand",
+        "name": "Razorwind Wand",
+        "rarity": null,
+        "type": "Wand",
+        "icon": null
+      },
+      {
+        "id": "Skyborne Gale Dual Swords",
+        "name": "Skyborne Gale Dual Swords",
+        "rarity": null,
+        "type": "Dual Swords",
+        "icon": null
+      },
+      {
+        "id": "Thorn of Greed Lance",
+        "name": "Thorn of Greed Lance",
+        "rarity": null,
+        "type": "Greed Lance",
+        "icon": null
+      },
+      {
+        "id": "Unyielding Spirit Sword and Shield",
+        "name": "Unyielding Spirit Sword and Shield",
+        "rarity": null,
+        "type": "and Shield",
+        "icon": null
+      }
+    ],
+    "costumes": [
+      {
+        "id": "escanor::Aucun skin disponible",
+        "name": "Aucun skin disponible",
+        "character_id": "escanor",
+        "image": null
+      },
+      {
+        "id": "escanor::Les skins pour ce personnage seront bientôt ajoutés.",
+        "name": "Les skins pour ce personnage seront bientôt ajoutés.",
+        "character_id": "escanor",
+        "image": null
+      },
+      {
+        "id": "elizabeth::Aucun skin disponible",
+        "name": "Aucun skin disponible",
+        "character_id": "elizabeth",
+        "image": null
+      },
+      {
+        "id": "elizabeth::Les skins pour ce personnage seront bientôt ajoutés.",
+        "name": "Les skins pour ce personnage seront bientôt ajoutés.",
+        "character_id": "elizabeth",
+        "image": null
+      },
+      {
+        "id": "derieri::Aucun skin disponible",
+        "name": "Aucun skin disponible",
+        "character_id": "derieri",
+        "image": null
+      },
+      {
+        "id": "derieri::Les skins pour ce personnage seront bientôt ajoutés.",
+        "name": "Les skins pour ce personnage seront bientôt ajoutés.",
+        "character_id": "derieri",
+        "image": null
+      },
+      {
+        "id": "tristan::Petit Prince",
+        "name": "Petit Prince",
+        "character_id": "tristan",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "tristan::Tenue d'Entraînement du Prince",
+        "name": "Tenue d'Entraînement du Prince",
+        "character_id": "tristan",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "tristan::Tenue Formelle",
+        "name": "Tenue Formelle",
+        "character_id": "tristan",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "tristan::Dignité Royale",
+        "name": "Dignité Royale",
+        "character_id": "tristan",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "tristan::Aventure du Prince",
+        "name": "Aventure du Prince",
+        "character_id": "tristan",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "tristan::7DSOrigin.gg",
+        "name": "7DSOrigin.gg",
+        "character_id": "tristan",
+        "image": "https://7dsorigin.gg/images/costumes/icon_Tristan_005.png"
+      },
+      {
+        "id": "tioreh::Fée Adorable",
+        "name": "Fée Adorable",
+        "character_id": "tioreh",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "tioreh::Sortie Décontractée",
+        "name": "Sortie Décontractée",
+        "character_id": "tioreh",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "tioreh::Fille de la Forêt et de la Terre",
+        "name": "Fille de la Forêt et de la Terre",
+        "character_id": "tioreh",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "tioreh::Début de l'Aventure",
+        "name": "Début de l'Aventure",
+        "character_id": "tioreh",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "tioreh::7DSOrigin.gg",
+        "name": "7DSOrigin.gg",
+        "character_id": "tioreh",
+        "image": "https://7dsorigin.gg/images/costumes/icon_Tioreh_004.png"
+      },
+      {
+        "id": "howzer::Grand Maître de Confiance",
+        "name": "Grand Maître de Confiance",
+        "character_id": "howzer",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "howzer::Chope de Bière en Fin de Journée",
+        "name": "Chope de Bière en Fin de Journée",
+        "character_id": "howzer",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "howzer::Chevalier Sacré des Tempêtes",
+        "name": "Chevalier Sacré des Tempêtes",
+        "character_id": "howzer",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "howzer::Aventure Sécurisée",
+        "name": "Aventure Sécurisée",
+        "character_id": "howzer",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "howzer::Dignité du Grand Maître",
+        "name": "Dignité du Grand Maître",
+        "character_id": "howzer",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "howzer::7DSOrigin.gg",
+        "name": "7DSOrigin.gg",
+        "character_id": "howzer",
+        "image": "https://7dsorigin.gg/images/costumes/icon_Howzer_005.png"
+      },
+      {
+        "id": "hendrickson::Apothicaire de Liones",
+        "name": "Apothicaire de Liones",
+        "character_id": "hendrickson",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "hendrickson::Gris Romantique",
+        "name": "Gris Romantique",
+        "character_id": "hendrickson",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "hendrickson::Un Costume des Jeunes Années",
+        "name": "Un Costume des Jeunes Années",
+        "character_id": "hendrickson",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "hendrickson::Tenue de Travail d'Apothicaire",
+        "name": "Tenue de Travail d'Apothicaire",
+        "character_id": "hendrickson",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "hendrickson::Chevalier Sacré Revenu",
+        "name": "Chevalier Sacré Revenu",
+        "character_id": "hendrickson",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "hendrickson::7DSOrigin.gg",
+        "name": "7DSOrigin.gg",
+        "character_id": "hendrickson",
+        "image": "https://7dsorigin.gg/images/costumes/icon_Hendrickson_005.png"
+      },
+      {
+        "id": "griamore::Chevalier Gardien de la Princesse",
+        "name": "Chevalier Gardien de la Princesse",
+        "character_id": "griamore",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "griamore::Sortie Décontractée",
+        "name": "Sortie Décontractée",
+        "character_id": "griamore",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "griamore::Chevalier Sacré du Mur de Fer",
+        "name": "Chevalier Sacré du Mur de Fer",
+        "character_id": "griamore",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "griamore::Barricade de Fortune",
+        "name": "Barricade de Fortune",
+        "character_id": "griamore",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "griamore::Forteresse de Fer Imprenable",
+        "name": "Forteresse de Fer Imprenable",
+        "character_id": "griamore",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "griamore::7DSOrigin.gg",
+        "name": "7DSOrigin.gg",
+        "character_id": "griamore",
+        "image": "https://7dsorigin.gg/images/costumes/icon_Griamore_005.png"
+      },
+      {
+        "id": "gilthunder::Jeune Chevalier Sacré",
+        "name": "Jeune Chevalier Sacré",
+        "character_id": "gilthunder",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "gilthunder::Chevalier Sacré Exemplaire",
+        "name": "Chevalier Sacré Exemplaire",
+        "character_id": "gilthunder",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "gilthunder::Chevalier Sacré de la Foudre",
+        "name": "Chevalier Sacré de la Foudre",
+        "character_id": "gilthunder",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "gilthunder::Aventure Exemplaire",
+        "name": "Aventure Exemplaire",
+        "character_id": "gilthunder",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "gilthunder::Chevalier Sacré Prometteur",
+        "name": "Chevalier Sacré Prometteur",
+        "character_id": "gilthunder",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "gilthunder::7DSOrigin.gg",
+        "name": "7DSOrigin.gg",
+        "character_id": "gilthunder",
+        "image": "https://7dsorigin.gg/images/costumes/icon_Gil_thunder_005.png"
+      },
+      {
+        "id": "dreyfus::Instructeur d'Art de l'Épée du Royaume",
+        "name": "Instructeur d'Art de l'Épée du Royaume",
+        "character_id": "dreyfus",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "dreyfus::Majordome Royal",
+        "name": "Majordome Royal",
+        "character_id": "dreyfus",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "dreyfus::Honneur du Vieux Soldat",
+        "name": "Honneur du Vieux Soldat",
+        "character_id": "dreyfus",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "dreyfus::Tenue Simple",
+        "name": "Tenue Simple",
+        "character_id": "dreyfus",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "dreyfus::Chevalier Honorable",
+        "name": "Chevalier Honorable",
+        "character_id": "dreyfus",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "dreyfus::7DSOrigin.gg",
+        "name": "7DSOrigin.gg",
+        "character_id": "dreyfus",
+        "image": "https://7dsorigin.gg/images/costumes/icon_Dreyfus_005.png"
+      },
+      {
+        "id": "dreydrin::Apprenti Chevalier Sacré Amical",
+        "name": "Apprenti Chevalier Sacré Amical",
+        "character_id": "dreydrin",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "dreydrin::Un Beau Jour de Repos",
+        "name": "Un Beau Jour de Repos",
+        "character_id": "dreydrin",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "dreydrin::Descendant de la Royauté",
+        "name": "Descendant de la Royauté",
+        "character_id": "dreydrin",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "dreydrin::Préparation Minutieuse",
+        "name": "Préparation Minutieuse",
+        "character_id": "dreydrin",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "dreydrin::Défense Solide",
+        "name": "Défense Solide",
+        "character_id": "dreydrin",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "dreydrin::7DSOrigin.gg",
+        "name": "7DSOrigin.gg",
+        "character_id": "dreydrin",
+        "image": "https://7dsorigin.gg/images/costumes/icon_Dreydrin_005.png"
+      },
+      {
+        "id": "bug::Démon Timide",
+        "name": "Démon Timide",
+        "character_id": "bug",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "bug::Sortie du Démon",
+        "name": "Sortie du Démon",
+        "character_id": "bug",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "bug::Marche de l'Ombre",
+        "name": "Marche de l'Ombre",
+        "character_id": "bug",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "bug::Discrétion du Démon",
+        "name": "Discrétion du Démon",
+        "character_id": "bug",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "bug::Instinct Aiguisé",
+        "name": "Instinct Aiguisé",
+        "character_id": "bug",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "bug::7DSOrigin.gg",
+        "name": "7DSOrigin.gg",
+        "character_id": "bug",
+        "image": "https://7dsorigin.gg/images/costumes/icon_Bug_005.png"
+      },
+      {
+        "id": "slader::Chevalier Sacré Vétéran",
+        "name": "Chevalier Sacré Vétéran",
+        "character_id": "slader",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "slader::Ami Loyal",
+        "name": "Ami Loyal",
+        "character_id": "slader",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "slader::Épée de l'Ancien Roi",
+        "name": "Épée de l'Ancien Roi",
+        "character_id": "slader",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "slader::Mission Secrète",
+        "name": "Mission Secrète",
+        "character_id": "slader",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "slader::Préparation Totale",
+        "name": "Préparation Totale",
+        "character_id": "slader",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "slader::7DSOrigin.gg",
+        "name": "7DSOrigin.gg",
+        "character_id": "slader",
+        "image": "https://7dsorigin.gg/images/costumes/icon_Slader_005.png"
+      },
+      {
+        "id": "manny::Prêtresse Exaltée",
+        "name": "Prêtresse Exaltée",
+        "character_id": "manny",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "manny::Cœur de Prière",
+        "name": "Cœur de Prière",
+        "character_id": "manny",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "manny::Prestige de l'Archi-Prêtresse",
+        "name": "Prestige de l'Archi-Prêtresse",
+        "character_id": "manny",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "manny::Exploration de l'Inconnu",
+        "name": "Exploration de l'Inconnu",
+        "character_id": "manny",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "manny::7DSOrigin.gg",
+        "name": "7DSOrigin.gg",
+        "character_id": "manny",
+        "image": "https://7dsorigin.gg/images/costumes/icon_Manny_004.png"
+      },
+      {
+        "id": "jericho::Chevalière Sacrée en Fuite",
+        "name": "Chevalière Sacrée en Fuite",
+        "character_id": "jericho",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "jericho::Moment de Détente",
+        "name": "Moment de Détente",
+        "character_id": "jericho",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "jericho::Chevalière Sacrée avec Visière en Étoile",
+        "name": "Chevalière Sacrée avec Visière en Étoile",
+        "character_id": "jericho",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "jericho::Voyageuse Secrète",
+        "name": "Voyageuse Secrète",
+        "character_id": "jericho",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "jericho::Trace de Souvenirs",
+        "name": "Trace de Souvenirs",
+        "character_id": "jericho",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "jericho::7DSOrigin.gg",
+        "name": "7DSOrigin.gg",
+        "character_id": "jericho",
+        "image": "https://7dsorigin.gg/images/costumes/icon_Jericho_005.png"
+      },
+      {
+        "id": "guila::L'Unique et Seul Chevalier Sacré",
+        "name": "L'Unique et Seul Chevalier Sacré",
+        "character_id": "guila",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "guila::Temps en Famille",
+        "name": "Temps en Famille",
+        "character_id": "guila",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "guila::Chevalier Sacré des Explosions",
+        "name": "Chevalier Sacré des Explosions",
+        "character_id": "guila",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "guila::Pas Légers",
+        "name": "Pas Légers",
+        "character_id": "guila",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "guila::Traînée de Flamme Écarlate",
+        "name": "Traînée de Flamme Écarlate",
+        "character_id": "guila",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "guila::7DSOrigin.gg",
+        "name": "7DSOrigin.gg",
+        "character_id": "guila",
+        "image": "https://7dsorigin.gg/images/costumes/icon_Guila_005.png"
+      },
+      {
+        "id": "elaine::Sainte Gardienne de la Fontaine de Jeunesse",
+        "name": "Sainte Gardienne de la Fontaine de Jeunesse",
+        "character_id": "elaine",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "elaine::Employée Temporaire",
+        "name": "Employée Temporaire",
+        "character_id": "elaine",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "elaine::Lumière Directrice",
+        "name": "Lumière Directrice",
+        "character_id": "elaine",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "elaine::Sortie Joyeuse",
+        "name": "Sortie Joyeuse",
+        "character_id": "elaine",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "elaine::Dignité de la Sainte",
+        "name": "Dignité de la Sainte",
+        "character_id": "elaine",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "elaine::7DSOrigin.gg",
+        "name": "7DSOrigin.gg",
+        "character_id": "elaine",
+        "image": "https://7dsorigin.gg/images/costumes/icon_Elaine_005.png"
+      },
+      {
+        "id": "drake::Descendant du Dragon",
+        "name": "Descendant du Dragon",
+        "character_id": "drake",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "drake::Serment du Trône",
+        "name": "Serment du Trône",
+        "character_id": "drake",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "drake::Gloire du Passé",
+        "name": "Gloire du Passé",
+        "character_id": "drake",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "drake::Seigneur de l'Ombre",
+        "name": "Seigneur de l'Ombre",
+        "character_id": "drake",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "drake::7DSOrigin.gg",
+        "name": "7DSOrigin.gg",
+        "character_id": "drake",
+        "image": "https://7dsorigin.gg/images/costumes/icon_Drake_004.png"
+      },
+      {
+        "id": "daisy::Fée du Passé",
+        "name": "Fée du Passé",
+        "character_id": "daisy",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "daisy::Petite Exploratrice",
+        "name": "Petite Exploratrice",
+        "character_id": "daisy",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "daisy::Parfum d'Automne",
+        "name": "Parfum d'Automne",
+        "character_id": "daisy",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "daisy::7DSOrigin.gg",
+        "name": "7DSOrigin.gg",
+        "character_id": "daisy",
+        "image": "https://7dsorigin.gg/images/costumes/icon_Daisy_003.png"
+      },
+      {
+        "id": "gowther::Aucun skin disponible",
+        "name": "Aucun skin disponible",
+        "character_id": "gowther",
+        "image": null
+      },
+      {
+        "id": "gowther::Les skins pour ce personnage seront bientôt ajoutés.",
+        "name": "Les skins pour ce personnage seront bientôt ajoutés.",
+        "character_id": "gowther",
+        "image": null
+      },
+      {
+        "id": "merlin::Aucun skin disponible",
+        "name": "Aucun skin disponible",
+        "character_id": "merlin",
+        "image": null
+      },
+      {
+        "id": "merlin::Les skins pour ce personnage seront bientôt ajoutés.",
+        "name": "Les skins pour ce personnage seront bientôt ajoutés.",
+        "character_id": "merlin",
+        "image": null
+      },
+      {
+        "id": "diane::Géante Amoureuse",
+        "name": "Géante Amoureuse",
+        "character_id": "diane",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "diane::Hôtesse de Taverne",
+        "name": "Hôtesse de Taverne",
+        "character_id": "diane",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "diane::<Le Péché de l'Envie du Serpent>",
+        "name": "<Le Péché de l'Envie du Serpent>",
+        "character_id": "diane",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "diane::Fille Joyeuse",
+        "name": "Fille Joyeuse",
+        "character_id": "diane",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "diane::7DSOrigin.gg",
+        "name": "7DSOrigin.gg",
+        "character_id": "diane",
+        "image": "https://7dsorigin.gg/images/costumes/icon_Diane_004.png"
+      },
+      {
+        "id": "king::Roi des Fées Inexpérimenté",
+        "name": "Roi des Fées Inexpérimenté",
+        "character_id": "king",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "king::Pas de la Forêt",
+        "name": "Pas de la Forêt",
+        "character_id": "king",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "king::<Le Péché de la Paresse du Grizzly>",
+        "name": "<Le Péché de la Paresse du Grizzly>",
+        "character_id": "king",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "king::Ombre de la Forêt Profonde",
+        "name": "Ombre de la Forêt Profonde",
+        "character_id": "king",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "king::7DSOrigin.gg",
+        "name": "7DSOrigin.gg",
+        "character_id": "king",
+        "image": "https://7dsorigin.gg/images/costumes/icon_King_004.png"
+      },
+      {
+        "id": "klotho::Aucun skin disponible",
+        "name": "Aucun skin disponible",
+        "character_id": "klotho",
+        "image": null
+      },
+      {
+        "id": "klotho::Les skins pour ce personnage seront bientôt ajoutés.",
+        "name": "Les skins pour ce personnage seront bientôt ajoutés.",
+        "character_id": "klotho",
+        "image": null
+      },
+      {
+        "id": "ban::Aucun skin disponible",
+        "name": "Aucun skin disponible",
+        "character_id": "ban",
+        "image": null
+      },
+      {
+        "id": "ban::Les skins pour ce personnage seront bientôt ajoutés.",
+        "name": "Les skins pour ce personnage seront bientôt ajoutés.",
+        "character_id": "ban",
+        "image": null
+      },
+      {
+        "id": "meliodas::Propriétaire de Taverne Ordinaire",
+        "name": "Propriétaire de Taverne Ordinaire",
+        "character_id": "meliodas",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "meliodas::Une Nouvelle Aventure",
+        "name": "Une Nouvelle Aventure",
+        "character_id": "meliodas",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "meliodas::<Le Péché du Dragon de la Colère>",
+        "name": "<Le Péché du Dragon de la Colère>",
+        "character_id": "meliodas",
+        "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+      },
+      {
+        "id": "meliodas::7DSOrigin.gg",
+        "name": "7DSOrigin.gg",
+        "character_id": "meliodas",
+        "image": "https://7dsorigin.gg/images/costumes/icon_Meliodas_003.png"
+      },
+      {
+        "id": "daisy::Fairy of the Past",
+        "name": "Fairy of the Past",
+        "character_id": "daisy",
+        "image": null
+      },
+      {
+        "id": "daisy::Small Explorer",
+        "name": "Small Explorer",
+        "character_id": "daisy",
+        "image": null
+      },
+      {
+        "id": "daisy::Autumn Scent",
+        "name": "Autumn Scent",
+        "character_id": "daisy",
+        "image": null
+      },
+      {
+        "id": "diane::Giant Girl in Love",
+        "name": "Giant Girl in Love",
+        "character_id": "diane",
+        "image": null
+      },
+      {
+        "id": "diane::Tavern Hostess",
+        "name": "Tavern Hostess",
+        "character_id": "diane",
+        "image": null
+      },
+      {
+        "id": "diane::<The Serpent Sin of Envy>",
+        "name": "<The Serpent Sin of Envy>",
+        "character_id": "diane",
+        "image": null
+      },
+      {
+        "id": "diane::Cheerful Girl",
+        "name": "Cheerful Girl",
+        "character_id": "diane",
+        "image": null
+      },
+      {
+        "id": "drake::Dragon Descendent",
+        "name": "Dragon Descendent",
+        "character_id": "drake",
+        "image": null
+      },
+      {
+        "id": "drake::Oath of the Throne",
+        "name": "Oath of the Throne",
+        "character_id": "drake",
+        "image": null
+      },
+      {
+        "id": "drake::Glory of the Past",
+        "name": "Glory of the Past",
+        "character_id": "drake",
+        "image": null
+      },
+      {
+        "id": "drake::Shadow Lord",
+        "name": "Shadow Lord",
+        "character_id": "drake",
+        "image": null
+      },
+      {
+        "id": "elaine::Guardian Saint of the Fountain of Youth",
+        "name": "Guardian Saint of the Fountain of Youth",
+        "character_id": "elaine",
+        "image": null
+      },
+      {
+        "id": "elaine::Temp Employee",
+        "name": "Temp Employee",
+        "character_id": "elaine",
+        "image": null
+      },
+      {
+        "id": "elaine::Guiding Light",
+        "name": "Guiding Light",
+        "character_id": "elaine",
+        "image": null
+      },
+      {
+        "id": "elaine::Cheerful Outing",
+        "name": "Cheerful Outing",
+        "character_id": "elaine",
+        "image": null
+      },
+      {
+        "id": "elaine::Saintess's Dignity",
+        "name": "Saintess's Dignity",
+        "character_id": "elaine",
+        "image": null
+      },
+      {
+        "id": "guila::One and Only Holy Knight",
+        "name": "One and Only Holy Knight",
+        "character_id": "guila",
+        "image": null
+      },
+      {
+        "id": "guila::Family Time",
+        "name": "Family Time",
+        "character_id": "guila",
+        "image": null
+      },
+      {
+        "id": "guila::Holy Knight of Explosions",
+        "name": "Holy Knight of Explosions",
+        "character_id": "guila",
+        "image": null
+      },
+      {
+        "id": "guila::If the hero has 10 or more Crit Chance boosts when using the Ultimate Move, the cooldown of the Special Attack decreases by 30/40/50% for 20 sec.",
+        "name": "If the hero has 10 or more Crit Chance boosts when using the Ultimate Move, the cooldown of the Special Attack decreases by 30/40/50% for 20 sec.",
+        "character_id": "guila",
+        "image": null
+      },
+      {
+        "id": "guila::Light Footsteps",
+        "name": "Light Footsteps",
+        "character_id": "guila",
+        "image": null
+      },
+      {
+        "id": "guila::Crimson Flame's Trail",
+        "name": "Crimson Flame's Trail",
+        "character_id": "guila",
+        "image": null
+      },
+      {
+        "id": "jericho::Runaway Holy Knight",
+        "name": "Runaway Holy Knight",
+        "character_id": "jericho",
+        "image": null
+      },
+      {
+        "id": "jericho::Leisurely Moment",
+        "name": "Leisurely Moment",
+        "character_id": "jericho",
+        "image": null
+      },
+      {
+        "id": "jericho::Holy Knight With the Star-Shaped Visor",
+        "name": "Holy Knight With the Star-Shaped Visor",
+        "character_id": "jericho",
+        "image": null
+      },
+      {
+        "id": "jericho::Secretive Traveler",
+        "name": "Secretive Traveler",
+        "character_id": "jericho",
+        "image": null
+      },
+      {
+        "id": "jericho::Trace of Memories",
+        "name": "Trace of Memories",
+        "character_id": "jericho",
+        "image": null
+      },
+      {
+        "id": "king::Inexperienced Fairy King",
+        "name": "Inexperienced Fairy King",
+        "character_id": "king",
+        "image": null
+      },
+      {
+        "id": "king::Forest's Footsteps",
+        "name": "Forest's Footsteps",
+        "character_id": "king",
+        "image": null
+      },
+      {
+        "id": "king::<The Grizzly Sin of Sloth>",
+        "name": "<The Grizzly Sin of Sloth>",
+        "character_id": "king",
+        "image": null
+      },
+      {
+        "id": "king::Shadow of the Deep Forest",
+        "name": "Shadow of the Deep Forest",
+        "character_id": "king",
+        "image": null
+      },
+      {
+        "id": "manny::Exalted Priestess",
+        "name": "Exalted Priestess",
+        "character_id": "manny",
+        "image": null
+      },
+      {
+        "id": "manny::Heart of Prayer",
+        "name": "Heart of Prayer",
+        "character_id": "manny",
+        "image": null
+      },
+      {
+        "id": "manny::Arch Priestess's Prestige",
+        "name": "Arch Priestess's Prestige",
+        "character_id": "manny",
+        "image": null
+      },
+      {
+        "id": "manny::Exploration of the Unknown",
+        "name": "Exploration of the Unknown",
+        "character_id": "manny",
+        "image": null
+      },
+      {
+        "id": "meliodas::Ordinary Tavern Owner",
+        "name": "Ordinary Tavern Owner",
+        "character_id": "meliodas",
+        "image": null
+      },
+      {
+        "id": "meliodas::A New Adventure",
+        "name": "A New Adventure",
+        "character_id": "meliodas",
+        "image": null
+      },
+      {
+        "id": "meliodas::<The Dragon Sin of Wrath>",
+        "name": "<The Dragon Sin of Wrath>",
+        "character_id": "meliodas",
+        "image": null
+      },
+      {
+        "id": "slader::Veteran Holy Knight",
+        "name": "Veteran Holy Knight",
+        "character_id": "slader",
+        "image": null
+      },
+      {
+        "id": "slader::Loyal Friend",
+        "name": "Loyal Friend",
+        "character_id": "slader",
+        "image": null
+      },
+      {
+        "id": "slader::Sword of the Old King",
+        "name": "Sword of the Old King",
+        "character_id": "slader",
+        "image": null
+      },
+      {
+        "id": "slader::Secret Mission",
+        "name": "Secret Mission",
+        "character_id": "slader",
+        "image": null
+      },
+      {
+        "id": "slader::Total Readiness",
+        "name": "Total Readiness",
+        "character_id": "slader",
+        "image": null
+      },
+      {
+        "id": "bug::Shy Demon",
+        "name": "Shy Demon",
+        "character_id": "bug",
+        "image": null
+      },
+      {
+        "id": "bug::Demon's Outing",
+        "name": "Demon's Outing",
+        "character_id": "bug",
+        "image": null
+      },
+      {
+        "id": "bug::Shadow Walk",
+        "name": "Shadow Walk",
+        "character_id": "bug",
+        "image": null
+      },
+      {
+        "id": "bug::Demon's Stealth",
+        "name": "Demon's Stealth",
+        "character_id": "bug",
+        "image": null
+      },
+      {
+        "id": "bug::Keen Instinct",
+        "name": "Keen Instinct",
+        "character_id": "bug",
+        "image": null
+      },
+      {
+        "id": "dreydrin::Friendly Apprentice Holy Knight",
+        "name": "Friendly Apprentice Holy Knight",
+        "character_id": "dreydrin",
+        "image": null
+      },
+      {
+        "id": "dreydrin::A Nice Day Off",
+        "name": "A Nice Day Off",
+        "character_id": "dreydrin",
+        "image": null
+      },
+      {
+        "id": "dreydrin::Descendant of Royalty",
+        "name": "Descendant of Royalty",
+        "character_id": "dreydrin",
+        "image": null
+      },
+      {
+        "id": "dreydrin::Thorough Preparation",
+        "name": "Thorough Preparation",
+        "character_id": "dreydrin",
+        "image": null
+      },
+      {
+        "id": "dreydrin::Solid Defense",
+        "name": "Solid Defense",
+        "character_id": "dreydrin",
+        "image": null
+      },
+      {
+        "id": "dreyfus::Kingdom Sword Art Instructor",
+        "name": "Kingdom Sword Art Instructor",
+        "character_id": "dreyfus",
+        "image": null
+      },
+      {
+        "id": "dreyfus::Royal Butler",
+        "name": "Royal Butler",
+        "character_id": "dreyfus",
+        "image": null
+      },
+      {
+        "id": "dreyfus::Old Soldier's Honor",
+        "name": "Old Soldier's Honor",
+        "character_id": "dreyfus",
+        "image": null
+      },
+      {
+        "id": "dreyfus::Simple Attire",
+        "name": "Simple Attire",
+        "character_id": "dreyfus",
+        "image": null
+      },
+      {
+        "id": "dreyfus::Honorable Knight",
+        "name": "Honorable Knight",
+        "character_id": "dreyfus",
+        "image": null
+      },
+      {
+        "id": "gilthunder::Young Holy Knight",
+        "name": "Young Holy Knight",
+        "character_id": "gilthunder",
+        "image": null
+      },
+      {
+        "id": "gilthunder::Exemplary Holy Knight",
+        "name": "Exemplary Holy Knight",
+        "character_id": "gilthunder",
+        "image": null
+      },
+      {
+        "id": "gilthunder::Holy Knight of Lightning",
+        "name": "Holy Knight of Lightning",
+        "character_id": "gilthunder",
+        "image": null
+      },
+      {
+        "id": "gilthunder::Exemplary Adventure",
+        "name": "Exemplary Adventure",
+        "character_id": "gilthunder",
+        "image": null
+      },
+      {
+        "id": "gilthunder::Promising Holy Knight",
+        "name": "Promising Holy Knight",
+        "character_id": "gilthunder",
+        "image": null
+      },
+      {
+        "id": "griamore::Princess's Guardian Knight",
+        "name": "Princess's Guardian Knight",
+        "character_id": "griamore",
+        "image": null
+      },
+      {
+        "id": "griamore::Casual Outing",
+        "name": "Casual Outing",
+        "character_id": "griamore",
+        "image": null
+      },
+      {
+        "id": "griamore::Holy Knight of the Iron Wall",
+        "name": "Holy Knight of the Iron Wall",
+        "character_id": "griamore",
+        "image": null
+      },
+      {
+        "id": "griamore::Makeshift Barricade",
+        "name": "Makeshift Barricade",
+        "character_id": "griamore",
+        "image": null
+      },
+      {
+        "id": "griamore::Increases Attack by 15/20/25% or gains a barrier equal to 6/8/10% of Max HP every 15 sec when in combat. (Does not stack)",
+        "name": "Increases Attack by 15/20/25% or gains a barrier equal to 6/8/10% of Max HP every 15 sec when in combat. (Does not stack)",
+        "character_id": "griamore",
+        "image": null
+      },
+      {
+        "id": "griamore::Impregnable Iron Fortress",
+        "name": "Impregnable Iron Fortress",
+        "character_id": "griamore",
+        "image": null
+      },
+      {
+        "id": "hendrickson::Liones Apothecary",
+        "name": "Liones Apothecary",
+        "character_id": "hendrickson",
+        "image": null
+      },
+      {
+        "id": "hendrickson::Romantic Gray",
+        "name": "Romantic Gray",
+        "character_id": "hendrickson",
+        "image": null
+      },
+      {
+        "id": "hendrickson::A Suit From Younger Days",
+        "name": "A Suit From Younger Days",
+        "character_id": "hendrickson",
+        "image": null
+      },
+      {
+        "id": "hendrickson::Apothecary's Workwear",
+        "name": "Apothecary's Workwear",
+        "character_id": "hendrickson",
+        "image": null
+      },
+      {
+        "id": "hendrickson::Returned Holy Knight",
+        "name": "Returned Holy Knight",
+        "character_id": "hendrickson",
+        "image": null
+      },
+      {
+        "id": "howzer::Trusted Grandmaster",
+        "name": "Trusted Grandmaster",
+        "character_id": "howzer",
+        "image": null
+      },
+      {
+        "id": "howzer::End-of-Day Mug of Ale",
+        "name": "End-of-Day Mug of Ale",
+        "character_id": "howzer",
+        "image": null
+      },
+      {
+        "id": "howzer::Holy Knight of Storms",
+        "name": "Holy Knight of Storms",
+        "character_id": "howzer",
+        "image": null
+      },
+      {
+        "id": "howzer::Secure Adventure",
+        "name": "Secure Adventure",
+        "character_id": "howzer",
+        "image": null
+      },
+      {
+        "id": "howzer::Grandmaster's Dignity",
+        "name": "Grandmaster's Dignity",
+        "character_id": "howzer",
+        "image": null
+      },
+      {
+        "id": "tioreh::Adorable Fairy",
+        "name": "Adorable Fairy",
+        "character_id": "tioreh",
+        "image": null
+      },
+      {
+        "id": "tioreh::Casual Outing",
+        "name": "Casual Outing",
+        "character_id": "tioreh",
+        "image": null
+      },
+      {
+        "id": "tioreh::Daughter of the Forest and Earth",
+        "name": "Daughter of the Forest and Earth",
+        "character_id": "tioreh",
+        "image": null
+      },
+      {
+        "id": "tioreh::Adventure's Beginning",
+        "name": "Adventure's Beginning",
+        "character_id": "tioreh",
+        "image": null
+      },
+      {
+        "id": "tristan::Little Prince",
+        "name": "Little Prince",
+        "character_id": "tristan",
+        "image": null
+      },
+      {
+        "id": "tristan::Prince's Training Outfit",
+        "name": "Prince's Training Outfit",
+        "character_id": "tristan",
+        "image": null
+      },
+      {
+        "id": "tristan::Formal Attire",
+        "name": "Formal Attire",
+        "character_id": "tristan",
+        "image": null
+      },
+      {
+        "id": "tristan::Royal Dignity",
+        "name": "Royal Dignity",
+        "character_id": "tristan",
+        "image": null
+      },
+      {
+        "id": "tristan::Prince's Adventure",
+        "name": "Prince's Adventure",
+        "character_id": "tristan",
+        "image": null
+      }
+    ]
+  },
+  "search": {
+    "characters": {
+      "daisy": "daisy",
+      "diane": "diane",
+      "drake": "drake",
+      "elaine": "elaine",
+      "guila": "guila",
+      "jericho": "jericho",
+      "king": "king",
+      "manny": "manny",
+      "meliodas": "meliodas",
+      "slader": "slader",
+      "bug": "bug",
+      "dreydrin": "dreydrin",
+      "dreyfus": "dreyfus",
+      "gil thunder": "gilthunder",
+      "griamore": "griamore",
+      "hendrickson": "hendrickson",
+      "howzer": "howzer",
+      "tioreh": "tioreh",
+      "tristan": "tristan",
+      "ban": "ban",
+      "derieri": "derieri",
+      "elizabeth": "elizabeth",
+      "escanor": "escanor",
+      "gowther": "gowther",
+      "klotho": "klotho",
+      "merlin": "merlin"
+    },
+    "bosses": {
+      "7dsorigin.gg": "red-demon"
+    },
+    "weapons": {
+      "black flame wings axe": "Black Flame Wings Axe",
+      "black flame wings dual swords": "Black Flame Wings Dual Swords",
+      "black flame wings gauntlets": "Black Flame Wings Gauntlets",
+      "black flame wings greatsword": "Black Flame Wings Greatsword",
+      "black flame wings grimoire": "Black Flame Wings Grimoire",
+      "black flame wings lance": "Black Flame Wings Lance",
+      "black flame wings longsword": "Black Flame Wings Longsword",
+      "black flame wings rapier": "Black Flame Wings Rapier",
+      "black flame wings staff": "Black Flame Wings Staff",
+      "black flame wings sword and shield": "Black Flame Wings Sword and Shield",
+      "black flame wings wand": "Black Flame Wings Wand",
+      "eternal grace axe": "Eternal Grace Axe",
+      "eternal grace dual swords": "Eternal Grace Dual Swords",
+      "eternal grace gauntlets": "Eternal Grace Gauntlets",
+      "eternal grace greatsword": "Eternal Grace Greatsword",
+      "eternal grace grimoire": "Eternal Grace Grimoire",
+      "eternal grace lance": "Eternal Grace Lance",
+      "eternal grace longsword": "Eternal Grace Longsword",
+      "eternal grace rapier": "Eternal Grace Rapier",
+      "eternal grace staff": "Eternal Grace Staff",
+      "eternal grace sword and shield": "Eternal Grace Sword and Shield",
+      "eternal grace wand": "Eternal Grace Wand",
+      "indomitable guard axe": "Indomitable Guard Axe",
+      "indomitable guard dual swords": "Indomitable Guard Dual Swords",
+      "indomitable guard gauntlets": "Indomitable Guard Gauntlets",
+      "indomitable guard greatsword": "Indomitable Guard Greatsword",
+      "indomitable guard grimoire": "Indomitable Guard Grimoire",
+      "indomitable guard lance": "Indomitable Guard Lance",
+      "indomitable guard longsword": "Indomitable Guard Longsword",
+      "indomitable guard rapier": "Indomitable Guard Rapier",
+      "indomitable guard staff": "Indomitable Guard Staff",
+      "indomitable guard sword and shield": "Indomitable Guard Sword and Shield",
+      "indomitable guard wand": "Indomitable Guard Wand",
+      "shadow of rupture axe": "Shadow of Rupture Axe",
+      "shadow of rupture dual swords": "Shadow of Rupture Dual Swords",
+      "shadow of rupture gauntlets": "Shadow of Rupture Gauntlets",
+      "shadow of rupture greatsword": "Shadow of Rupture Greatsword",
+      "shadow of rupture grimoire": "Shadow of Rupture Grimoire",
+      "shadow of rupture lance": "Shadow of Rupture Lance",
+      "shadow of rupture longsword": "Shadow of Rupture Longsword",
+      "shadow of rupture rapier": "Shadow of Rupture Rapier",
+      "shadow of rupture staff": "Shadow of Rupture Staff",
+      "shadow of rupture sword and shield": "Shadow of Rupture Sword and Shield",
+      "shadow of rupture wand": "Shadow of Rupture Wand",
+      "black shadow greatsword": "Black Shadow Greatsword",
+      "blazing axe": "Blazing Axe",
+      "blazing dual swords": "Blazing Dual Swords",
+      "blazing gauntlets": "Blazing Gauntlets",
+      "blazing greatsword": "Blazing Greatsword",
+      "blazing grimoire": "Blazing Grimoire",
+      "blazing lance": "Blazing Lance",
+      "blazing longsword": "Blazing Longsword",
+      "blazing rapier": "Blazing Rapier",
+      "blazing staff": "Blazing Staff",
+      "blazing sword and shield": "Blazing Sword and Shield",
+      "blazing wand": "Blazing Wand",
+      "chaos song rapier": "Chaos Song Rapier",
+      "corrupted conviction longsword": "Corrupted Conviction Longsword",
+      "corrupted will gauntlets": "Corrupted Will Gauntlets",
+      "crimson flame dual swords": "Crimson Flame Dual Swords",
+      "crimson flame gauntlets": "Crimson Flame Gauntlets",
+      "crimson flame greatsword": "Crimson Flame Greatsword",
+      "crimson flame grimoire": "Crimson Flame Grimoire",
+      "crimson flame lance": "Crimson Flame Lance",
+      "crimson flame longsword": "Crimson Flame Longsword",
+      "crimson flame rapier": "Crimson Flame Rapier",
+      "crimson flame staff": "Crimson Flame Staff",
+      "crimson flame sword and shield": "Crimson Flame Sword and Shield",
+      "crimson flame wand": "Crimson Flame Wand",
+      "dark clouds enhancement staff": "Dark Clouds Enhancement Staff",
+      "jet-black axe": "Jet-black Axe",
+      "jet-black dual swords": "Jet-black Dual Swords",
+      "jet-black gauntlets": "Jet-black Gauntlets",
+      "jet-black greatsword": "Jet-black Greatsword",
+      "jet-black grimoire": "Jet-black Grimoire",
+      "jet-black lance": "Jet-black Lance",
+      "jet-black longsword": "Jet-black Longsword",
+      "jet-black rapier": "Jet-black Rapier",
+      "jet-black staff": "Jet-black Staff",
+      "jet-black sword and shield": "Jet-black Sword and Shield",
+      "jet-black wand": "Jet-black Wand",
+      "melody of temptation grimoire": "Melody of Temptation Grimoire",
+      "razorwind wand": "Razorwind Wand",
+      "skyborne gale dual swords": "Skyborne Gale Dual Swords",
+      "thorn of greed lance": "Thorn of Greed Lance",
+      "unyielding spirit sword and shield": "Unyielding Spirit Sword and Shield"
+    }
+  }
+}

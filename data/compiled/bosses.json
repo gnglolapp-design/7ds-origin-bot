@@ -1,0 +1,427 @@
+[
+  {
+    "slug": "information",
+    "name": "Information",
+    "order": 0,
+    "description": "Informations générales sur les boss Nightmare.",
+    "images": {
+      "portrait": null
+    },
+    "source_url": "https://www.hideoutgacha.com/games/seven-deadly-sins-origin",
+    "guide": {
+      "title": "Guide Boss Nightmare — Informations générales",
+      "subtitle": "Les mécaniques communes à comprendre avant de choisir un boss.",
+      "sections": [
+        {
+          "key": "overview",
+          "label": "Vue d’ensemble",
+          "title": "Informations générales",
+          "paragraphs": [
+            "Les versions Nightmare du Guardian Golem corrompu, de Drake, du Red Demon et du Grey Demon servent surtout à tester la coordination de l’équipe et la constance du DPS.",
+            "Ces combats peuvent sembler simples avec un groupe très avancé, mais ils deviennent nettement plus exigeants quand votre puissance se rapproche du niveau recommandé. Dans des conditions de progression normales, leurs mécaniques comptent réellement."
+          ]
+        },
+        {
+          "key": "multiplayer",
+          "label": "Multijoueur",
+          "title": "Le multijoueur change tout",
+          "paragraphs": [
+            "Le facteur qui influence le plus la difficulté est le fait de jouer seul ou à plusieurs. En multijoueur, la pression baisse fortement : même si un joueur est en retard en équipement, les autres compensent avec plus de dégâts et davantage d’interruptions.",
+            "Les boss entrent plus vite en stagger, leurs mécaniques sont moins punitives, et un groupe complet peut quasiment enchaîner compétences, ultimes et bursts sans interruption."
+          ],
+          "callout": {
+            "title": "En difficulté en solo ?",
+            "text": "Passer en multijoueur reste la solution la plus efficace. Même un seul allié supplémentaire réduit fortement la charge mécanique."
+          }
+        },
+        {
+          "key": "ai",
+          "label": "IA & patterns",
+          "title": "IA des boss et logique de combat",
+          "paragraphs": [
+            "Ces boss ne sont pas de simples sacs à PV. Leur IA utilise plusieurs techniques spéciales et punit rapidement les groupes qui restent mal placés ou qui dépensent tous leurs cooldowns au mauvais moment."
+          ],
+          "bullets": [
+            "Ciblage fréquent en diagonale",
+            "Repositionnement vers un joueur tout en attaquant un autre",
+            "Attaques de zone qui punissent les groupes tassés",
+            "Capacités qui interrompent les combos et les enchaînements de skills"
+          ]
+        },
+        {
+          "key": "blue-outline",
+          "label": "Contour bleu",
+          "title": "La mécanique du contour bleu",
+          "callout": {
+            "title": "Mécanique la plus importante",
+            "text": "Quand le boss s’illumine en bleu, il prépare une technique spéciale majeure. Utilise immédiatement une capacité de Tag (switch de personnage) pour l’interrompre."
+          },
+          "bullets": [
+            "Annule l’attaque spéciale en préparation",
+            "Met le boss au sol",
+            "Ouvre une grande fenêtre de dégâts",
+            "Permet à l’équipe de décharger librement ses bursts"
+          ],
+          "paragraphs": [
+            "En multijoueur, un seul joueur peut se charger de l’interruption pendant que les autres maximisent les dégâts."
+          ]
+        },
+        {
+          "key": "damage-plan",
+          "label": "Plan de jeu",
+          "title": "Fenêtres de dégâts et plan de jeu",
+          "bullets": [
+            "Survivre et gérer les mécaniques avant tout",
+            "Interrompre systématiquement les phases à contour bleu",
+            "Garder les gros cooldowns pour les fenêtres de knockdown",
+            "Ne pas sur-engager si votre groupe est sous le niveau recommandé"
+          ],
+          "fields": [
+            {
+              "name": "Si vous êtes sous-stuff",
+              "value": "• Priorité à l’apprentissage des interrupts\n• Préfère le multijoueur\n• Réserve les bursts pour les knockdowns"
+            },
+            {
+              "name": "Si vous êtes overgear",
+              "value": "• Les clears seront rapides\n• Les mécaniques existent toujours\n• Restez coordonnés pour burst pendant les ouvertures"
+            }
+          ]
+        }
+      ]
+    },
+    "sources": {
+      "seven_origin": null,
+      "hideout": [
+        "https://www.hideoutgacha.com/games/seven-deadly-sins-origin",
+        "https://www.hideoutgacha.com/games/seven-deadly-sins-origin/combat-guide",
+        "https://www.hideoutgacha.com/games/seven-deadly-sins-origin/boss-guide"
+      ]
+    }
+  },
+  {
+    "slug": "guardian-golem",
+    "name": "Guardian Golem",
+    "order": 1,
+    "description": "Boss tanky centré sur les impacts lourds et le contrôle du rythme.",
+    "images": {
+      "portrait": null
+    },
+    "source_url": "https://www.hideoutgacha.com/games/seven-deadly-sins-origin",
+    "guide": {
+      "title": "Guardian Golem — Nightmare",
+      "subtitle": "Un boss d’endurance basé sur les interruptions et les fenêtres de knockdown.",
+      "sections": [
+        {
+          "key": "overview",
+          "label": "Fight overview",
+          "title": "Vue d’ensemble du combat",
+          "paragraphs": [
+            "Le Guardian Golem s’appuie sur de gros coups directionnels et une pression constante. Ses attaques ne sont pas forcément létales individuellement, mais les interruptions répétées cassent facilement le rythme de vos rotations.",
+            "Si votre équipe manque de burst, le combat devient un test de régularité : plus l’affrontement dure, plus vous devez gérer proprement ses techniques spéciales."
+          ]
+        },
+        {
+          "key": "core",
+          "label": "Core mechanics",
+          "title": "Mécaniques clés",
+          "callout": {
+            "title": "Phase bleue — critique",
+            "text": "Quand le Golem brille en bleu, il prépare une grosse technique spéciale. Utilise immédiatement un Tag pour l’interrompre."
+          },
+          "bullets": [
+            "Annule la technique entrante",
+            "Met le boss au sol",
+            "Ouvre une grosse fenêtre de dégâts"
+          ]
+        },
+        {
+          "key": "strategy",
+          "label": "Strategy",
+          "title": "Stratégie",
+          "fields": [
+            {
+              "name": "Si vous êtes sous-stuff",
+              "value": "• Jouez patiemment\n• Ne committez pas tous les cooldowns en même temps\n• Gardez les gros dégâts pour les phases de knockdown\n• Coordonnez les interrupts en multijoueur"
+            },
+            {
+              "name": "Si vous êtes overgear",
+              "value": "• Centrez le plan de jeu sur vos bursts\n• Interrompez tôt pour maximiser les ouvertures\n• Utilisez le multijoueur pour simplifier le combat"
+            }
+          ]
+        }
+      ]
+    },
+    "sources": {
+      "seven_origin": null,
+      "hideout": [
+        "https://www.hideoutgacha.com/games/seven-deadly-sins-origin",
+        "https://www.hideoutgacha.com/games/seven-deadly-sins-origin/combat-guide",
+        "https://www.hideoutgacha.com/games/seven-deadly-sins-origin/boss-guide"
+      ]
+    }
+  },
+  {
+    "slug": "drake",
+    "name": "Drake",
+    "order": 2,
+    "description": "Boss plus mobile et plus chaotique que le Golem, très exigeant sur le placement.",
+    "images": {
+      "portrait": null
+    },
+    "source_url": "https://www.hideoutgacha.com/games/seven-deadly-sins-origin",
+    "guide": {
+      "title": "Draco King Drake — Nightmare",
+      "subtitle": "Un combat mobile qui punit les équipes avec un faible DPS ou un mauvais positionnement.",
+      "sections": [
+        {
+          "key": "overview",
+          "label": "Fight overview",
+          "title": "Vue d’ensemble du combat",
+          "paragraphs": [
+            "Drake est plus dynamique et plus chaotique que le Guardian Golem. Il mélange mobilité, angles d’attaque obliques et enchaînements de techniques capables d’écraser les équipes qui manquent de dégâts.",
+            "Le combat force à esquiver et à se repositionner très souvent. Si votre groupe n’applique pas assez de pression, le risque d’erreur augmente rapidement."
+          ]
+        },
+        {
+          "key": "core",
+          "label": "Core mechanics",
+          "title": "Mécaniques clés",
+          "callout": {
+            "title": "Phase bleue — critique",
+            "text": "Quand Drake entre en contour bleu avant une grosse capacité, l’interruption par Tag devient encore plus importante que sur le Golem à cause de sa mobilité."
+          },
+          "bullets": [
+            "Coupez la capacité dès le début de l’animation",
+            "Profitez du knockdown pour vider vos bursts",
+            "Gardez toujours un joueur prêt à interrompre"
+          ]
+        },
+        {
+          "key": "strategy",
+          "label": "Strategy",
+          "title": "Stratégie",
+          "bullets": [
+            "Jouez autour du positionnement et évitez les angles morts",
+            "Ne vous éparpillez pas inutilement, mais ne restez pas packés sur sa trajectoire",
+            "Interrompez le plus tôt possible pour transformer ses ouvertures en vrais windows de dégâts",
+            "Si le DPS est faible, priorisez la survie et les esquives propres plutôt qu’un burst risqué"
+          ]
+        }
+      ]
+    },
+    "sources": {
+      "seven_origin": null,
+      "hideout": [
+        "https://www.hideoutgacha.com/games/seven-deadly-sins-origin",
+        "https://www.hideoutgacha.com/games/seven-deadly-sins-origin/combat-guide",
+        "https://www.hideoutgacha.com/games/seven-deadly-sins-origin/boss-guide"
+      ]
+    }
+  },
+  {
+    "slug": "red-demon",
+    "name": "Red Demon",
+    "order": 3,
+    "description": "Boss de raid très agressif avec invocation rituelle et patterns lisibles selon la distance.",
+    "images": {
+      "portrait": "https://7dsorigin.gg/images/bosses/red-demon.png"
+    },
+    "source_url": "https://www.hideoutgacha.com/games/seven-deadly-sins-origin",
+    "guide": {
+      "title": "Red Demon — Nightmare",
+      "subtitle": "Un combat orienté agression et fenêtres de burst, précédé d’un rituel d’invocation.",
+      "sections": [
+        {
+          "key": "summoning",
+          "label": "Summoning",
+          "title": "Invocation",
+          "callout": {
+            "title": "Rituel obligatoire",
+            "text": "Pour lancer le combat, il faut accomplir un rituel d’invocation. Une fois terminé, le Red Demon descend du ciel. Contrairement au Grey Demon, son atterrissage ne vous blesse pas, même s’il tombe directement sur vous."
+          }
+        },
+        {
+          "key": "core",
+          "label": "Core mechanics",
+          "title": "Mécaniques clés",
+          "paragraphs": [
+            "Les patterns du Red Demon dépendent beaucoup de votre placement. Il alterne surtout entre pression frontale, frappes de zone au sol et projectiles à distance."
+          ],
+          "bullets": [
+            "Grands coups de griffe frontaux à courte portée",
+            "Attaques au sol et zones de pression",
+            "Lancers de boules de feu à longue portée"
+          ]
+        },
+        {
+          "key": "abilities",
+          "label": "Capacités spéciales",
+          "title": "Capacités spéciales",
+          "bullets": [
+            "Punit fortement les joueurs qui restent devant lui trop longtemps",
+            "Peut enchaîner mêlée et projectiles selon la distance de l’équipe",
+            "Récompense les groupes qui reconnaissent vite le pattern en cours"
+          ]
+        },
+        {
+          "key": "flow",
+          "label": "Combat flow",
+          "title": "Flow du combat",
+          "bullets": [
+            "Terminer l’invocation",
+            "Identifier s’il joue mêlée ou distance selon votre positionnement",
+            "Punir après les grosses animations ou les recoveries visibles",
+            "Conserver les bursts pour les phases où toute l’équipe peut rester au contact sans danger"
+          ]
+        }
+      ]
+    },
+    "sources": {
+      "seven_origin": null,
+      "hideout": [
+        "https://www.hideoutgacha.com/games/seven-deadly-sins-origin",
+        "https://www.hideoutgacha.com/games/seven-deadly-sins-origin/combat-guide",
+        "https://www.hideoutgacha.com/games/seven-deadly-sins-origin/boss-guide"
+      ]
+    }
+  },
+  {
+    "slug": "grey-demon",
+    "name": "Grey Demon",
+    "order": 4,
+    "description": "Boss à double rythme avec une phase aérienne, un bouclier et une fin de combat punitive.",
+    "images": {
+      "portrait": null
+    },
+    "source_url": "https://www.hideoutgacha.com/games/seven-deadly-sins-origin",
+    "guide": {
+      "title": "Grey Demon — Nightmare",
+      "subtitle": "Un boss distinct visuellement et mécaniquement, avec phase volante et séquence finale dangereuse.",
+      "sections": [
+        {
+          "key": "summoning",
+          "label": "Summoning",
+          "title": "Invocation",
+          "callout": {
+            "title": "L’atterrissage inflige des dégâts",
+            "text": "Pour démarrer le combat, attaquez le magicien qui réalise le rituel. Le Grey Demon apparaît ensuite. Contrairement au Red Demon, son animation d’atterrissage inflige des dégâts : éloignez-vous immédiatement lorsqu’il spawn."
+          }
+        },
+        {
+          "key": "ground",
+          "label": "Ground combat",
+          "title": "Mécaniques au sol",
+          "bullets": [
+            "Toupie défensive si on l’attaque par derrière",
+            "Laser si vous gardez trop de distance",
+            "Combo de trois frappes de mêlée à courte portée",
+            "Grande entaille au sol à moyenne/longue portée"
+          ]
+        },
+        {
+          "key": "flight",
+          "label": "Flying phase",
+          "title": "Phase volante",
+          "paragraphs": [
+            "Le Grey Demon possède une phase aérienne avec une mécanique de bouclier. Cette séquence casse le rythme du combat et force l’équipe à s’adapter avant de pouvoir reprendre son burst normalement."
+          ],
+          "bullets": [
+            "Identifiez rapidement le passage en phase volante",
+            "Gérez le bouclier avant de surinvestir vos dégâts",
+            "Réorganisez le positionnement de l’équipe pendant la transition"
+          ]
+        },
+        {
+          "key": "enrage",
+          "label": "Enrage / ultimate",
+          "title": "Enrage et ultime",
+          "paragraphs": [
+            "La fin du combat comporte une séquence d’enrage / ultimate capable de punir très vite les groupes non préparés. Plus le combat traîne, plus cette partie devient menaçante."
+          ],
+          "bullets": [
+            "Gardez des cooldowns pour la fin de combat",
+            "Ne gaspillez pas les fenêtres de dégâts importantes",
+            "En multijoueur, coordonnez les bursts pour éviter une prolongation inutile"
+          ]
+        }
+      ]
+    },
+    "sources": {
+      "seven_origin": null,
+      "hideout": [
+        "https://www.hideoutgacha.com/games/seven-deadly-sins-origin",
+        "https://www.hideoutgacha.com/games/seven-deadly-sins-origin/combat-guide",
+        "https://www.hideoutgacha.com/games/seven-deadly-sins-origin/boss-guide"
+      ]
+    }
+  },
+  {
+    "slug": "albion",
+    "name": "Albion",
+    "order": 5,
+    "description": "Le combat le plus complexe, structuré en plusieurs phases avec objectifs distincts.",
+    "images": {
+      "portrait": null
+    },
+    "source_url": "https://www.hideoutgacha.com/games/seven-deadly-sins-origin",
+    "guide": {
+      "title": "Albion — L’affrontement le plus complexe",
+      "subtitle": "Le boss Nightmare le plus exigeant, avec plusieurs phases et des objectifs mécaniques uniques.",
+      "sections": [
+        {
+          "key": "phase1",
+          "label": "Phase 1",
+          "title": "Phase 1 — Briser le bouclier",
+          "paragraphs": [
+            "Albion commence le combat avec un bouclier. Le but de la première phase est de le détruire pour pouvoir grimper sur le boss et atteindre son noyau."
+          ],
+          "bullets": [
+            "Lance des boules de feu",
+            "Utilise un stun de zone",
+            "Saisit puis écrase les joueurs",
+            "Enchaîne quatre piétinements à courte portée",
+            "Possède un grand stomp monocible qui laisse une zone de dégâts persistante",
+            "Peut coincer son bras dans le sol, ce qui crée une vraie fenêtre de dégâts"
+          ]
+        },
+        {
+          "key": "climb",
+          "label": "Shield break → climb",
+          "title": "Bouclier brisé → grimper",
+          "callout": {
+            "title": "Shield Break → Climb",
+            "text": "Quand le bouclier est détruit, Albion tombe en arrière. Grimpez sur lui pour atteindre son noyau et infliger le plus de dégâts possible. Après un certain temps, il charge puis fait exploser son noyau pour éjecter les joueurs."
+          }
+        },
+        {
+          "key": "later-phases",
+          "label": "Phases suivantes",
+          "title": "Phases suivantes",
+          "paragraphs": [
+            "Le combat continue ensuite avec d’autres objectifs et transitions. Albion n’est pas un simple sac à PV : chaque phase demande de comprendre ce qu’il faut faire avant de pouvoir optimiser le DPS.",
+            "La clé est de reconnaître l’objectif actif de la phase, puis de convertir chaque réussite mécanique en vraie fenêtre de dégâts."
+          ]
+        },
+        {
+          "key": "approach",
+          "label": "Approche recommandée",
+          "title": "Approche recommandée",
+          "bullets": [
+            "Traitez Albion comme un combat à objectifs, pas comme un pur check de dégâts",
+            "Évitez de brûler vos bursts avant les phases réellement rentables",
+            "Préparez la montée sur le boss dès que le bouclier casse",
+            "En multijoueur, répartissez clairement les rôles pendant chaque transition"
+          ]
+        }
+      ]
+    },
+    "sources": {
+      "seven_origin": null,
+      "hideout": [
+        "https://www.hideoutgacha.com/games/seven-deadly-sins-origin",
+        "https://www.hideoutgacha.com/games/seven-deadly-sins-origin/combat-guide",
+        "https://www.hideoutgacha.com/games/seven-deadly-sins-origin/boss-guide"
+      ]
+    }
+  }
+]

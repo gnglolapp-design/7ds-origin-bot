@@ -1,0 +1,157 @@
+﻿import fs from "node:fs";
+import path from "node:path";
+
+function sortOptionsDeep(cmd) {
+  if (!cmd || typeof cmd !== "object") return cmd;
+
+  const clone = structuredClone(cmd);
+
+  function sortOne(arr) {
+    if (!Array.isArray(arr)) return;
+    // Required first, then stable by name (to avoid random diffs)
+    arr.sort((a, b) => {
+      const ar = a?.required ? 0 : 1;
+      const br = b?.required ? 0 : 1;
+      if (ar !== br) return ar - br;
+      const an = (a?.name ?? "").toString();
+      const bn = (b?.name ?? "").toString();
+      return an.localeCompare(bn);
+    });
+    for (const opt of arr) {
+      if (opt && Array.isArray(opt.options)) sortOne(opt.options);
+    }
+  }
+
+  sortOne(clone.options);
+  return clone;
+}
+
+function sortCommandsDeep(commands) {
+  return (commands ?? []).map(sortOptionsDeep);
+}
+
+
+function loadEnv(file) {
+  const raw = fs.readFileSync(file, "utf-8");
+  const out = {};
+  for (const line of raw.split(/\r?\n/)) {
+    if (!line || line.trim().startsWith("#")) continue;
+    const i = line.indexOf("=");
+    if (i === -1) continue;
+    out[line.slice(0, i).trim()] = line.slice(i + 1).trim();
+  }
+  return out;
+}
+
+const envPath = path.join(process.cwd(), ".env");
+if (!fs.existsSync(envPath)) throw new Error(".env manquant");
+
+const env = loadEnv(envPath);
+const appId = env.DISCORD_APPLICATION_ID;
+const guildId = env.DISCORD_GUILD_ID;
+const botToken = env.DISCORD_BOT_TOKEN;
+
+if (!appId) throw new Error("DISCORD_APPLICATION_ID manquant");
+if (!guildId) throw new Error("DISCORD_GUILD_ID manquant");
+if (!botToken) throw new Error("DISCORD_BOT_TOKEN manquant");
+
+const api = "https://discord.com/api/v10";
+const CHAT_INPUT = 1;
+const SUB_COMMAND = 1;
+const STRING = 3;
+const NUMBER = 10;
+const BOOLEAN = 5;
+const USER = 6;
+
+const commands = [
+  {
+    name: "perso",
+    description: "Afficher un personnage",
+    type: CHAT_INPUT,
+    options: [
+      { type: STRING, name: "perso", description: "Personnage", autocomplete: true, required: true },
+    ],
+  },
+  {
+    name: "boss",
+    description: "Afficher un boss",
+    type: CHAT_INPUT,
+    options: [
+      { type: STRING, name: "boss", description: "Boss", autocomplete: true, required: true },
+    ],
+  },
+  { name: "glossaire", description: "Afficher le glossaire", type: CHAT_INPUT },
+  { name: "elements", description: "Afficher le rÃ©sumÃ© des Ã©lÃ©ments", type: CHAT_INPUT },
+  {
+    name: "tierlist",
+    description: "Afficher la tierlist",
+    type: CHAT_INPUT,
+    options: [
+      { type: STRING, name: "view", description: "Vue", autocomplete: true, required: false },
+    ],
+  },
+  {
+    name: "profil",
+    description: "Profil joueur (persos possÃ©dÃ©s, potentiel, stats)",
+    type: CHAT_INPUT,
+    options: [
+      {
+        type: SUB_COMMAND,
+        name: "set",
+        description: "Renseigner un personnage dans le profil",
+        options: [
+          { type: USER, name: "membre", description: "(admin) Renseigner pour un autre membre", required: false },
+          { type: STRING, name: "perso", description: "Personnage (slug)", autocomplete: true, required: true },
+          { type: BOOLEAN, name: "owned", description: "PossÃ©dÃ© ?", required: false },
+          { type: NUMBER, name: "potential", description: "Potentiel (0-6 par ex)", required: false },
+          { type: NUMBER, name: "atk", description: "ATK", required: false },
+          { type: NUMBER, name: "def", description: "DEF", required: false },
+          { type: NUMBER, name: "hp", description: "HP", required: false },
+          { type: NUMBER, name: "crit", description: "Crit%", required: false },
+          { type: NUMBER, name: "crit_dmg", description: "Crit DMG%", required: false },
+          { type: STRING, name: "costumes", description: "Costumes (liste sÃ©parÃ©e par virgules)", required: false },
+          { type: STRING, name: "notes", description: "Notes", required: false },
+        ],
+      },
+      {
+        type: SUB_COMMAND,
+        name: "show",
+        description: "Afficher un profil",
+        options: [
+          { type: USER, name: "membre", description: "Membre", required: false },
+        ],
+      },
+      {
+        type: SUB_COMMAND,
+        name: "perso",
+        description: "Afficher un personnage d'un profil",
+        options: [
+          { type: USER, name: "membre", description: "Membre", required: false },
+          { type: STRING, name: "perso", description: "Personnage (slug)", autocomplete: true, required: true },
+        ],
+      },
+    ],
+  },
+];
+
+async function discordFetch(url, init) {
+  const res = await fetch(url, init);
+  const text = await res.text();
+  if (!res.ok) throw new Error(`${res.status} ${res.statusText}: ${text}`);
+  return text ? JSON.parse(text) : null;
+}
+
+const url = `${api}/applications/${appId}/guilds/${guildId}/commands`;
+console.log("Registering commands...", url);
+await discordFetch(url, {
+  method: "PUT",
+  headers: {
+    "Content-Type": "application/json",
+    Authorization: `Bot ${botToken}`,
+  },
+  body: JSON.stringify(commands),
+});
+
+console.log("OK");
+
+

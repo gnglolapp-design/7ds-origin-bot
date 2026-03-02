@@ -1,0 +1,3340 @@
+{
+  "generated_at": "2026-03-02T18:13:40.655Z",
+  "characters": {
+    "ban": {
+      "slug": "ban",
+      "name": "Ban",
+      "rarity": "6★",
+      "attribute": null,
+      "roles": [
+        "Unknown"
+      ],
+      "stats_keys": [],
+      "portrait": "https://7dsorigin.gg/images/characters/ban.png",
+      "weapon_names": [
+        "Nunchaku",
+        "Greatsword",
+        "Gauntlets"
+      ],
+      "costume_names": [
+        "Aucun skin disponible",
+        "Les skins pour ce personnage seront bientôt ajoutés."
+      ],
+      "costume_image_count": 0,
+      "weapons": [
+        {
+          "name": "Nunchaku",
+          "attribute": null,
+          "skills": [],
+          "potentials": []
+        },
+        {
+          "name": "Greatsword",
+          "attribute": null,
+          "skills": [],
+          "potentials": []
+        },
+        {
+          "name": "Gauntlets",
+          "attribute": null,
+          "skills": [],
+          "potentials": []
+        }
+      ],
+      "costumes": [
+        {
+          "name": "Aucun skin disponible",
+          "effect_title": null,
+          "effect": null,
+          "image": null
+        },
+        {
+          "name": "Les skins pour ce personnage seront bientôt ajoutés.",
+          "effect_title": null,
+          "effect": null,
+          "image": null
+        }
+      ]
+    },
+    "bug": {
+      "slug": "bug",
+      "name": "Bug",
+      "rarity": "5★",
+      "attribute": "Darkness",
+      "roles": [
+        "DPS"
+      ],
+      "stats_keys": [
+        "Accuracy",
+        "Attack",
+        "Block",
+        "Block Dmg Res",
+        "Crit Damage",
+        "Crit Rate",
+        "Defense",
+        "Max HP",
+        "Move Speed",
+        "PvP Dmg Dec",
+        "PvP Dmg Inc"
+      ],
+      "portrait": "https://7dsorigin.gg/images/characters/slot_bug_001.png",
+      "weapon_names": [
+        "Dual Swords",
+        "Axe",
+        "Book"
+      ],
+      "costume_names": [
+        "Démon Timide",
+        "Sortie du Démon",
+        "Marche de l'Ombre",
+        "Discrétion du Démon",
+        "Instinct Aiguisé",
+        "7DSOrigin.gg"
+      ],
+      "costume_image_count": 6,
+      "weapons": [
+        {
+          "name": "Dual Swords",
+          "attribute": "Darkness",
+          "skills": [
+            "Troublemaker",
+            "Normal Attack",
+            "Special Attack",
+            "Annihilation",
+            "Blade Dance",
+            "The End"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "name": "Axe",
+          "attribute": "Darkness",
+          "skills": [
+            "Troublemaker",
+            "Normal Attack",
+            "Special Attack",
+            "Dark Thrash",
+            "Dark Axe Slash",
+            "Death Swarm"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "name": "Book",
+          "attribute": "Darkness",
+          "skills": [
+            "Troublemaker",
+            "Normal Attack",
+            "Special Attack",
+            "The Rascal",
+            "Dark Flare",
+            "Solo Stage"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ],
+      "costumes": [
+        {
+          "name": "Démon Timide",
+          "effect_title": null,
+          "effect": null,
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Sortie du Démon",
+          "effect_title": "Veiled Darkness",
+          "effect": "Back Attacks increase Crit Damage by 15/20/25% and DoT by 15/20/25% for 10 sec. (Cooldown: 20 sec)",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Marche de l'Ombre",
+          "effect_title": "Hour of Darkness",
+          "effect": "Landing a Critical Hit inflicts additional damage equal to 10/15/20% of Attack. Landing a Critical Hit on an enemy with a Burst active increases their Burst duration by 4/5/6 sec. (Cooldown: 12 sec)",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Discrétion du Démon",
+          "effect_title": "Successive Ambush",
+          "effect": "10/12.5/15% chance to decrease the cooldown of the Normal Skill by 60/70/80% when landing a Back Attack. (Cooldown: 3 sec)",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Instinct Aiguisé",
+          "effect_title": "Mind's Dominion",
+          "effect": "Hitting a Stunned enemy increases Debuff durations by 40/50/60% and DoT by 14/17/20% for 10 sec. (Cooldown: 20 sec)",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "7DSOrigin.gg",
+          "effect_title": null,
+          "effect": null,
+          "image": "https://7dsorigin.gg/images/costumes/icon_Bug_001.png"
+        }
+      ]
+    },
+    "klotho": {
+      "slug": "klotho",
+      "name": "Clotho",
+      "rarity": "4★",
+      "attribute": null,
+      "roles": [
+        "Unknown"
+      ],
+      "stats_keys": [],
+      "portrait": "https://7dsorigin.gg/images/characters/slot_Klotho_001.png",
+      "weapon_names": [
+        "Rapier",
+        "Staff",
+        "Book"
+      ],
+      "costume_names": [
+        "Aucun skin disponible",
+        "Les skins pour ce personnage seront bientôt ajoutés."
+      ],
+      "costume_image_count": 0,
+      "weapons": [
+        {
+          "name": "Rapier",
+          "attribute": null,
+          "skills": [],
+          "potentials": []
+        },
+        {
+          "name": "Staff",
+          "attribute": null,
+          "skills": [],
+          "potentials": []
+        },
+        {
+          "name": "Book",
+          "attribute": null,
+          "skills": [],
+          "potentials": []
+        }
+      ],
+      "costumes": [
+        {
+          "name": "Aucun skin disponible",
+          "effect_title": null,
+          "effect": null,
+          "image": null
+        },
+        {
+          "name": "Les skins pour ce personnage seront bientôt ajoutés.",
+          "effect_title": null,
+          "effect": null,
+          "image": null
+        }
+      ]
+    },
+    "daisy": {
+      "slug": "daisy",
+      "name": "Daisy",
+      "rarity": "5★",
+      "attribute": "Earth",
+      "roles": [
+        "Support"
+      ],
+      "stats_keys": [
+        "Accuracy",
+        "Attack",
+        "Block",
+        "Block Dmg Res",
+        "Crit Damage",
+        "Crit Dmg Res",
+        "Crit Rate",
+        "Crit Res",
+        "Defense",
+        "Max HP",
+        "Move Speed",
+        "PvP Dmg Dec",
+        "PvP Dmg Inc"
+      ],
+      "portrait": "https://7dsorigin.gg/images/characters/slot_Daisy_001.png",
+      "weapon_names": [
+        "Shield",
+        "Book",
+        "Wand",
+        "Staff"
+      ],
+      "costume_names": [
+        "Fée du Passé",
+        "Petite Exploratrice",
+        "Parfum d'Automne",
+        "7DSOrigin.gg"
+      ],
+      "costume_image_count": 4,
+      "weapons": [
+        {
+          "name": "Shield",
+          "attribute": "Earth",
+          "skills": [
+            "Offbeat Girl",
+            "Normal Attack",
+            "Special Attack (Default)",
+            "Special Attack (Riding)",
+            "Go Away / Energy Blast",
+            "Here Comes Daisy",
+            "Help Me Dombie"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "name": "Book",
+          "attribute": "Thunder",
+          "skills": [
+            "Offbeat Girl",
+            "Normal Attack",
+            "Special Attack",
+            "Summon Shocking Street Lamp",
+            "Here Comes Daisy",
+            "Fruit Barrage"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "name": "Wand",
+          "attribute": null,
+          "skills": [],
+          "potentials": []
+        },
+        {
+          "name": "Staff",
+          "attribute": "Wind",
+          "skills": [
+            "Offbeat Girl",
+            "Normal Attack",
+            "Special Attack",
+            "Seed Bomb",
+            "Here Comes Daisy",
+            "Oddball's Incense Burner"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            8
+          ]
+        }
+      ],
+      "costumes": [
+        {
+          "name": "Fée du Passé",
+          "effect_title": null,
+          "effect": null,
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Petite Exploratrice",
+          "effect_title": "Primed and Ready",
+          "effect": "Using the Tag Skill restores the Magic Gauge by 500/650/800.",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Parfum d'Automne",
+          "effect_title": "Inner Surge",
+          "effect": "Hitting an enemy with an Earth attack while the hero has 2 or fewer Magic Points restores the Magic Gauge by 700/850/1000 and decreases the cooldown of the Normal Skill by 60/80/100%. (Cooldown: 20 sec)",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "7DSOrigin.gg",
+          "effect_title": null,
+          "effect": null,
+          "image": "https://7dsorigin.gg/images/costumes/icon_Daisy_001.png"
+        }
+      ]
+    },
+    "derieri": {
+      "slug": "derieri",
+      "name": "Derieri",
+      "rarity": "5★",
+      "attribute": null,
+      "roles": [
+        "Unknown"
+      ],
+      "stats_keys": [],
+      "portrait": "https://7dsorigin.gg/images/characters/slot_Derieri_001.png",
+      "weapon_names": [
+        "Gauntlets",
+        "Axe",
+        "Greatsword"
+      ],
+      "costume_names": [
+        "Aucun skin disponible",
+        "Les skins pour ce personnage seront bientôt ajoutés."
+      ],
+      "costume_image_count": 0,
+      "weapons": [
+        {
+          "name": "Gauntlets",
+          "attribute": null,
+          "skills": [],
+          "potentials": []
+        },
+        {
+          "name": "Axe",
+          "attribute": null,
+          "skills": [],
+          "potentials": []
+        },
+        {
+          "name": "Greatsword",
+          "attribute": null,
+          "skills": [],
+          "potentials": []
+        }
+      ],
+      "costumes": [
+        {
+          "name": "Aucun skin disponible",
+          "effect_title": null,
+          "effect": null,
+          "image": null
+        },
+        {
+          "name": "Les skins pour ce personnage seront bientôt ajoutés.",
+          "effect_title": null,
+          "effect": null,
+          "image": null
+        }
+      ]
+    },
+    "diane": {
+      "slug": "diane",
+      "name": "Diane",
+      "rarity": "5★",
+      "attribute": "Earth",
+      "roles": [
+        "DPS",
+        "Défense"
+      ],
+      "stats_keys": [
+        "Accuracy",
+        "Attack",
+        "Block",
+        "Block Dmg Res",
+        "Crit Damage",
+        "Crit Dmg Res",
+        "Crit Rate",
+        "Crit Res",
+        "Defense",
+        "Max HP",
+        "Move Speed",
+        "PvP Dmg Dec",
+        "PvP Dmg Inc"
+      ],
+      "portrait": "https://7dsorigin.gg/images/characters/diane.png",
+      "weapon_names": [
+        "Gauntlets",
+        "Axe",
+        "Nunchaku",
+        "Cudgel"
+      ],
+      "costume_names": [
+        "Géante Amoureuse",
+        "Hôtesse de Taverne",
+        "<Le Péché de l'Envie du Serpent>",
+        "Fille Joyeuse",
+        "7DSOrigin.gg"
+      ],
+      "costume_image_count": 5,
+      "weapons": [
+        {
+          "name": "Gauntlets",
+          "attribute": "Earth",
+          "skills": [
+            "Giant Girl",
+            "Normal Attack",
+            "Special Attack",
+            "Martial Drive",
+            "Rock Down",
+            "Metal Drop"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "name": "Axe",
+          "attribute": "Earth",
+          "skills": [
+            "Giant Girl",
+            "Normal Attack",
+            "Special Attack",
+            "Charged Slash",
+            "Ground Down",
+            "Rock Blast"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "name": "Nunchaku",
+          "attribute": "Earth",
+          "skills": [
+            "Giant Girl",
+            "Normal Attack",
+            "Special Attack",
+            "Desert Sand",
+            "Crushing Earth",
+            "Ground Rising"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            4,
+            6,
+            8,
+            9
+          ]
+        },
+        {
+          "name": "Cudgel",
+          "attribute": null,
+          "skills": [],
+          "potentials": []
+        }
+      ],
+      "costumes": [
+        {
+          "name": "Géante Amoureuse",
+          "effect_title": null,
+          "effect": null,
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Hôtesse de Taverne",
+          "effect_title": "Fortitude Shift",
+          "effect": "Hitting an Incapacitated enemy restores the Magic Gauge by 400/450/500 and increases the hero's Defense by 20/25/30% for 15 sec. (Cooldown: 20 sec)",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "<Le Péché de l'Envie du Serpent>",
+          "effect_title": "Seismic Chain",
+          "effect": "Landing the Special Attack decreases the cooldown of the Normal Skill by 17/20/23% for 10 sec. (Max: 68/80/92%)",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Fille Joyeuse",
+          "effect_title": "Earthbound Chain",
+          "effect": "If the hero has 5 Shatter Resistance boost(s), the cooldown of the Special Attack decreases by 30/35/40% for 15 sec when hit. (Cooldown: 30 sec)",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "7DSOrigin.gg",
+          "effect_title": null,
+          "effect": null,
+          "image": "https://7dsorigin.gg/images/costumes/icon_Diane_001.png"
+        }
+      ]
+    },
+    "drake": {
+      "slug": "drake",
+      "name": "Drake",
+      "rarity": "5★",
+      "attribute": "Thunder",
+      "roles": [
+        "DPS"
+      ],
+      "stats_keys": [
+        "Accuracy",
+        "Attack",
+        "Block",
+        "Block Dmg Res",
+        "Crit Damage",
+        "Crit Dmg Res",
+        "Crit Rate",
+        "Crit Res",
+        "Defense",
+        "Max HP",
+        "Move Speed",
+        "PvP Dmg Dec",
+        "PvP Dmg Inc"
+      ],
+      "portrait": "https://7dsorigin.gg/images/characters/slot_Drake_001.png",
+      "weapon_names": [
+        "Greatsword",
+        "Staff",
+        "Longsword",
+        "Wand"
+      ],
+      "costume_names": [
+        "Descendant du Dragon",
+        "Serment du Trône",
+        "Gloire du Passé",
+        "Seigneur de l'Ombre",
+        "7DSOrigin.gg"
+      ],
+      "costume_image_count": 5,
+      "weapons": [
+        {
+          "name": "Greatsword",
+          "attribute": "Thunder",
+          "skills": [
+            "Dragon King",
+            "Normal Attack",
+            "Special Attack",
+            "Lightning Stream",
+            "Lightning Dragon Strike",
+            "Lightning Dragon's Wrath"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "name": "Staff",
+          "attribute": null,
+          "skills": [],
+          "potentials": []
+        },
+        {
+          "name": "Longsword",
+          "attribute": "Thunder",
+          "skills": [
+            "Dragon King",
+            "Normal Attack",
+            "Special Attack",
+            "Pulse",
+            "Thunder Slash",
+            "Phantom Blade"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "name": "Wand",
+          "attribute": "Thunder",
+          "skills": [
+            "Dragon King",
+            "Normal Attack",
+            "Special Attack",
+            "Lightning Spear",
+            "Lightning's Tough Strike",
+            "Lightning Overdrive"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            4,
+            6,
+            8,
+            9
+          ]
+        }
+      ],
+      "costumes": [
+        {
+          "name": "Descendant du Dragon",
+          "effect_title": null,
+          "effect": null,
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Serment du Trône",
+          "effect_title": "Crackling Thunder",
+          "effect": "Using the Ultimate Move increases Debuff durations by 30/40/50% and Lightning Burst Efficiency by 20/25/30% for 15 sec.",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Gloire du Passé",
+          "effect_title": "Everlasting Vitality",
+          "effect": "Using the Normal Skill restores 1000/1250/1500 Stamina and increases the duration of the hero's Cooldown Reduction effect by 1.4/1.7/2 sec.",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Seigneur de l'Ombre",
+          "effect_title": "Voltage Overload",
+          "effect": "Hitting an enemy with 5 or more Crit Defense reductions decreases the DoT Trigger Interval by 20/25/30% for 10 sec. (Cooldown: 15 sec)",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "7DSOrigin.gg",
+          "effect_title": null,
+          "effect": null,
+          "image": "https://7dsorigin.gg/images/costumes/icon_Drake_001.png"
+        }
+      ]
+    },
+    "dreydrin": {
+      "slug": "dreydrin",
+      "name": "Dreydrin",
+      "rarity": "5★",
+      "attribute": "Earth",
+      "roles": [
+        "Tank"
+      ],
+      "stats_keys": [
+        "Accuracy",
+        "Attack",
+        "Block",
+        "Block Dmg Res",
+        "Crit Damage",
+        "Crit Rate",
+        "Defense",
+        "Max HP",
+        "Move Speed",
+        "PvP Dmg Dec",
+        "PvP Dmg Inc"
+      ],
+      "portrait": "https://7dsorigin.gg/images/characters/slot_dreydrin_001.png",
+      "weapon_names": [
+        "Shield",
+        "Axe",
+        "Rapier"
+      ],
+      "costume_names": [
+        "Apprenti Chevalier Sacré Amical",
+        "Un Beau Jour de Repos",
+        "Descendant de la Royauté",
+        "Préparation Minutieuse",
+        "Défense Solide",
+        "7DSOrigin.gg"
+      ],
+      "costume_image_count": 6,
+      "weapons": [
+        {
+          "name": "Shield",
+          "attribute": "Earth",
+          "skills": [
+            "Strong Determination",
+            "Normal Attack",
+            "Special Attack",
+            "Shield Crush",
+            "Sword Landing",
+            "Pure Garden"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "name": "Axe",
+          "attribute": "Physical",
+          "skills": [
+            "Strong Determination",
+            "Normal Attack",
+            "Special Attack",
+            "Battle Cry",
+            "Axe Uppercut",
+            "Giant's Cry"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "name": "Rapier",
+          "attribute": "Holy",
+          "skills": [
+            "Strong Determination",
+            "Normal Attack",
+            "Special Attack",
+            "Divine Will",
+            "Spear of Light",
+            "Divine Combat"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ],
+      "costumes": [
+        {
+          "name": "Apprenti Chevalier Sacré Amical",
+          "effect_title": null,
+          "effect": null,
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Un Beau Jour de Repos",
+          "effect_title": "Jack of All Trades",
+          "effect": "Increases Barrier Efficiency by 30/35/40%, Healing Efficiency by 30/35/40%, and Magic Charging Efficiency by 10/12.5/15%.",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Descendant de la Royauté",
+          "effect_title": "Ultimate Defense",
+          "effect": "Using the Tag Skill increases Defense by 20/25/30% and Healing Efficiency by 40/45/50% for 20 sec.",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Préparation Minutieuse",
+          "effect_title": "Blinding Switch",
+          "effect": "Hitting an Incapacitated enemy decreases the cooldown of the Normal Skill by 70/85/100% and restores the Tag Gauge by 800/1000/1200. (Cooldown: 30 sec)",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Défense Solide",
+          "effect_title": "Speed of Light",
+          "effect": "Using the Tag Skill decreases the cooldown of the Normal Skill by 30/40/50% and increases Magic Charging Efficiency by 20/25/30% for 20 sec.",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "7DSOrigin.gg",
+          "effect_title": null,
+          "effect": null,
+          "image": "https://7dsorigin.gg/images/costumes/icon_Dreydrin_001.png"
+        }
+      ]
+    },
+    "dreyfus": {
+      "slug": "dreyfus",
+      "name": "Dreyfus",
+      "rarity": "5★",
+      "attribute": "Physical",
+      "roles": [
+        "Tank"
+      ],
+      "stats_keys": [
+        "Accuracy",
+        "Attack",
+        "Block",
+        "Block Dmg Res",
+        "Crit Damage",
+        "Crit Rate",
+        "Defense",
+        "Max HP",
+        "Move Speed",
+        "PvP Dmg Dec",
+        "PvP Dmg Inc"
+      ],
+      "portrait": "https://7dsorigin.gg/images/characters/slot_dreyfus_001.png",
+      "weapon_names": [
+        "Rapier",
+        "Longsword",
+        "Lance"
+      ],
+      "costume_names": [
+        "Instructeur d'Art de l'Épée du Royaume",
+        "Majordome Royal",
+        "Honneur du Vieux Soldat",
+        "Tenue Simple",
+        "Chevalier Honorable",
+        "7DSOrigin.gg"
+      ],
+      "costume_image_count": 6,
+      "weapons": [
+        {
+          "name": "Rapier",
+          "attribute": "Physical",
+          "skills": [
+            "Grandmaster's Honor",
+            "Normal Attack",
+            "Special Attack",
+            "Piercing Lightning",
+            "Flash Drop",
+            "Light Bomber"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "name": "Longsword",
+          "attribute": "Earth",
+          "skills": [
+            "Grandmaster's Honor",
+            "Normal Attack",
+            "Special Attack",
+            "Earth Blade",
+            "Angled Earth Slash",
+            "Earth Break"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "name": "Lance",
+          "attribute": "Holy",
+          "skills": [
+            "Grandmaster's Honor",
+            "Normal Attack",
+            "Special Attack",
+            "Pillar of Light",
+            "Spear Fall",
+            "Light Spear"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ],
+      "costumes": [
+        {
+          "name": "Instructeur d'Art de l'Épée du Royaume",
+          "effect_title": null,
+          "effect": null,
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Majordome Royal",
+          "effect_title": "Fallback Path",
+          "effect": "Hitting an Incapacitated enemy restores the Tag Gauge by 600/700/800. (Cooldown: 10 sec)",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Honneur du Vieux Soldat",
+          "effect_title": "Gouge",
+          "effect": "Landing the Special Attack on an enemy taking DoT increases the DoT duration by 6/8/10 sec and decreases the cooldown of the Special Attack by 50/75/100%. (Cooldown: 30 sec)",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Tenue Simple",
+          "effect_title": "Steadfast Guard",
+          "effect": "Hitting a Petrified enemy increases the duration of Petrify by 3/4/5 sec and restores the Magic Gauge by 700/850/1000. (Cooldown: 20 sec)",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Chevalier Honorable",
+          "effect_title": "Deadly Flash",
+          "effect": "Hitting a Stunned enemy increases Crit Chance by 12/15/18% for 15 sec. (Cooldown: 20 sec)",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "7DSOrigin.gg",
+          "effect_title": null,
+          "effect": null,
+          "image": "https://7dsorigin.gg/images/costumes/icon_Dreyfus_001.png"
+        }
+      ]
+    },
+    "elaine": {
+      "slug": "elaine",
+      "name": "Elaine",
+      "rarity": "5★",
+      "attribute": "Wind",
+      "roles": [
+        "Support",
+        "DPS"
+      ],
+      "stats_keys": [
+        "Accuracy",
+        "Attack",
+        "Block",
+        "Block Dmg Res",
+        "Crit Damage",
+        "Crit Dmg Res",
+        "Crit Rate",
+        "Crit Res",
+        "Defense",
+        "Max HP",
+        "Move Speed",
+        "PvP Dmg Dec",
+        "PvP Dmg Inc"
+      ],
+      "portrait": "https://7dsorigin.gg/images/characters/slot_elaine_001.png",
+      "weapon_names": [
+        "Book",
+        "Wand",
+        "Staff"
+      ],
+      "costume_names": [
+        "Sainte Gardienne de la Fontaine de Jeunesse",
+        "Employée Temporaire",
+        "Lumière Directrice",
+        "Sortie Joyeuse",
+        "Dignité de la Sainte",
+        "7DSOrigin.gg"
+      ],
+      "costume_image_count": 6,
+      "weapons": [
+        {
+          "name": "Book",
+          "attribute": "Earth",
+          "skills": [
+            "Saintess Protection",
+            "Normal Attack",
+            "Special Attack",
+            "Guardian's Blossom",
+            "Forest Saver",
+            "Dual Seal"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "name": "Wand",
+          "attribute": "Wind",
+          "skills": [
+            "Saintess Protection",
+            "Normal Attack",
+            "Special Attack",
+            "Razor Wind",
+            "Forest Tornado",
+            "Wind Blast"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "name": "Staff",
+          "attribute": "Holy",
+          "skills": [
+            "Saintess Protection",
+            "Normal Attack",
+            "Special Attack",
+            "Divine Forest Swarm",
+            "Holy Shine",
+            "Forest's Protection"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ],
+      "costumes": [
+        {
+          "name": "Sainte Gardienne de la Fontaine de Jeunesse",
+          "effect_title": null,
+          "effect": null,
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Employée Temporaire",
+          "effect_title": "Rapid Wingbeat",
+          "effect": "Using the Tag Skill has a(n) 50% chance to restore the Tag Gauge by 400/450/500 and 50% chance to increase the enemy's Burst Gauge by 150/175/200. (Cooldown: 20 sec)",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Lumière Directrice",
+          "effect_title": "Lethal Toll",
+          "effect": "If the hero has 3 or more Crit Damage boost effects when hitting an enemy, the Crit Chance of the Normal Skill is increased by 10/12.5/15% for 8 sec. (Max: 30/37.5/45%)",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Sortie Joyeuse",
+          "effect_title": "Blessing Wave",
+          "effect": "Using the Special Attack restores the Tag Gauge by 800/900/1000 and increases all allied heroes' Tag Skill damage by 200/250/300% for 10 sec. (Cooldown: 20 sec)",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Dignité de la Sainte",
+          "effect_title": "Nature's Curse",
+          "effect": "Increases Debuff durations by 50/65/80% while the hero has a barrier.",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "7DSOrigin.gg",
+          "effect_title": null,
+          "effect": null,
+          "image": "https://7dsorigin.gg/images/costumes/icon_Elaine_001.png"
+        }
+      ]
+    },
+    "elizabeth": {
+      "slug": "elizabeth",
+      "name": "Elizabeth",
+      "rarity": "5★",
+      "attribute": null,
+      "roles": [
+        "Unknown"
+      ],
+      "stats_keys": [],
+      "portrait": "https://7dsorigin.gg/images/characters/slot_elizabeth_001.png",
+      "weapon_names": [
+        "Wand",
+        "Staff"
+      ],
+      "costume_names": [
+        "Aucun skin disponible",
+        "Les skins pour ce personnage seront bientôt ajoutés."
+      ],
+      "costume_image_count": 0,
+      "weapons": [
+        {
+          "name": "Wand",
+          "attribute": null,
+          "skills": [],
+          "potentials": []
+        },
+        {
+          "name": "Staff",
+          "attribute": null,
+          "skills": [],
+          "potentials": []
+        }
+      ],
+      "costumes": [
+        {
+          "name": "Aucun skin disponible",
+          "effect_title": null,
+          "effect": null,
+          "image": null
+        },
+        {
+          "name": "Les skins pour ce personnage seront bientôt ajoutés.",
+          "effect_title": null,
+          "effect": null,
+          "image": null
+        }
+      ]
+    },
+    "escanor": {
+      "slug": "escanor",
+      "name": "Escanor",
+      "rarity": "5★",
+      "attribute": null,
+      "roles": [
+        "Unknown"
+      ],
+      "stats_keys": [],
+      "portrait": "https://7dsorigin.gg/images/characters/slot_Escanor_001.png",
+      "weapon_names": [
+        "Axe",
+        "Greatsword",
+        "Shield"
+      ],
+      "costume_names": [
+        "Aucun skin disponible",
+        "Les skins pour ce personnage seront bientôt ajoutés."
+      ],
+      "costume_image_count": 0,
+      "weapons": [
+        {
+          "name": "Axe",
+          "attribute": null,
+          "skills": [],
+          "potentials": []
+        },
+        {
+          "name": "Greatsword",
+          "attribute": null,
+          "skills": [],
+          "potentials": []
+        },
+        {
+          "name": "Shield",
+          "attribute": null,
+          "skills": [],
+          "potentials": []
+        }
+      ],
+      "costumes": [
+        {
+          "name": "Aucun skin disponible",
+          "effect_title": null,
+          "effect": null,
+          "image": null
+        },
+        {
+          "name": "Les skins pour ce personnage seront bientôt ajoutés.",
+          "effect_title": null,
+          "effect": null,
+          "image": null
+        }
+      ]
+    },
+    "gilthunder": {
+      "slug": "gilthunder",
+      "name": "Gilthunder",
+      "rarity": "5★",
+      "attribute": "Thunder",
+      "roles": [
+        "DPS",
+        "Défense"
+      ],
+      "stats_keys": [
+        "Accuracy",
+        "Attack",
+        "Block",
+        "Block Dmg Res",
+        "Crit Damage",
+        "Crit Rate",
+        "Defense",
+        "Max HP",
+        "Move Speed",
+        "PvP Dmg Dec",
+        "PvP Dmg Inc"
+      ],
+      "portrait": "https://7dsorigin.gg/images/characters/slot_gil_thunder_001.png",
+      "weapon_names": [
+        "Longsword",
+        "Shield",
+        "Lance"
+      ],
+      "costume_names": [
+        "Jeune Chevalier Sacré",
+        "Chevalier Sacré Exemplaire",
+        "Chevalier Sacré de la Foudre",
+        "Aventure Exemplaire",
+        "Chevalier Sacré Prometteur",
+        "7DSOrigin.gg"
+      ],
+      "costume_image_count": 6,
+      "weapons": [
+        {
+          "name": "Longsword",
+          "attribute": "Thunder",
+          "skills": [
+            "Thunderbolt",
+            "Normal Attack",
+            "Special Attack",
+            "Lightning Sword",
+            "Lightning Strike",
+            "Lightning Flash"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "name": "Shield",
+          "attribute": "Thunder",
+          "skills": [
+            "Thunderbolt",
+            "Normal Attack",
+            "Special Attack",
+            "Judgment",
+            "Blue Lightning",
+            "Shackles of the Lightning King"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "name": "Lance",
+          "attribute": "Thunder",
+          "skills": [
+            "Thunderbolt",
+            "Normal Attack",
+            "Special Attack",
+            "Charge Electricity",
+            "Lightning Spear",
+            "Lightning Bolt"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ],
+      "costumes": [
+        {
+          "name": "Jeune Chevalier Sacré",
+          "effect_title": null,
+          "effect": null,
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Chevalier Sacré Exemplaire",
+          "effect_title": "Penetrating Bolt",
+          "effect": "Hitting an enemy increases the hero's Lightning Attack by 0.4/0.5/0.6% for 10 sec. (Max: 20/25/30%)",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Chevalier Sacré de la Foudre",
+          "effect_title": "Bursting Shock",
+          "effect": "Increases the enemy's Shock duration by 5/6/7 sec and restores their Tag Gauge by 400/450/500 when a Burst is activated.",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Aventure Exemplaire",
+          "effect_title": "Lightning Rod's Protection",
+          "effect": "20% chance to gain a barrier equal to 20/25/30% of Max HP for 20 sec and decrease the cooldown of the Normal Skill by 60/80/100% when hit by a Taunted enemy. (Cooldown: 30 sec)",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Chevalier Sacré Prometteur",
+          "effect_title": "Power Drain",
+          "effect": "Hitting an Incapacitated enemy restores the Magic Gauge by 1000/1250/1500. (Cooldown: 20 sec)",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "7DSOrigin.gg",
+          "effect_title": null,
+          "effect": null,
+          "image": "https://7dsorigin.gg/images/costumes/icon_Gil_thunder_001.png"
+        }
+      ]
+    },
+    "gowther": {
+      "slug": "gowther",
+      "name": "Gowther",
+      "rarity": "5★",
+      "attribute": null,
+      "roles": [
+        "Unknown"
+      ],
+      "stats_keys": [],
+      "portrait": "https://7dsorigin.gg/images/characters/gowther.png",
+      "weapon_names": [
+        "Book",
+        "Wand",
+        "Staff"
+      ],
+      "costume_names": [
+        "Aucun skin disponible",
+        "Les skins pour ce personnage seront bientôt ajoutés."
+      ],
+      "costume_image_count": 0,
+      "weapons": [
+        {
+          "name": "Book",
+          "attribute": null,
+          "skills": [],
+          "potentials": []
+        },
+        {
+          "name": "Wand",
+          "attribute": null,
+          "skills": [],
+          "potentials": []
+        },
+        {
+          "name": "Staff",
+          "attribute": null,
+          "skills": [],
+          "potentials": []
+        }
+      ],
+      "costumes": [
+        {
+          "name": "Aucun skin disponible",
+          "effect_title": null,
+          "effect": null,
+          "image": null
+        },
+        {
+          "name": "Les skins pour ce personnage seront bientôt ajoutés.",
+          "effect_title": null,
+          "effect": null,
+          "image": null
+        }
+      ]
+    },
+    "griamore": {
+      "slug": "griamore",
+      "name": "Griamore",
+      "rarity": "5★",
+      "attribute": "Physical",
+      "roles": [
+        "Tank",
+        "Défense"
+      ],
+      "stats_keys": [
+        "Accuracy",
+        "Attack",
+        "Block",
+        "Block Dmg Res",
+        "Crit Damage",
+        "Crit Rate",
+        "Defense",
+        "Max HP",
+        "Move Speed",
+        "PvP Dmg Dec",
+        "PvP Dmg Inc"
+      ],
+      "portrait": "https://7dsorigin.gg/images/characters/slot_griamore_001.png",
+      "weapon_names": [
+        "Shield",
+        "Cudgel",
+        "Gauntlets",
+        "Nunchaku"
+      ],
+      "costume_names": [
+        "Chevalier Gardien de la Princesse",
+        "Sortie Décontractée",
+        "Chevalier Sacré du Mur de Fer",
+        "Barricade de Fortune",
+        "Forteresse de Fer Imprenable",
+        "7DSOrigin.gg"
+      ],
+      "costume_image_count": 6,
+      "weapons": [
+        {
+          "name": "Shield",
+          "attribute": "Physical",
+          "skills": [
+            "Wall Master",
+            "Normal Attack",
+            "Special Attack",
+            "Drop Attack",
+            "Shell Drop",
+            "Perfect Shell"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "name": "Cudgel",
+          "attribute": null,
+          "skills": [
+            "Inflige des dégâts égaux à 103% de l'Attaque. 1er coup : 15% 2ème coup : 17% 3ème coup : 27%",
+            "Ruée de Bouclier"
+          ],
+          "potentials": []
+        },
+        {
+          "name": "Gauntlets",
+          "attribute": "Physical",
+          "skills": [
+            "Wall Master",
+            "Normal Attack",
+            "Special Attack",
+            "Shield Rush",
+            "Shield Fist",
+            "Emission Shield"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "name": "Nunchaku",
+          "attribute": "Physical",
+          "skills": [
+            "Wall Master",
+            "Normal Attack",
+            "Special Attack",
+            "Wall Push",
+            "Wall Rising",
+            "Wall Crush"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            6,
+            8,
+            9
+          ]
+        }
+      ],
+      "costumes": [
+        {
+          "name": "Chevalier Gardien de la Princesse",
+          "effect_title": null,
+          "effect": null,
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Sortie Décontractée",
+          "effect_title": "Resilient Form",
+          "effect": "Increases Defense by 16/18/20% and Barrier Efficiency by 30/35/40%.",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Chevalier Sacré du Mur de Fer",
+          "effect_title": "Reliable Shield",
+          "effect": "20% chance to increase Defense by 40/50/60% for 4/5/6 sec and gain a barrier equal to 20/25/30% of Max HP when hit. (Cooldown: 10 sec)",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Barricade de Fortune",
+          "effect_title": null,
+          "effect": "Barrier's Other Side",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Forteresse de Fer Imprenable",
+          "effect_title": "Seized Opening",
+          "effect": "Hitting a Stunned enemy increases Burst Gauge by 20/25/30 and decreases Burst Resistance by 2/2.5/3% for 10 sec. (Max: 20/25/30%)",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "7DSOrigin.gg",
+          "effect_title": null,
+          "effect": null,
+          "image": "https://7dsorigin.gg/images/costumes/icon_Griamore_001.png"
+        }
+      ]
+    },
+    "guila": {
+      "slug": "guila",
+      "name": "Guila",
+      "rarity": "5★",
+      "attribute": "Fire",
+      "roles": [
+        "DPS",
+        "Défense"
+      ],
+      "stats_keys": [
+        "Accuracy",
+        "Attack",
+        "Block",
+        "Block Dmg Res",
+        "Crit Damage",
+        "Crit Dmg Res",
+        "Crit Rate",
+        "Crit Res",
+        "Defense",
+        "Max HP",
+        "Move Speed",
+        "PvP Dmg Dec",
+        "PvP Dmg Inc"
+      ],
+      "portrait": "https://7dsorigin.gg/images/characters/slot_guila_001.png",
+      "weapon_names": [
+        "Lance",
+        "Shield",
+        "Rapier"
+      ],
+      "costume_names": [
+        "L'Unique et Seul Chevalier Sacré",
+        "Temps en Famille",
+        "Chevalier Sacré des Explosions",
+        "Pas Légers",
+        "Traînée de Flamme Écarlate",
+        "7DSOrigin.gg"
+      ],
+      "costume_image_count": 6,
+      "weapons": [
+        {
+          "name": "Lance",
+          "attribute": "Fire",
+          "skills": [
+            "Blazing Devil",
+            "Normal Attack",
+            "Special Attack",
+            "Shoot Bombs",
+            "Fire Drop",
+            "Demon Form"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "name": "Shield",
+          "attribute": "Fire",
+          "skills": [
+            "Blazing Devil",
+            "Normal Attack",
+            "Special Attack",
+            "Killer Mines",
+            "Shield Drop",
+            "Brilliant Detonation"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "name": "Rapier",
+          "attribute": "Fire",
+          "skills": [
+            "Blazing Devil",
+            "Normal Attack",
+            "Special Attack",
+            "Blazing Burst",
+            "Blazing Slash",
+            "Demon Form"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ],
+      "costumes": [
+        {
+          "name": "L'Unique et Seul Chevalier Sacré",
+          "effect_title": null,
+          "effect": null,
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Temps en Famille",
+          "effect_title": "Heart of Fire",
+          "effect": "Increases the duration of the Ultimate Move's buff by 30/40/50%.",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Chevalier Sacré des Explosions",
+          "effect_title": null,
+          "effect": "Ultimate All-Out Attack",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Pas Légers",
+          "effect_title": "Gift of Patience",
+          "effect": "Restores the Tag Gauge by 150/175/200 when hit by a Taunted enemy. Using the Tag Skill decreases the cooldown of the Normal Skill by 60/80/100%. (Cooldown: 5 sec)",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Traînée de Flamme Écarlate",
+          "effect_title": "Everlasting Fire",
+          "effect": "Hitting an enemy taking DoT increases the effect's duration by 1/1.2/1.4 sec and decreases the cooldown of the Special Attack by 1/1.3/1.6 sec. Landing the Special Attack decreases the Magic Gauge by 300/250/200.",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "7DSOrigin.gg",
+          "effect_title": null,
+          "effect": null,
+          "image": "https://7dsorigin.gg/images/costumes/icon_Guila_001.png"
+        }
+      ]
+    },
+    "hendrickson": {
+      "slug": "hendrickson",
+      "name": "Hendrickson",
+      "rarity": "5★",
+      "attribute": "Holy",
+      "roles": [
+        "Support",
+        "DPS"
+      ],
+      "stats_keys": [
+        "Accuracy",
+        "Attack",
+        "Block",
+        "Block Dmg Res",
+        "Crit Damage",
+        "Crit Rate",
+        "Defense",
+        "Max HP",
+        "Move Speed",
+        "PvP Dmg Dec",
+        "PvP Dmg Inc"
+      ],
+      "portrait": "https://7dsorigin.gg/images/characters/slot_hendrickson_001.png",
+      "weapon_names": [
+        "Dual Swords",
+        "Longsword",
+        "Lance"
+      ],
+      "costume_names": [
+        "Apothicaire de Liones",
+        "Gris Romantique",
+        "Un Costume des Jeunes Années",
+        "Tenue de Travail d'Apothicaire",
+        "Chevalier Sacré Revenu",
+        "7DSOrigin.gg"
+      ],
+      "costume_image_count": 6,
+      "weapons": [
+        {
+          "name": "Dual Swords",
+          "attribute": "Physical",
+          "skills": [
+            "Veteran Grandmaster",
+            "Normal Attack",
+            "Special Attack",
+            "Rapid Edge",
+            "Double Slash",
+            "Knight's Sword"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "name": "Longsword",
+          "attribute": "Holy",
+          "skills": [
+            "Veteran Grandmaster",
+            "Normal Attack",
+            "Special Attack",
+            "Defensive Spell",
+            "Thundering Slash",
+            "Magic Unleashed"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "name": "Lance",
+          "attribute": "Darkness",
+          "skills": [
+            "Veteran Grandmaster",
+            "Normal Attack",
+            "Special Attack",
+            "Acid Tower",
+            "Dark Stab",
+            "Acid Down"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ],
+      "costumes": [
+        {
+          "name": "Apothicaire de Liones",
+          "effect_title": null,
+          "effect": null,
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Gris Romantique",
+          "effect_title": null,
+          "effect": null,
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Un Costume des Jeunes Années",
+          "effect_title": "Druid Healing Arts",
+          "effect": "Using the Ultimate Move increases all allied heroes' Healing Received by 40/50/60% for 14 sec if the remaining HP is 30% or lower.",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Tenue de Travail d'Apothicaire",
+          "effect_title": "Chain Tuning",
+          "effect": "Restores the Tag Gauge by 1200/1400/1600 when the Ultimate Move results in a Critical Hit. (Cooldown: 30 sec)",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Chevalier Sacré Revenu",
+          "effect_title": "Tainted Memories",
+          "effect": "Hitting an enemy taking DoT increases Buff durations by 16/18/20% for 10 sec. (Max: 64/72/80%)",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "7DSOrigin.gg",
+          "effect_title": null,
+          "effect": null,
+          "image": "https://7dsorigin.gg/images/costumes/icon_Hendrickson_001.png"
+        }
+      ]
+    },
+    "howzer": {
+      "slug": "howzer",
+      "name": "Howzer",
+      "rarity": "5★",
+      "attribute": "Wind",
+      "roles": [
+        "DPS"
+      ],
+      "stats_keys": [
+        "Accuracy",
+        "Attack",
+        "Block",
+        "Block Dmg Res",
+        "Crit Damage",
+        "Crit Rate",
+        "Defense",
+        "Max HP",
+        "Move Speed",
+        "PvP Dmg Dec",
+        "PvP Dmg Inc"
+      ],
+      "portrait": "https://7dsorigin.gg/images/characters/slot_howzer_001.png",
+      "weapon_names": [
+        "Lance",
+        "Gauntlets",
+        "Cudgel",
+        "Nunchaku"
+      ],
+      "costume_names": [
+        "Grand Maître de Confiance",
+        "Chope de Bière en Fin de Journée",
+        "Chevalier Sacré des Tempêtes",
+        "Aventure Sécurisée",
+        "Dignité du Grand Maître",
+        "7DSOrigin.gg"
+      ],
+      "costume_image_count": 6,
+      "weapons": [
+        {
+          "name": "Lance",
+          "attribute": "Wind",
+          "skills": [
+            "Eye of the Storm",
+            "Normal Attack",
+            "Special Attack",
+            "Pulling Gust",
+            "Wind Drop",
+            "Super Cyclone"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "name": "Gauntlets",
+          "attribute": "Wind",
+          "skills": [
+            "Eye of the Storm",
+            "Normal Attack",
+            "Special Attack",
+            "Combo",
+            "Rising Fist",
+            "Whirl Shock"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "name": "Cudgel",
+          "attribute": null,
+          "skills": [
+            "Poing Ascendant",
+            "Choc Tourbillonnant"
+          ],
+          "potentials": []
+        },
+        {
+          "name": "Nunchaku",
+          "attribute": "Wind",
+          "skills": [
+            "Eye of the Storm",
+            "Normal Attack",
+            "Special Attack",
+            "Precise Stab",
+            "Chain Uppercut",
+            "Gust"
+          ],
+          "potentials": [
+            1,
+            3,
+            6,
+            8,
+            9
+          ]
+        }
+      ],
+      "costumes": [
+        {
+          "name": "Grand Maître de Confiance",
+          "effect_title": null,
+          "effect": null,
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Chope de Bière en Fin de Journée",
+          "effect_title": "Lethal Strike Induction",
+          "effect": "Increases Crit Chance by 8/10/12%.",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Chevalier Sacré des Tempêtes",
+          "effect_title": "Stormblade Chain",
+          "effect": "Hitting a Bleeding enemy increases Crit Chance by 1.6/1.8/2% for 10 sec. (Max: 16/18/20%)",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Aventure Sécurisée",
+          "effect_title": "Howling Crimson Gale",
+          "effect": "Landing the Special Attack decreases Crit Defense by 16/18/20% for 15 sec. 40/50/60% chance to inflict Bleed and additional damage equal to 60/70/80% of Attack for 10 sec.",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Dignité du Grand Maître",
+          "effect_title": "Tempest's Wrath",
+          "effect": "Hitting an Incapacitated enemy decreases their Crit Defense by 1/1.25/1.5% for 15 sec. (Max: 40/50/60%)",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "7DSOrigin.gg",
+          "effect_title": null,
+          "effect": null,
+          "image": "https://7dsorigin.gg/images/costumes/icon_Howzer_001.png"
+        }
+      ]
+    },
+    "jericho": {
+      "slug": "jericho",
+      "name": "Jericho",
+      "rarity": "5★",
+      "attribute": "Cold",
+      "roles": [
+        "DPS",
+        "Défense"
+      ],
+      "stats_keys": [
+        "Accuracy",
+        "Attack",
+        "Block",
+        "Block Dmg Res",
+        "Crit Damage",
+        "Crit Dmg Res",
+        "Crit Rate",
+        "Crit Res",
+        "Defense",
+        "Max HP",
+        "Move Speed",
+        "PvP Dmg Dec",
+        "PvP Dmg Inc"
+      ],
+      "portrait": "https://7dsorigin.gg/images/characters/slot_jericho_001.png",
+      "weapon_names": [
+        "Dual Swords",
+        "Lance",
+        "Rapier"
+      ],
+      "costume_names": [
+        "Chevalière Sacrée en Fuite",
+        "Moment de Détente",
+        "Chevalière Sacrée avec Visière en Étoile",
+        "Voyageuse Secrète",
+        "Trace de Souvenirs",
+        "7DSOrigin.gg"
+      ],
+      "costume_image_count": 6,
+      "weapons": [
+        {
+          "name": "Dual Swords",
+          "attribute": "Cold",
+          "skills": [
+            "Glacier",
+            "Normal Attack",
+            "Special Attack",
+            "Weapon Enhancement (Frozen Saber)",
+            "Frozen Slash",
+            "Ice Needle"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "name": "Lance",
+          "attribute": "Cold",
+          "skills": [
+            "Glacier",
+            "Normal Attack",
+            "Special Attack",
+            "Ice Rock",
+            "Frozen Slicer",
+            "Ice Field"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "name": "Rapier",
+          "attribute": "Cold",
+          "skills": [
+            "Glacier",
+            "Normal Attack",
+            "Special Attack",
+            "Ice Blade Dance",
+            "Cold Strike",
+            "Glacial Blaze"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ],
+      "costumes": [
+        {
+          "name": "Chevalière Sacrée en Fuite",
+          "effect_title": null,
+          "effect": null,
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Moment de Détente",
+          "effect_title": "Cold's Embrace",
+          "effect": "Critical Hits decrease Cold Burst Resistance by 1.5/2/2.5% for 10 sec. (Max: 15/20/25%)",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Chevalière Sacrée avec Visière en Étoile",
+          "effect_title": "Ice Sculptor",
+          "effect": "Hitting an enemy affected by Freeze decreases the cooldown of the Normal Skill by 80/90/100% and increases Normal Attack damage by 15/20/25% for 20 sec. (Cooldown: 40 sec)",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Voyageuse Secrète",
+          "effect_title": "Cold Armor",
+          "effect": "If the hero has 20 Defense boost(s), Barrier Efficiency is increased by 50/65/80% for 10 sec. (Cooldown: 30 sec)",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Trace de Souvenirs",
+          "effect_title": "Endless Cold",
+          "effect": "Landing a skill on a Frozen enemy inflicts 2/3/4 Chill effect(s) for 15 sec. (Cooldown: 30 sec)",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "7DSOrigin.gg",
+          "effect_title": null,
+          "effect": null,
+          "image": "https://7dsorigin.gg/images/costumes/icon_Jericho_001.png"
+        }
+      ]
+    },
+    "king": {
+      "slug": "king",
+      "name": "King",
+      "rarity": "5★",
+      "attribute": "Holy",
+      "roles": [
+        "Support"
+      ],
+      "stats_keys": [
+        "Accuracy",
+        "Attack",
+        "Block",
+        "Block Dmg Res",
+        "Crit Damage",
+        "Crit Dmg Res",
+        "Crit Rate",
+        "Crit Res",
+        "Defense",
+        "Max HP",
+        "Move Speed",
+        "PvP Dmg Dec",
+        "PvP Dmg Inc"
+      ],
+      "portrait": "https://7dsorigin.gg/images/characters/slot_king_001.png",
+      "weapon_names": [
+        "Book",
+        "Wand",
+        "Staff"
+      ],
+      "costume_names": [
+        "Roi des Fées Inexpérimenté",
+        "Pas de la Forêt",
+        "<Le Péché de la Paresse du Grizzly>",
+        "Ombre de la Forêt Profonde",
+        "7DSOrigin.gg"
+      ],
+      "costume_image_count": 5,
+      "weapons": [
+        {
+          "name": "Book",
+          "attribute": "Physical",
+          "skills": [
+            "Fairy King",
+            "Normal Attack",
+            "Special Attack",
+            "Protector of the Forest",
+            "Upper Orc",
+            "Forest Protection"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "name": "Wand",
+          "attribute": "Earth",
+          "skills": [
+            "Fairy King",
+            "Normal Attack",
+            "Special Attack",
+            "Fairy Power",
+            "Earth Impact",
+            "Sharp"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "name": "Staff",
+          "attribute": "Holy",
+          "skills": [
+            "Fairy King",
+            "Normal Attack",
+            "Special Attack",
+            "Holy Sworn",
+            "P-Chase",
+            "Shining Blaze"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ],
+      "costumes": [
+        {
+          "name": "Roi des Fées Inexpérimenté",
+          "effect_title": null,
+          "effect": null,
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Pas de la Forêt",
+          "effect_title": "Enhanced Resilience",
+          "effect": "If Magic Points are greater than 5 when using the Special Attack, Buff durations increase by 30/35/40% for 15 sec. (Cooldown: 25 sec)",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "<Le Péché de la Paresse du Grizzly>",
+          "effect_title": "Greedy King",
+          "effect": "Increases Buff durations by 30/40/50%. Landing a Critical Hit restores the Tag Gauge by 150/175/200. (Cooldown: 3 sec)",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Ombre de la Forêt Profonde",
+          "effect_title": "Forest's Support",
+          "effect": "Gaining a Healing Efficiency boost increases Barrier Efficiency by 10/13/16% for 10 sec. (Max: 50/65/80%)",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "7DSOrigin.gg",
+          "effect_title": null,
+          "effect": null,
+          "image": "https://7dsorigin.gg/images/costumes/icon_King_001.png"
+        }
+      ]
+    },
+    "manny": {
+      "slug": "manny",
+      "name": "Manny",
+      "rarity": "5★",
+      "attribute": "Holy",
+      "roles": [
+        "Support"
+      ],
+      "stats_keys": [
+        "Accuracy",
+        "Attack",
+        "Block",
+        "Block Dmg Res",
+        "Crit Damage",
+        "Crit Dmg Res",
+        "Crit Rate",
+        "Crit Res",
+        "Defense",
+        "Max HP",
+        "Move Speed",
+        "PvP Dmg Dec",
+        "PvP Dmg Inc"
+      ],
+      "portrait": "https://7dsorigin.gg/images/characters/slot_manny_001.png",
+      "weapon_names": [
+        "Staff",
+        "Dual Swords",
+        "Longsword"
+      ],
+      "costume_names": [
+        "Prêtresse Exaltée",
+        "Cœur de Prière",
+        "Prestige de l'Archi-Prêtresse",
+        "Exploration de l'Inconnu",
+        "7DSOrigin.gg"
+      ],
+      "costume_image_count": 5,
+      "weapons": [
+        {
+          "name": "Staff",
+          "attribute": "Holy",
+          "skills": [
+            "Priestess's Prayer",
+            "Normal Attack",
+            "Special Attack (Draco Priestess)",
+            "Holy Judgment",
+            "Holy Light",
+            "Flash Explosion"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "name": "Dual Swords",
+          "attribute": "Cold",
+          "skills": [
+            "Priestess's Prayer",
+            "Normal Attack",
+            "Special Attack",
+            "Frozen Soul Shatter",
+            "White Snow",
+            "Snowfield of the Void"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "name": "Longsword",
+          "attribute": "Cold",
+          "skills": [
+            "Priestess's Prayer",
+            "Normal Attack",
+            "Special Attack",
+            "Frost Release",
+            "Frost Blade",
+            "Priestess Barrier"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ],
+      "costumes": [
+        {
+          "name": "Prêtresse Exaltée",
+          "effect_title": null,
+          "effect": null,
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Cœur de Prière",
+          "effect_title": "Ultimate Strength",
+          "effect": "Using the Tag Skill increases Buff and Debuff durations proportional to Magic Points, up to 30/35/40%, for 20 sec. (Cooldown: 30 sec)",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Prestige de l'Archi-Prêtresse",
+          "effect_title": "Everlasting Light",
+          "effect": "Hitting an enemy taking DoT with a Holy attack increases Debuff durations by 50/65/80% for 10 sec. (Cooldown: 20 sec)",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Exploration de l'Inconnu",
+          "effect_title": "Cryo Acceleration",
+          "effect": "Hitting an enemy with 3 or more Movement Speed reductions decreases the cooldown of the Normal Skill by 60/80/100% and decreases DoT Trigger Interval by 20/25/30% for 10 sec. (Cooldown: 15 sec)",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "7DSOrigin.gg",
+          "effect_title": null,
+          "effect": null,
+          "image": "https://7dsorigin.gg/images/costumes/icon_Manny_001.png"
+        }
+      ]
+    },
+    "meliodas": {
+      "slug": "meliodas",
+      "name": "Meliodas",
+      "rarity": "6★",
+      "attribute": "Darkness",
+      "roles": [
+        "DPS"
+      ],
+      "stats_keys": [
+        "Accuracy",
+        "Attack",
+        "Block",
+        "Block Dmg Res",
+        "Crit Damage",
+        "Crit Dmg Res",
+        "Crit Rate",
+        "Crit Res",
+        "Defense",
+        "Max HP",
+        "Move Speed",
+        "PvP Dmg Dec",
+        "PvP Dmg Inc"
+      ],
+      "portrait": "https://7dsorigin.gg/images/characters/meliodas.png",
+      "weapon_names": [
+        "Longsword",
+        "Axe",
+        "Dual Swords"
+      ],
+      "costume_names": [
+        "Propriétaire de Taverne Ordinaire",
+        "Une Nouvelle Aventure",
+        "<Le Péché du Dragon de la Colère>",
+        "7DSOrigin.gg"
+      ],
+      "costume_image_count": 4,
+      "weapons": [
+        {
+          "name": "Longsword",
+          "attribute": "Darkness",
+          "skills": [
+            "Speedmaster",
+            "Normal Attack",
+            "Special Attack",
+            "Chain Attack",
+            "Dark Force",
+            "Blazing Cross"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "name": "Axe",
+          "attribute": "Darkness",
+          "skills": [
+            "Speedmaster",
+            "Normal Attack",
+            "Special Attack",
+            "Circle Slash",
+            "Power Arc",
+            "Demon's Fighting Spirit"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "name": "Dual Swords",
+          "attribute": "Darkness",
+          "skills": [
+            "Speedmaster",
+            "Normal Attack",
+            "Special Attack",
+            "Burning Slash",
+            "X Slash",
+            "X Slash Flurry"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ],
+      "costumes": [
+        {
+          "name": "Propriétaire de Taverne Ordinaire",
+          "effect_title": null,
+          "effect": null,
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Une Nouvelle Aventure",
+          "effect_title": "Shadowstrike",
+          "effect": "Using the Tag Skill increases the enemy's Darkness Burst duration by 10/13/16 sec. (Cooldown: 50 sec)",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "<Le Péché du Dragon de la Colère>",
+          "effect_title": "Endless Drive",
+          "effect": "Using the Ultimate Move while the hero has a Darkness Attack boost decreases the cooldown of the Normal Skill proportional to the number of Tag Points, up to 80/85/90%, for 10 sec.",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "7DSOrigin.gg",
+          "effect_title": null,
+          "effect": null,
+          "image": "https://7dsorigin.gg/images/costumes/icon_Meliodas_001.png"
+        }
+      ]
+    },
+    "merlin": {
+      "slug": "merlin",
+      "name": "Merlin",
+      "rarity": "6★",
+      "attribute": null,
+      "roles": [
+        "Unknown"
+      ],
+      "stats_keys": [],
+      "portrait": "https://7dsorigin.gg/images/characters/merlin.png",
+      "weapon_names": [
+        "Book",
+        "Wand",
+        "Staff"
+      ],
+      "costume_names": [
+        "Aucun skin disponible",
+        "Les skins pour ce personnage seront bientôt ajoutés."
+      ],
+      "costume_image_count": 0,
+      "weapons": [
+        {
+          "name": "Book",
+          "attribute": null,
+          "skills": [],
+          "potentials": []
+        },
+        {
+          "name": "Wand",
+          "attribute": null,
+          "skills": [],
+          "potentials": []
+        },
+        {
+          "name": "Staff",
+          "attribute": null,
+          "skills": [],
+          "potentials": []
+        }
+      ],
+      "costumes": [
+        {
+          "name": "Aucun skin disponible",
+          "effect_title": null,
+          "effect": null,
+          "image": null
+        },
+        {
+          "name": "Les skins pour ce personnage seront bientôt ajoutés.",
+          "effect_title": null,
+          "effect": null,
+          "image": null
+        }
+      ]
+    },
+    "slader": {
+      "slug": "slader",
+      "name": "Slader",
+      "rarity": "5★",
+      "attribute": "Fire",
+      "roles": [
+        "DPS"
+      ],
+      "stats_keys": [
+        "Accuracy",
+        "Attack",
+        "Block",
+        "Block Dmg Res",
+        "Crit Damage",
+        "Crit Dmg Res",
+        "Crit Rate",
+        "Crit Res",
+        "Defense",
+        "Max HP",
+        "Move Speed",
+        "PvP Dmg Dec",
+        "PvP Dmg Inc"
+      ],
+      "portrait": "https://7dsorigin.gg/images/characters/slot_slader_001.png",
+      "weapon_names": [
+        "Greatsword",
+        "Axe",
+        "Cudgel",
+        "Nunchaku"
+      ],
+      "costume_names": [
+        "Chevalier Sacré Vétéran",
+        "Ami Loyal",
+        "Épée de l'Ancien Roi",
+        "Mission Secrète",
+        "Préparation Totale",
+        "7DSOrigin.gg"
+      ],
+      "costume_image_count": 6,
+      "weapons": [
+        {
+          "name": "Greatsword",
+          "attribute": "Fire",
+          "skills": [
+            "Roaring Mask",
+            "Normal Attack",
+            "Special Attack",
+            "Power Drop",
+            "Strike",
+            "Power Smite"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "name": "Axe",
+          "attribute": "Physical",
+          "skills": [
+            "Roaring Mask",
+            "Normal Attack",
+            "Special Attack",
+            "Axe Charge",
+            "Axe Slash",
+            "Bloody Arc"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "name": "Cudgel",
+          "attribute": null,
+          "skills": [
+            "Tranche de Hache",
+            "Arc Sanglant"
+          ],
+          "potentials": []
+        },
+        {
+          "name": "Nunchaku",
+          "attribute": "Physical",
+          "skills": [
+            "Roaring Mask",
+            "Normal Attack",
+            "Special Attack",
+            "Chain Trust",
+            "Blade Wave",
+            "Iron Fury"
+          ],
+          "potentials": [
+            1,
+            3,
+            8,
+            9
+          ]
+        }
+      ],
+      "costumes": [
+        {
+          "name": "Chevalier Sacré Vétéran",
+          "effect_title": null,
+          "effect": null,
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Ami Loyal",
+          "effect_title": "Endless Disruption",
+          "effect": "Increases Debuff durations by 30/35/40%.",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Épée de l'Ancien Roi",
+          "effect_title": "Skull Smash",
+          "effect": "Increases damage dealt to Stunned enemies by 16/18/20%. Landing the Special Attack increases the Stun duration by 3/4/5 sec. (Cooldown: 20 sec)",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Mission Secrète",
+          "effect_title": "Tomato Festival",
+          "effect": "If an attack on an enemy taking DoT results in a Critical Hit, the DoT Trigger Interval decreases by 20/25/30%. (Cooldown: 30 sec, does not stack)",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Préparation Totale",
+          "effect_title": "Gift of Opportunity",
+          "effect": "Critical Hits increase the enemies' Burst Gauge by 30/35/40 if Tag Points are less than 1. (Cooldown: 3 sec)",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "7DSOrigin.gg",
+          "effect_title": null,
+          "effect": null,
+          "image": "https://7dsorigin.gg/images/costumes/icon_Slader_001.png"
+        }
+      ]
+    },
+    "tioreh": {
+      "slug": "tioreh",
+      "name": "Tioreh",
+      "rarity": "5★",
+      "attribute": "Fire",
+      "roles": [
+        "DPS",
+        "Heal",
+        "Buffer"
+      ],
+      "stats_keys": [
+        "Accuracy",
+        "Attack",
+        "Block",
+        "Block Dmg Res",
+        "Crit Damage",
+        "Crit Rate",
+        "Defense",
+        "Max HP",
+        "Move Speed",
+        "PvP Dmg Dec",
+        "PvP Dmg Inc"
+      ],
+      "portrait": "https://7dsorigin.gg/images/characters/slot_tioreh_001.png",
+      "weapon_names": [
+        "Wand",
+        "Staff",
+        "Book"
+      ],
+      "costume_names": [
+        "Fée Adorable",
+        "Sortie Décontractée",
+        "Fille de la Forêt et de la Terre",
+        "Début de l'Aventure",
+        "7DSOrigin.gg"
+      ],
+      "costume_image_count": 5,
+      "weapons": [
+        {
+          "name": "Wand",
+          "attribute": "Fire",
+          "skills": [
+            "Blessing of the Spirits: Dragon",
+            "Normal Attack",
+            "Special Attack",
+            "Healing Fox",
+            "Fire Mist"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "name": "Staff",
+          "attribute": "Earth",
+          "skills": [
+            "Blessing of the Spirits: Dragon",
+            "Normal Attack",
+            "Special Attack",
+            "Summon: Sheep"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "name": "Book",
+          "attribute": "Fire",
+          "skills": [
+            "Blessing of the Spirits: Dragon",
+            "Blessing of the Spirits: Dragon",
+            "Normal Attack",
+            "Special Attack",
+            "Fire Ejection",
+            "Fire Strike"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ],
+      "costumes": [
+        {
+          "name": "Fée Adorable",
+          "effect_title": null,
+          "effect": null,
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Sortie Décontractée",
+          "effect_title": "Sprouting Fairy",
+          "effect": "Increases Buff and Debuff durations by 15/20/25%.",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Fille de la Forêt et de la Terre",
+          "effect_title": "Pre-heat",
+          "effect": "Hitting an enemy whose Fire Defense is reduced with a Normal Attack increases the effect's duration by 1/1.5/2 sec and decreases their Crit Resistance by 5/6/7% for 10 sec. (Max: 50/60/70%, Cooldown at Max Stacks: 20 sec)",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Début de l'Aventure",
+          "effect_title": "Heat of Support",
+          "effect": "Increases Healing Efficiency by 40/50/60%. Using the Special Attack restores the Tag Gauge by 400/500/600. (Cooldown: 15 sec)",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "7DSOrigin.gg",
+          "effect_title": null,
+          "effect": null,
+          "image": "https://7dsorigin.gg/images/costumes/icon_Tioreh_001.png"
+        }
+      ]
+    },
+    "tristan": {
+      "slug": "tristan",
+      "name": "Tristan",
+      "rarity": "5★",
+      "attribute": "Fire",
+      "roles": [
+        "DPS"
+      ],
+      "stats_keys": [
+        "Accuracy",
+        "Attack",
+        "Block",
+        "Block Dmg Res",
+        "Crit Damage",
+        "Crit Rate",
+        "Defense",
+        "Max HP",
+        "Move Speed",
+        "PvP Dmg Dec",
+        "PvP Dmg Inc"
+      ],
+      "portrait": "https://7dsorigin.gg/images/characters/slot_tristan_001.png",
+      "weapon_names": [
+        "Dual Swords",
+        "Longsword",
+        "Greatsword"
+      ],
+      "costume_names": [
+        "Petit Prince",
+        "Tenue d'Entraînement du Prince",
+        "Tenue Formelle",
+        "Dignité Royale",
+        "Aventure du Prince",
+        "7DSOrigin.gg"
+      ],
+      "costume_image_count": 6,
+      "weapons": [
+        {
+          "name": "Dual Swords",
+          "attribute": "Fire",
+          "skills": [
+            "Sense of Justice",
+            "Normal Attack",
+            "Special Attack",
+            "Vertical Slice",
+            "Burning Blow"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "name": "Longsword",
+          "attribute": "Wind",
+          "skills": [
+            "Sense of Justice",
+            "Special Attack",
+            "Wind Thrust",
+            "Wind Strike",
+            "Blade Storm"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "name": "Greatsword",
+          "attribute": "Fire",
+          "skills": [
+            "Sense of Justice",
+            "Normal Attack",
+            "Special Attack",
+            "Punisher",
+            "Surprise Attack"
+          ],
+          "potentials": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ],
+      "costumes": [
+        {
+          "name": "Petit Prince",
+          "effect_title": null,
+          "effect": null,
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Tenue d'Entraînement du Prince",
+          "effect_title": null,
+          "effect": null,
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Tenue Formelle",
+          "effect_title": "Fiery Gale",
+          "effect": "Hitting an enemy increases Fire Attack by 0.4/0.5/0.6% and Wind Attack by 0.4/0.5/0.6% for 10 sec. (Max: 20/25/30%)",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Dignité Royale",
+          "effect_title": "Burn Mark",
+          "effect": "Landing the Normal Skill on an enemy whose Fire Defense is reduced increases Fire Damage by 15/20/25% for 15 sec.",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "Aventure du Prince",
+          "effect_title": "Growing Ember",
+          "effect": "Hitting an enemy with a Fire attack increases Crit Damage by 3/3.5/4% for 10 sec. (Max: 30/35/40%)",
+          "image": "/_next/image?url=%2Fimages%2Fcommon_slot_bg_costume_List.png&w=1920&q=75"
+        },
+        {
+          "name": "7DSOrigin.gg",
+          "effect_title": null,
+          "effect": null,
+          "image": "https://7dsorigin.gg/images/costumes/icon_Tristan_001.png"
+        }
+      ]
+    }
+  },
+  "bosses": {
+    "information": {
+      "slug": "information",
+      "name": "Information",
+      "description": "Informations générales sur les boss Nightmare.",
+      "portrait": null,
+      "sections": [
+        {
+          "key": "overview",
+          "label": "Vue d’ensemble"
+        },
+        {
+          "key": "multiplayer",
+          "label": "Multijoueur"
+        },
+        {
+          "key": "ai",
+          "label": "IA & patterns"
+        },
+        {
+          "key": "blue-outline",
+          "label": "Contour bleu"
+        },
+        {
+          "key": "damage-plan",
+          "label": "Plan de jeu"
+        }
+      ]
+    },
+    "guardian-golem": {
+      "slug": "guardian-golem",
+      "name": "Guardian Golem",
+      "description": "Boss tanky centré sur les impacts lourds et le contrôle du rythme.",
+      "portrait": null,
+      "sections": [
+        {
+          "key": "overview",
+          "label": "Fight overview"
+        },
+        {
+          "key": "core",
+          "label": "Core mechanics"
+        },
+        {
+          "key": "strategy",
+          "label": "Strategy"
+        }
+      ]
+    },
+    "drake": {
+      "slug": "drake",
+      "name": "Drake",
+      "description": "Boss plus mobile et plus chaotique que le Golem, très exigeant sur le placement.",
+      "portrait": null,
+      "sections": [
+        {
+          "key": "overview",
+          "label": "Fight overview"
+        },
+        {
+          "key": "core",
+          "label": "Core mechanics"
+        },
+        {
+          "key": "strategy",
+          "label": "Strategy"
+        }
+      ]
+    },
+    "red-demon": {
+      "slug": "red-demon",
+      "name": "Red Demon",
+      "description": "Boss de raid très agressif avec invocation rituelle et patterns lisibles selon la distance.",
+      "portrait": "https://7dsorigin.gg/images/bosses/red-demon.png",
+      "sections": [
+        {
+          "key": "summoning",
+          "label": "Summoning"
+        },
+        {
+          "key": "core",
+          "label": "Core mechanics"
+        },
+        {
+          "key": "abilities",
+          "label": "Capacités spéciales"
+        },
+        {
+          "key": "flow",
+          "label": "Combat flow"
+        }
+      ]
+    },
+    "grey-demon": {
+      "slug": "grey-demon",
+      "name": "Grey Demon",
+      "description": "Boss à double rythme avec une phase aérienne, un bouclier et une fin de combat punitive.",
+      "portrait": null,
+      "sections": [
+        {
+          "key": "summoning",
+          "label": "Summoning"
+        },
+        {
+          "key": "ground",
+          "label": "Ground combat"
+        },
+        {
+          "key": "flight",
+          "label": "Flying phase"
+        },
+        {
+          "key": "enrage",
+          "label": "Enrage / ultimate"
+        }
+      ]
+    },
+    "albion": {
+      "slug": "albion",
+      "name": "Albion",
+      "description": "Le combat le plus complexe, structuré en plusieurs phases avec objectifs distincts.",
+      "portrait": null,
+      "sections": [
+        {
+          "key": "phase1",
+          "label": "Phase 1"
+        },
+        {
+          "key": "climb",
+          "label": "Shield break → climb"
+        },
+        {
+          "key": "later-phases",
+          "label": "Phases suivantes"
+        },
+        {
+          "key": "approach",
+          "label": "Approche recommandée"
+        }
+      ]
+    }
+  }
+}

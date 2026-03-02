@@ -1,0 +1,94 @@
+{
+  "version": 1,
+  "notes": "Boss patterns canonisés. Compléter au fil des dev notes / release.",
+  "items": [
+    {
+      "pattern_id": "generic__lock_and_window",
+      "name": "Lock + micro-fenêtre",
+      "boss_slugs": [
+        "*"
+      ],
+      "tags": [
+        "lock",
+        "micro_window",
+        "pressure"
+      ],
+      "description": "Pattern générique: phase verrouille l'action puis ouvre une micro-fenêtre de dégâts.",
+      "windows": [
+        {
+          "window_id": "post_lock",
+          "label": "Après lock",
+          "timing": "post",
+          "duration_hint": "short",
+          "notes": "Fenêtre courte après le verrou/impact."
+        }
+      ],
+      "counters": [
+        {
+          "kind": "tenacity",
+          "label": "Tenue pendant lock",
+          "priority": "high",
+          "notes": "Réduire le risque de reset/KO pendant le verrou."
+        },
+        {
+          "kind": "timed_burst",
+          "label": "Burst gardé post-lock",
+          "priority": "high",
+          "notes": "Le burst doit être gardé pour la micro-fenêtre."
+        }
+      ],
+      "punishes": [
+        {
+          "kind": "reset",
+          "label": "Reset / tempo perdu",
+          "trigger": "burst_pre_window",
+          "notes": "Burst trop tôt => pas de dégâts sur la fenêtre."
+        }
+      ]
+    },
+    {
+      "pattern_id": "generic__projectiles_chain",
+      "name": "Chaîne de projectiles",
+      "boss_slugs": [
+        "*"
+      ],
+      "tags": [
+        "projectiles",
+        "pressure",
+        "movement"
+      ],
+      "description": "Pattern générique: projectiles en chaîne forçant le mouvement et punissant le placement.",
+      "windows": [
+        {
+          "window_id": "gap",
+          "label": "Interstice",
+          "timing": "between",
+          "duration_hint": "very_short",
+          "notes": "Petit gap entre vagues."
+        }
+      ],
+      "counters": [
+        {
+          "kind": "evade_or_iframe",
+          "label": "Esquive/I-frame",
+          "priority": "high",
+          "notes": "Répondre à une vague critique sans casser la rotation."
+        },
+        {
+          "kind": "positioning_discipline",
+          "label": "Discipline placement",
+          "priority": "high",
+          "notes": "Limiter les overlaps et garder la ligne safe."
+        }
+      ],
+      "punishes": [
+        {
+          "kind": "stagger",
+          "label": "Stagger/KO",
+          "trigger": "overlap",
+          "notes": "Overlap de vagues => stagger/KO probable."
+        }
+      ]
+    }
+  ]
+}

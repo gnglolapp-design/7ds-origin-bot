@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "generated_at": "2026-03-02T18:13:40.687Z",
+  "items": [
+    {
+      "combined_attack_id": "system__combined_attack__generic",
+      "actor_ids": [],
+      "triggers_burst": true,
+      "burst_element_behavior": "immediate_trigger",
+      "notes": "Combined Attack is treated as a first-class combat event and immediately triggers a Burst system interaction.",
+      "source_refs": {
+        "manual": true,
+        "dev_note": true
+      }
+    },
+    {
+      "combined_attack_id": "system__combined_attack__varied_pool",
+      "actor_ids": [],
+      "triggers_burst": true,
+      "burst_element_behavior": "composition_dependent",
+      "notes": "Available Combined Attacks and their pairings are expected to expand over time; the schema must support multiple actor combinations.",
+      "source_refs": {
+        "manual": true,
+        "dev_note": true
+      }
+    }
+  ]
+}

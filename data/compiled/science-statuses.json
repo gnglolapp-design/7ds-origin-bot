@@ -1,0 +1,257 @@
+{
+  "version": 1,
+  "generated_at": "2026-03-02T18:13:40.685Z",
+  "items": [
+    {
+      "status_id": "barrier",
+      "label": "Barrier",
+      "aliases": [
+        "barrier"
+      ],
+      "category": "buff",
+      "occurrences": 23,
+      "sample_character_ids": [
+        "diane",
+        "dreydrin",
+        "dreyfus",
+        "elaine",
+        "gilthunder",
+        "griamore",
+        "guila",
+        "jericho"
+      ]
+    },
+    {
+      "status_id": "stun",
+      "label": "Stun",
+      "aliases": [
+        "stun"
+      ],
+      "category": "debuff",
+      "occurrences": 21,
+      "sample_character_ids": [
+        "bug",
+        "daisy",
+        "diane",
+        "dreydrin",
+        "dreyfus",
+        "griamore",
+        "hendrickson",
+        "howzer"
+      ]
+    },
+    {
+      "status_id": "freeze",
+      "label": "Freeze",
+      "aliases": [
+        "freeze",
+        "frozen"
+      ],
+      "category": "debuff",
+      "occurrences": 16,
+      "sample_character_ids": [
+        "dreydrin",
+        "jericho",
+        "manny"
+      ]
+    },
+    {
+      "status_id": "shock",
+      "label": "Shock",
+      "aliases": [
+        "shock",
+        "shocked"
+      ],
+      "category": "debuff",
+      "occurrences": 13,
+      "sample_character_ids": [
+        "daisy",
+        "drake",
+        "dreyfus",
+        "gilthunder",
+        "howzer"
+      ]
+    },
+    {
+      "status_id": "bleed",
+      "label": "Bleed",
+      "aliases": [
+        "bleed"
+      ],
+      "category": "debuff",
+      "occurrences": 11,
+      "sample_character_ids": [
+        "dreyfus",
+        "howzer",
+        "slader",
+        "tristan"
+      ]
+    },
+    {
+      "status_id": "burn",
+      "label": "Burn",
+      "aliases": [
+        "burn",
+        "hellfire"
+      ],
+      "category": "debuff",
+      "occurrences": 8,
+      "sample_character_ids": [
+        "daisy",
+        "guila",
+        "meliodas",
+        "tioreh",
+        "tristan"
+      ]
+    },
+    {
+      "status_id": "regen",
+      "label": "Regen",
+      "aliases": [
+        "regen",
+        "restores hp",
+        "restores 5% max hp"
+      ],
+      "category": "buff",
+      "occurrences": 8,
+      "sample_character_ids": [
+        "diane",
+        "hendrickson",
+        "king",
+        "meliodas",
+        "tioreh"
+      ]
+    },
+    {
+      "status_id": "chill",
+      "label": "Chill",
+      "aliases": [
+        "chill"
+      ],
+      "category": "debuff",
+      "occurrences": 6,
+      "sample_character_ids": [
+        "jericho",
+        "manny"
+      ]
+    },
+    {
+      "status_id": "shield",
+      "label": "Shield",
+      "aliases": [
+        "shield"
+      ],
+      "category": "buff",
+      "occurrences": 6,
+      "sample_character_ids": [
+        "dreydrin",
+        "dreyfus",
+        "griamore",
+        "guila"
+      ]
+    },
+    {
+      "status_id": "breaker",
+      "label": "Breaker",
+      "aliases": [
+        "breaker"
+      ],
+      "category": "debuff",
+      "occurrences": 5,
+      "sample_character_ids": [
+        "diane"
+      ]
+    },
+    {
+      "status_id": "taunt",
+      "label": "Taunt",
+      "aliases": [
+        "taunt",
+        "taunts"
+      ],
+      "category": "debuff",
+      "occurrences": 5,
+      "sample_character_ids": [
+        "bug",
+        "diane",
+        "gilthunder",
+        "guila"
+      ]
+    },
+    {
+      "status_id": "weaken",
+      "label": "Weaken",
+      "aliases": [
+        "weaken"
+      ],
+      "category": "debuff",
+      "occurrences": 4,
+      "sample_character_ids": [
+        "dreyfus"
+      ]
+    },
+    {
+      "status_id": "paralyze",
+      "label": "Paralyze",
+      "aliases": [
+        "paralyze",
+        "paralyzed"
+      ],
+      "category": "debuff",
+      "occurrences": 3,
+      "sample_character_ids": [
+        "drake",
+        "dreyfus",
+        "gilthunder"
+      ]
+    },
+    {
+      "status_id": "frostbite",
+      "label": "Frostbite",
+      "aliases": [
+        "frostbite"
+      ],
+      "category": "debuff",
+      "occurrences": 2,
+      "sample_character_ids": [
+        "manny"
+      ]
+    },
+    {
+      "status_id": "punishment",
+      "label": "Punishment",
+      "aliases": [
+        "punishment"
+      ],
+      "category": "debuff",
+      "occurrences": 2,
+      "sample_character_ids": [
+        "manny"
+      ]
+    },
+    {
+      "status_id": "stealth",
+      "label": "Stealth",
+      "aliases": [
+        "stealth"
+      ],
+      "category": "buff",
+      "occurrences": 1,
+      "sample_character_ids": [
+        "bug"
+      ]
+    },
+    {
+      "status_id": "stigmata",
+      "label": "Stigmata",
+      "aliases": [
+        "stigmata"
+      ],
+      "category": "debuff",
+      "occurrences": 1,
+      "sample_character_ids": [
+        "manny"
+      ]
+    }
+  ]
+}

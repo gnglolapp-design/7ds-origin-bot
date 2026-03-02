@@ -1,0 +1,142 @@
+{
+  "source": "hideoutgacha.com",
+  "fetched_at": "2026-03-02T20:46:24.982Z",
+  "characters": [],
+  "boss_guide": {
+    "hub_overview": "HIDEOUT GUIDES\nHome\nGames\nAbout\nDiscord\nKo-fi\nThe Seven Deadly Sins: Origin\nGeneral Information\nGeneral Info\nMap Information\nProgression Guide\nTier List\nBoss Guide\nCharacter Information\nCharacters\nTeam Compositions\nCombat Guide\nAbout These Guides\nCREDITS\nSeven Deadly Sins: Origin\n@amazinglukagc\nyoutube.com/@AmazingLukaGC\nHIDEOUT GUIDES\nGames\nBleach Soul Resonance\nDragon Traveler\nDragon Raja Rerise\nStar Sailors\nSeven Deadly Sins: Origin\nPrivacy Policy\nTerms of Service\n\n© 2026 Hideout Guides. All rights reserved.\n\nDisclaimer: All game assets, images, and trademarks are property of their respective owners. This site is not affiliated with or endorsed by any game developer or publisher.\n\nWe use cookies to display ads and analyze traffic. By continuing to use this site you agree to our Privacy Policy.\n\nAccept",
+    "combat_guide": "HIDEOUT GUIDES\nHome\nGames\nAbout\nDiscord\nKo-fi\n← Back to Seven Deadly Sins: Origin\nCombat Guide\n\nMaster the real-time combat system of The Seven Deadly Sins: Origin\n\nCombat Basics\n\nThe Seven Deadly Sins: Origin features real-time action combat where you control one hero at a time while AI manages the others in the party.\n\nNormal Attack\n\nTap repeatedly for a combo string. Each weapon type has a unique normal attack animation and damage profile.\n\nSpecial Attack\n\nA chargeable or instant skill that varies greatly by weapon. Often the core of a hero's damage rotation.\n\nNormal Skill (E)\n\nA cooldown-based skill that provides unique effects — damage, buffs, debuffs, or healing depending on the hero.\n\nUltimate Move\n\nThe most powerful skill. Fills a gauge through combat actions. Deals massive damage or provides game-changing utility.\n\nBurst System\n\nThe Burst Gauge fills as you deal damage and perform actions. When full, you can activate an Elemental Burst — a powerful explosion tied to your hero's element.\n\nHow to Build Burst Gauge\n• Deal damage with Normal Attacks and Skills\n• Some skills explicitly increase the Burst Gauge by a fixed amount\n• Taking damage from enemies can also increase the gauge\n• Burst Efficiency stats increase how fast the gauge fills\nBurst Effects\n\nActivating a Burst deals massive elemental damage and applies a powerful debuff to the enemy (like reducing elemental defense, applying DoT, or crowd controlling). Heroes with skills that trigger on enemy Burst states can capitalize heavily on this.\n\nTag System\n\nThe Tag System allows you to swap between party members mid-combat using the Tag Gauge. Swapping triggers a Tag Skill — a powerful ability unique to the incoming character.\n\nTag Gauge\n\nFills through combat. Many skills explicitly restore Tag Gauge points. Tag Skills are triggered when swapping heroes.\n\nTag Points\n\nSome heroes restore Tag Points on Burst activation, enabling rapid character swapping for complex combo chains.\n\nStatus Effects Reference\nStun\nTarget is incapacitated and cannot act.\nFreeze\nIncapacitated. Taking a skill hit removes Freeze and deals bonus damage.\nParalysis\nIncapacitated. Decreases Lightning Defense by 15%. Remains if target is Shocked.\nPetrify\nIncapacitated. Increases Physical/Earth damage taken by 50%, reduces other elemental damage taken.\nBleed\nInflicts Wind damage over time. Decreases Healing Efficiency. Can spread on hit.\nBurn\nInflicts Fire damage over time. Decreases target Defense stacking over time.\nShock\nInflicts Lightning damage every 2 sec. Spreads Shock to nearby enemies when hit.\nCurse\nInflicts Darkness damage over time and decreases Darkness Defense.\nChill\nDecreases Movement Speed and Cold Burst Resistance. Freezes at max stacks.\nBind\nPrevents movement but the target can still act.\nAdvanced Tips\n\n• Learn each hero's skill cooldowns to maintain consistent DPS with no wasted time.\n\n• Stack elemental debuffs (like Chill → Freeze) before landing your heavy-hitting skills.\n\n• Activate Burst on enemies to enable hero skills that specifically trigger on Burst-afflicted enemies.\n\n• Use tank heroes to draw aggro and protect your main DPS characters.\n\n• Time your Tag Swaps to maintain Burst uptime across your party.\n\n• Pay attention to enemy Burst indicators — some heroes deal bonus damage when enemies have active Bursts.\n\nHIDEOUT GUIDES\nGames\nBleach Soul Resonance\nDragon Traveler\nDragon Raja Rerise\nStar Sailors\nSeven Deadly Sins: Origin\nPrivacy Policy\nTerms of Service\n\n© 2026 Hideout Guides. All rights reserved.\n\nDisclaimer: All game assets, images, and trademarks are property of their respective owners. This site is not affiliated with or endorsed by any game developer or publisher.\n\nWe use cookies to display ads and analyze traffic. By continuing to use this site you agree to our Privacy Policy.\n\nAccept",
+    "combat_sections": [
+      {
+        "title": "Discord",
+        "body": "Ko-fi ← Back to Seven Deadly Sins: Origin"
+      },
+      {
+        "title": "Combat Guide",
+        "body": "Master the real-time combat system of The Seven Deadly Sins: Origin"
+      },
+      {
+        "title": "Combat Basics",
+        "body": "The Seven Deadly Sins: Origin features real-time action combat where you control one hero at a time while AI manages the others in the party."
+      },
+      {
+        "title": "Normal Attack",
+        "body": "Tap repeatedly for a combo string. Each weapon type has a unique normal attack animation and damage profile."
+      },
+      {
+        "title": "Special Attack",
+        "body": "A chargeable or instant skill that varies greatly by weapon. Often the core of a hero's damage rotation. Normal Skill (E) A cooldown-based skill that provides unique effects — damage, buffs, debuffs, or healing depending on the hero."
+      },
+      {
+        "title": "Ultimate Move",
+        "body": "The most powerful skill. Fills a gauge through combat actions. Deals massive damage or provides game-changing utility."
+      },
+      {
+        "title": "Burst System",
+        "body": "The Burst Gauge fills as you deal damage and perform actions. When full, you can activate an Elemental Burst — a powerful explosion tied to your hero's element."
+      },
+      {
+        "title": "How to Build Burst Gauge",
+        "body": "• Deal damage with Normal Attacks and Skills • Some skills explicitly increase the Burst Gauge by a fixed amount • Taking damage from enemies can also increase the gauge • Burst Efficiency stats increase how fast the gauge fills"
+      },
+      {
+        "title": "Burst Effects",
+        "body": "Activating a Burst deals massive elemental damage and applies a powerful debuff to the enemy (like reducing elemental defense, applying DoT, or crowd controlling). Heroes with skills that trigger on enemy Burst states can capitalize heavily on this."
+      },
+      {
+        "title": "Tag System",
+        "body": "The Tag System allows you to swap between party members mid-combat using the Tag Gauge. Swapping triggers a Tag Skill — a powerful ability unique to the incoming character."
+      },
+      {
+        "title": "Tag Gauge",
+        "body": "Fills through combat. Many skills explicitly restore Tag Gauge points. Tag Skills are triggered when swapping heroes."
+      },
+      {
+        "title": "Tag Points",
+        "body": "Some heroes restore Tag Points on Burst activation, enabling rapid character swapping for complex combo chains."
+      },
+      {
+        "title": "Stun",
+        "body": "Target is incapacitated and cannot act."
+      },
+      {
+        "title": "Freeze",
+        "body": "Incapacitated. Taking a skill hit removes Freeze and deals bonus damage."
+      },
+      {
+        "title": "Paralysis",
+        "body": "Incapacitated. Decreases Lightning Defense by 15%. Remains if target is Shocked."
+      },
+      {
+        "title": "Petrify",
+        "body": "Incapacitated. Increases Physical/Earth damage taken by 50%, reduces other elemental damage taken."
+      },
+      {
+        "title": "Bleed",
+        "body": "Inflicts Wind damage over time. Decreases Healing Efficiency. Can spread on hit."
+      },
+      {
+        "title": "Burn",
+        "body": "Inflicts Fire damage over time. Decreases target Defense stacking over time."
+      },
+      {
+        "title": "Shock",
+        "body": "Inflicts Lightning damage every 2 sec. Spreads Shock to nearby enemies when hit."
+      },
+      {
+        "title": "Curse",
+        "body": "Inflicts Darkness damage over time and decreases Darkness Defense."
+      },
+      {
+        "title": "Chill",
+        "body": "Decreases Movement Speed and Cold Burst Resistance. Freezes at max stacks."
+      },
+      {
+        "title": "Bind",
+        "body": "Prevents movement but the target can still act."
+      },
+      {
+        "title": "Advanced Tips",
+        "body": "• Learn each hero's skill cooldowns to maintain consistent DPS with no wasted time. • Stack elemental debuffs (like Chill → Freeze) before landing your heavy-hitting skills. • Activate Burst on enemies to enable hero skills that specifically trigger on Burst-afflicted enemies. • Use tank heroes to draw aggro and protect your main DPS characters. • Time your Tag Swaps to maintain Burst uptime across your party. • Pay attention to enemy Burst indicators — some heroes deal bonus damage when enemies have active Bursts."
+      },
+      {
+        "title": "Star Sailors",
+        "body": "Seven Deadly Sins: Origin"
+      },
+      {
+        "title": "Terms of Service",
+        "body": "© 2026 Hideout Guides. All rights reserved. Disclaimer: All game assets, images, and trademarks are property of their respective owners. This site is not affiliated with or endorsed by any game developer or publisher. We use cookies to display ads and analyze traffic. By continuing to use this site you agree to our Privacy Policy."
+      }
+    ],
+    "bosses": {
+      "information": {
+        "text": "",
+        "image": null
+      },
+      "guardian-golem": {
+        "text": "",
+        "image": null
+      },
+      "drake": {
+        "text": "",
+        "image": null
+      },
+      "red-demon": {
+        "text": "",
+        "image": null
+      },
+      "grey-demon": {
+        "text": "",
+        "image": null
+      },
+      "albion": {
+        "text": "",
+        "image": null
+      }
+    },
+    "source_urls": [
+      "https://www.hideoutgacha.com/games/seven-deadly-sins-origin",
+      "https://www.hideoutgacha.com/games/seven-deadly-sins-origin/combat-guide",
+      "https://www.hideoutgacha.com/games/seven-deadly-sins-origin/boss-guide"
+    ]
+  }
+}

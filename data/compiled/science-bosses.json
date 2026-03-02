@@ -1,0 +1,380 @@
+{
+  "version": 3,
+  "generated_at": "2026-03-02T18:13:40.668Z",
+  "items": [
+    {
+      "boss_id": "information",
+      "slug": "information",
+      "name": "Information",
+      "phase_ids": [
+        "information__phase__overview"
+      ],
+      "phase_count": 1,
+      "pressure_profile": "high",
+      "multiplayer_relief": "high",
+      "window_tags": [
+        "phase_variance"
+      ],
+      "pattern_tags": [
+        "overview",
+        "multiplayer",
+        "ai",
+        "blue-outline",
+        "damage-plan"
+      ],
+      "positioning_tags": [
+        "reposition_check"
+      ],
+      "recovery_window_tags": [
+        "knockdown_window",
+        "recovery_window",
+        "interrupt_window"
+      ],
+      "objective_tags": [
+        "interrupt_gate"
+      ],
+      "burst_plan_tags": [
+        "burst_sensitive",
+        "burst_on_knockdown"
+      ],
+      "hazard_tags": [
+        "rotation_break"
+      ],
+      "interrupt_profile": {
+        "blue_interrupt_required": true,
+        "tag_interrupt_recommended": false,
+        "knockdown_window": true
+      },
+      "elements": [],
+      "source_refs": {
+        "seven_origin": false,
+        "hideout": true
+      },
+      "science": {
+        "recommended_scenarios": [],
+        "known_risks": [
+          "pattern_shift"
+        ]
+      }
+    },
+    {
+      "boss_id": "guardian-golem",
+      "slug": "guardian-golem",
+      "name": "Guardian Golem",
+      "phase_ids": [
+        "guardian-golem__phase__overview",
+        "guardian-golem__phase__core",
+        "guardian-golem__phase__strategy"
+      ],
+      "phase_count": 3,
+      "pressure_profile": "high",
+      "multiplayer_relief": "high",
+      "window_tags": [
+        "safe_burst",
+        "phase_variance"
+      ],
+      "pattern_tags": [
+        "overview",
+        "core",
+        "strategy"
+      ],
+      "positioning_tags": [],
+      "recovery_window_tags": [
+        "knockdown_window",
+        "recovery_window",
+        "interrupt_window"
+      ],
+      "objective_tags": [
+        "interrupt_gate"
+      ],
+      "burst_plan_tags": [
+        "burst_sensitive",
+        "burst_on_knockdown"
+      ],
+      "hazard_tags": [
+        "rotation_break"
+      ],
+      "interrupt_profile": {
+        "blue_interrupt_required": true,
+        "tag_interrupt_recommended": true,
+        "knockdown_window": true
+      },
+      "elements": [],
+      "source_refs": {
+        "seven_origin": false,
+        "hideout": true
+      },
+      "science": {
+        "recommended_scenarios": [
+          "clean_short_fight"
+        ],
+        "known_risks": [
+          "interrupt_risk",
+          "pattern_shift"
+        ]
+      }
+    },
+    {
+      "boss_id": "drake",
+      "slug": "drake",
+      "name": "Drake",
+      "phase_ids": [
+        "drake__phase__overview",
+        "drake__phase__core",
+        "drake__phase__strategy"
+      ],
+      "phase_count": 3,
+      "pressure_profile": "high",
+      "multiplayer_relief": "unknown",
+      "window_tags": [
+        "safe_burst",
+        "phase_variance"
+      ],
+      "pattern_tags": [
+        "overview",
+        "core",
+        "strategy"
+      ],
+      "positioning_tags": [
+        "reposition_check",
+        "angle_check"
+      ],
+      "recovery_window_tags": [
+        "knockdown_window",
+        "recovery_window",
+        "interrupt_window"
+      ],
+      "objective_tags": [
+        "interrupt_gate"
+      ],
+      "burst_plan_tags": [
+        "burst_sensitive",
+        "burst_on_knockdown"
+      ],
+      "hazard_tags": [
+        "mistake_punish",
+        "rotation_break"
+      ],
+      "interrupt_profile": {
+        "blue_interrupt_required": true,
+        "tag_interrupt_recommended": true,
+        "knockdown_window": true
+      },
+      "elements": [],
+      "source_refs": {
+        "seven_origin": false,
+        "hideout": true
+      },
+      "science": {
+        "recommended_scenarios": [
+          "clean_short_fight"
+        ],
+        "known_risks": [
+          "interrupt_risk",
+          "pattern_shift"
+        ]
+      }
+    },
+    {
+      "boss_id": "red-demon",
+      "slug": "red-demon",
+      "name": "Red Demon",
+      "phase_ids": [
+        "red-demon__phase__summoning",
+        "red-demon__phase__core",
+        "red-demon__phase__abilities",
+        "red-demon__phase__flow"
+      ],
+      "phase_count": 4,
+      "pressure_profile": "high",
+      "multiplayer_relief": "unknown",
+      "window_tags": [
+        "safe_burst",
+        "uptime_break",
+        "interrupt_risk"
+      ],
+      "pattern_tags": [
+        "summoning",
+        "core",
+        "abilities",
+        "flow"
+      ],
+      "positioning_tags": [
+        "front_pressure",
+        "range_check",
+        "melee_check",
+        "reposition_check"
+      ],
+      "recovery_window_tags": [
+        "recovery_window"
+      ],
+      "objective_tags": [
+        "summon_sequence"
+      ],
+      "burst_plan_tags": [
+        "burst_sensitive",
+        "hold_for_window"
+      ],
+      "hazard_tags": [
+        "mistake_punish",
+        "pattern_spike"
+      ],
+      "interrupt_profile": {
+        "blue_interrupt_required": false,
+        "tag_interrupt_recommended": false,
+        "knockdown_window": false
+      },
+      "elements": [],
+      "source_refs": {
+        "seven_origin": true,
+        "hideout": true
+      },
+      "science": {
+        "recommended_scenarios": [
+          "clean_short_fight",
+          "boss_pressure"
+        ],
+        "known_risks": [
+          "uptime_drop",
+          "rotation_break",
+          "interrupt_risk"
+        ]
+      }
+    },
+    {
+      "boss_id": "grey-demon",
+      "slug": "grey-demon",
+      "name": "Grey Demon",
+      "phase_ids": [
+        "grey-demon__phase__summoning",
+        "grey-demon__phase__ground",
+        "grey-demon__phase__flight",
+        "grey-demon__phase__enrage"
+      ],
+      "phase_count": 4,
+      "pressure_profile": "high",
+      "multiplayer_relief": "medium",
+      "window_tags": [
+        "uptime_break",
+        "interrupt_risk",
+        "late_fight_pressure"
+      ],
+      "pattern_tags": [
+        "summoning",
+        "ground",
+        "flight",
+        "enrage"
+      ],
+      "positioning_tags": [
+        "rear_punish",
+        "range_check",
+        "melee_check",
+        "objective_positioning"
+      ],
+      "recovery_window_tags": [],
+      "objective_tags": [
+        "summon_sequence",
+        "shield_break",
+        "aerial_transition"
+      ],
+      "burst_plan_tags": [
+        "burst_sensitive",
+        "hold_for_window",
+        "late_fight_hold"
+      ],
+      "hazard_tags": [
+        "spawn_damage",
+        "ultimate_finish",
+        "pattern_spike"
+      ],
+      "interrupt_profile": {
+        "blue_interrupt_required": false,
+        "tag_interrupt_recommended": false,
+        "knockdown_window": false
+      },
+      "elements": [],
+      "source_refs": {
+        "seven_origin": false,
+        "hideout": true
+      },
+      "science": {
+        "recommended_scenarios": [
+          "boss_pressure",
+          "phase_locked_boss"
+        ],
+        "known_risks": [
+          "uptime_drop",
+          "rotation_break",
+          "late_fight_punish"
+        ]
+      }
+    },
+    {
+      "boss_id": "albion",
+      "slug": "albion",
+      "name": "Albion",
+      "phase_ids": [
+        "albion__phase__phase1",
+        "albion__phase__climb",
+        "albion__phase__later-phases",
+        "albion__phase__approach"
+      ],
+      "phase_count": 4,
+      "pressure_profile": "high",
+      "multiplayer_relief": "medium",
+      "window_tags": [
+        "safe_burst",
+        "uptime_break",
+        "phase_variance"
+      ],
+      "pattern_tags": [
+        "phase1",
+        "climb",
+        "later-phases",
+        "approach"
+      ],
+      "positioning_tags": [
+        "range_check",
+        "melee_check",
+        "objective_positioning"
+      ],
+      "recovery_window_tags": [
+        "objective_window"
+      ],
+      "objective_tags": [
+        "shield_break",
+        "climb_core"
+      ],
+      "burst_plan_tags": [
+        "burst_sensitive",
+        "burst_after_objective"
+      ],
+      "hazard_tags": [
+        "mistake_punish",
+        "pattern_spike"
+      ],
+      "interrupt_profile": {
+        "blue_interrupt_required": false,
+        "tag_interrupt_recommended": false,
+        "knockdown_window": false
+      },
+      "elements": [],
+      "source_refs": {
+        "seven_origin": false,
+        "hideout": true
+      },
+      "science": {
+        "recommended_scenarios": [
+          "clean_short_fight",
+          "boss_pressure",
+          "phase_locked_boss"
+        ],
+        "known_risks": [
+          "uptime_drop",
+          "rotation_break",
+          "pattern_shift"
+        ]
+      }
+    }
+  ]
+}

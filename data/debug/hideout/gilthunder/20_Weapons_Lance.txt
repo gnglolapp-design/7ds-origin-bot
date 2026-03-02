@@ -1,0 +1,73 @@
+HIDEOUT GUIDES
+Home
+Games
+About
+Discord
+Ko-fi
+← Characters
+Gilthunder
+Basic Info
+Weapons
+Armor
+Potentials
+
+Longsword
+
+Shield
+
+Lance
+
+Lightning
+Lance
+Lightning
+Passive
+
+Thunderbolt
+
+Increases damage dealt to Paralyzed enemies by 25%.
+
+Normal Attack
+
+Normal Attack
+
+Inflicts damage equal to 129% of Attack.
+
+No
+Icon
+Special Attack
+
+Special Attack
+
+13 sec cooldown. Inflicts damage equal to 125% of Attack and inflicts Paralysis on enemies if they are Shocked. Paralysis: incapacitates enemy, decreases Lightning Defense by 15% and the effect remains as long as the target is Shocked.
+
+Normal Skill
+
+Charge Electricity
+
+21 sec cooldown. Inflicts damage equal to 192% of Attack. Attacking enemy with Lightning Burst activated decreases Special Attack cooldown by 50%.
+
+Attack Skill
+
+Lightning Spear
+
+Inflicts damage equal to 94% of Attack.
+
+Ultimate Move
+
+Lightning Bolt
+
+10 sec cooldown. Consumes 3 magic. Inflicts damage equal to 309% of Attack and inflicts Shock for 10 sec. Shock: inflicts Lightning damage equal to 15% of ATK every 2 sec and inflicts Shock on nearby enemies when hit.
+
+HIDEOUT GUIDES
+Games
+Bleach Soul Resonance
+Dragon Traveler
+Dragon Raja Rerise
+Star Sailors
+Seven Deadly Sins: Origin
+Privacy Policy
+Terms of Service
+
+© 2026 Hideout Guides. All rights reserved.
+
+Disclaimer: All game assets, images, and trademarks are property of their respective owners. This site is not affiliated with or endorsed by any game developer or publisher.
