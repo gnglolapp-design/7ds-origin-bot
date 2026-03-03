@@ -4,3 +4,7 @@ node_modules/
 .env
 .dev.vars
 .DS_Store
+
+7ds-origin-bot-db-scrape-v*/
+7ds-origin-bot-extract/
+
